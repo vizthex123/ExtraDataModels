@@ -1,5 +1,13 @@
 ## Data pack:
 
+[v1.3.1]
+Fixed the Squirrel and Gloomoth models not loading properly
+
+	[1.19 Only]
+	Fixed all my custom variants not loading
+	Fixed the Phantom model not loading
+
+--------------------
 [v1.3]
 Fixed Ad Astra models trying to load in even if the mod isn't loaded
 
@@ -21,12 +29,12 @@ Added data models for the following mobs:
 - [1.20 Only] Star Crawler [Ad Astra]
 
 
-
+--------------------
 [v1.2]
 The datapack no longer loads models if the mod they're for isn't installed.
 Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 
-	[1.19]
+	[1.19 Only]
 	Backported to 1.19.2
 
 	Removed Alex's Caves support since the mod isn't on this version
@@ -36,7 +44,7 @@ Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 	Added a data model for Camels (from Ecologics)
 
 
-
+--------------------
 [v1.1]
 Added support for Upgrade Aquatic
 - Guardian and Elder Guardian predictions can now be fabricated into fish from Upgrade Aquatic
@@ -45,7 +53,7 @@ Added support for Upgrade Aquatic
 - Other mobs have their own data models
 
 
-
+--------------------
 [v1.0] 
 Initial release
 
@@ -55,7 +63,12 @@ Initial release
 
 ## Trivia pack:
 
-[v1.2]
+[1.2.1]
+Pack now uses `supported_formats`, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
+- Note that the game will whine about it being for "a newer version of Minecraft", but it will work fine
+
+--------------------
+[1.2]
 Tweaked the wording for the Thrasher's trivia
 Added trivia for the following mobs:
 - Entombed [Outer End]
@@ -63,8 +76,8 @@ Added trivia for the following mobs:
 - [1.20] Star Crawler [Ad Astra]
 
 
-
-[v1.1]
+--------------------
+[1.1]
 Tweaked the trivia entries for a few mobs
 Added trivia for Upgrade Aquatic's mobs
 
@@ -76,6 +89,6 @@ Remember to download the datapack!
 	Added trivia for Camels (from Ecologics)
 
 
-
-[v1.0] 
+--------------------
+[1.0] 
 Initial release
