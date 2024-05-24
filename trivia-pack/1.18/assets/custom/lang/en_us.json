@@ -1,0 +1,72 @@
+{
+	"_comment": "36 characters on line 1 before it clips into the XP stats",
+	"_comment": "48 characters on other lines before it spills out of the UI",
+
+	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
+
+	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
+	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
+	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
+
+
+	"_comment": "Ad Astra",
+	"custom.trivia.martian_raptor": "Native to the martian wasteland,\nlittle is known about theese strange raptors.",
+	"custom.trivia.star_crawler": "The moon was thought to house nothing but dust,\nbut these strange space starfish have proven that theory wrong.",
+
+
+	"_comment": "Aquatic Frontiers",
+	"custom.trivia.coral_crab": "A strange variation of the humble crab\nthat sports a small coral reef on its back.",
+	"custom.trivia.coral_golem": "Guards its home with vigor.\nSeems to ignore you though...",
+	"custom.trivia.giant_squid": "Found in the depths of the Ocean,\nGiant Squids can prove annoying to fight.",
+	"custom.trivia.spongesquid": "A squid that's bonded with a Sponge.",
+	"custom.trivia.sandy": "This thicker version of a Sand Dollar\ncan sport a variety of adornments on its... sand.\nIs it a carapace, a back, or something else?",
+
+
+	"_comment": "Ecologics",
+	"custom.trivia.camel": "Seems oddly familiar....\nbut this one came first, right?",
+	"custom.trivia.coconut_crab": "Tough as a rock, mortal as a crab.",
+	"custom.trivia.penguin": "Passive birds found in the Arctic.\n\nI propose you dub this one \"Gunther\".",
+	"custom.trivia.squirrel": "Why would you want to\nrun VR simulations on a squirrel?\nDid it throw you into an incenerator as a child?",
+
+
+	"_comment": "Ender Zoology",
+	"custom.trivia.concussion_creeper": "This variant of the Creeper\nis not an inverse architect,\nbut rather a concussive blow to the head.",
+	"custom.trivia.enderminy": "Technology has sadly regressed,\nand now prevents you from\nmorphing into one of these.",
+	"custom.trivia.infested_zombie": "Infested by enderic forces,\nthis Zombie now bears Books and Ender Shards -\nattempting to remedy its mutation.",
+	"custom.trivia.owl": "I heard that Owls are a hoot at night.",
+	"custom.trivia.wither_cat": "When Wither Witches take a liking to a cat,\nthey will convert it with their dark magic.",
+	"custom.trivia.wither_witch": "Like the regular Witch,\nWither Witches employ a variety of spells\nto hinder your progress.\nOften enters battle with their feline friends.",
+
+
+	"_comment": "Galosphere",
+	"custom.trivia.berserker": "Berserkers protect their\ncrystalline companions with all of their might.\nExercise great caution when engaging them.",
+	"custom.trivia.preserved": "This salt-laden remnant of a Zombie is\ncontrolled by Berserkers.\nBoth protect their domain with great will.",
+
+
+	"_comment": "The Outer End",
+	"custom.trivia.himmelite": "A strange mass of crystals and flora,\nbonded together by enderic forces.",
+	"custom.trivia.purpur_golem": "Constructed from\nChorus Fruit & Ender Eyes,\nthese Golems are compelled to protect\nthe Tower that fabricated it.",
+	"custom.trivia.sinker": "These \"Sinkers\"\nare far beyond most forms of understanding.\nThey inhabit the various Geysers found in the\nenderic realm, and posses sharpened teeth.",
+	"custom.trivia.stalker": "Lurking in the shadows,\nStalkers do as their name implies.",
+
+
+
+	"_comment": "Quark",
+	"custom.trivia.crab": "Rarely found on beaches.\nDon't get too crabby when trying to find them!",
+	"custom.trivia.forgotten": "[ERROR]: Database entry corrupted!",
+	"custom.trivia.foxhound": "When Foxes & Dogs are trapped in\nthe Nether, the magic within bonds them into one\nand imbues them with fire.",
+	"custom.trivia.stoneling": "This strange creature inhabits caves,\ncarrying a variety of items.\nUnfortunately, they are quite skittish.\nFurther research is pending due to this.",
+	"custom.trivia.toretoise": "As the name implies, Toretoise\nare tortoises with ores on their shells.\nTheir ores can be harvest with a pickaxe.",
+	"custom.trivia.wraith": "A haunting apparition, formed from the\nlost souls trapped within the Soul Sand Valley.\nTheir remnants guide travellers towards the\nGreat Fortress.",
+
+
+	"_comment": "Upgrade Aquatic",
+	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, meandering within the oceans forever...",
+	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
+	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures reside in a tough shell.",
+	"custom.trivia.perch": "A small, common, uninteresting fish.",
+	"custom.trivia.pike": "Not to be confused with Pike (weapon)\n\nThe Pike is a carnivorous fish found in\nboth salt and fresh water.",
+	"custom.trivia.thrasher": "This strange shark resides in trenches,\ndragging prey to the sea floor before drowning it.\n\nExercise extreme caution around them.",
+	"custom.trivia.great_thrasher": "An elder Thrasher,\ntougher than its kin due to years of experience.\n\nExercise extremer caution around them."
+
+}

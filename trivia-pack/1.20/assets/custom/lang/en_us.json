@@ -1,0 +1,130 @@
+{
+	"_comment": "36 characters on line 1 before it clips into the XP stats",
+	"_comment": "48 characters on other lines before it spills out of the UI",
+
+	"entity.ad_astra_proxima_plus:frosted_skeleton": "Frosted Skeleton",
+	"entity.ad_astra_proxima_plus:kent_fish": "Kent Fish",
+	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
+
+	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
+	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
+	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
+
+
+
+	"_comment": "Ad Astra",
+	"custom.trivia.martian_raptor": "Native to the martian wasteland,\nlittle is known about theese strange raptors.",
+	"custom.trivia.star_crawler": "The moon was thought to house nothing\nbut dust and rocks.\nThese strange starfish have proven us wrong.",
+
+	"_comment": "Proxima Plus",
+	"custom.trivia.frosted_skeleton": "When Skeletons are transported to the\nProxima System, they become imbued with frost.",
+	"custom.trivia.kent_fish": "A strange fish,\nonly found in the Proxima System.",
+
+
+
+	"_comment": "Alex's Caves",
+			"_comment": "Abyssal Chasm",
+	"custom.trivia.deep_one": "A mysterious race of fish-men, found\nonly within the depths of the Abyssal Chasm.\nThey enjoy bartering, but little else\nis known about them.",
+	"custom.trivia.gossamer_worm": "Oh... it's so pretty!\nUnless it's bait for a trap...?\nBut surely, that cannot be so!",
+	"custom.trivia.hullbreaker": "This massive monstrosity meticulously\nmaneuvers through the Abyssal Chasm,\nfeasting on all who trespass.\n\nI guess that shiny worm was bait after all...",
+	"custom.trivia.lanternfish": "Lights its way through the Abyssal Chasm.\nPerhaps you could take advantage of that?\nMakes a good snack.",
+	"custom.trivia.mine_guardian": "A specialized cousin of the Guardian\nthat protects the Abyssal Chasm from intruders.\n\nBe sure to keep your distance around it.",
+	"custom.trivia.sea_pig": "The \"pig of the sea\" will eat\nClay, Mud, and Muck.\n\nOn occasion, it will produce something useful.",
+	"custom.trivia.tripodfish": "A very curious type of fish\nthat walks along the sea floor.\nAlso makes for a good snack.",
+
+
+			"_comment": "Forlorn Hollows",
+	"custom.trivia.corrodent": "The oppressive darkness of the Hollows\nmust have mutated the rats within\nto an extreme degree.",
+	"custom.trivia.forsaken": "When Vespers are infused\nwith Pure Darkness, their bodies warp into\nthis twisted aberration.",
+	"custom.trivia.gloomoth": "A peacful (yet annoying)\nresident of the Hollows.\nLike moths to a flame,\nit seeks out light emanating\nfrom within its domain.\nZealots sacrifice them when possible.",
+	"custom.trivia.underzealot": "A devout worshipper of the Darkness,\ncompelled to destroy any lights\nits strength permits it to.",
+	"custom.trivia.vesper": "Bats that meandered into the Hollows\nand were twisted by its Darkness.\n\nZealots will sacrifice them when possible.",
+	"custom.trivia.watcher": "Born from a Ritual of Darkness,\nthe Watcher will stalk its prey -\nwaiting for the right moment to puppeteer them.\n...but who watches the watcher?",
+
+
+			"_comment": "Magnetic Caves",
+	"custom.trivia.boundroid": "A strange automaton connected with a chain.\nIts body roams the cavern's roof,\nwhilst its head attacks its foes below.",
+	"custom.trivia.ferrouslime": "A cousin of the standard Slime,\nthis one has a magnetic personality.\nIt can merge with its kin,\nbecoming stronger with every bond it forges.",
+	"custom.trivia.magnetron": "A most unusual creature,\ncomposed entirely of iron and magnets.\nWhen provoked, it will construct a body of\nferromagnetic blocks it detects nearby.\nDuring this process, it is at its weakest.",
+	"custom.trivia.notor": "A most curious gizmo\nthat peruses Magnetic Caves\nin search of all manner of curiosities.",
+	"custom.trivia.teletor": "Golems like these have long roamed\nMagnetic Caves, searching for weaponry\nthey can repurpose as their own.",
+
+
+			"_comment": "Primordial Caverns",
+	"custom.trivia.atlatitan": "Once a Luxtructosaurus\nis freed from its curse,\nit will wander through the Primordial Cavern.\n\nLoves to eat salads.",
+	"custom.trivia.grottoceratops": "Despite its outward appearance,\nthis saurian is rather peaceful.",
+	"custom.trivia.luxtructosaurus": "The luxuriously lethal Luxtructosaurus\nis not a foe to be trifled with.\nDoomed to bond with a Volcanic Core,\nit now lies in wait for a worthy challenger.",
+	"custom.trivia.relicheirus": "This overgrown primordial chicken\ncan prove useful if tempted with primal soup.\nAlso makes for a decent food source.",
+	"custom.trivia.subterranodon": "This flying reptile can be tamed & ridden.\n\nTheir favorite food is Trilocaris Tails.",
+	"custom.trivia.tremorsaurus": "Causes all to tremble when it roars.\n\nExercise caution when spelunking near them.",
+	"custom.trivia.trilocaris": "These rather sizeable arthropods\ncan be found all over the Primordial Caverns.\nOne of the few prey animals in the area.",
+	"custom.trivia.vallumraptor": "These raptors will loot\nnearby Chests in search of food.\n\nClever girl...",
+
+
+			"_comment": "Toxic Dump",
+	"custom.trivia.brainiac": "Feeding off of the toxic waste,\na pack of zombies fused with unknown creatures\nto form this monstrosity.",
+	"custom.trivia.gammaroach": "Radroaches always survive...",
+	"custom.trivia.nucleeper": "Augmented with nuclear power,\nthis Creeper is an unquantifiable threat.\nIts high fuse time is your only saving grace.\nRun.",
+	"custom.trivia.radgill": "The Radgill (aka \"Blinky\")\nis the product of fish that have fallen\ninto the Toxic Waste within the Dump.\nIt can be eaten, but I advise against it",
+	"custom.trivia.raycat": "One of few defenses from Nucleepers.\n\nTame it with Radgills if you want assistance.",
+	"custom.trivia.tremorzilla": "The product of your own hubris.\nI wish you the best when trying to slay it.\nTry to have its beam kill a Nucleeper.",
+
+
+
+	"_comment": "Aquatic Frontiers",
+	"custom.trivia.coral_crab": "A strange variation of the humble crab\nthat sports a small coral reef on its back.",
+	"custom.trivia.coral_golem": "Guards its home with vigor.\nSeems to ignore you though...",
+	"custom.trivia.giant_squid": "Found in the depths of the Ocean,\nGiant Squids can prove annoying to fight.",
+	"custom.trivia.spongesquid": "A squid that's bonded with a Sponge.",
+	"custom.trivia.sandy": "This thicker version of a Sand Dollar\ncan sport a variety of adornments on its... sand.\nIs it a carapace, a back, or something else?",
+
+
+	"_comment": "Ecologics",
+	"custom.trivia.coconut_crab": "Tough as a rock, mortal as a crab.",
+	"custom.trivia.penguin": "Passive birds found in the Arctic.\n\nI propose you dub this one \"Gunther\".",
+	"custom.trivia.squirrel": "Why would you want to\nrun VR simulations on a squirrel?\nDid it throw you into an incenerator as a child?",
+
+
+	"_comment": "Ender Zoology",
+	"custom.trivia.concussion_creeper": "This variant of the Creeper\nis not an inverse architect,\nbut rather a concussive blow to the head.",
+	"custom.trivia.enderminy": "Technology has sadly regressed,\nand now prevents you from\nmorphing into one of these.",
+	"custom.trivia.infested_zombie": "Infested by enderic forces,\nthis Zombie now bears Books and Ender Shards -\nattempting to remedy its mutation.",
+	"custom.trivia.owl": "I heard that Owls are a hoot at night.",
+	"custom.trivia.wither_cat": "When Wither Witches take a liking to a cat,\nthey will convert it with their dark magic.",
+	"custom.trivia.wither_witch": "Like the regular Witch,\nWither Witches employ a variety of spells\nto hinder your progress.\nOften enters battle with their feline friends.",
+
+
+	"_comment": "Galosphere",
+	"custom.trivia.berserker": "Berserkers protect their\ncrystalline companions with all of their might.\nExercise great caution when engaging them.",
+	"custom.trivia.preserved": "This salt-laden remnant of a Zombie is\ncontrolled by Berserkers.\nBoth protect their domain with great will.",
+
+
+	"_comment": "The Outer End",
+	"custom.trivia.entombed": "Doomed to a purgatory of wandering,\nthese bulwarks of Purpur attack all who disturb their stupor.",
+	"custom.trivia.himmelite": "A strange mass of crystals and flora,\nbonded together by enderic forces.",
+	"custom.trivia.purpur_golem": "Constructed from\nChorus Fruit & Ender Eyes,\nthese Golems are compelled to protect\nthe Tower that fabricated it.",
+	"custom.trivia.sinker": "These \"Sinkers\"\nare far beyond most forms of understanding.\nThey inhabit the various Geysers found in the\nenderic realm, and posses sharpened teeth.",
+	"custom.trivia.spectrafly": "A strange type of fly,\nfound only within the outer islands of the End.",
+	"custom.trivia.stalker": "Lurking in the shadows,\nStalkers do as their name implies.",
+
+
+
+	"_comment": "Quark",
+	"custom.trivia.crab": "Rarely found on beaches.\nDon't get too crabby when trying to find them!",
+	"custom.trivia.forgotten": "[ERROR]: Database entry corrupted!",
+	"custom.trivia.foxhound": "When Foxes & Dogs are trapped in\nthe Nether, the magic within bonds them into one\nand imbues them with fire.",
+	"custom.trivia.stoneling": "This strange creature inhabits caves,\ncarrying a variety of items.\nUnfortunately, they are quite skittish.\nFurther research is pending due to this.",
+	"custom.trivia.toretoise": "As the name implies, Toretoise\nare tortoises with ores on their shells.\nTheir ores can be harvest with a pickaxe.",
+	"custom.trivia.wraith": "A haunting apparition, formed from the\nlost souls trapped within the Soul Sand Valley.\nTheir remnants guide travellers towards the\nGreat Fortress.",
+
+
+	"_comment": "Upgrade Aquatic",
+	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, meandering within the oceans forever...",
+	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
+	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures reside in a tough shell.",
+	"custom.trivia.perch": "A small, common, uninteresting fish.",
+	"custom.trivia.pike": "Not to be confused with Pike (weapon)\n\nThe Pike is a carnivorous fish found in\nboth salt and fresh water.",
+	"custom.trivia.thrasher": "This specialized shark resides in trenches,\ndragging prey to the sea floor before drowning it.\n\nExercise extreme caution around them.",
+	"custom.trivia.great_thrasher": "An elder Thrasher,\ntougher than its kin due to years of experience.\n\nExercise extremer caution around them."
+
+}
