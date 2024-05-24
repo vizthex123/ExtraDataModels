@@ -6,7 +6,6 @@
 	}
 	],
     "type": "aquatic_frontiers:spongesquid",
-    "variants": [],
     "name": "entity.aquatic_frontiers.spongesquid",
     "name_color": "#bfba4d",
     "gui_scale": 1,

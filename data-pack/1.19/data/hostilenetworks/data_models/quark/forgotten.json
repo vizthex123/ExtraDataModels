@@ -6,7 +6,6 @@
 	}
 	],
     "type": "quark:forgotten",
-    "variants": [],
     "name": "entity.quark.forgotten",
     "name_color": "#423636",
     "gui_scale": 0.8,

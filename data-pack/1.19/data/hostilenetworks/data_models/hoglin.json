@@ -1,6 +1,6 @@
 {
     "type": "minecraft:hoglin",
-    "variants": [
+    "subtypes": [
 		"minecraft:zoglin",
 		"ad_astra:mogler",
 		"ad_astra:zombified_mogler"

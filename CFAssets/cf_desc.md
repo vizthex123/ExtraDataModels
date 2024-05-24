@@ -18,9 +18,9 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 
 1) After downloading the pack, get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader).
 
-1a) If you want the trivia entries, download the [resource pack](https://www.curseforge.com/minecraft/texture-packs/modded-data-models-trivia) as well.
+1a) *If you want the trivia entries, download the [resource pack](https://www.curseforge.com/minecraft/texture-packs/modded-data-models-trivia) as well.*
 
-2) Place the datapack into `config/openloader/data`
+2) Place the datapack into `config/openloader/data` and resource pack into `config/openloader/resources`
 
 3) Load your world and the new models will be added to it. If a mod isn't loaded, the model/loot/changes won't load in.
 
@@ -51,17 +51,16 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 
 <br/>
 
-
 Loot Fabrication Support
 ========================
 
 Changes to Default Models
 -------------------------
 
-_Mod support changes will link to the mod's CurseForge page._ <br />
+_Mod support changes will link to the mod's CurseForge page._ <br/>
 _Note: They will not load in unless the require mod is present, so you don't need to have everything installed_
 
-<br />
+<br/>
 
 - Adds a model for Salmon, Tropical Fish, Pufferfish, Skeleton Horses, and Zombie Horses
 - Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)

@@ -6,7 +6,6 @@
 	}
 	],
     "type": "quark:toretoise",
-    "variants": [],
     "name": "entity.quark.toretoise",
     "name_color": "#838383",
     "gui_scale": 0.7,

@@ -19,9 +19,10 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 
 ### Installation Instructions
 
-1) Downloading the [datapack](https://curseforge.com/minecraft/data-packs/modded-data-models), then get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader).
 
-2) Place the resource pack into `config/openloader/resources`
+1) Download the [data pack](https://modrinth.com/datapack/extra-data-models), then get [Open Loader](https://modrinth.com/mod/open-loader)
+
+2) Place the resource pack into `config/openloader/resources` and data pack into `config/openloader/data`
 
 3) Load your world and trivia will be added to it. _If the datapack isn't loaded, this resource pack won't do anything!_
 

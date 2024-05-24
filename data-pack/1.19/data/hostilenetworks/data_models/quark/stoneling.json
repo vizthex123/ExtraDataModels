@@ -6,7 +6,6 @@
 	}
 	],
     "type": "quark:stoneling",
-    "variants": [],
     "name": "entity.quark.stoneling",
     "name_color": "#838383",
     "gui_scale": 1,

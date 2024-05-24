@@ -1,6 +1,6 @@
 {
     "type": "minecraft:skeleton",
-    "variants": [
+    "subtypes": [
         "minecraft:stray",
         "enderzoology:fallen_knight"
     ],

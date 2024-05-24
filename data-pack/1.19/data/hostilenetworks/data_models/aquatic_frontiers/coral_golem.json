@@ -6,7 +6,6 @@
 	}
 	],
     "type": "aquatic_frontiers:coralgolem",
-    "variants": [],
     "name": "entity.aquatic_frontiers.coralgolem",
     "name_color": "#5da294",
     "gui_scale": 0.6,

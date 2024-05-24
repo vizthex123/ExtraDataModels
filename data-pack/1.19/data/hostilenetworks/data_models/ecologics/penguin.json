@@ -6,7 +6,7 @@
 	}
 	],
     "type": "ecologics:penguin",
-    "variants": [
+    "subtypes": [
         "twilightforest:penguin"
 	],
     "name": "entity.ecologics.penguin",

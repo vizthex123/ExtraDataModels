@@ -6,7 +6,6 @@
 	}
 	],
     "type": "enderzoology:wither_witch",
-    "variants": [],
     "name": "entity.enderzoology.wither_witch",
     "name_color": "#1a1a1a",
     "gui_scale": 0.9,

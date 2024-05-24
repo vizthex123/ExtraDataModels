@@ -6,7 +6,6 @@
 	}
 	],
     "type": "aquatic_frontiers:giantsquid",
-    "variants": [],
     "name": "entity.aquatic_frontiers.giantsquid",
     "name_color": "#121529",
     "gui_scale": 0.37,

@@ -6,7 +6,6 @@
 	}
 	],
     "type": "enderzoology:wither_cat",
-    "variants": [],
     "name": "entity.enderzoology.wither_cat",
     "name_color": "#282828",
     "gui_scale": 1,

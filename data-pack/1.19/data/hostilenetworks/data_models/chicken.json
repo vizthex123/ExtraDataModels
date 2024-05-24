@@ -1,6 +1,6 @@
 {
     "type": "minecraft:chicken",
-    "variants": [
+    "subtypes": [
 		"upgrade_aquatic:goose"
 	],
     "name": "entity.minecraft.chicken",

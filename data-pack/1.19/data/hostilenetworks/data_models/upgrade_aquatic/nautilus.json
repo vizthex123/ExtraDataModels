@@ -6,7 +6,6 @@
 	}
 	],
     "type": "upgrade_aquatic:nautilus",
-    "variants": [],
     "name": "entity.upgrade_aquatic.nautilus",
     "name_color": "#a48269",
     "gui_scale": 1,

@@ -6,7 +6,6 @@
 	}
 	],
     "type": "upgrade_aquatic:great_thrasher",
-    "variants": [],
     "name": "entity.upgrade_aquatic.great_thrasher",
     "name_color": "#416c7e",
     "gui_scale": 0.45,

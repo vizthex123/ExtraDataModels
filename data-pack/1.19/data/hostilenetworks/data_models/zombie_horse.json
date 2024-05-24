@@ -1,6 +1,6 @@
 {
     "type": "minecraft:zombie_horse",
-    "variants": [
+    "subtypes": [
         "enderzoology:fallen_mount"
     ],
     "name": "entity.minecraft.zombie_horse",

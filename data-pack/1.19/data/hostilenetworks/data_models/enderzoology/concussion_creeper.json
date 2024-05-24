@@ -6,7 +6,6 @@
 	}
 	],
     "type": "enderzoology:concussion_creeper",
-    "variants": [],
     "name": "entity.enderzoology.concussion_creeper",
     "name_color": "#105d50",
     "gui_scale": 1,

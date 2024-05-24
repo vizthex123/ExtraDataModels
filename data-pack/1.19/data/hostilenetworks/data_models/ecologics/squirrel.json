@@ -6,7 +6,6 @@
 	}
 	],
     "type": "ecologics:squirrel",
-    "variants": [],
     "name": "entity.ecologics.squirrel",
     "name_color": "#6e4f2f",
     "gui_scale": 1,

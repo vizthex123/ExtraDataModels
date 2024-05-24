@@ -1,6 +1,6 @@
 {
     "type": "minecraft:sheep",
-    "variants": [
+    "subtypes": [
         "ad_astra:glacian_ram",
         "twilightforest:bighorn_sheep"
     ],

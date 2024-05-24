@@ -1,6 +1,5 @@
 {
     "type": "minecraft:elder_guardian",
-    "variants": [],
     "name": "entity.minecraft.elder_guardian",
     "name_color": "#CBB1A5",
     "gui_scale": 0.5,

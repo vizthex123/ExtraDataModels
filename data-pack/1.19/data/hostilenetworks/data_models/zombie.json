@@ -1,6 +1,6 @@
 {
     "type": "minecraft:zombie",
-    "variants": [
+    "subtypes": [
         "minecraft:husk",
         "minecraft:zombie_villager",
         "enderzoology:fallen_knight",

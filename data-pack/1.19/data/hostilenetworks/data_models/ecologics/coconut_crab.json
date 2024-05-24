@@ -6,7 +6,6 @@
 	}
 	],
     "type": "ecologics:coconut_crab",
-    "variants": [],
     "name": "entity.ecologics.coconut_crab",
     "name_color": "#d93422",
     "gui_scale": 1,

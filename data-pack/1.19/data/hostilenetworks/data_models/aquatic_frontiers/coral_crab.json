@@ -6,7 +6,6 @@
 	}
 	],
     "type": "aquatic_frontiers:coralcrab",
-    "variants": [],
     "name": "entity.aquatic_frontiers.coralcrab",
     "name_color": "#551d8e",
     "gui_scale": 0.8,

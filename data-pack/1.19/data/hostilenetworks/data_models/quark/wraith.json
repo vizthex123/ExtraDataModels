@@ -6,7 +6,6 @@
 	}
 	],
     "type": "quark:wraith",
-    "variants": [],
     "name": "entity.quark.wraith",
     "name_color": "#d7fbfc",
     "gui_scale": 1,

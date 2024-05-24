@@ -6,7 +6,6 @@
 	}
 	],
     "type": "upgrade_aquatic:pike",
-    "variants": [],
     "name": "entity.upgrade_aquatic.pike",
     "name_color": "#596a2d",
     "gui_scale": 1,

@@ -6,7 +6,6 @@
 	}
 	],
     "type": "quark:crab",
-    "variants": [],
     "name": "entity.quark.crab",
     "name_color": "#8c1202",
     "gui_scale": 1.25,

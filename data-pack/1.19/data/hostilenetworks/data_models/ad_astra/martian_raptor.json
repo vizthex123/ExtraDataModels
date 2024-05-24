@@ -6,7 +6,6 @@
 	}
 	],
     "type": "ad_astra:martian_raptor",
-    "variants": [],
     "name": "entity.ad_astra.martian_raptor",
     "name_color": "#48a33e",
     "gui_scale": 0.7,

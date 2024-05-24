@@ -6,7 +6,6 @@
 	}
 	],
     "type": "ecologics:camel",
-    "variants": [],
     "name": "entity.ecologics.camel",
     "name_color": "#a1927a",
     "gui_scale": 0.7,

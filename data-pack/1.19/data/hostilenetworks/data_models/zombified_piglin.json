@@ -1,6 +1,6 @@
 {
     "type": "minecraft:zombified_piglin",
-    "variants": [
+    "subtypes": [
         "minecraft:piglin",
         "minecraft:piglin_brute",
         "ad_astra:pygro",

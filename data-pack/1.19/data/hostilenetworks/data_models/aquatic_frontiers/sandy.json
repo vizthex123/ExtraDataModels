@@ -6,7 +6,7 @@
 	}
 	],
     "type": "aquatic_frontiers:sandy",
-    "variants": [
+    "subtypes": [
 		"aquatic_frontiers:sandy_coral",
 		"aquatic_frontiers:sandy_pickle",
 		"aquatic_frontiers:soul_sandy"

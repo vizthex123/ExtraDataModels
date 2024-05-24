@@ -6,7 +6,6 @@
 	}
 	],
     "type": "ad_astra:star_crawler",
-    "variants": [],
     "name": "entity.ad_astra.star_crawler",
     "name_color": "#71878d",
     "gui_scale": 0.47,

@@ -6,7 +6,7 @@
 	}
 	],
     "type": "upgrade_aquatic:immortal_jellyfish",
-    "variants": [
+    "subtypes": [
 		"upgrade_aquatic:box_jellyfish",
 		"upgrade_aquatic:cassiopea_jellyfish"
 	],

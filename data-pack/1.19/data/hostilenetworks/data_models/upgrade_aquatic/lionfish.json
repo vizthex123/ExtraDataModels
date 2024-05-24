@@ -6,7 +6,6 @@
 	}
 	],
     "type": "upgrade_aquatic:lionfish",
-    "variants": [],
     "name": "entity.upgrade_aquatic.lionfish",
     "name_color": "#ce0a00",
     "gui_scale": 1,
