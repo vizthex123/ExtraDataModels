@@ -2,7 +2,7 @@
 name: Suggestion
 about: Suggest support for a mod
 title: ''
-labels: enhancement
+labels: suggestion
 assignees: vizthex123
 
 ---
