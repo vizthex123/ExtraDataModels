@@ -27,6 +27,7 @@
             "count": 4
         },
 		{
+			"optional": true,
             "item": "alexscaves:pine_nuts",
             "count": 4
         },

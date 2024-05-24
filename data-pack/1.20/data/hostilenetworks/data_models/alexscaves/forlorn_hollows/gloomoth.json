@@ -1,10 +1,10 @@
-
+{
 	"conditions": [
 	{
 		"modid": "alexscaves",
 		"type": "forge:mod_loaded"
 	}
-	],{
+	],
     "entity": "alexscaves:gloomoth",
     "variants": [],
     "name": "entity.alexscaves.gloomoth",

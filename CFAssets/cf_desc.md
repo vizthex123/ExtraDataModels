@@ -13,6 +13,7 @@ Designed for my tech modpack that's still in development.
 _**Suggest mods I should add support for in the comments, on the [issue tracker](https://curseforge.com/minecraft/data-packs/modded-data-models/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
 
 
+
 ### Installation Instructions
 
 1) After downloading the pack, get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader).
@@ -29,6 +30,7 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 <br/>
 Mod Support
 ===========
+_Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install everything._
 
 |                        | 1.16.5 |  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
 |------------------------|:------:|:-------:|:------:|:------:|:------:|:--------------------:|
@@ -56,23 +58,16 @@ Loot Fabrication Support
 Changes to Default Models
 -------------------------
 
-_Mod support changes will link to the mod's CurseForge page._
+_Mod support changes will link to the mod's CurseForge page._ <br />
 _Note: They will not load in unless the require mod is present, so you don't need to have everything installed_
 
- 
+<br />
 
-\- Adds a model for Salmon, Tropical Fish, Pufferfish, Skeleton Horses, and Zombie Horses
-
-\- Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)
-
-\- Adds Eggs to the Chicken's fabricator drops
-
-\- Adds [Dragon Scales](https://www.curseforge.com/minecraft/mc-mods/quark) to the Ender Dragon's fabricator drops
-
-\- Adds [Glow Squid Tentacles](https://www.curseforge.com/minecraft/mc-mods/deeper-caves) to Glow Squids' fabricator drops
-
-\- Adds [Hoglin Meat & Hides](https://www.curseforge.com/minecraft/mc-mods/netherific) to Hoglin' fabricator drops (I recommend removing the default loot if you've got the mod installed).
-
-\- Adds [Alpha Roses](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored) to Iron Golems' fabricator drops
-
-\- Removes Slime Blocks from Slimes' fabricator drops
+- Adds a model for Salmon, Tropical Fish, Pufferfish, Skeleton Horses, and Zombie Horses
+- Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)
+- Adds Eggs to the Chicken's fabricator drops
+- Adds [Dragon Scales](https://www.curseforge.com/minecraft/mc-mods/quark) to the Ender Dragon's fabricator drops
+- Adds [Glow Squid Tentacles](https://www.curseforge.com/minecraft/mc-mods/deeper-caves) to Glow Squids' fabricator drops
+- Adds [Hoglin Meat & Hides](https://www.curseforge.com/minecraft/mc-mods/netherific) to Hoglin' fabricator drops (I recommend removing the default loot if you've got the mod installed).
+- Adds [Alpha Roses](https://www.curseforge.com/minecraft/mc-mods/regions-unexplored) to Iron Golems' fabricator drops
+- Removes Slime Blocks from Slimes' fabricator drops

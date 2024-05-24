@@ -1,7 +1,7 @@
 ## Data pack:
 
 [v1.3.1]
-Fixed the Squirrel and Gloomoth models not loading properly
+Fixed the Squirrel and Gloomoth models not loading
 
 	[1.19 Only]
 	Fixed all my custom variants not loading
@@ -64,8 +64,10 @@ Initial release
 ## Trivia pack:
 
 [1.2.1]
-Pack now uses `supported_formats`, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
+Now uses `supported_formats`, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
 - Note that the game will whine about it being for "a newer version of Minecraft", but it will work fine
+
+In addition, I've archived all the old versions to make the file list more readable.
 
 --------------------
 [1.2]
