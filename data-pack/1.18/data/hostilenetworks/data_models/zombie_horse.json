@@ -1,8 +1,5 @@
 {
     "type": "minecraft:zombie_horse",
-    "variants": [
-        "enderzoology:fallen_mount"
-    ],
     "name": "entity.minecraft.zombie_horse",
     "name_color": "#406c40",
     "gui_scale": 1,

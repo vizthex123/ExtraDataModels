@@ -27,3 +27,5 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 3) Load your world and trivia will be added to it. _If the datapack isn't loaded, this resource pack won't do anything!_
 
 4) When updating the resource pack, repeat step 2 - just overrride the .zip with the new one and it'll update everything.
+
+If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://modrinth.com/mod/default-options) if you plan to publish your modpack)

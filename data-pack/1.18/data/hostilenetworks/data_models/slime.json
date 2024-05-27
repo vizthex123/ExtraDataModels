@@ -1,6 +1,6 @@
 {
     "type": "minecraft:slime",
-    "variants": [
+    "subtypes": [
         "tconstruct:earth_slime",
         "twilightforest:maze_slime",
         "twilightforest:slime_beetle"

@@ -1,9 +1,7 @@
 {
     "type": "minecraft:hoglin",
-    "variants": [
-		"minecraft:zoglin",
-		"ad_astra:mogler",
-		"ad_astra:zombified_mogler"
+    "subtypes": [
+		"minecraft:zoglin"
 	],
     "name": "entity.minecraft.hoglin",
     "name_color": "#E8A074",

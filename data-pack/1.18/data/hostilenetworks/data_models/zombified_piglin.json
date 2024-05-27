@@ -1,11 +1,8 @@
 {
     "type": "minecraft:zombified_piglin",
-    "variants": [
+    "subtypes": [
         "minecraft:piglin",
-        "minecraft:piglin_brute",
-        "ad_astra:pygro",
-        "ad_astra:pygro_brute",
-        "ad_astra:zombified_pygro"
+        "minecraft:piglin_brute"
     ],
     "name": "entity.minecraft.zombified_piglin",
     "name_color": "#3B992F",

@@ -1,4 +1,4 @@
-## Data pack:
+# Data pack
 
 [v1.3.1]
 Fixed the Squirrel and Gloomoth models not loading
@@ -6,6 +6,15 @@ Fixed the Squirrel and Gloomoth models not loading
 	[1.19 Only]
 	Fixed all my custom variants not loading
 	Fixed the Phantom model not loading
+
+	[1.18 Only]
+	Backported to 1.18.X
+
+	Removed Aquatic Frontiers and Ender Zoology support
+	Removed my Sheep changes since Ad Astra isn't on this version
+	Fixed a few models not loading because I formatted things wrong
+	Other changes from the 1.19 version
+
 
 --------------------
 [v1.3]
@@ -61,7 +70,7 @@ Initial release
 
 
 
-## Trivia pack:
+# Trivia pack
 
 [1.2.1]
 Now uses `supported_formats`, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)

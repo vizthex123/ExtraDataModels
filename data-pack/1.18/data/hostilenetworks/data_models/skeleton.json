@@ -1,8 +1,7 @@
 {
     "type": "minecraft:skeleton",
-    "variants": [
-        "minecraft:stray",
-        "enderzoology:fallen_knight"
+    "subtypes": [
+        "minecraft:stray"
     ],
     "name": "entity.minecraft.skeleton",
     "name_color": "#BCBCBC",

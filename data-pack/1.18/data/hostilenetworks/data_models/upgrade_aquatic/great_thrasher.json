@@ -6,9 +6,8 @@
 	}
 	],
     "type": "upgrade_aquatic:great_thrasher",
-    "variants": [],
     "name": "entity.upgrade_aquatic.great_thrasher",
-    "name_color": "#416c7e",
+    "name_color": "#416C7E",
     "gui_scale": 0.45,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -25,10 +24,6 @@
         {
             "item": "upgrade_aquatic:thrasher_tooth",
             "count": 16
-        },
-        {
-            "item": "upgrade_aquatic:disc_fragment_atlantis",
-            "count": 1
         }
     ],
     "tier_data": [

@@ -26,7 +26,8 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 
 4) When updating the datapack, repeat step 2 - just overrride the .zip with the new one and it'll update everything.
 
-  
+If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://www.curseforge.com/minecraft/mc-mods/default-options) if you plan to publish your modpack)
+
 <br/>
 Mod Support
 ===========
@@ -34,22 +35,23 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 
 |                        | 1.16.5 |  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
 |------------------------|:------:|:-------:|:------:|:------:|:------:|:--------------------:|
-| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)               |        |         |    ✔   |    ✔   |    ✔   |                      |
+| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)	|	|	|	|	✔	|	✔	|	|
 | [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus) |        |         |        |        |    ✔   |                      |
 | [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)           |        |  nobody |        |        |    ✔   |                      |
-| [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)      |        |   uses  |    ✔   |    ✔   |    ✔   |                      |
+| [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)      |        |   uses  ||    ✔   |    ✔   |                      |
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)              |        |   this  |    ✔   |    ✔   |    ✔   |                      |
 | [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)          |        | version |        |    ✔   |    ✔   |                      |
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)             |        |   lol   |        |        |    ✔   |                      |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)          |    ✔   |         |        |        |    ✔   |                      |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                  |    ✔   |         |    ✔   |    ✔   |    ✔   |                      |
-| [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)        |    ✔   |         |    ✔   |    ✔   |    ✔   |          1.1         |
+| [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)        |    ✔   |         |    ✔   |    ✔   |    ✔   |	1.1	|
 
 <br/>
 
 *Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors only give items from [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) and/or [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)*
 
 <br/>
+
 
 Loot Fabrication Support
 ========================

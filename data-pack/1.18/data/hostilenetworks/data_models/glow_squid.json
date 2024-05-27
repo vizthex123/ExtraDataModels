@@ -1,6 +1,5 @@
 {
     "type": "minecraft:glow_squid",
-    "variants": [],
     "name": "entity.minecraft.glow_squid",
     "name_color": "#32A1A1",
     "gui_scale": 1.0,
