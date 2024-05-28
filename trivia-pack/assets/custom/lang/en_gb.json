@@ -101,6 +101,7 @@
 
 
 	"_comment": "The Outer End",
+	"custom.trivia.chorus_squid": "This strange offshoot of standard squids\nsomehow made its way to the End, and was corrupted by it.",
 	"custom.trivia.entombed": "Doomed to a purgatory of wandering,\nthese bulwarks of Purpur attack all who disturb their stupor.",
 	"custom.trivia.himmelite": "A strange mass of crystals and flora,\nbonded together by enderic forces.",
 	"custom.trivia.purpur_golem": "Constructed from\nChorus Fruit & Ender Eyes,\nthese Golems are compelled to protect\nthe Tower that fabricated it.",
@@ -117,9 +118,12 @@
 	"custom.trivia.stoneling": "This strange creature inhabits caves,\ncarrying a variety of items.\nUnfortunately, they are quite skittish.\nFurther research is pending due to this.",
 	"custom.trivia.toretoise": "As the name implies, Toretoise\nare tortoises with ores on their shells.\nTheir ores can be harvest with a pickaxe.",
 	"custom.trivia.wraith": "A haunting apparition, formed from the\nlost souls trapped within the Soul Sand Valley.\nTheir remnants guide travellers towards the\nGreat Fortress.",
+	"custom.trivia.wrapped": "This Zombie seems to have gotten himself\nstuck inside of a Cobweb.",
 
 
 	"_comment": "Upgrade Aquatic",
+	"custom.trivia.glow_squid": "Seems oddly familiar...",
+
 	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, meandering within the oceans forever...",
 	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
 	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures reside in a tough shell.",

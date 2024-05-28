@@ -23,11 +23,6 @@ Fixed the Squirrel and Gloomoth models not loading
 
 	I don't know if this will even work (HNN wants Placebo v5.0.3 but it seems like that doesn't exist), so hopefully it does lol
 
-	[1.16 Only]
-	Backported to 1.16.5
-
-	I'm never gonna update this version lmao
-
 --------------------
 [v1.3]
 Fixed Ad Astra models trying to load in even if the mod isn't loaded
@@ -62,7 +57,7 @@ Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 	Removed Galosphere support since the mobs aren't in this version
 
 	Added a data model for Star Crawlers since they've got drops in this version
-	Added a data model for Camels (from Ecologics)
+	Added a data model for Camels [Ecologics]
 
 
 --------------------
@@ -104,12 +99,11 @@ Added trivia for the following mobs:
 Tweaked the trivia entries for a few mobs
 Added trivia for Upgrade Aquatic's mobs
 
-Remember to download the datapack!
 	[1.19]
 	Backported to 1.19.2
 
 	Removed Alex's Caves trivia since the mod isn't on this version
-	Added trivia for Camels (from Ecologics)
+	Added trivia for Camels [Ecologics]
 
 
 --------------------
