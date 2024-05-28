@@ -28,10 +28,13 @@ Designed for my tech modpack that's still in development.
 
 If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://modrinth.com/mod/default-options) if you plan to publish your modpack)
 
+*For 1.16.5:*
+Open Loader works differently on this version.
+
+Packs are placed in the main install rather than the config folder (`openloader\data` instead of `config\openloader\data`). Same applies to resource packs going in the `resources` folder.
 
 
-Mod Support
-===========
+# Mod Support
 _Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install everything._
 
 |                        | 1.16.5 |  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
@@ -53,8 +56,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 
 <br/>
 
-Loot Fabrication Support
-========================
+## Loot Fabrication Support
 
 Changes to Default Models
 -------------------------

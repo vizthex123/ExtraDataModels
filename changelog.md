@@ -15,6 +15,18 @@ Fixed the Squirrel and Gloomoth models not loading
 	Fixed a few models not loading because I formatted things wrong
 	Other changes from the 1.19 version
 
+	[1.17 Only]
+	Backported to 1.17.1
+
+	Removed all mod support since nobody uses this version
+	- I figured I'd publish it anyway since it does tweak a couple of the default models, and maybe somebody's playing this half-finished MC version for god knows what reason and wants to use this datapack.
+
+	I don't know if this will even work (HNN wants Placebo v5.0.3 but it seems like that doesn't exist), so hopefully it does lol
+
+	[1.16 Only]
+	Backported to 1.16.5
+
+	I'm never gonna update this version lmao
 
 --------------------
 [v1.3]

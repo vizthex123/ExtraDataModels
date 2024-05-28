@@ -29,8 +29,7 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://www.curseforge.com/minecraft/mc-mods/default-options) if you plan to publish your modpack)
 
 <br/>
-Mod Support
-===========
+# Mod Support
 _Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install everything._
 
 |                        | 1.16.5 |  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
@@ -44,7 +43,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)             |        |   lol   |        |        |    ✔   |                      |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)          |    ✔   |         |        |        |    ✔   |                      |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                  |    ✔   |         |    ✔   |    ✔   |    ✔   |                      |
-| [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)        |    ✔   |         |    ✔   |    ✔   |    ✔   |	1.1	|
+| [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)        |    ✔   |         |    ✔   |    ✔   |    ✔   |          1.1         |
 
 <br/>
 
@@ -53,8 +52,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 <br/>
 
 
-Loot Fabrication Support
-========================
+# Loot Fabrication Support
 
 Changes to Default Models
 -------------------------
