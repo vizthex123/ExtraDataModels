@@ -1,22 +1,18 @@
 This datapack adds more Data Models to [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) and tweaks some of the existing ones.
- 
 
-If you find any issues, crashes, or just want to suggest some mods to add, head over to the issue tracker.
-
-   
-Designed for my tech modpack that's still in development.
+Designed for my [High-Tech Revolution](https://curseforge.com/minecraft/modpacks/high-tech-revolution) modpack.
 
 
- _**Also includes trivia for all of them (the paragraph of text that appear in the Deep Learner) if you install the resource pack! Grab it alongside the [regular download](https://modrinth.com/datapack/extra-data-models/versions).**_
+
+_**Also includes trivia for all of them (the paragraph of text that appear in the Deep Learner) if you install the resource pack! Grab it alongside the [regular download](https://modrinth.com/datapack/extra-data-models/versions).**_
 
 
-**_Suggest mods I should add support for in the comments, on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!_**
-
+_**Suggest mods I should add support for in the comments, on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
 
 
 ### Installation Instructions
 
-1) After downloading the pack, get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader).
+1) After downloading the pack, get [Open Loader](https://modrinth.com/mod/open-loader).
 
 1a) If you want the trivia entries, download the [resource pack](https://modrinth.com/datapack/extra-data-models/versions) as well.
 
@@ -37,26 +33,23 @@ Packs are placed in the main install rather than the config folder (`openloader\
 # Mod Support
 _Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install everything._
 
-|                        | 1.16.5 |  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
-|------------------------|:------:|:-------:|:------:|:------:|:------:|:--------------------:|
-| [Ad Astra](https://modrinth.com/mod/ad-astra)	|	|	|	|	✔	|	✔	|	|
-| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus) |        |         |        |        |    ✔   |                      |
-| [Alex's Caves](https://modrinth.com/mod/alexs-caves)            |        |  nobody |        |        |    ✔   |                      |
-| [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)      |        |   uses  |    |    ✔   |    ✔   |                      |
-| [Ecologics](https://modrinth.com/mod/ecologics)              |        |   this  |    ✔   |    ✔   |    ✔   |                      |
-| [Ender Zoology](https://modrinth.com/mod/ender-zoology)          |        | version |        |    ✔   |    ✔   |                      |
-| [Galosphere](https://modrinth.com/mod/galosphere)             |        |   lol   |        |        |    ✔   |                      |
-| [The Outer End](https://modrinth.com/mod/the-outer-end)          |    ✔   |         |        |        |    ✔   |                      |
-| [Quark](https://modrinth.com/mod/quark)                  |    ✔   |         |    ✔   |    ✔   |    ✔   |                      |
-| [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)        |    ✔   |         |    ✔   |    ✔   |    ✔   |          1.1         |
+|																																											|  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
+|----------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:------:|:------:|:------:|:--------------------:|
+| [Ad Astra](https://modrinth.com/mod/ad-astra)																						|         |    ✔   |    ✔   |    ✔   |                      |
+| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)	|         |        |        |    ✔   |                      |
+| [Alex's Caves](https://modrinth.com/mod/alexs-caves)																			|         |        |        |    ✔   |                      |
+| [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)															|  nobody |    ✔   |    ✔   |    ✔   |                      |
+| [Ecologics](https://modrinth.com/mod/ecologics)																					|   uses  |    ✔   |    ✔   |    ✔   |                      |
+| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																	|   this  |        |    ✔   |    ✔   |                      |
+| [Galosphere](https://modrinth.com/mod/galosphere)																				| version |        |        |    ✔   |                      |
+| [The Outer End](https://modrinth.com/mod/the-outer-end)																	|   lol   |        |        |    ✔   |                      |
+| [Quark](https://modrinth.com/mod/quark)                   																			|         |    ✔   |    ✔   |    ✔   |                      |
+| [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)															|         |    ✔   |    ✔   |    ✔   |          1.1         |
 
 <br/>
+*Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors only give items from [Thermal Expansion](https://modrinth.com/mod/thermal-expansion) and/or [Alex's Caves](https://modrinth.com/mod/alexs-caves) if either mod is installed.*
 
-*Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors only give items from [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) and/or [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)*
 
-<br/>
-
-## Loot Fabrication Support
 
 Changes to Default Models
 -------------------------
@@ -65,9 +58,13 @@ _Mod support changes will link to the mod's CurseForge page._
 _Note: They will not load in unless the require mod is present, so you don't need to have everything installed_
  
 
+- Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)
+
+- A few models now support some modded drops (such as the [Ender Dragon](https://github.com/vizthex123/ExtraDataModels/blob/main/data-pack/1.20/data/hostilenetworks/data_models/ender_dragon.json))
+
 - Adds a model for Salmon, Tropical Fish, Pufferfish, Skeleton Horses, and Zombie Horses
 
-- Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)
+- Llamas and Turtles were added in v1.4
 
 - Adds Eggs to the Chicken's fabricator drops
 

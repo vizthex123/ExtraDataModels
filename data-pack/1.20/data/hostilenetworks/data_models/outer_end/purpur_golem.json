@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "outer_end",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "outer_end"
 	}
 	],
     "entity": "outer_end:purpur_golem",
-    "variants": [],
     "name": "entity.outer_end.purpur_golem",
     "name_color": "#6e4f6e",
     "gui_scale": 0.65,

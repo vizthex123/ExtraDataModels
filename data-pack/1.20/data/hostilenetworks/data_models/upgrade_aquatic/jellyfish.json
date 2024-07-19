@@ -1,8 +1,8 @@
 {
 	"conditions": [
 	{
-		"modid": "upgrade_aquatic",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "upgrade_aquatic"
 	}
 	],
     "entity": "upgrade_aquatic:immortal_jellyfish",

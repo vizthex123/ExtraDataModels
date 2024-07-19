@@ -1,8 +1,8 @@
 {
 	"conditions": [
 	{
-		"modid": "ad_astra_proxima_plus",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "ad_astra_proxima_plus"
 	}
 	],
     "entity": "ad_astra_proxima_plus:kent_fish",

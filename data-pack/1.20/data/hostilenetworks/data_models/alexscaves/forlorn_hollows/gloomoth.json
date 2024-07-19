@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:gloomoth",
-    "variants": [],
     "name": "entity.alexscaves.gloomoth",
     "name_color": "#dcc6b2",
     "gui_scale": 1,

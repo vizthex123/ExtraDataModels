@@ -1,0 +1,35 @@
+{
+	"conditions": [
+	{
+		"type": "forge:mod_loaded",
+		"modid": "irons_spellbooks"
+	}
+	],
+    "entity": "irons_spellbooks:citadel_keeper",
+    "name": "entity.irons_spellbooks.citadel_keeper",
+    "name_color": "#413c41",
+    "gui_scale": 0.8,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix",
+        "count": 1
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction",
+        "count": 1
+    },
+    "trivia": "custom.trivia.ancient_knight",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:netherite_scrap",
+            "count": 8
+        },
+        {
+            "item": "irons_spellbooks:cinder_essence",
+            "count": 8
+        }
+    ]
+}

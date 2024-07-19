@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "galosphere",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "galosphere"
 	}
 	],
     "entity": "galosphere:preserved",
-    "variants": [],
     "name": "entity.galosphere.preserved",
     "name_color": "#e8b0a4",
     "gui_scale": 1,

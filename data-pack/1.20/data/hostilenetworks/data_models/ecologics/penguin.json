@@ -1,8 +1,8 @@
 {
 	"conditions": [
 	{
-		"modid": "ecologics",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "ecologics"
 	}
 	],
     "entity": "ecologics:penguin",

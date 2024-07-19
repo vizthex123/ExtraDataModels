@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "enderzoology",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "enderzoology"
 	}
 	],
     "entity": "enderzoology:concussion_creeper",
-    "variants": [],
     "name": "entity.enderzoology.concussion_creeper",
     "name_color": "#105d50",
     "gui_scale": 1,

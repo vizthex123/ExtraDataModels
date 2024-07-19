@@ -1,5 +1,28 @@
+Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
+
 # Data pack
 
+[v1.4]
+[1.20] Fixed the pack format being wrong (don't think it changes anything, but it might prevent some random issues in the future)
+Changed the colour for the Luxtructosaurus
+
+Increased the Scrap Metal (8 -> 16) and Copper Ingot (16 -> 64) outputs for the Hullbreaker
+- Also changed the order so things are grouped together better
+Removed extra matrix costs from all models
+- These were only meant for my [new modpack](https://www.curseforge.com/minecraft/modpacks/hi-tech-revolution), and not intended for the public release
+
+Added a data model for Llamas
+Added a data model for Turtles
+The Evoker model now gives 1 Totem of Undying (was 2)
+
+Added support for the following mods (suggested by AntiMidas in the comments section):
+
+Alex's Mobs [1.20]
+Friends & Foes [All versions] - Moobloom is a cow variant
+Iron's Spells 'n Spellbooks [1.18+]
+Tetra [All versions, drops only] - Adds fabricator drops to the Ender Dragon
+
+--------------------
 [v1.3.1]
 Fixed the Squirrel and Gloomoth models not loading
 
@@ -79,6 +102,15 @@ Initial release
 
 # Trivia pack
 
+[1.3]
+
+Added trivia for modded mobs added in v1.4 of the datapack
+
+Added trivia for Glow Squids [Upgrade Aquatic]
+Added trivia for Chorus Squids [The Outer End] 
+Added trivia for the Wrapped [Quark] 
+
+--------------------
 [1.2.1]
 Now uses `supported_formats`, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
 - Note that the game will whine about it being for "a newer version of Minecraft", but it will work fine

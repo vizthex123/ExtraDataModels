@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "quark",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "quark"
 	}
 	],
     "entity": "quark:foxhound",
-    "variants": [],
     "name": "entity.quark.foxhound",
     "name_color": "#751d23",
     "gui_scale": 1.25,

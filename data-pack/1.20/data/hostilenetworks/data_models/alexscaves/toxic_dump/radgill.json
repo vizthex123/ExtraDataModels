@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:radgill",
-    "variants": [],
     "name": "entity.alexscaves.radgill",
     "name_color": "#422f2b",
     "gui_scale": 1,

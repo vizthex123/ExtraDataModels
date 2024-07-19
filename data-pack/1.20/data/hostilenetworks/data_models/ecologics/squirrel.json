@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "ecologics",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "ecologics"
 	}
 	],
     "entity": "ecologics:squirrel",
-    "variants": [],
     "name": "entity.ecologics.squirrel",
     "name_color": "#6e4f2f",
     "gui_scale": 1,

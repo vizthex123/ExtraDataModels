@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "upgrade_aquatic",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "upgrade_aquatic"
 	}
 	],
     "entity": "upgrade_aquatic:thrasher",
-    "variants": [],
     "name": "entity.upgrade_aquatic.thrasher",
     "name_color": "#416c7e",
     "gui_scale": 0.62,

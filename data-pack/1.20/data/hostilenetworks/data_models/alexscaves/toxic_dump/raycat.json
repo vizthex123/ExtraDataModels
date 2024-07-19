@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:raycat",
-    "variants": [],
     "name": "entity.alexscaves.raycat",
     "name_color": "#26ff00",
     "gui_scale": 1,

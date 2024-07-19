@@ -1,0 +1,45 @@
+{
+    "entity": "minecraft:llama",
+    "variants": [
+		"minecraft:trader_llama"
+	],
+    "name": "entity.minecraft.llama",
+    "name_color": "#998967",
+    "gui_scale": 1.0,
+    "gui_x_offset": 0.0,
+    "gui_y_offset": 0.0,
+    "gui_z_offset": 0.0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix",
+        "count": 1e
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction",
+        "count": 1
+    },
+    "trivia": "custom.trivia.llama",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:leather",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 16
+        }
+    ],
+    "tier_data": [
+        6,
+        54,
+        354,
+        1254
+    ],
+    "data_per_kill": [
+        1,
+        4,
+        10,
+        18
+    ]
+}

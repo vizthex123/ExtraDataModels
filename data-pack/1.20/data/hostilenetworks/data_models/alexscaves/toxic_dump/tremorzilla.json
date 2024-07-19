@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:tremorzilla",
-    "variants": [],
     "name": "entity.alexscaves.tremorzilla",
     "name_color": "#12e600",
     "gui_scale": 0.15,

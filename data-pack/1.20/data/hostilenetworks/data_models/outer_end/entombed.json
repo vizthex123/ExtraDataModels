@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "outer_end",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "outer_end"
 	}
 	],
     "entity": "outer_end:entombed",
-    "variants": [],
     "name": "entity.outer_end.entombed",
     "name_color": "#4C324A",
     "gui_scale": 0.8,

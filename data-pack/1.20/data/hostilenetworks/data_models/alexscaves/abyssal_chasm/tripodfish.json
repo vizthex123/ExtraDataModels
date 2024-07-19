@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:tripodfish",
-    "variants": [],
     "name": "entity.alexscaves.tripodfish",
     "name_color": "#57bac7",
     "gui_scale": 1,

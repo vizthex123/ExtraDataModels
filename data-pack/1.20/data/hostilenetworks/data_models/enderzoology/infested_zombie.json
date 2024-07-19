@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "enderzoology",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "enderzoology"
 	}
 	],
     "entity": "enderzoology:infested_zombie",
-    "variants": [],
     "name": "entity.enderzoology.infested_zombie",
     "name_color": "#2a6349",
     "gui_scale": 1,

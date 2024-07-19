@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:sea_pig",
-    "variants": [],
     "name": "entity.alexscaves.sea_pig",
     "name_color": "#ef8e8b",
     "gui_scale": 1,

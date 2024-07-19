@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "ecologics",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "ecologics"
 	}
 	],
     "entity": "ecologics:coconut_crab",
-    "variants": [],
     "name": "entity.ecologics.coconut_crab",
     "name_color": "#d93422",
     "gui_scale": 1,

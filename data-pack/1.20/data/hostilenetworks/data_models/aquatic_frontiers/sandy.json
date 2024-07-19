@@ -1,8 +1,8 @@
 {
 	"conditions": [
 	{
-		"modid": "aquatic_frontiers",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "aquatic_frontiers"
 	}
 	],
     "entity": "aquatic_frontiers:sandy",

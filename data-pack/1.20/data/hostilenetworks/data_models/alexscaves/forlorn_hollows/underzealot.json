@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:underzealot",
-    "variants": [],
     "name": "entity.alexscaves.underzealot",
     "name_color": "#100d0d",
     "gui_scale": 1,

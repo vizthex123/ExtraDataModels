@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:gossamer_worm",
-    "variants": [],
     "name": "entity.alexscaves.gossamer_worm",
     "name_color": "#87afbf",
     "gui_scale": 1,

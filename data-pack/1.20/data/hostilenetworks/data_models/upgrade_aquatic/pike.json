@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "upgrade_aquatic",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "upgrade_aquatic"
 	}
 	],
     "entity": "upgrade_aquatic:pike",
-    "variants": [],
     "name": "entity.upgrade_aquatic.pike",
     "name_color": "#596a2d",
     "gui_scale": 1,

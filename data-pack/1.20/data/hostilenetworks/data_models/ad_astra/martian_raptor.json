@@ -1,8 +1,8 @@
 {
 	"conditions": [
 	{
-		"modid": "ad_astra",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "ad_astra"
 	}
 	],
     "entity": "ad_astra:martian_raptor",

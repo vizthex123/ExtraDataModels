@@ -1,13 +1,12 @@
 {
 	"conditions": [
 	{
-		"modid": "outer_end",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "outer_end"
 	}
 	],
     "entity": "outer_end:stalker",
-    "variants": [],
-    "name": "entity.outer_end.stalker",
+	"name": "entity.outer_end.stalker",
     "name_color": "#2a2933",
     "gui_scale": 0.7,
     "gui_x_offset": 0,

@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:vesper",
-    "variants": [],
     "name": "entity.alexscaves.vesper",
     "name_color": "#592235",
     "gui_scale": 0.45,

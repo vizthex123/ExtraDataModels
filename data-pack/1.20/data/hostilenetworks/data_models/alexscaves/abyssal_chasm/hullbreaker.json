@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:hullbreaker",
-    "variants": [],
     "name": "entity.alexscaves.hullbreaker",
     "name_color": "#202f46",
     "gui_scale": 0.2,
@@ -23,24 +22,24 @@
     "trivia": "custom.trivia.hullbreaker",
     "fabricator_drops": [
         {
+            "item": "alexscaves:sea_glass_shards",
+            "count": 8
+        },
+        {
+            "item": "minecraft:copper_ingot",
+            "count": 64
+        },
+        {
+            "item": "alexscaves:scrap_metal",
+            "count": 16
+        },
+        {
             "item": "alexscaves:enigmatic_engine",
             "count": 1
         },
         {
             "item": "alexscaves:immortal_embryo",
             "count": 1
-        },
-        {
-            "item": "alexscaves:sea_glass_shards",
-            "count": 8
-        },
-        {
-            "item": "alexscaves:scrap_metal",
-            "count": 8
-        },
-        {
-            "item": "minecraft:copper_ingot",
-            "count": 16
         }
     ],
     "tier_data": [

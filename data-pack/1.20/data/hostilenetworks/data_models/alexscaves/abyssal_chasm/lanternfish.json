@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:lanternfish",
-    "variants": [],
     "name": "entity.alexscaves.lanternfish",
     "name_color": "#1b3145",
     "gui_scale": 1,

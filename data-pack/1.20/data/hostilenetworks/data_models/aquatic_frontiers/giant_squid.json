@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "aquatic_frontiers",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "aquatic_frontiers"
 	}
 	],
     "entity": "aquatic_frontiers:giantsquid",
-    "variants": [],
     "name": "entity.aquatic_frontiers.giantsquid",
     "name_color": "#121529",
     "gui_scale": 0.37,

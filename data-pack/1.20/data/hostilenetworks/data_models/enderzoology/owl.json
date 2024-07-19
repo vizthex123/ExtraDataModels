@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "enderzoology",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "enderzoology"
 	}
 	],
     "entity": "enderzoology:owl",
-    "variants": [],
     "name": "entity.enderzoology.owl",
     "name_color": "#988365",
     "gui_scale": 1,

@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "quark",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "quark"
 	}
 	],
     "entity": "quark:wraith",
-    "variants": [],
     "name": "entity.quark.wraith",
     "name_color": "#d7fbfc",
     "gui_scale": 1,

@@ -1,0 +1,35 @@
+{
+	"conditions": [
+	{
+		"type": "forge:mod_loaded",
+		"modid": "irons_spellbooks"
+	}
+	],
+    "entity": "irons_spellbooks:cryomancer",
+    "name": "entity.irons_spellbooks.cryomancer",
+    "name_color": "#75dfd9",
+    "gui_scale": 1.0,
+    "gui_x_offset": 0.0,
+    "gui_y_offset": 0.0,
+    "gui_z_offset": 0.0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix",
+        "count": 1
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction",
+        "count": 1
+    },
+    "trivia": "custom.trivia.cryomancer",
+    "fabricator_drops": [
+        {
+            "item": "irons_spellbooks:arcane_essence",
+            "count": 8
+        },
+        {
+            "item": "irons_spellbooks:ice_rune",
+            "count": 1
+        }
+    ]
+}

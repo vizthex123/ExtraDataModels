@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:brainiac",
-    "variants": [],
     "name": "entity.alexscaves.brainiac",
     "name_color": "#889968",
     "gui_scale": 0.65,

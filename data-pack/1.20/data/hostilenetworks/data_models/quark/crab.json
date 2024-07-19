@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "quark",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "quark"
 	}
 	],
     "entity": "quark:crab",
-    "variants": [],
     "name": "entity.quark.crab",
     "name_color": "#8c1202",
     "gui_scale": 1.25,

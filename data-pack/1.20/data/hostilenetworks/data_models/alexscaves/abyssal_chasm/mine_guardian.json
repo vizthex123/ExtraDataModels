@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:mine_guardian",
-    "variants": [],
     "name": "entity.alexscaves.mine_guardian",
     "name_color": "#67697d",
     "gui_scale": 0.7,

@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:forsaken",
-    "variants": [],
     "name": "entity.alexscaves.forsaken",
     "name_color": "#4d1a2c",
     "gui_scale": 0.35,

@@ -1,31 +1,38 @@
-CurseForge:
+CurseForge
 
-|                        | 1.16.5 |  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
-|------------------------|:------:|:-------:|:------:|:------:|:------:|:--------------------:|
-| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)	|	|	|	|	✔	|	✔	|	|
-| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus) |        |         |        |        |    ✔   |                      |
-| [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)           |        |  nobody |        |        |    ✔   |                      |
-| [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)      |        |   uses  ||    ✔   |    ✔   |                      |
-| [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)              |        |   this  |    ✔   |    ✔   |    ✔   |                      |
-| [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)          |        | version |        |    ✔   |    ✔   |                      |
-| [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)             |        |   lol   |        |        |    ✔   |                      |
-| [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)          |    ✔   |         |        |        |    ✔   |                      |
-| [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                  |    ✔   |         |    ✔   |    ✔   |    ✔   |                      |
-| [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)        |    ✔   |         |    ✔   |    ✔   |    ✔   |	1.1	|
+|																																														|  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Datapack Version |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:------:|:------:|:------:|:--------------------:|
+| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)   														    |				  |	✔	|	✔	|	✔	|                      |
+| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)				|			 	  |        |        |	✔	|                      |
+| [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)													|				  |        |        |	✔	|                      |
+| [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)													|				  |        |        |	✔	|        1.4       |
+| [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)								|  nobody |    ✔   |	✔	|    ✔   |                      |
+| [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)															|   uses  |    ✔   |    ✔   |    ✔   |                      |
+| [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)											|	this	|        |    ✔   |    ✔   |                      |
+| [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)													| version |        |        |    ✔   |                      |
+| [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)	|   lol   |        |        |    ✔   |        1.4       |
+| [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)											|				 |        |        |    ✔   |                      |
+| [Tetra](https://www.curseforge.com/minecraft/mc-mods/tetra)                   													    |				 |        |        |    ✔   |        1.4       |
+| [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   													|        	 	 |    ✔   |    ✔   |    ✔   |                      |
+| [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|         		 |    ✔   |    ✔   |    ✔   |          1.1         |
 
 
 
-Modrinth:
+Modrinth
 
-|                        | 1.16.5 |  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
-|------------------------|:------:|:-------:|:------:|:------:|:------:|:--------------------:|
-| [Ad Astra](https://modrinth.com/mod/ad-astra)	|	|	|	|	✔	|	✔	|	|
-| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus) |        |         |        |        |    ✔   |                      |
-| [Alex's Caves](https://modrinth.com/mod/alexs-caves)            |        |  nobody |        |        |    ✔   |                      |
-| [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)      |        |   uses  |    |    ✔   |    ✔   |                      |
-| [Ecologics](https://modrinth.com/mod/ecologics)              |        |   this  |    ✔   |    ✔   |    ✔   |                      |
-| [Ender Zoology](https://modrinth.com/mod/ender-zoology)          |        | version |        |    ✔   |    ✔   |                      |
-| [Galosphere](https://modrinth.com/mod/galosphere)             |        |   lol   |        |        |    ✔   |                      |
-| [The Outer End](https://modrinth.com/mod/the-outer-end)          |    ✔   |         |        |        |    ✔   |                      |
-| [Quark](https://modrinth.com/mod/quark)                  |    ✔   |         |    ✔   |    ✔   |    ✔   |                      |
-| [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)        |    ✔   |         |    ✔   |    ✔   |    ✔   |          1.1         |
+|																																											|  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Datapack Version |
+|----------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:------:|:------:|:------:|:--------------------:|
+| [Ad Astra](https://modrinth.com/mod/ad-astra)																						|   	     |    ✔   |    ✔   |    ✔   |                      |
+| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)	|   	     |        |        |    ✔   |                      |
+| [Alex's Caves](https://modrinth.com/mod/alexs-caves)																			|   	     |        |        |    ✔   |                      |
+| [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)          																    |	 		 |        |        |    ✔   |        1.4       |
+| [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)															|			 |    ✔   |    ✔   |    ✔   |                      |
+| [Ecologics](https://modrinth.com/mod/ecologics)																					| nobody |    ✔   |    ✔   |    ✔   |                      |
+| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																	| uses |        |    ✔   |    ✔   |                      |
+| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)            											| this |        |        |    ✔   |        1.4       |
+| [Galosphere](https://modrinth.com/mod/galosphere)																				| version |        |        |    ✔   |                      |
+| [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)								| lol |        |        |    ✔   |        1.4       |
+| [The Outer End](https://modrinth.com/mod/the-outer-end)																	|		  	 |        |        |    ✔   |                      |
+| [Tetra](https://modrinth.com/mod/Tetra)                    																			    |           |        |        |    ✔   |        1.4       |
+| [Quark](https://modrinth.com/mod/quark)                   																			|   	     |    ✔   |    ✔   |    ✔   |                      |
+| [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)															|   	     |    ✔   |    ✔   |    ✔   |          1.1         |

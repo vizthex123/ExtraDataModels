@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:nucleeper",
-    "variants": [],
     "name": "entity.alexscaves.nucleeper",
     "name_color": "#2a591e",
     "gui_scale": 0.5,

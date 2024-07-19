@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "outer_end",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "outer_end"
 	}
 	],
     "entity": "outer_end:himmelite",
-    "variants": [],
     "name": "entity.outer_end.himmelite",
     "name_color": "#8CCDEA",
     "gui_scale": 1,

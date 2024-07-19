@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "outer_end",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "outer_end"
 	}
 	],
     "entity": "outer_end:sinker",
-    "variants": [],
     "name": "entity.outer_end.sinker",
     "name_color": "#9ba3a9",
     "gui_scale": 0.9,

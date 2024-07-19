@@ -1,12 +1,11 @@
 {
 	"conditions": [
 	{
-		"modid": "alexscaves",
-		"type": "forge:mod_loaded"
+		"type": "forge:mod_loaded",
+		"modid": "alexscaves"
 	}
 	],
     "entity": "alexscaves:watcher",
-    "variants": [],
     "name": "entity.alexscaves.watcher",
     "name_color": "#8d0f00",
     "gui_scale": 0.85,
