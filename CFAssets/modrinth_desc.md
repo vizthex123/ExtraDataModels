@@ -1,6 +1,6 @@
 This datapack adds more Data Models to [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) and tweaks some of the existing ones.
 
-Designed for my [High-Tech Revolution](https://curseforge.com/minecraft/modpacks/high-tech-revolution) modpack.
+Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/hi-tech-revolution) modpack.
 
 
 
@@ -24,10 +24,6 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 
 If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://modrinth.com/mod/default-options) if you plan to publish your modpack)
 
-*For 1.16.5:*
-Open Loader works differently on this version.
-
-Packs are placed in the main install rather than the config folder (`openloader\data` instead of `config\openloader\data`). Same applies to resource packs going in the `resources` folder.
 
 
 # Mod Support

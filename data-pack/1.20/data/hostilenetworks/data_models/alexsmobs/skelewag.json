@@ -22,12 +22,8 @@
     "trivia": "custom.trivia.skelewag",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:skelewag_skull",
-            "count": 1
-        },
-        {
             "item": "alexsmobs:fish_bones",
-            "count": 8
+            "count": 32
         },
         {
             "item": "minecraft:bone",

@@ -5,7 +5,7 @@
 		"modid": "alexsmobs"
 	}
 	],
-    "entity": "alexsmobs:cave_centipede",
+    "entity": "alexsmobs:centipede_head",
     "name": "entity.alexsmobs.cave_centipede",
     "name_color": "#85435e",
     "gui_scale": 1,

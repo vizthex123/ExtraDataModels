@@ -19,11 +19,11 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.giant_squid",
+    "trivia": "custom.trivia.aquatic_giant_squid",
     "fabricator_drops": [
         {
             "item": "minecraft:ink_sac",
-            "count": 64
+            "count": 48
         },
         {
             "item": "minecraft:cod",

@@ -20,7 +20,7 @@
     "trivia": "custom.trivia.turtle",
     "fabricator_drops": [
         {
-            "item": "minecraft:turtle_scute",
+            "item": "minecraft:scute",
             "count": 16
         },
         {

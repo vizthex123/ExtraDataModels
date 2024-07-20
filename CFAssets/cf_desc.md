@@ -1,6 +1,6 @@
 This datapack adds more Data Models to [Hostile Neural Networks](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks) and tweaks some of the existing ones.
 
-Designed for my [High-Tech Revolution](https://curseforge.com/minecraft/modpacks/high-tech-revolution) modpack.
+Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/hi-tech-revolution) modpack.
 
 
 

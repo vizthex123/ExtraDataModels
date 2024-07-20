@@ -14,6 +14,7 @@ Removed extra matrix costs from all models
 Added a data model for Llamas
 Added a data model for Turtles
 The Evoker model now gives 1 Totem of Undying (was 2)
+Reduced the amount of Ink Sacs given by Giant Squids [Aquatic Frontiers]
 
 Added support for the following mods (suggested by AntiMidas in the comments section):
 

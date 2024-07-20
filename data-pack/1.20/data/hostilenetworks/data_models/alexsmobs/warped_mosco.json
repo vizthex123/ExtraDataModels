@@ -5,8 +5,8 @@
 		"modid": "alexsmobs"
 	}
 	],
-    "entity": "alexsmobs:warped_musco",
-    "name": "entity.alexsmobs.warped_musco",
+    "entity": "alexsmobs:warped_mosco",
+    "name": "entity.alexsmobs.warped_mosco",
     "name_color": "#1d7572",
     "gui_scale": 1,
     "gui_x_offset": 0,
@@ -19,7 +19,7 @@
     "base_drop": {
         "item": "hostilenetworks:nether_prediction"
     },
-    "trivia": "custom.trivia.warped_musco",
+    "trivia": "custom.trivia.warped_mosco",
     "fabricator_drops": [
         {
             "item": "alexsmobs:warped_muscle",

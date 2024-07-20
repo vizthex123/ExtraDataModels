@@ -5,9 +5,9 @@
 		"modid": "friendsandfoes"
 	}
 	],
-    "entity": "friendsandfoes:illusioner",
+    "entity": "minecraft:illusioner",
     "variants": [],
-    "name": "entity.friendsandfoes.illusioner",
+    "name": "entity.minecraft.illusioner",
     "name_color": "#40531A",
     "gui_scale": 1,
     "gui_x_offset": 0,
