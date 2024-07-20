@@ -18,10 +18,17 @@ Reduced the amount of Ink Sacs given by Giant Squids [Aquatic Frontiers]
 
 Added support for the following mods (suggested by AntiMidas in the comments section):
 
-Alex's Mobs [1.20]
-Friends & Foes [All versions] - Moobloom is a cow variant
+Alex's Mobs [All versions]
+Friends & Foes [1.18+] - Moobloom is a cow variant
 Iron's Spells 'n Spellbooks [1.18+]
-Tetra [All versions, drops only] - Adds fabricator drops to the Ender Dragon
+Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
+
+	[1.19 Only]
+	Backported to 1.19.2
+
+	Fixed the UI scaling for the Warped Mosco, Lavathian, and Moose
+
+	For the full list of changes, [go here](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog.md#data-pack).
 
 --------------------
 [v1.3.1]

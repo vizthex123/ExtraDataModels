@@ -29,20 +29,24 @@ If you downloaded the trivia pack through a launcher, just enable it in-game (an
 # Mod Support
 _Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install everything._
 
-|																																											|  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Minimum Pack Version |
+|																																											|  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Datapack Version |
 |----------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:------:|:------:|:------:|:--------------------:|
-| [Ad Astra](https://modrinth.com/mod/ad-astra)																						|         |    ✔   |    ✔   |    ✔   |                      |
-| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)	|         |        |        |    ✔   |                      |
-| [Alex's Caves](https://modrinth.com/mod/alexs-caves)																			|         |        |        |    ✔   |                      |
-| [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)															|  nobody |    ✔   |    ✔   |    ✔   |                      |
-| [Ecologics](https://modrinth.com/mod/ecologics)																					|   uses  |    ✔   |    ✔   |    ✔   |                      |
-| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																	|   this  |        |    ✔   |    ✔   |                      |
-| [Galosphere](https://modrinth.com/mod/galosphere)																				| version |        |        |    ✔   |                      |
-| [The Outer End](https://modrinth.com/mod/the-outer-end)																	|   lol   |        |        |    ✔   |                      |
-| [Quark](https://modrinth.com/mod/quark)                   																			|         |    ✔   |    ✔   |    ✔   |                      |
-| [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)															|         |    ✔   |    ✔   |    ✔   |          1.1         |
+| [Ad Astra](https://modrinth.com/mod/ad-astra)																						|				 |    ✔   |    ✔   |    ✔   |                      |
+| [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)	|				 |        |        |    ✔   |                      |
+| [Alex's Caves](https://modrinth.com/mod/alexs-caves)																			|				 |        |        |    ✔   |                      |
+| [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)          																    |	 			 |	✔	|	✔	|    ✔   |        1.4       |
+| [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)															|				 |			|    ✔   |    ✔   |                      |
+| [Ecologics](https://modrinth.com/mod/ecologics)																					| nobody |    ✔   |    ✔   |    ✔   |                      |
+| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																	| uses       |        |    ✔   |    ✔   |                      |
+| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)            											| this        |	✔	|	✔	|    ✔   |        1.4       |
+| [Galosphere](https://modrinth.com/mod/galosphere)																				| version  |        |        |    ✔   |                      |
+| [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)								| lol          |	✔	|	✔	|    ✔   |        1.4       |
+| [The Outer End](https://modrinth.com/mod/the-outer-end)																	|				 |        |        |    ✔   |                      |
+| [Quark](https://modrinth.com/mod/quark)                   																			|   	  	     |    ✔   |    ✔   |    ✔   |                      |
+| [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)															|   	  	     |    ✔   |    ✔   |    ✔   |          1.1         |
 
 <br/>
+
 *Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors only give items from [Thermal Expansion](https://modrinth.com/mod/thermal-expansion) and/or [Alex's Caves](https://modrinth.com/mod/alexs-caves) if either mod is installed.*
 
 
