@@ -2,13 +2,14 @@
 	"_comment": "36 characters on line 1 before it clips into the XP stats",
 	"_comment": "48 characters on other lines before it spills out of the UI",
 
-	"entity.ad_astra_proxima_plus:frosted_skeleton": "Frosted Skeleton",
-	"entity.ad_astra_proxima_plus:kent_fish": "Kent Fish",
-	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
+
+	"_comment": "Minecraft",
 
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
 	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
+	"custom.trivia.llama": "Often found in Savanna‌s, Llamas are known for their hostility to all who dare touch them.",
+	"custom.trivia.turtle": "Wearing this may make you turtly enough for the turtle club.\n(or make you some kind of ninja, perchance?)",
 
 
 
@@ -17,6 +18,9 @@
 	"custom.trivia.star_crawler": "The moon was thought to house nothing\nbut dust and rocks.\nThese strange starfish have proven us wrong.",
 
 	"_comment": "Proxima Plus",
+	"entity.ad_astra_proxima_plus:frosted_skeleton": "Frosted Skeleton",
+	"entity.ad_astra_proxima_plus:kent_fish": "Kent Fish",
+
 	"custom.trivia.frosted_skeleton": "When Skeletons are transported to the\nProxima System, they become imbued with frost.",
 	"custom.trivia.kent_fish": "A strange fish,\nonly found in the Proxima System.",
 
@@ -71,10 +75,67 @@
 
 
 
+	"_comment": "Alex's Mobs",
+
+	"entity.alexsmobs.cave_centipede": "Cave Centipede",
+
+	"custom.trivia.bald_eagle": "An eagle that's lost its plumage (but not really).",
+	"custom.trivia.banana_slug": "Despite its namesake and appearance,\nit is quite poisonous and unfit for consumption.",
+	"custom.trivia.bison": "Bison Leather makes for an excellent insulator,\nand their large quantity of meat makes them a decent food source.\nJust don't get too close...",
+	"custom.trivia.blobfish": "Squished into a mere blob upon surfacing,\nits true appearance isn't too far off.",
+	"custom.trivia.blue_jay": "A simple bird that can be found all over.\nYou should name one Mordecai.",
+	"custom.trivia.bone_serpant": "Seems to be from an alternate dimension...\nbut even if it's not, ensure you exercise great caution.",
+	"custom.trivia.bunfungus": "This strange rabbit has been mutated\nby some kind of spore or mold.\nYou could gather some ingredients for stew...",
+	"custom.trivia.cachalot_whale": "These large mammals reside in warm oceans.\nYou'll have a whale of a tale if you ever meet one.",
+	"custom.trivia.catfish": "Despite its name, it's not actually part cat.",
+	"custom.trivia.cave_centipede": "A rare variant of a giant centipede,\nthis specimen is not to be trifled with due to its strength.",
+	"custom.trivia.comb_jelly": "A rainbow-coloured jellyfish.\nSo pretty...",
+	"custom.trivia.cosmic_cod": "Not to be confused with the Flying Fish.",
+	"custom.trivia.crimson_mosquito": "A slightly larger variant of regular mosquitos,\nthis speciment is able to quickly drain the blood of its victims.",
+	"custom.trivia.crocodile": "See you later, alligator.",
+	"custom.trivia.crow": "Quoth the raven, \"nevermore\".\nWait, that's not quite right...",
+	"custom.trivia.emu": "Don't declare war on them.",
+	"custom.trivia.endergrade": "An impossibly large Tardigrade,\nthe Endergrade makes its home in a strange dimension.",
+	"custom.trivia.farseer": "Guardians of the oft-forgotten Farlands,\nthese automatons are designed to keep out all intruders they encounter.",
+	"custom.trivia.fly": "An annoying insect,\nflies can be found in every radii of the globe.",
+	"custom.trivia.flying_fish": "Not to be confused with the Cosmic Cod.\nOddly, these ones do not appear during rainstorms.",
+	"custom.trivia.froststalker": "These strange creatures resemble deer,\nbut act the opposite of them.\nExercise caution when nearby.",
+	"custom.trivia.gazelle": "Incredibly agile, Gazelles can outpace almost everything.\nEnsure you have great speed when dealing with them.",
+	"custom.trivia.giant_squid": "Mistaken for a Kraken in times long gone,\nGiant Squids are a tricky beast to fight.\nMake sure you can breath underwater before provoking it.",
+	"custom.trivia.grizzly_bear": "When fighting a Grizzly Bear, do not do so.",
+	"custom.trivia.guster": "A strange, sentient tornado.\nDon't let it throw you across the desert!",
+	"custom.trivia.kangaroo": "Nature's agressive boxers.",
+	"custom.trivia.laviathan": "These large lizards reside in the lava pools of the Nether,\nand can be slain for Basalt, Magma, and (rarely) Obsidian.",
+	"custom.trivia.lobster": "Lobsters are immortal,\nand only die due to growing so large they can no longer feed themselves.\n(or they get eaten by something)",
+	"custom.trivia.mimic_octopus": "These tiny octopodes will copy any nearby materials in an attempt to blend in with their environment.",
+	"custom.trivia.mimicube": "Corrupted by the End's magic,\nthese former slimes will copy their attacker.\nExercise caution when engaging one.",
+	"custom.trivia.moose": "Do not attempt to fight a Moose.",
+	"custom.trivia.mudskipper": "Note: Does not actually skip across mud pools.",
+	"custom.trivia.murmur": "\"You are man.... but he is not man.\"",
+	"custom.trivia.potoo": "It's a bird, alright.",
+	"custom.trivia.raccoon": "You should name this one Cooper, for racoons are quite Sly.",
+	"custom.trivia.rattlesnake": "If you hear rattling, leave the area.",
+	"custom.trivia.rocky_roller": "A strange creature, almost like an Armadillo.",
+	"custom.trivia.seagull": "\"Mine! Mine! Mine! Mine!\"",
+	"custom.trivia.shoebill": "A type of sea bird.\nYou could extract some feathers from its simulations.",
+	"custom.trivia.skelewag": "The remains of a Swordfish,\nwhich feels compelled to guard the area it died in.",
+	"custom.trivia.skreecher": "Skreechers are a great danger to all caving expeditions.\nDispatch it or retreat before it has a chance to shriek.",
+	"custom.trivia.soul_vulture": "Like a Vulture, but it wants your soul instead.",
+	"custom.trivia.straddler": "The Strider's larger cousin,\nStraddlers will catapult their young when alarmed.",
+	"custom.trivia.tarantula_hawk": "The Tarantula Hawk Wasp wants to kill you.",
+	"custom.trivia.toucan": "Appears to be lacking loop-shaped fruits...\nbut you can still check, just in case.",
+	"custom.trivia.tusklin": "An Overworldian Hoglin variant,\nTusklins are even worse to fight due to your lack of equipment.",
+	"custom.trivia.void_worm": "The ancient protector of the End,\nuserped by the Ender Dragon millennia ago.",
+	"custom.trivia.warped_mosco": "An extremely mutated mosquito warrior.\nGood luck.",
+
+
+
+
+
 	"_comment": "Aquatic Frontiers",
 	"custom.trivia.coral_crab": "A strange variation of the humble crab\nthat sports a small coral reef on its back.",
 	"custom.trivia.coral_golem": "Guards its home with vigor.\nSeems to ignore you though...",
-	"custom.trivia.giant_squid": "Found in the depths of the Ocean,\nGiant Squids can prove annoying to fight.",
+	"custom.trivia.aquatic_giant_squid": "This large variant of a Squid is passive,\nbut would be a great source of ink if simulated.",
 	"custom.trivia.spongesquid": "A squid that's bonded with a Sponge.",
 	"custom.trivia.sandy": "This thicker version of a Sand Dollar\ncan sport a variety of adornments on its... sand.\nIs it a carapace, a back, or something else?",
 
@@ -82,7 +143,7 @@
 	"_comment": "Ecologics",
 	"custom.trivia.camel": "Seems oddly familiar....\nbut this one came first, right?",
 	"custom.trivia.coconut_crab": "Tough as a rock, mortal as a crab.",
-	"custom.trivia.penguin": "Passive birds found in the Arctic.\n\nI propose you dub this one \"Gunther\".",
+	"custom.trivia.penguin": "Passive birds found in the Arctic.\n\nI propose you dub this one \"Gunther.\"\nJust be careful - it is one of the most evil creatures around, after all.",
 	"custom.trivia.squirrel": "Why would you want to\nrun VR simulations on a squirrel?\nDid it throw you into an incenerator as a child?",
 
 
@@ -95,9 +156,33 @@
 	"custom.trivia.wither_witch": "Like the regular Witch,\nWither Witches employ a variety of spells\nto hinder your progress.\nOften enters battle with their feline friends.",
 
 
+
+	"_comment": "Friends & Foes",
+	"custom.trivia.copper_golem": "This diminutive cousin of the Iron Golem\nactivates any buttons it can see, for it is compelled to do so by your will.",
+	"custom.trivia.glare": "These floating clumps of moss and leaves seek out well-lit areas.\nGlow Berries are their favourite foods.",
+	"custom.trivia.iceologer": "A distant relative of the Evoker,\nthe Iceologer deploys its frosty force against all who encroach upon its domain.",
+	"custom.trivia.illusioner": "A relative of the Evoker, this master of illusionary magic\nis sure to challenge all who find it.",
+	"custom.trivia.tuff_golem": "This diminutive cousin of the Iron Golem\ndisplays anything you give it - just ensure it doesn't wander away from its post.",
+	"custom.trivia.wildfire": "Masters of all Blazes,\nthe Wildfire is an incredibly tough foe for ill-prepared adventurers.\nEnsure you can resists its firey wrath if you wish to simulate it.",
+
+
+
 	"_comment": "Galosphere",
 	"custom.trivia.berserker": "Berserkers protect their\ncrystalline companions with all of their might.\nExercise great caution when engaging them.",
 	"custom.trivia.preserved": "This salt-laden remnant of a Zombie is\ncontrolled by Berserkers.\nBoth protect their domain with great will.",
+
+
+
+	"_comment": "Iron's Spellbooks",
+	"custom.trivia.ancient_knight": "Knights who fell in battle while defending the Nether\nare often possessed by the latent magic in the air,\nforcing them to resume their post.",
+	"custom.trivia.apothecarist": "A rare breed of passive Piglins,\nthese ones are more than willing to trade for various herbs & plantlife.",
+	"custom.trivia.archevoker": "Some Evokers train for decades to master their craft.\nOften times, the magic will corrupt their minds -\nrendering them even more hostile than before.",
+	"custom.trivia.cryomancer": "Some Villagers choose to master Ice Magic -\nno crown required.",
+	"custom.trivia.dead_king": "The corpose of an unknown king,\ncursed to defend its grave until the end of time.",
+	"custom.trivia.necromancer": "Necromancy is a tricky art -\nand one that should not be taken lightly.\nThose who master it wield great power - at the cost of their very soul.",
+	"custom.trivia.priest": "Sworn to purge all evil from this world,\npriests are more than willing to offer their expertise\nto all who can afford their wares.",
+	"custom.trivia.pyromancer": "Opposite yet equal to Cryomancy,\nPyromancy required much greater discipline due to the destructive force fire rends upon the unprepared..",
+
 
 
 	"_comment": "The Outer End",
@@ -121,9 +206,12 @@
 	"custom.trivia.wrapped": "This Zombie seems to have gotten himself\nstuck inside of a Cobweb.",
 
 
-	"_comment": "Upgrade Aquatic",
-	"custom.trivia.glow_squid": "Seems oddly familiar...",
 
+	"_comment": "Upgrade Aquatic",
+
+	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
+
+	"custom.trivia.glow_squid": "Seems oddly familiar...",
 	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, meandering within the oceans forever...",
 	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
 	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures reside in a tough shell.",

@@ -104,12 +104,15 @@ Initial release
 # Trivia pack
 
 [1.3]
-
 Added trivia for modded mobs added in v1.4 of the datapack
 
 Added trivia for Glow Squids [Upgrade Aquatic]
-Added trivia for Chorus Squids [The Outer End] 
-Added trivia for the Wrapped [Quark] 
+Added trivia for Chorus Squids [The Outer End]
+Added trivia for the Wrapped [Quark]
+
+Changed the trivia entry for Giant Squids [Aquatic Frontiers]
+Changed the name for the Immortal Jellyfish [Upgrade Aquatic]
+- Since all 3 variants share a model, the model is now called "Jellyfish"
 
 --------------------
 [1.2.1]
