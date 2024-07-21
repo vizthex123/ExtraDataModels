@@ -22,11 +22,6 @@
         {
             "item": "minecraft:saddle",
             "count": 1
-        },
-        {
-            "optional": true,
-            "item": "reliquary:rib_bone",
-            "count": 4
         }
     ]
 }

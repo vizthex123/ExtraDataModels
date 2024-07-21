@@ -1,26 +1,28 @@
 {
-    "type": "minecraft:guardian",
-    "name": "entity.minecraft.guardian",
-    "name_color": "#6A9583",
+	"conditions": [
+	{
+		"type": "forge:mod_loaded",
+		"modid": "alexsmobs"
+	}
+	],
+    "type": "alexsmobs:rattlesnake",
+    "name": "entity.alexsmobs.rattlesnake",
+    "name_color": "#91785a",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 256,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "hostilenetworks.trivia.guardian",
+    "trivia": "custom.trivia.rattlesnake",
     "fabricator_drops": [
         {
-            "item": "minecraft:cod",
-            "count": 24
-        },
-        {
-            "item": "minecraft:prismarine_crystals",
+            "item": "alexsmobs:rattlesnake_rattle",
             "count": 16
         }
     ]

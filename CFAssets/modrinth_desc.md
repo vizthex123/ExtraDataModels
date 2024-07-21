@@ -31,10 +31,10 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 
 |																																											|  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Datapack Version |
 |----------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:------:|:------:|:------:|:--------------------:|
-| [Ad Astra](https://modrinth.com/mod/ad-astra)																						|				 |    ✔   |    ✔   |    ✔   |                      |
+| [Ad Astra](https://modrinth.com/mod/ad-astra)																						|				 |			|    ✔   |    ✔   |                      |
 | [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)	|				 |        |        |    ✔   |                      |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves)																			|				 |        |        |    ✔   |                      |
-| [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)          																    |	 			 |	✔	|	✔	|    ✔   |        1.4       |
+| [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)          																    |	✔	|	✔	|	✔	|    ✔   |        1.4       |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)															|				 |			|    ✔   |    ✔   |                      |
 | [Ecologics](https://modrinth.com/mod/ecologics)																					| nobody |    ✔   |    ✔   |    ✔   |                      |
 | [Ender Zoology](https://modrinth.com/mod/ender-zoology)																	| uses       |        |    ✔   |    ✔   |                      |

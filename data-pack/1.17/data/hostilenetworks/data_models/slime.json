@@ -23,11 +23,6 @@
         {
             "item": "minecraft:slime_ball",
             "count": 32
-        },
-        {
-            "optional": true,
-            "item": "reliquary:slime_pearl",
-            "count": 2
         }
     ]
 }

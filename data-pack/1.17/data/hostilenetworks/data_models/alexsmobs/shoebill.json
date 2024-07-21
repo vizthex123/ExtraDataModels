@@ -1,26 +1,28 @@
 {
-    "type": "minecraft:guardian",
-    "name": "entity.minecraft.guardian",
-    "name_color": "#6A9583",
+	"conditions": [
+	{
+		"type": "forge:mod_loaded",
+		"modid": "alexsmobs"
+	}
+	],
+    "type": "alexsmobs:shoebill",
+    "name": "entity.alexsmobs.shoebill",
+    "name_color": "#484848",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 256,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "hostilenetworks.trivia.guardian",
+    "trivia": "custom.trivia.shoebill",
     "fabricator_drops": [
         {
-            "item": "minecraft:cod",
-            "count": 24
-        },
-        {
-            "item": "minecraft:prismarine_crystals",
+            "item": "minecraft:feather",
             "count": 16
         }
     ]

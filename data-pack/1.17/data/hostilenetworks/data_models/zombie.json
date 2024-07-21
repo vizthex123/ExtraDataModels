@@ -35,11 +35,6 @@
         {
             "item": "minecraft:potato",
             "count": 16
-        },
-        {
-            "optional": true,
-            "item": "reliquary:zombie_heart",
-            "count": 2
         }
     ]
 }

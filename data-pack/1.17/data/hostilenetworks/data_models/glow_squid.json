@@ -20,16 +20,6 @@
         {
             "item": "minecraft:glow_ink_sac",
             "count": 32
-        },
-        {
-            "optional": true,
-            "item": "cavesanddepths:glow_squid_tentacle",
-            "count": 32
-        },
-        {
-            "optional": true,
-            "item": "croptopia:glowing_calamari",
-            "count": 32
         }
     ],
     "tier_data": [

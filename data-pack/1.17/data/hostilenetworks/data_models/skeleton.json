@@ -29,11 +29,6 @@
         {
             "item": "minecraft:skeleton_skull",
             "count": 4
-        },
-        {
-            "optional": true,
-            "item": "reliquary:rib_bone",
-            "count": 2
         }
     ]
 }

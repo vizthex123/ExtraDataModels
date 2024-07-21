@@ -26,9 +26,59 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 	[1.19 Only]
 	Backported to 1.19.2
 
+	Fixed the pack format being wrong
+
 	Fixed the UI scaling for the Warped Mosco, Lavathian, and Moose
 
 	For the full list of changes, [go here](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog.md#data-pack).
+
+	[1.18 Only]
+	Backported to 1.18.X
+
+	Fixed the pack format being wrong
+	
+	Removed Totem loot from the Illusioner and Iceologer (neither Totem is in this version)
+
+	Removed the following models (since the mobs aren't in this version):
+
+	[Alex's Mobs]
+	Banana Slug
+	Blue Jay
+	Farseer
+	Mudskipper
+	Murmur
+	Potoo
+	Skreecher
+
+	[Friends & Foes]
+	Tuff Golem
+	Wildfire
+
+	[Iron's Spells n' Spellbooks]
+	Apothecarist
+	Priest
+
+	For the full list of changes, [go here](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog.md#data-pack).
+
+	[1.17 Only]
+	Backported to 1.17.1
+
+	Removed all mod support drops since the method it uses doesn't exist in this version
+
+	Added support for Alex's Mobs
+
+	Removed the following models (since the mobs aren't in this version):
+
+	[Alex's Mobs]
+	Bison
+	Catfish
+	Comb Jelly
+	Cosmic Cod
+	Endergrade - The mob exists, but I gave it drops from The Outer End, so it can't be used here
+	Flying Fish
+	Giant Squid
+	Rocky Roller
+	Skelewag
 
 --------------------
 [v1.3.1]

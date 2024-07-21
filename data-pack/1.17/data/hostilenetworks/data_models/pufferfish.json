@@ -16,11 +16,6 @@
     "trivia": "custom.trivia.pufferfish",
     "fabricator_drops": [
         {
-            "optional": true,
-            "item": "croptopia:roe",
-            "count": 64
-        },
-        {
             "item": "minecraft:pufferfish",
             "count": 32
         },

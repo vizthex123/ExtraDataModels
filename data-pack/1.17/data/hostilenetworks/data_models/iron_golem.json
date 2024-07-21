@@ -24,11 +24,6 @@
         {
             "item": "minecraft:poppy",
             "count": 24
-        },
-        {
-			"optional": true,
-            "item": "regions_unexplored:alpha_rose",
-            "count": 24
         }
     ],
     "tier_data": [

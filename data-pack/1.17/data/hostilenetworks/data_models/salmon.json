@@ -16,11 +16,6 @@
     "trivia": "custom.trivia.salmon",
     "fabricator_drops": [
         {
-            "optional": true,
-            "item": "croptopia:roe",
-            "count": 64
-        },
-        {
             "item": "minecraft:salmon",
             "count": 32
         },

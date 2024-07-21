@@ -32,10 +32,10 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 
 |																																														|  1.17.1 | 1.18.X | 1.19.2 | 1.20.1 | Datapack Version |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|:-------:|:------:|:------:|:------:|:--------------------:|
-| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)   														    |				 |	✔	|	✔	|	✔	|                      |
+| [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)   														    |				 |			|	✔	|	✔	|                      |
 | [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)				|			 	 |        |        |	✔	|                      |
 | [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)													|				 |        |        |	✔	|                      |
-| [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)													|				 |	✔	|	✔	|	✔	|        1.4       |
+| [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)													|	✔	|	✔	|	✔	|	✔	|        1.4       |
 | [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)								|    			 |			|	✔	|    ✔   |                      |
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)															| nobody |    ✔   |    ✔   |    ✔   |                      |
 | [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)											|	uses		 |        |    ✔   |    ✔   |                      |
