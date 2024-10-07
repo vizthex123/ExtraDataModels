@@ -1,7 +1,5 @@
 Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
-# Data pack
-
 [v1.4]
 [1.20] Fixed the pack format being wrong (don't think it changes anything, but it might prevent some random issues in the future)
 Changed the colour for the Luxtructosaurus
@@ -9,7 +7,6 @@ Changed the colour for the Luxtructosaurus
 Increased the Scrap Metal (8 -> 16) and Copper Ingot (16 -> 64) outputs for the Hullbreaker
 - Also changed the order so things are grouped together better
 Removed extra matrix costs from all models
-- These were only meant for my [new modpack](https://www.curseforge.com/minecraft/modpacks/hi-tech-revolution), and not intended for the public release
 
 Added a data model for Llamas
 Added a data model for Turtles
@@ -29,8 +26,6 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 	Fixed the pack format being wrong
 
 	Fixed the UI scaling for the Warped Mosco, Lavathian, and Moose
-
-	For the full list of changes, [go here](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog.md#data-pack).
 
 	[1.18 Only]
 	Backported to 1.18.X
@@ -57,8 +52,6 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 	[Iron's Spells n' Spellbooks]
 	Apothecarist
 	Priest
-
-	For the full list of changes, [go here](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog.md#data-pack).
 
 	[1.17 Only]
 	Backported to 1.17.1
@@ -152,53 +145,4 @@ Added support for Upgrade Aquatic
 
 --------------------
 [v1.0] 
-Initial release
-
-
-
-
-
-# Trivia pack
-
-[1.3]
-Added trivia for modded mobs added in v1.4 of the datapack
-
-Added trivia for Glow Squids [Upgrade Aquatic]
-Added trivia for Chorus Squids [The Outer End]
-Added trivia for the Wrapped [Quark]
-
-Changed the trivia entry for Giant Squids [Aquatic Frontiers]
-Changed the name for the Immortal Jellyfish [Upgrade Aquatic]
-- Since all 3 variants share a model, the model is now called "Jellyfish"
-
---------------------
-[1.2.1]
-Now uses `supported_formats`, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
-- Note that the game will whine about it being for "a newer version of Minecraft", but it will work fine
-
-In addition, I've archived all the old versions to make the file list more readable.
-
---------------------
-[1.2]
-Tweaked the wording for the Thrasher's trivia
-Added trivia for the following mobs:
-- Entombed [Outer End]
-- Spectrafly [Outer End]
-- [1.20] Star Crawler [Ad Astra]
-
-
---------------------
-[1.1]
-Tweaked the trivia entries for a few mobs
-Added trivia for Upgrade Aquatic's mobs
-
-	[1.19]
-	Backported to 1.19.2
-
-	Removed Alex's Caves trivia since the mod isn't on this version
-	Added trivia for Camels [Ecologics]
-
-
---------------------
-[1.0] 
 Initial release
