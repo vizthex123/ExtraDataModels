@@ -30,12 +30,12 @@
 		},
 		{
 			"optional": true,
-			"item": "quark:dragon_scale",
+			"item": "tetra:dragon_sinew",
 			"count": 8
 		},
 		{
 			"optional": true,
-			"item": "tetra:dragon_sinew",
+			"item": "quark:dragon_scale",
 			"count": 8
 		}
 	],

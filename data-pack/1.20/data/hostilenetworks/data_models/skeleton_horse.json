@@ -1,6 +1,5 @@
 {
     "entity": "minecraft:skeleton_horse",
-    "variants": [],
     "name": "entity.minecraft.skeleton_horse",
     "name_color": "#BABABA",
     "gui_scale": 1,

@@ -1,6 +1,5 @@
 {
     "entity": "minecraft:iron_golem",
-    "variants": [],
     "name": "entity.minecraft.iron_golem",
     "name_color": "#CFB198",
     "gui_scale": 1.0,

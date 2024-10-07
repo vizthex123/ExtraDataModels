@@ -1,5 +1,18 @@
 Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
+[v1.5]
+Fixed the Void Worm's model trying to give an item that didn't exist
+Fixed the scaling for the Laviathan, Moose, and Warped Mosco
+Reduced the Rattlesnake's Rattle output to 8 (was 16)
+
+The Dead King's data model now requires far fewer kills to level up
+- Also resized it so he fits into the preview window
+
+Added support for the following mods:
+- Ice & Fire (suggested by TravHan2009 in the comments section)
+- YUNG's Cave Biomes
+
+--------------------
 [v1.4]
 [1.20] Fixed the pack format being wrong (don't think it changes anything, but it might prevent some random issues in the future)
 Changed the colour for the Luxtructosaurus

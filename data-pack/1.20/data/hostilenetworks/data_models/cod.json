@@ -1,6 +1,5 @@
 {
     "entity": "minecraft:cod",
-    "variants": [],
     "name": "entity.minecraft.cod",
     "name_color": "#826450",
     "gui_scale": 1,

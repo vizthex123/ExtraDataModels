@@ -1,6 +1,5 @@
 {
     "entity": "minecraft:salmon",
-    "variants": [],
     "name": "entity.minecraft.salmon",
     "name_color": "#8d3431",
     "gui_scale": 1,

@@ -8,7 +8,7 @@
     "entity": "alexsmobs:laviathan",
     "name": "entity.alexsmobs.laviathan",
     "name_color": "#2b2e3b",
-    "gui_scale": 1,
+    "gui_scale": 0.3,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
