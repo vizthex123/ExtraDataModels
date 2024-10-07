@@ -1,10 +1,9 @@
 {
-	"_comment": "36 characters on line 1 before it clips into the XP stats",
+	"_comment": "36 characters on line 1 before it clips into the drop stats",
 	"_comment": "48 characters on other lines before it spills out of the UI",
 
 
 	"_comment": "Minecraft",
-
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
 	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
@@ -75,6 +74,8 @@
 
 
 
+
+
 	"_comment": "Alex's Mobs",
 
 	"entity.alexsmobs.cave_centipede": "Cave Centipede",
@@ -105,7 +106,7 @@
 	"custom.trivia.grizzly_bear": "When fighting a Grizzly Bear, do not do so.",
 	"custom.trivia.guster": "A strange, sentient tornado.\nDon't let it throw you across the desert!",
 	"custom.trivia.kangaroo": "Nature's agressive boxers.",
-	"custom.trivia.laviathan": "These large lizards reside in the lava pools of the Nether,\nand can be slain for Basalt, Magma, and (rarely) Obsidian.",
+	"custom.trivia.laviathan": "These large lizards reside in the\nlava pools of the Nether.\nComposed of Basalt, Magma, and Obsidian,\nthey are one of the great mysteries of the realm.",
 	"custom.trivia.lobster": "Lobsters are immortal,\nand only die due to growing so large they can no longer feed themselves.\n(or they get eaten by something)",
 	"custom.trivia.mimic_octopus": "These tiny octopodes will copy any nearby materials in an attempt to blend in with their environment.",
 	"custom.trivia.mimicube": "Corrupted by the End's magic,\nthese former slimes will copy their attacker.\nExercise caution when engaging one.",
@@ -130,8 +131,6 @@
 
 
 
-
-
 	"_comment": "Aquatic Frontiers",
 	"custom.trivia.coral_crab": "A strange variation of the humble crab\nthat sports a small coral reef on its back.",
 	"custom.trivia.coral_golem": "Guards its home with vigor.\nSeems to ignore you though...",
@@ -140,11 +139,13 @@
 	"custom.trivia.sandy": "This thicker version of a Sand Dollar\ncan sport a variety of adornments on its... sand.\nIs it a carapace, a back, or something else?",
 
 
+
 	"_comment": "Ecologics",
 	"custom.trivia.camel": "Seems oddly familiar....\nbut this one came first, right?",
 	"custom.trivia.coconut_crab": "Tough as a rock, mortal as a crab.",
 	"custom.trivia.penguin": "Passive birds found in the Arctic.\n\nI propose you dub this one \"Gunther.\"\nJust be careful - it is one of the most evil creatures around, after all.",
 	"custom.trivia.squirrel": "Why would you want to\nrun VR simulations on a squirrel?\nDid it throw you into an incenerator as a child?",
+
 
 
 	"_comment": "Ender Zoology",
@@ -173,7 +174,43 @@
 
 
 
-	"_comment": "Iron's Spellbooks",
+	"_comment": "Ice and Fire: Dragons",
+	"custom.trivia.amphithere": "A neutral flying lizard.\nAs far as we know, it guards no temples.",
+	"custom.trivia.cockatrice": "A nightmarish chicken-like beast.\nHas never been told that it's not nice to stare.",
+	"custom.trivia.cyclops": "A one-eyed monstrosity\nthat claims to have been blinded by \"nobody.\"\nDo you really believe it, though?",
+	"custom.trivia.death_worm": "As the name implies, this worm craves death.\nIt will stop at nothing to slay (and/or eat) you.",
+
+	"custom.trivia.dread_beast": "Corrupted by the Dread Queen,\nthese beasts attack anyone who trespassess.",
+	"custom.trivia.dread_ghoul": "A mere corpse,\ncorrupted by the Dread Queen's power.\nFollows its base instincts,\nprotecting whatever its master decrees worthy.",
+	"custom.trivia.dread_knight": "Even a disciplined knight\nis not immune to the Dread Queen's serenade.",
+	"custom.trivia.dread_lich": "An ancient necromancer\nwho fell to the Dread Queen's power.\nNot even powerful mages are immune to her song.",
+	"custom.trivia.dread_scuttler": "Mere insects have no hope of resisting\nthe enthralling melody of the Dread Queen.",
+	"custom.trivia.dread_thrall": "Enslaved by the Dread Queen,\nThralls protect what little treasure she still holds.",
+
+	"custom.trivia.fire_dragon": "A ruthless reptile,\nFire Dragons are vulnerable to ice attacks\nand can be taken down with enough persistence.",
+	"custom.trivia.ice_dragon": "A wintry cousin to the Fire Dragon,\nIce Dragons can be melted with enough fire and grit.",
+	"custom.trivia.lightning_dragon": "Electrically charged by their\ncloud-laden abodes,\nLightning Dragons can and will electrocute you.",
+
+	"custom.trivia.ghost": "Spectres of the night,\nGhosts will haunt you until exorcised.",
+	"custom.trivia.hippocampus": "These strange horse-fish hybrids\ncan be ridden underwater when tamed.",
+	"custom.trivia.hippogryph": "A most strange hybrid, unknown\nto even the most seasoned of adventurers.",
+	"custom.trivia.hydra": "Hercules still required help with this nemesis.\nGood luck.",
+
+	"custom.trivia.myrmex_queen": "Ruler of the Myrmex,\nall of which will defend the nest and their Queen\nat all costs - even if they die during a failed attempt.",
+	"custom.trivia.myrmex_royal": "A rank (or two) below the Queen,\nMyrmex Royals are her personal guard",
+	"custom.trivia.myrmex_sentinel": "Guardians of the Hive, Myrmex Sentinels\nwill ferociously guard their Queen.",
+	"custom.trivia.myrmex_soldier": "Persistent defenders of the Hive,\nMyrmex Soldiers will fight to the death\nto protect their Queen.",
+	"custom.trivia.myrmex_worker": "The lowest rank in a Myrmex Hive,\nworkers will cautiously trade Resin with outsiders.",
+
+	"custom.trivia.pixie": "Mischievous faeries, Pixies will steal\nwhatever they can - quickly escaping afterwards.\nAlways remain vigilant in their presence.",
+	"custom.trivia.sea_serpent": "Thought to be the stuff of legend,\nmany a sailor will tell tall tales of Sea Serpent\ntails terrorizing a trail of tricky tortuous tribulations.",
+	"custom.trivia.siren": "A mariner's true nightmare\nis not the sea, but its occupents.\nSirens will employ every tactic to lure you to an\nuntimely death.",
+	"custom.trivia.stymphalian_bird": "A metallic terror,\nStymphalian Birds will launch their\nfeathers as if they were arrows at anyone\nunfortunate enough to cross its path.",
+	"custom.trivia.troll": "A native denizen of the\nfourth dimension's \"internet\",\nTrolls will employ all sorts of\ngravity-defying launches to slay their foes.",
+
+
+
+	"_comment": "Iron's Spells & Spellbooks",
 	"custom.trivia.ancient_knight": "Knights who fell in battle while defending the Nether\nare often possessed by the latent magic in the air,\nforcing them to resume their post.",
 	"custom.trivia.apothecarist": "A rare breed of passive Piglins,\nthese ones are more than willing to trade for various herbs & plantlife.",
 	"custom.trivia.archevoker": "Some Evokers train for decades to master their craft.\nOften times, the magic will corrupt their minds -\nrendering them even more hostile than before.",
@@ -218,6 +255,13 @@
 	"custom.trivia.perch": "A small, common, uninteresting fish.",
 	"custom.trivia.pike": "Not to be confused with Pike (weapon)\n\nThe Pike is a carnivorous fish found in\nboth salt and fresh water.",
 	"custom.trivia.thrasher": "This specialized shark resides in trenches,\ndragging prey to the sea floor before drowning it.\n\nExercise extreme caution around them.",
-	"custom.trivia.great_thrasher": "An elder Thrasher,\ntougher than its kin due to years of experience.\n\nExercise extremer caution around them."
+	"custom.trivia.great_thrasher": "An elder Thrasher,\ntougher than its kin due to years of experience.\n\nExercise extremer caution around them.",
+
+
+
+	"_comment": "YUNG's Cave Biomes",
+
+	"custom.trivia.ice_cube": "A strange block of sentient ice.\nHow peculiar...",
+	"custom.trivia.sand_snapper": "A most unique creature\nthat feeds on various types of sand\n(or perhaps silica in general?)"
 
 }

@@ -1,5 +1,18 @@
 Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
+[v1.4]
+Now supports Minecraft 1.21.1
+- I'll port the [data pack](https://www.curseforge.com/minecraft/data-packs/extra-data-models) after some of the supported mods update
+
+Added trivia for Ice & Fire's mobs
+Added trivia for YUNG's Cave Biomes mobs
+
+Tweaked the trivia for the following mobs:
+- Great Thrasher [Upgrade Aquatic]
+- Laviathan [Alex's Mobs]
+
+
+--------------------
 [v1.3]
 Added trivia for modded mobs added in v1.4 of the datapack
 
