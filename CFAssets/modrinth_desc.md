@@ -6,12 +6,9 @@ Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/h
 
 _**Also includes trivia for all of them (the paragraph of text that appear in the Deep Learner) if you install the resource pack! Grab it alongside the [regular download](https://modrinth.com/datapack/extra-data-models/versions).**_
 
-
 <br />
 
 _**Suggest mods I should add support for in the comments, on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
-
-
 
 <br />
 
@@ -27,8 +24,6 @@ _**Suggest mods I should add support for in the comments, on the [issue tracker]
 
 If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://modrinth.com/mod/default-options) if you plan to publish your modpack)
 
-
-
 <br />
 
 # Mod Support
@@ -42,11 +37,11 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)																						|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)																		|				  |			   |✔			|✔			  |			   |								   |
 | [Ecologics](https://modrinth.com/mod/ecologics)																								|  nobody |✔		   |✔			|✔			  |			   |								   |
-| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																				|  uses		  |			   |✔			|✔			  |			   |								   |
-| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																	|  this		  |✔		   |✔			|✔			  |			   |1.4							   |
+| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																				|  uses		  |			   |✔			|✔			  |✔		   |								   |
+| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																	|  this		  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [Galosphere](https://modrinth.com/mod/galosphere)																							|  version  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|	lol		  |			   |      		    |✔			  |			   |1.5							   |
-| [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |			   |1.4							   |
+| [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
@@ -55,7 +50,6 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 <br/>
 
 *Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors only give items from [Thermal Expansion](https://modrinth.com/mod/thermal-expansion) and/or [Alex's Caves](https://modrinth.com/mod/alexs-caves) if either mod is installed.*
-
 
 <br />
 

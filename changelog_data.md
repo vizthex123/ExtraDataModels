@@ -12,6 +12,18 @@ Added support for the following mods:
 - Ice & Fire (suggested by TravHan2009 in the comments section)
 - YUNG's Cave Biomes
 
+	[1.21 Only]
+	Ported to 1.21.1
+
+	Most mod support has been removed for now, but I'll re-do it all as they do get ported (gonna be *so fun* to change the handful of lines that are different in all 300 files :D)
+
+	Added a model for the Breeze
+	The Bogged is now a Skeleton variant
+	Ender Zoology models now give the correct predictions
+	Reverted the Phantom's text colour to the mod's default
+	Reduced the amount of Netherite Scrap Ancient Knights give [Iron's Spells n' Spellbooks]
+
+
 --------------------
 [v1.4]
 [1.20] Fixed the pack format being wrong (don't think it changes anything, but it might prevent some random issues in the future)

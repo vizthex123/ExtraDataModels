@@ -1,0 +1,36 @@
+{
+    "entity": "minecraft:cow",
+    "variants": [
+		"friendsandfoes:moobloom"
+	],
+    "name": {
+		"translate": "entity.minecraft.cow",
+		"color": "#352A1F"
+    },
+    "display": {
+        "scale": 1.0
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "hostilenetworks.trivia.cow",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:beef",
+            "count": 32
+        },
+        {
+            "id": "minecraft:leather",
+            "count": 24
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "entity": "minecraft:skeleton",
+    "variants": [
+        "minecraft:stray",
+        "minecraft:bogged",
+        "enderzoology:fallen_knight"
+    ],
+    "name": {
+        "translate": "entity.minecraft.skeleton",
+        "color": "#BCBCBC"
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "hostilenetworks.trivia.skeleton",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:arrow",
+            "count": 32
+        },
+        {
+            "id": "minecraft:bone",
+            "count": 24
+        },
+        {
+            "id": "minecraft:skeleton_skull",
+            "count": 4
+        },
+        {
+            "optional": true,
+            "id": "reliquary:rib_bone",
+            "count": 2
+        }
+    ]
+}

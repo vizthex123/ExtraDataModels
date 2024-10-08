@@ -1,0 +1,31 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "enderzoology"
+        }
+    ],
+    "entity": "enderzoology:owl",
+    "name": {
+        "translate": "entity.enderzoology.owl",
+        "color": "#988365"
+    },
+    "sim_cost": 72,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.owl",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:feather",
+            "count": 24
+        },
+        {
+            "id": "enderzoology:owl_egg",
+            "count": 8
+        }
+    ]
+}

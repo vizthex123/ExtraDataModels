@@ -38,11 +38,11 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)													|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
 | [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)								|				  |			   |✔			|✔			  |			   |								   |
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)															|  nobody |✔		   |✔			|✔			  |			   |								   |
-| [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)											|  uses		  |			   |✔			|✔			  |			   |								   |
-| [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)							|  this		  |✔		   |✔			|✔			  |			   |1.4							   |
+| [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)											|  uses		  |			   |✔			|✔			  |✔		   |								   |
+| [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)							|  this		  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)													|  version  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)     				   	|	lol		  |			   |      		    |✔			  |			   |1.5							   |
-| [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)	|				  |✔		   |✔			|✔			  |			   |1.4							   |
+| [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)	|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)											|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   													|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1							   |
