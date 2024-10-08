@@ -1,9 +1,7 @@
 Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
+--------------------
 [v1.4]
-Now supports Minecraft 1.21.1
-- I'll port the [data pack](https://www.curseforge.com/minecraft/data-packs/extra-data-models) after some of the supported mods update
-
 Added trivia for Ice & Fire's mobs
 Added trivia for YUNG's Cave Biomes mobs
 
@@ -16,9 +14,10 @@ Tweaked the trivia for the following mobs:
 [v1.3]
 Added trivia for modded mobs added in v1.4 of the datapack
 
-Added trivia for Glow Squids [Upgrade Aquatic]
-Added trivia for Chorus Squids [The Outer End]
-Added trivia for the Wrapped [Quark]
+Added trivia for the following mobs:
+- Glow Squids [Upgrade Aquatic]
+- Chorus Squids [The Outer End]
+- Wrapped [Quark]
 
 Changed the trivia entry for Giant Squids [Aquatic Frontiers]
 Changed the name for the Immortal Jellyfish [Upgrade Aquatic]
@@ -36,6 +35,7 @@ In addition, I've archived all the old versions to make the file list more reada
 --------------------
 [v1.2]
 Tweaked the wording for the Thrasher's trivia
+
 Added trivia for the following mobs:
 - Entombed [Outer End]
 - Spectrafly [Outer End]
