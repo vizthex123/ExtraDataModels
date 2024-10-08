@@ -1,5 +1,15 @@
 Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
+[v1.4.1]
+Now supports Minecraft 1.21.1
+- I'll port the [data pack](https://www.curseforge.com/minecraft/data-packs/extra-data-models) as the supported mods update. For now, it supports Ender Zoology, Friends & Foes, and Iron's Spells n' Spellbooks.
+
+Updated the trivia entry for the Wildfire [Friends & Foes]
+Added trivia for the following mobs:
+- Breeze
+- Crab [Friends & Foes]
+
+
 --------------------
 [v1.4]
 Added trivia for Ice & Fire's mobs

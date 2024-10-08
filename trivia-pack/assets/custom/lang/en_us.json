@@ -4,6 +4,7 @@
 
 
 	"_comment": "Minecraft",
+	"custom.trivia.breeze": "An airy relative of the Blaze,\nBreezes can only be found\nwithin the confines of a Trial Chamber.",
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
 	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
@@ -160,11 +161,12 @@
 
 	"_comment": "Friends & Foes",
 	"custom.trivia.copper_golem": "This diminutive cousin of the Iron Golem\nactivates any buttons it can see, for it is compelled to do so by your will.",
+	"custom.trivia.crab_friend": "Found on Beaches, the humble Crab\nyields claws with reach-altering properties when slain.",
 	"custom.trivia.glare": "These floating clumps of moss and leaves seek out well-lit areas.\nGlow Berries are their favorite foods.",
 	"custom.trivia.iceologer": "A distant relative of the Evoker,\nthe Iceologer deploys its frosty force against all who encroach upon its domain.",
 	"custom.trivia.illusioner": "A relative of the Evoker, this master of illusionary magic\nis sure to challenge all who find it.",
 	"custom.trivia.tuff_golem": "This diminutive cousin of the Iron Golem\ndisplays anything you give it - just ensure it doesn't wander away from its post.",
-	"custom.trivia.wildfire": "Masters of all Blazes,\nthe Wildfire is an incredibly tough foe for ill-prepared adventurers.\nEnsure you can resists its firey wrath if you wish to simulate it.",
+	"custom.trivia.wildfire": "Masters of all Blazes, the Wildfire\nis incredibly tough for unprepared adventurers.\nEnsure you can resist its firey wrath.",
 
 
 
