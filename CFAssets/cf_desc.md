@@ -2,19 +2,25 @@ This datapack adds more Data Models to [Hostile Neural Networks](https://www.cur
 
 Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/hi-tech-revolution) modpack.
 
+<br />
 
+ ***Trivia for all of them (the paragraph of text that appear in the Deep Learner) is in [the resource pack](https://www.curseforge.com/minecraft/texture-packs/extra-data-models-trivia)!***
 
- ***Trivia for all of them (the paragraph of text that appear in the Deep Learner) is in [the resource pack](https://www.curseforge.com/minecraft/texture-packs/modded-data-models-trivia)!***
+***Suggest mods I should add support for in the comments, on the [issue tracker](https://curseforge.com/minecraft/data-packs/extra-data-models/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!***
 
-***Suggest mods I should add support for in the comments, on the [issue tracker](https://curseforge.com/minecraft/data-packs/modded-data-models/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!***
+*Enjoy the pack? Send me a dollar or two on [Ko-Fi](https://ko-fi.com/vizthex) or [Patreon!](https://patreon.com/vizthex)*
 
+<br />
 
+_Note: Since I made this for a 1.20 modpack, I'll start adding support starting on that version (but will still port and backport any changes I make - they just might take a bit longer to release)._
+
+<br />
 
 ### Installation Instructions
 
 1) After downloading the pack, get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader).
 
-1a) *If you want the trivia entries, download the [resource pack](https://www.curseforge.com/minecraft/texture-packs/modded-data-models-trivia) as well!*
+1a) *If you want the trivia entries, download the [resource pack](https://www.curseforge.com/minecraft/texture-packs/extra-data-models-trivia) as well!*
 
 2) Place the datapack into `config/openloader/data` and resource pack into `config/openloader/resources`
 
@@ -24,7 +30,7 @@ Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/h
 
 If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://www.curseforge.com/minecraft/mc-mods/default-options) if you plan to publish your modpack)
 
-<br/>
+<br />
 
 # Mod Support
 
@@ -48,7 +54,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)          			|				  |			   |      		    |✔			  |			   |1.5							   |
 
-<br/>
+<br />
 
 _Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors only give items from [Thermal Expansion](https://www.curseforge.com/minecraft/mc-mods/thermal-expansion) and/or [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves) if either mod is installed._
 
@@ -56,10 +62,9 @@ _Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors
 
 ## Changes to Default Models
 
-*Mod support changes will link to the mod's CurseForge page.* <br/>
-*Note: They will not load in unless the require mod is present, so you don't need to have everything installed*
+*Mod support will not load in unless the required mod is present, so you don't need to have everything installed*
 
-<br/>
+<br />
 
 - Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)
 - A few models now support some modded drops (such as the [Ender Dragon](https://github.com/vizthex123/ExtraDataModels/blob/main/data-pack/1.20/data/hostilenetworks/data_models/ender_dragon.json)

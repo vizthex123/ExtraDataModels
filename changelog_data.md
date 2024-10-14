@@ -1,16 +1,24 @@
 Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
 [v1.5]
-Fixed the Void Worm's model trying to give an item that didn't exist
-Fixed the scaling for the Laviathan, Moose, and Warped Mosco
-Reduced the Rattlesnake's Rattle output to 8 (was 16)
+This is the first version with multi-version support for Minecraft!
 
+As it says in the support tags, this version will work on MC 1.19.2 and 1.18.X. All future version for these two Minecraft version will follow suit.
+
+
+Reduced the Rattlesnake's Rattle output to 8 (was 16)
+Fixed the Void Worm's model trying to give an item that didn't exist [1.20]
+Fixed the scaling for the Laviathan [1.20], Moose, and Warped Mosco [Alex's Mobs]
+Reverted the Phantom's text colour back to the default (#0AB405)
+Ender Zoology models now give the correct predictions
+
+Reduced the amount of Netherite Scrap Ancient Knights give [Iron's Spells n' Spellbooks]
 The Dead King's data model now requires far fewer kills to level up
 - Also resized it so he fits into the preview window
 
 Added support for the following mods:
 - Ice & Fire (suggested by TravHan2009 in the comments section)
-- YUNG's Cave Biomes
+- YUNG's Cave Biomes [1.20 and 1.18 only]
 
 	[1.21 Only]
 	Ported to 1.21.1
@@ -19,14 +27,10 @@ Added support for the following mods:
 
 	Added a model for the Breeze
 	The Bogged is now a Skeleton variant
-	Ender Zoology models now give the correct predictions
-	Reverted the Phantom's text colour to the mod's default
-	Reduced the amount of Netherite Scrap Ancient Knights give [Iron's Spells n' Spellbooks]
-
 
 --------------------
 [v1.4]
-[1.20] Fixed the pack format being wrong (don't think it changes anything, but it might prevent some random issues in the future)
+[1.20] Fixed the pack format being wrong (don't think it affects anything, but it might prevent some random issues in the future)
 Changed the colour for the Luxtructosaurus
 
 Increased the Scrap Metal (8 -> 16) and Copper Ingot (16 -> 64) outputs for the Hullbreaker

@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:netherite_scrap",
-            "count": 8
+            "count": 4
         },
         {
             "item": "irons_spellbooks:cinder_essence",

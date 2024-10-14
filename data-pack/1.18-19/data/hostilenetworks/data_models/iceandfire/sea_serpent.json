@@ -1,0 +1,53 @@
+{
+	"conditions": [
+	{
+		"type": "forge:mod_loaded",
+		"modid": "iceandfire"
+	}
+	],
+	"type": "iceandfire:sea_serpent",
+    "name": "entity.iceandfire.sea_serpent",
+	"name_color": "#6B4D7D",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 192,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.sea_serpent",
+	"fabricator_drops": [
+		{
+			"item": "iceandfire:sea_serpent_scales_deepblue",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:sea_serpent_scales_blue",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:sea_serpent_scales_teal",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:sea_serpent_scales_purple",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:sea_serpent_scales_red",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:sea_serpent_scales_green",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:sea_serpent_fang",
+			"count": 8
+		}
+	]
+}

@@ -8,7 +8,7 @@
     "type": "alexsmobs:moose",
     "name": "entity.alexsmobs.moose",
     "name_color": "#25211a",
-    "gui_scale": 0.6,
+    "gui_scale": 0.5,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

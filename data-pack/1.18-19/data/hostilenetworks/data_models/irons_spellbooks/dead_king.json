@@ -8,7 +8,7 @@
     "type": "irons_spellbooks:dead_king",
     "name": "entity.irons_spellbooks.dead_king",
     "name_color": "#d99413",
-    "gui_scale": 1.0,
+    "gui_scale": 0.53,
     "gui_x_offset": 0.0,
     "gui_y_offset": 0.0,
     "gui_z_offset": 0.0,
@@ -29,5 +29,17 @@
             "item": "irons_spellbooks:blank_rune",
             "count": 1
         }
+    ],
+    "tier_data": [
+		978,
+        1014,
+        2600,
+        3100
+    ],
+    "data_per_kill": [
+        978,
+        507,
+        867,
+        775
     ]
 }

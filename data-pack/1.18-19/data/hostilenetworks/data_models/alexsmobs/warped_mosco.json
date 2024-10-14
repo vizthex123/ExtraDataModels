@@ -8,7 +8,7 @@
     "type": "alexsmobs:warped_mosco",
     "name": "entity.alexsmobs.warped_mosco",
     "name_color": "#1d7572",
-    "gui_scale": 0.5,
+    "gui_scale": 0.47,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

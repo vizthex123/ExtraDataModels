@@ -6,9 +6,11 @@ Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/h
 
 _**Also includes trivia for all of them (the paragraph of text that appear in the Deep Learner) if you install the resource pack! Grab it alongside the [regular download](https://modrinth.com/datapack/extra-data-models/versions).**_
 
+_**Suggest mods I should add support for in the comments, on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
+
 <br />
 
-_**Suggest mods I should add support for in the comments, on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
+_Note: Since I made this for a 1.20 modpack, I'll start adding support starting on that version (but will still port and backport any changes I make - they just might take a bit longer to release)._
 
 <br />
 
@@ -47,7 +49,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)          													|				  |			   |      		    |✔			  |			   |1.5							   |
 
-<br/>
+<br />
 
 *Note: Most Ad Astra mobs are variants due to the lack of drops. Martian Raptors only give items from [Thermal Expansion](https://modrinth.com/mod/thermal-expansion) and/or [Alex's Caves](https://modrinth.com/mod/alexs-caves) if either mod is installed.*
 
@@ -55,8 +57,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 
 ## Changes to Default Models
 
-_Mod support changes will link to the mod's CurseForge page._
-_Note: They will not load in unless the require mod is present, so you don't need to have everything installed_
+_Mod support will not load in unless the required mod is present, so you don't need to have everything installed_
 
 - Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)
 
