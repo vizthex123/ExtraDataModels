@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:raccoon",
     "name": "entity.alexsmobs.raccoon",
-    "name_color": "#25211a",
+    "name_color": "#25211A",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

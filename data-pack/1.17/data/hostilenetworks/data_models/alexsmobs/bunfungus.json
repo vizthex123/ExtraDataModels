@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:bunfungus",
     "name": "entity.alexsmobs.bunfungus",
-    "name_color": "#757b9e",
+    "name_color": "#757B9E",
     "gui_scale": 0.77,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

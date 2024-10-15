@@ -1,7 +1,7 @@
 {
     "type": "minecraft:zombie_horse",
     "name": "entity.minecraft.zombie_horse",
-    "name_color": "#406c40",
+    "name_color": "#406C40",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

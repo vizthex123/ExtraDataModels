@@ -1,7 +1,7 @@
 {
     "type": "minecraft:skeleton_horse",
     "name": "entity.minecraft.skeleton_horse",
-    "name_color": "#bababa",
+    "name_color": "#BABABA",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

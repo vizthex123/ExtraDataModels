@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:moose",
     "name": "entity.alexsmobs.moose",
-    "name_color": "#25211a",
+    "name_color": "#25211A",
     "gui_scale": 0.6,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

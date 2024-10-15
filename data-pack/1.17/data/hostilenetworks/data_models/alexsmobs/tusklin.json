@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:tusklin",
     "name": "entity.alexsmobs.tusklin",
-    "name_color": "#e6e9ec",
+    "name_color": "#E6E9EC",
     "gui_scale": 0.75,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

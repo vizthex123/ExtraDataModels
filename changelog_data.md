@@ -28,6 +28,27 @@ Added support for the following mods:
 	Added a model for the Breeze
 	The Bogged is now a Skeleton variant
 
+	[1.17 Only]
+	Dropped support for 1.17.1
+
+	I hate having to drop support for a version people might play, but my test instance won't load and I can't fix it. In addition to this, all the mods I support either dropped support for or entirely skipped 1.17 since it's a half-baked version.
+
+	I would suggest moving your modpack to 1.18.2 or later if you can do so, as this version was kind of forgotten since it's half-complete.
+
+	All changes from v1.5, excluding the following:
+	- Scaling fixes - Didn't affect 1.17
+	- Void worm fix - Was only on 1.20
+	- Random mod fixes - The mods aren't on this version
+	- Support for YUNG's Cave Biomes - Mod isn't on this version
+
+	Added models for the Sheep, Pig, Cow, Squid, and Glow Squid
+	- They're identical to the models on newer versions, but without the optional fabricator drops (since this version of the mod doesn't have it)
+	- The Sheep's has an off-white name label instead of the customized rainbow one
+
+	Standardized the file formatting
+	- Entirely a backend change, but it allows anyone modify things easier if they want to (and lets me make new models more efficiently)
+
+
 --------------------
 [v1.4]
 [1.20] Fixed the pack format being wrong (don't think it affects anything, but it might prevent some random issues in the future)

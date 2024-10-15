@@ -1,0 +1,37 @@
+{
+		"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:dread_knight",
+    "name": "entity.iceandfire.dread_knight",
+	"name_color": "#17181B",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 192,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.dread_knight",
+	"fabricator_drops": [
+		{
+			"item": "minecraft:bone",
+			"count": 32
+		},
+		{
+			"item": "minecraft:iron_ingot",
+			"count": 16
+		},
+		{
+			"item": "iceandfire:dread_shard",
+			"count": 16
+		}
+	]
+}

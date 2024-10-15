@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:guster",
     "name": "entity.alexsmobs.guster",
-    "name_color": "#9d8662",
+    "name_color": "#9D8662",
     "gui_scale": 0.8,
     "gui_x_offset": 0,
     "gui_y_offset": -0.25,

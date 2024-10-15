@@ -1,0 +1,37 @@
+{
+		"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:siren",
+    "name": "entity.iceandfire.siren",
+	"name_color": "#3271AB",
+	"gui_scale": 0.8,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 192,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.siren",
+	"fabricator_drops": [
+		{
+			"item": "minecraft:prismarine_shard",
+			"count": 32
+		},
+		{
+			"item": "minecraft:prismarine_crystals",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:shiny_scales",
+			"count": 32
+		}
+	]
+}

@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:mimic_octopus",
     "name": "entity.alexsmobs.mimic_octopus",
-    "name_color": "#fbece1",
+    "name_color": "#FBECE1",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

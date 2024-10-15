@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:rattlesnake",
     "name": "entity.alexsmobs.rattlesnake",
-    "name_color": "#91785a",
+    "name_color": "#91785A",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "alexsmobs:rattlesnake_rattle",
-            "count": 16
+            "count": 8
         }
     ]
 }

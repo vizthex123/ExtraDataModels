@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:lobster",
     "name": "entity.alexsmobs.lobster",
-    "name_color": "#c13022",
+    "name_color": "#C13022",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
