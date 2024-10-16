@@ -1,0 +1,49 @@
+{
+		"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:cyclops",
+    "name": "entity.iceandfire.cyclops",
+	"name_color": "#815A48",
+	"gui_scale": 0.25,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 256,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.cyclops",
+	"fabricator_drops": [
+		{
+			"item": "minecraft:white_wool",
+			"count": 64
+		},
+		{
+			"item": "minecraft:leather",
+			"count": 64
+		},
+		{
+			"item": "minecraft:mutton",
+			"count": 64
+		}
+	],
+    "tier_data": [
+		1,
+        10,
+        111,
+        1010
+    ],
+    "data_per_kill": [
+        1,
+        5,
+        28,
+        170
+    ]
+}

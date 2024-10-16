@@ -1,0 +1,29 @@
+{
+		"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:hippocampus",
+    "name": "entity.iceandfire.hippocampus",
+	"name_color": "#1A3B50",
+	"gui_scale": 0.65,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 192,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.hippocampus",
+	"fabricator_drops": [
+		{
+			"item": "iceandfire:shiny_scales",
+			"count": 16
+		}
+	]
+}

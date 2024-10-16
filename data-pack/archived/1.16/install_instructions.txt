@@ -1,0 +1,3 @@
+Open Loader works differently on this version.
+
+Packs are placed in the main install rather than the config folder (openloader\data instead of config\openloader\data). Same applies to resource packs going in the `resources` folder.
