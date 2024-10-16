@@ -13,8 +13,8 @@ A list of standards I want to enforce when updating either pack.
 
 - Standard indents I like
 - Capitalized hex codes that start with #
-- Underscores between each space in a mod's name
 - Modloading condition on the top, with the mod ID below it
+- Folder names match the mod IDs formatting (shortened if needed)
 - Make sure the fabricator order is minecraft -> modded stuff (unless the primary drop is a mod item)
 
 
