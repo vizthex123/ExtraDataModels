@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"modid": "ad_astra",
-		"type": "forge:mod_loaded"
-	}
+		{
+			"modid": "ad_astra",
+			"type": "forge:mod_loaded"
+		}
 	],
     "type": "ad_astra:star_crawler",
     "name": "entity.ad_astra.star_crawler",
-    "name_color": "#71878d",
+    "name_color": "#71878D",
     "gui_scale": 0.47,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

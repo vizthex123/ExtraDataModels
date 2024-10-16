@@ -14,22 +14,24 @@ _Note: Since I made this for a 1.20 modpack, I'll start adding support starting 
 
 <br />
 
-### Installation Instructions
+# Installation Instructions
 
-1) After downloading the pack, get [Open Loader](https://modrinth.com/mod/open-loader). *If you want the trivia entries, download the [resource pack](https://modrinth.com/datapack/extra-data-models/versions) as well. It's attached to every version, and works across all supported Minecraft versions.*
+1) After downloading the datapack, get [Open Loader](https://modrinth.com/mod/open-loader). *If you want the trivia entries, download the latest version of the [resource pack](https://modrinth.com/datapack/extra-data-models/versions) as well. It's attached to every datapack version, and works across all supported Minecraft versions.*
 
-2) Place the datapack into `config/openloader/data` and resource pack into `config/openloader/resources`
+2) Place the datapack into `config/openloader/data`
 
-3) Load your world and the new models will be added to it. If a mod isn't loaded, the model/loot/changes won't load in.
+3) **Optional:** Enable the trivia pack in the game's settings. _**If you downloaded it manually, you can place it into `config/openloader/resources` and it will auto-enable itself.**_
 
-4) When updating either one, repeat step 2 - just overrride the .zip with the new one and it'll update everything.
+4) **Optional:** Load your world and check one of the models from the datapack to view its trivia entry. _**If the datapack isn't loaded, this resource pack won't do anything!**_
+
+5) When updating the datapack, repeat step 2 - just override the .zip with the new one and it'll update everything. _**Same applies for manually updating the resource pack.**_
 
 If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://modrinth.com/mod/default-options) if you plan to publish your modpack)
 
 <br />
 
 # Mod Support
-_Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install everything._
+_Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install all of these mods._
 
 |																																														|  1.17.1   |  1.18.X  |  1.19.2   |  1.20.1   |  1.21.1  |  Datapack Version  |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------:|:----------:|:-----------:|:-----------:|:-----------:|:--------------------------:|
@@ -37,12 +39,17 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)				|				  |			   |      		    |✔			  |			   |								   |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves)																						|				  |			   |      		    |✔			  |			   |								   |
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)																						|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
+| [Aquamirae](https://modrinth.com/mod/aquamirae)																							|				  |✔		   |✔			|✔			  |			   |1.6							   |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)																		|				  |			   |✔			|✔			  |			   |								   |
-| [Ecologics](https://modrinth.com/mod/ecologics)																								|  nobody |✔		   |✔			|✔			  |			   |								   |
-| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																				|  uses		  |			   |✔			|✔			  |✔		   |								   |
-| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																	|  this		  |✔		   |✔			|✔			  |✔		   |1.4							   |
-| [Galosphere](https://modrinth.com/mod/galosphere)																							|  version  |			   |      		    |✔			  |			   |								   |
-| [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|	lol		  |			   |      		    |✔			  |			   |1.5							   |
+| [Biome Makover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |1.6							   |
+| [Bygone Nether](https://modrinth.com/mod/bygone-nether)																				|				  |✔		   |✔		    |✔			  |			   |1.6							   |
+| [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |1.6							   |
+| [Ecologics](https://modrinth.com/mod/ecologics)																								|				  |✔		   |✔			|✔			  |			   |								   |
+| [Ender Zoology](https://modrinth.com/mod/ender-zoology)																				|				  |			   |✔			|✔			  |✔		   |								   |
+| [The Endergetic Expansion](https://modrinth.com/mod/endergetic)																	|				  |			   |✔			|				  |			   |1.6							   |
+| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																	|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
+| [Galosphere](https://modrinth.com/mod/galosphere)																							|				  |			   |      		    |✔			  |			   |								   |
+| [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
@@ -61,9 +68,9 @@ _Mod support will not load in unless the required mod is present, so you don't n
 
 - Several modded enemies are now variants for some default models (if the supported mod is loaded, of course)
 
-- A few models now support some modded drops (such as the [Ender Dragon](https://github.com/vizthex123/ExtraDataModels/blob/main/data-pack/1.20/data/hostilenetworks/data_models/ender_dragon.json))
+- A few models now support some modded drops (such as the [Ender Dragon](https://github.com/vizthex123/ExtraDataModels/blob/main/data-pack/1.20/data/hostilenetworks/data_models/ender_dragon.json)). *For a full list, you can view the [source files](https://github.com/vizthex123/ExtraDataModels/tree/main/data-pack).*
 
-- Adds a model for Salmon, Tropical Fish, Pufferfish, Skeleton Horses, and Zombie Horses (Llamas and Turtles were added in v1.4)
+- Adds a model for Salmon, Tropical Fish, Pufferfish, Skeleton Horses, Zombie Horses, and more!
 
 - Adds Eggs to the Chicken's fabricator drops
 

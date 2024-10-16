@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"modid": "ad_astra",
-		"type": "forge:mod_loaded"
-	}
+		{
+			"modid": "ad_astra",
+			"type": "forge:mod_loaded"
+		}
 	],
     "type": "ad_astra:martian_raptor",
     "name": "entity.ad_astra.martian_raptor",
-    "name_color": "#48a33e",
+    "name_color": "#48A33E",
     "gui_scale": 0.7,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
