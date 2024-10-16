@@ -1,6 +1,41 @@
-Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
+# Trivia Pack Changelog
 
-[v1.4.1]
+A full changelog for every version of the [Trivia Pack](https://www.curseforge.com/minecraft/texture-packs/extra-data-models-trivia).
+
+This one will be updated more often than the CurseForge and Modrinth changelogs.
+
+I increment the version by .1 whenever I add more mod support.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## v1.5
+
+Added a few trivia entries for some models exclusive to [Capitalia: Inward Expansion](https://www.curseforge.com/minecraft/modpacks/capitalia-2)
+Fixed the Atlatitan's final trivia line not showing up in-game.
+
+Tweaked the following trivia entries:
+- Coconut Crab [Ecologics]
+- Gloomoth [Alex's Caves]
+- Spongesquid [Aquatic Frontiers]
+- Squirrel [Ecologics]
+- Stalker [The Outer End]
+
+Added trivia for the following mobs:
+- Pillager
+- Ravager
+- Vindicator
+
+Added trivia for the following mods:
+- Aquamirae
+- Biome Makeover
+- Bygone Nether
+- Deep Dark: Regrowth
+- The Endergetic Expansion
+
+
+--------------------------------------------------
+
+## v1.4.1
+
 Now supports Minecraft 1.21.1
 - I'll port the [data pack](https://www.curseforge.com/minecraft/data-packs/extra-data-models) as the supported mods update. For now, it supports Ender Zoology, Friends & Foes, and Iron's Spells n' Spellbooks.
 
@@ -10,8 +45,10 @@ Added trivia for the following mobs:
 - Crab [Friends & Foes]
 
 
---------------------
-[v1.4]
+--------------------------------------------------
+
+## v1.4
+
 Added trivia for Ice & Fire's mobs
 Added trivia for YUNG's Cave Biomes mobs
 
@@ -20,8 +57,10 @@ Tweaked the trivia for the following mobs:
 - Laviathan [Alex's Mobs]
 
 
---------------------
-[v1.3]
+--------------------------------------------------
+
+## v1.3
+
 Added trivia for modded mobs added in v1.4 of the datapack
 
 Added trivia for the following mobs:
@@ -33,17 +72,20 @@ Changed the trivia entry for Giant Squids [Aquatic Frontiers]
 Changed the name for the Immortal Jellyfish [Upgrade Aquatic]
 - Since all 3 variants share a model, the model is now called "Jellyfish"
 
+--------------------------------------------------
 
---------------------
-[v1.2.1]
-Now uses `supported_formats`, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
+## 1.2.1
+
+Now uses the `supported_formats` field, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
 - Note that the game will whine about it being for "a newer version of Minecraft", but it will work fine
 
 In addition, I've archived all the old versions to make the file list more readable.
 
 
---------------------
-[v1.2]
+--------------------------------------------------
+
+## 1.2
+
 Tweaked the wording for the Thrasher's trivia
 
 Added trivia for the following mobs:
@@ -52,8 +94,9 @@ Added trivia for the following mobs:
 - [1.20] Star Crawler [Ad Astra]
 
 
---------------------
-[v1.1]
+--------------------------------------------------
+## 1.1
+
 Tweaked the trivia entries for a few mobs
 Added trivia for Upgrade Aquatic's mobs
 
@@ -63,7 +106,8 @@ Added trivia for Upgrade Aquatic's mobs
 	Removed Alex's Caves trivia since the mod isn't on this version
 	Added trivia for Camels [Ecologics]
 
+--------------------------------------------------
 
---------------------
-[v1.0] 
-Initial release
+## v1.0
+
+Initial release.
