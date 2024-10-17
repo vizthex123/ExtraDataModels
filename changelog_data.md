@@ -1,10 +1,34 @@
-Lines prefixed with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
+# Datapack Changelog
 
-[v1.5]
-This is the first version with multi-version support for Minecraft!
+A full changelog for every version (and sub-version) of the [Datapack](https://www.curseforge.com/minecraft/data-packs/extra-data-models).
 
-As it says in the support tags, this version will work on MC 1.19.2 and 1.18.X. All future version for these two Minecraft version will follow suit.
+This one will be updated more often than the CurseForge and Modrinth changelogs.
 
+I increment the version by .1 whenever I add more mod support to multiple versions.
+
+Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## v1.6
+*This entire update is only for 1.21 since a guy asked for extra mod support almost a week ago. Figured I'd take a break from developing v2.0 and add this real quick.*
+
+Fixed the Illusioner's name not being localized
+
+Added support for Eternal Starlight (suggested by MrEizy on the Hostile Neural Networks discord server)
+Reduced the amount of Netherite Scrap Ancient Knights give [Iron's Spells n' Spellbooks]
+
+Imported the following changes from v2.0:
+
+- Added a model for the Bee, Ravager, Pillager, and Vindicator
+-- The Bee model was suggested by Tyler489 on the Hostile Neural Networks discord server
+
+
+--------------------------------------------------
+## v1.5
+
+*This is the first version with multi-version support for Minecraft!*
+
+*As it says in the support tags, this version will work on MC 1.19.2 and 1.18.X. All future version for these two Minecraft version will follow suit.*
 
 Reduced the Rattlesnake's Rattle output to 8 (was 16)
 Fixed the Void Worm's model trying to give an item that didn't exist [1.20]
@@ -18,7 +42,7 @@ The Dead King's data model now requires far fewer kills to level up
 
 Added support for the following mods:
 - Ice & Fire (suggested by TravHan2009 in the comments section)
-- YUNG's Cave Biomes [1.20 and 1.18 only]
+- YUNG's Cave Biomes [1.20 and 1.18]
 
 	[1.21 Only]
 	Ported to 1.21.1
@@ -27,6 +51,7 @@ Added support for the following mods:
 
 	Added a model for the Breeze
 	The Bogged is now a Skeleton variant
+
 
 	[1.17 Only]
 	Dropped support for 1.17.1
@@ -49,8 +74,9 @@ Added support for the following mods:
 	- Entirely a backend change, but it allows anyone modify things easier if they want to (and lets me make new models more efficiently)
 
 
---------------------
-[v1.4]
+--------------------------------------------------
+## v1.4
+
 [1.20] Fixed the pack format being wrong (don't think it affects anything, but it might prevent some random issues in the future)
 Changed the colour for the Luxtructosaurus
 
@@ -123,8 +149,10 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 	Rocky Roller
 	Skelewag
 
---------------------
-[v1.3.1]
+
+--------------------------------------------------
+## v1.3.1
+
 Fixed the Squirrel and Gloomoth models not loading
 
 	[1.19 Only]
@@ -147,8 +175,10 @@ Fixed the Squirrel and Gloomoth models not loading
 
 	I don't know if this will even work (HNN wants Placebo v5.0.3 but it seems like that doesn't exist), so hopefully it does lol
 
---------------------
-[v1.3]
+
+--------------------------------------------------
+## v1.3
+
 Fixed Ad Astra models trying to load in even if the mod isn't loaded
 
 Changed the colour for Phantoms
@@ -169,8 +199,9 @@ Added data models for the following mobs:
 - [1.20 Only] Star Crawler [Ad Astra]
 
 
---------------------
-[v1.2]
+--------------------------------------------------
+## v1.2
+
 The datapack no longer loads models if the mod they're for isn't installed.
 Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 
@@ -184,15 +215,31 @@ Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 	Added a data model for Camels [Ecologics]
 
 
---------------------
-[v1.1]
+--------------------------------------------------
+## v1.1
+
 Added support for Upgrade Aquatic
-- Guardian and Elder Guardian predictions can now be fabricated into fish from Upgrade Aquatic
-- Flares are a Phantom variant
 - Geese are a Chicken variant
+- Flares are a Phantom variant
+- Guardian and Elder Guardian predictions can now be fabricated into fish from Upgrade Aquatic
 - Other mobs have their own data models
 
 
---------------------
-[v1.0] 
-Initial release
+--------------------------------------------------
+## v1.0
+
+_WARNING: This won't work unless all the mods are installed because I set it up wrong! Install a newer version instead!!_
+
+Initial release.
+
+Supports the following mods:
+
+- Ad Astra
+- Ad Astra: Proxima Plus
+- Alex's Caves
+- Aquatic Frontiers
+- Ecologics
+- Ender Zoology
+- Galosphere
+- The Outer End
+- Quark

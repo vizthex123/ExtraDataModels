@@ -3,7 +3,7 @@
         {
             "type": "neoforge:mod_loaded",
             "modid": "enderzoology"
-        }
+		}
     ],
     "entity": "enderzoology:concussion_creeper",
     "name": {

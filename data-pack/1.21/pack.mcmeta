@@ -1,6 +1,6 @@
 {
     "pack": {
         "pack_format": 34,
-        "description": "Adds custom data models with support for several mods."
+        "description": "Adds modded data models and tweaks some of the default ones."
     }
 }

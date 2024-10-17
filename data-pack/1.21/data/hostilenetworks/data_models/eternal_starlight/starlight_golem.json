@@ -1,0 +1,70 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "eternal_starlight"
+        }
+    ],
+    "entity": "eternal_starlight:starlight_golem",
+    "name": {
+        "translate": "entity.eternal_starlight.starlight_golem",
+        "color": "#4D5461"
+    },
+	"display": {
+		"scale": 0.64
+	},
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.starlight_golem",
+    "fabricator_drops": [
+		{
+            "id": "eternal_starlight:aethersent_ingot",
+            "count": 4
+        },
+		{
+            "id": "eternal_starlight:thermal_springstone_ingot",
+            "count": 8
+        },
+		{
+            "id": "eternal_starlight:oxidized_golem_steel_ingot",
+            "count": 16
+        },
+		{
+            "id": "eternal_starlight:glacite_shard",
+            "count": 8
+        },
+		{
+            "id": "eternal_starlight:seeking_eye",
+            "count": 4
+        },
+		{
+            "id": "minecraft:gold_ingot",
+            "count": 16
+        },
+		{
+            "id": "minecraft:iron_ingot",
+            "count": 16
+        },
+		{
+            "id": "minecraft:coal",
+            "count": 16
+        },
+		{
+            "id": "eternal_starlight:amaramber_arrow",
+            "count": 64
+        },
+		{
+            "id": "minecraft:spectral_arrow",
+            "count": 64
+        },
+		{
+            "id": "minecraft:arrow",
+            "count": 64
+        }
+    ]
+}

@@ -20,6 +20,11 @@
     "fabricator_drops": [
         {
 			"optional": true,
+            "id": "irons_spellbooks:hogskin",
+            "count": 8
+        },
+        {
+			"optional": true,
             "id": "nourished_nether:raw_hoglin",
             "count": 16
         },

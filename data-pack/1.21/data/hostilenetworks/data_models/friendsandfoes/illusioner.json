@@ -7,7 +7,7 @@
     ],
     "entity": "minecraft:illusioner",
     "name": {
-        "translate": "entity.friendsandfoes.illusioner",
+        "translate": "entity.minecraft.illusioner",
         "color": "#402A3E"
     },
     "sim_cost": 1024,
