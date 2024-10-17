@@ -5,6 +5,7 @@
 
 
 	"_comment": "Minecraft",
+	"custom.trivia.bee": "Floating about the forest,\nBees work tirelessly to produce Honeycombs\nyou can centrifuge into a variety of items.\nWait a minute, that's not quite right...",
 	"custom.trivia.breeze": "An airy relative of the Blaze,\nBreezes can only be found\nwithin the confines of a Trial Chamber.",
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
@@ -40,7 +41,7 @@
 			"custom.trivia.gossamer_worm": "Oh... it's so pretty!\nUnless it's bait for a trap...?\nBut surely, that cannot be so!",
 			"custom.trivia.hullbreaker": "This massive monstrosity meticulously\nmaneuvers through the Abyssal Chasm,\nfeasting on all who trespass.\n\nI guess that shiny worm was bait after all...",
 			"custom.trivia.lanternfish": "Lights its way through the Abyssal Chasm.\nPerhaps you could take advantage of that?\nMakes a good snack.",
-			"custom.trivia.mine_guardian": "A specialized cousin of the Guardian\nthat protects the Abyssal Chasm from intruders.\n\nBe sure to keep your distance around it.",
+			"custom.trivia.mine_guardian": "A specialized cousin of the Guardian\nthat protects the Abyssal Chasm from raiders.\n\nBe sure to keep your distance around it.",
 			"custom.trivia.sea_pig": "The \"pig of the sea\" will eat\nClay, Mud, and Muck.\n\nOn occasion, it will produce something useful.",
 			"custom.trivia.tripodfish": "A very curious type of fish\nthat walks along the sea floor.\nAlso makes for a good snack.",
 
@@ -105,7 +106,7 @@
 	"custom.trivia.crow": "Quoth the raven, \"nevermore\".\nWait, that's not quite right...",
 	"custom.trivia.emu": "Don't declare war on them.",
 	"custom.trivia.endergrade": "An impossibly large Tardigrade,\nthe Endergrade makes its home in a strange dimension.",
-	"custom.trivia.farseer": "Guardians of the oft-forgotten Farlands,\nthese automatons are designed to keep out all intruders they encounter.",
+	"custom.trivia.farseer": "Guardians of the oft-forgotten Farlands,\nthese automatons are designed to repel all intruders they encounter.",
 	"custom.trivia.fly": "An annoying insect,\nflies can be found in every radii of the globe.",
 	"custom.trivia.flying_fish": "Not to be confused with the Cosmic Cod.\nOddly, these ones do not appear during rainstorms.",
 	"custom.trivia.froststalker": "These strange creatures resemble deer,\nbut act the opposite of them.\nExercise caution when nearby.",
@@ -165,16 +166,19 @@
 	"custom.trivia.ghost_makeover": "Villagers left to die (or slain in raids)\nwill become wandering spirits,\ndoomed to purgatory until freed from it.",
 	"custom.trivia.glowfish": "A bioluminescent variant of Fish.\n\nWhat do you mean it's not called \"Fish\" anymore?",
 	"custom.trivia.helmit_crab": "Not to be confused with a Hermit Crab.",
+	"custom.trivia.marauder_pillager": "A variant of the Pillager that has\nlearned of basic armor,\nbut still doesn't have enough to save himself\nfrom your wrath.",
 	"custom.trivia.moth": "Floats around aimlessly at night.\n\nStill best to keep it away from leather items...",
 	"custom.trivia.owl_makeover": "Are Owls still a hoot at night?",
 	"custom.trivia.rootling": "A strange plant, akin to a Mandrake -\nit will run around until escaping (or killed).\n\nAlthough it doesn't curse you when harvested.",
 	"custom.trivia.scuttler": "Scuttles around the Badlands,\nlooking for its next meal.",
+	"custom.trivia.stone_golem": "Golems can be made out of\na variety of materials,\ntaking on varying traits based on their composition.\nThis one is strong, but static.",
+	"custom.trivia.toad": "Not to be confused with a Frog.\n\nAlthough it is kind of like a land frog...",
 
 
 
 	"_comment": "Bygone Nether",
 	"custom.trivia.corpor": "An offshoot of Wither Skeletons.\nCorpors are weaker, but more durable.\n\nStill good to keep your guard up around them.",
-	"custom.trivia.warped_enderman": "Endermen who get trapped in a\nWarped Forest may undergo mutation via the magic within.",
+	"custom.trivia.warped_enderman": "Endermen who get trapped in a\nWarped Forest may undergo severe mutation\ndue the magic within.",
 
 	"_comment": "These two are only avaliable in Capitalia: Inward Expansion",
 	"capitalia.trivia.wither_skeleton_knight": "Elite Wither Skeletons are recognized\nfor their great strength and skill,\nand are promoted to the rank of Knight.",
@@ -192,10 +196,11 @@
 	"_comment": "Deep Dark: Regrowth",
 	"custom.trivia.abomination": "An unholy amalgamation of\nSculk and Galm,\nthis aberration should be purged forthwith.\nW3 423 n07 unh01y.",
 	"custom.trivia.annihilator": "[7H2347 D373C73D]\n[5133|* M0[)3 [)153|V9493[). 5(4|V|V1|V9...]\n['|'#/2[-A'|' |_[](A'|'[-|). M[]|/!N(_+ '|'[] [-N(_+A(_+[-...]\n[N3W D123C71V3: 3X732M1N473 7H2347]",
-	"custom.trivia.corrupted_skeleton": "Skeletons that wander into the Deep Dark\nare corrupted by the mysterious \"Sculk\" that resides within.\nTheir bones make for an excellent host, so the Sculk prefers it.\n7h47 15 n07 72u3.",
+	"custom.trivia.corrupted_skeleton": "Skeletons wandering into the Deep Dark\nare corrupted by the mysterious \"Sculk\" within,\nas their bones make for an excellent habitat.\n7h47 15 n07 72u3.",
+	"custom.trivia.ghost_jellyfish": "Flutters about the Deep Dark,\nunaware of the corruption surrounding it.\n\nW3 423 n07 7h3 c022up710n.",
 	"custom.trivia.observer": "W3 423 w47ch1n9 y0u.\nW3 |-|4v3 3735 3v327w|-|323.\n|)[] n[]'|' |3|_!n|<. _||_|$'|' !(_+n[]/2[- '|'#[-m.",
-	"custom.trivia.sculk_parasite": "Disguises itself as a Sculk Sensor\nto lure stray adventurers into the waiting maw of the Sculk.\nW3 w0u1d d0 n0 5uch 7h1n9.",
-	"custom.trivia.spreader": "Wanders aimlessly through the world,\nignorant of the parasite it carries.\nP4245173...? Wh47 p4245173?",
+	"custom.trivia.sculk_parasite": "Disguises itself as a Sculk Sensor\nto lure stray adventurers into the Sculk's fold.\n\nW3 w0u1d d0 n0 5uch 7h1n9.",
+	"custom.trivia.spreader": "Wanders aimlessly through the world,\nignorant of the parasite it carries.\n\nP4245173...? Wh47 p4245173?",
 	"custom.trivia.stalker_regrowth": "W3 423 w47ch1n9 y0u\n_|(_)57 7(_)2|V 420(_)|V[).\n(4|V 70(_) 533 (_)5?\n[ERROR: Data encoding interrupted!]",
 	"custom.trivia.tentacle_lamp": "Provides light and basic defense for the Sculk,\nallowing its parasites to feast and lure in\nmore prey at the same time.\nW3 423 v32y 3ff1c13n7.",
 	
@@ -227,12 +232,33 @@
 
 
 
+	"_comment": "Eternal Starlight",
+	"custom.trivia.aurora_deer": "Native to Permafrost Starlight Forests,\nthese Deer don't taste quite like you'd expect.",
+	"custom.trivia.crystallized_moth": "A multi-colored moth,\npartially composed of magical crystals.",
+	"custom.trivia.ent": "A diminutive forest dweller,\nunique to the Starlight Realm.\nSmaller than its Overworldian counterparts\ndue to the lack of sunlight.",
+	"custom.trivia.freeze": "A distant relative of the Breeze, this\nfloating construct employs ice to slay its foes.",
+	"custom.trivia.gatekeeper": "Sworn to guard the Starlight Gateway,\nthis Gatekeeper only lets victorious challengers pass.\n\n...and it seems like you've come out on top.",
+	"custom.trivia.grimstone_golem": "Golems constructed out of Grimstone\nare protective, yet diminutive.",
+	"custom.trivia.lonestar_skeleton": "Wandering through the twisting caves\nof the Starlight Realm takes a toll on all,\nand a few unlucky souls\nget converted into this shell.",
+	"custom.trivia.luminaris": "These lunar fish mainly inhabit the Abyss,\nbut may occasional swim to a nearby Starlight Sea.\n\nThey use their horns during mating rituals.",
+	"custom.trivia.luminofish": "These lunar fish mainly inhabit the Abyss,\nbut may occasional swim to a nearby Starlight Sea.\nTheir sensory organs are positioned\nabove their head to keep a look out for predators.",
+	"custom.trivia.lunar_monstrosity": "Twisted by the fallout of the Great Starlight War,\nthis floral aberration has taken up residence\nin the Cursed Garden, consuming the souls of all\nunfortunate enough to cross its roots.",
+	"custom.trivia.nightfall_spider":  "These Spiders share their omnipresent\ninhabitation with the regular variety -\nbut they're more aggressive than you'd think.",
+	"custom.trivia.ratlin": "A giant rodent,\nnative to the Starlight Realm.\nIt looks so soft...",
+	"custom.trivia.starlight_golem": "One of the last remnants of\nthe Great Starlight War, these Golems\nspring to life when detecting an interloper.",
+	"custom.trivia.tangled": "When a Lunar Monstrosity consumes one's soul,\nit begins converting it into a Tangled.\nPart man and part plant, it is\nforced to protect the Garden by its floristic master.",
+	"custom.trivia.tangled_hatred": "Extensions of a Lunar Monstrosity's will,\nthese vines will flail about the place\nin an attempt to stop trespassers.\nAttack their roots to dispatch them.",
+	"custom.trivia.thirst_walker": "Eternally damned\nto wander the Crystallized Desert,\nthese mere husks of men\ncan never sate their dehydration.",
+	"custom.trivia.yeti": "Rolling around Permafrost Starlight Forests,\nthese small Yetis are quite playful.\nDo they guard a Snowy Hill, a Mansion, or a Needle?\nIf it's the latter, do they snowboard at all?",
+
+
+
 	"_comment": "Friends & Foes",
 	"custom.trivia.copper_golem": "This diminutive cousin of the Iron Golem\nactivates any buttons it can see, for it is compelled to do so by your will.",
 	"custom.trivia.crab_friend": "Found on Beaches, the humble Crab\nyields claws with reach-altering properties when slain.",
 	"custom.trivia.glare": "These floating clumps of moss and leaves seek out well-lit areas.\nGlow Berries are their favorite foods.",
 	"custom.trivia.iceologer": "A distant relative of the Evoker,\nthe Iceologer deploys its frosty force against all who encroach upon its domain.",
-	"custom.trivia.illusioner": "A relative of the Evoker, this master of illusionary magic\nis sure to challenge all who find it.",
+	"custom.trivia.illusioner": "A relative of the Evoker,\nthis master of illusionary magic\nis sure to confused and befuddle everyone.",
 	"custom.trivia.tuff_golem": "This diminutive cousin of the Iron Golem\ndisplays anything you give it - just ensure it doesn't wander away from its post.",
 	"custom.trivia.wildfire": "Masters of all Blazes, the Wildfire\nis incredibly tough for unprepared adventurers.\nEnsure you can resist its firey wrath.",
 
@@ -296,7 +322,7 @@
 	"custom.trivia.chorus_squid": "This strange offshoot of standard squids\nsomehow made its way to the End, and was corrupted by it.",
 	"custom.trivia.entombed": "Doomed to a purgatory of wandering,\nthese bulwarks of Purpur attack all who disturb their stupor.",
 	"custom.trivia.himmelite": "A strange mass of crystals and flora,\nbonded together by enderic forces.",
-	"custom.trivia.purpur_golem": "Constructed from\nChorus Fruit & Ender Eyes,\nthese Golems are compelled to protect\nthe Tower that fabricated it.",
+	"custom.trivia.purpur_golem": "Constructed from\nChorus Fruit and Ender Eyes,\nthese Golems are compelled to protect\nthe Tower that fabricated it.",
 	"custom.trivia.sinker": "These \"Sinkers\"\nare far beyond most forms of understanding.\nThey inhabit the various Geysers found in the\nenderic realm, and posses sharpened teeth.",
 	"custom.trivia.spectrafly": "A strange type of fly,\nfound only within the outer islands of the End.",
 	"custom.trivia.stalker": "Lurking in the shadows,\nStalkers will wait until their prey\nis at its most vulnerable before striking.",

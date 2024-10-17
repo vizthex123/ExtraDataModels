@@ -1,5 +1,6 @@
 Words to replace for proper (British) english:
 
 - Armor
+- Color
 - Defense
 - Favorite

@@ -7,9 +7,30 @@ This one will be updated more often than the CurseForge and Modrinth changelogs.
 I increment the version by .1 whenever I add more mod support.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## v1.6
+
+Added trivia for Eternal Starlight
+
+Added some trivia entries I forgot in v1.5:
+- Ghost Jellyfish [Deep Dark: Regrowth]
+- Marauder Pillager [Biome Makeover]
+
+Tweaked the following entries:
+- Corrupted Skeleton [Deep Dark: Regrowth]
+- Sculk Parasite [Deep Dark: Regrowth]
+- Tentacle Lamp [Deep Dark: Regrowth]
+- Warped Enderman [Bygone Nether]
+- Illusioner [Friends & Foes]
+- Purpur Golem [The Outer End]
+- Mine Guardian [Alex's Caves]
+- Farseer [Alex's Mobs]
+
+
+--------------------------------------------------
 ## v1.5
 
 Added a few trivia entries for some models exclusive to [Capitalia: Inward Expansion](https://www.curseforge.com/minecraft/modpacks/capitalia-2)
+
 Fixed the Atlatitan's final trivia line not showing up in-game.
 
 Tweaked the following trivia entries:
@@ -33,7 +54,6 @@ Added trivia for the following mods:
 
 
 --------------------------------------------------
-
 ## v1.4.1
 
 Now supports Minecraft 1.21.1
@@ -46,7 +66,6 @@ Added trivia for the following mobs:
 
 
 --------------------------------------------------
-
 ## v1.4
 
 Added trivia for Ice & Fire's mobs
@@ -58,7 +77,6 @@ Tweaked the trivia for the following mobs:
 
 
 --------------------------------------------------
-
 ## v1.3
 
 Added trivia for modded mobs added in v1.4 of the datapack
@@ -73,7 +91,6 @@ Changed the name for the Immortal Jellyfish [Upgrade Aquatic]
 - Since all 3 variants share a model, the model is now called "Jellyfish"
 
 --------------------------------------------------
-
 ## 1.2.1
 
 Now uses the `supported_formats` field, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
@@ -83,7 +100,6 @@ In addition, I've archived all the old versions to make the file list more reada
 
 
 --------------------------------------------------
-
 ## 1.2
 
 Tweaked the wording for the Thrasher's trivia
@@ -107,7 +123,18 @@ Added trivia for Upgrade Aquatic's mobs
 	Added trivia for Camels [Ecologics]
 
 --------------------------------------------------
-
 ## v1.0
 
 Initial release.
+
+Contains trivia entries for mobs from the following mods:
+
+- Ad Astra
+- Ad Astra: Proxima Plus
+- Alex's Caves
+- Aquatic Frontiers
+- Ecologics
+- Ender Zoology
+- Galosphere
+- The Outer End
+- Quark
