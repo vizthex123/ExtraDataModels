@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "enderzoology"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderzoology"
+		}
 	],
     "entity": "enderzoology:enderminy",
     "name": "entity.enderzoology.enderminy",
@@ -12,20 +12,27 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 384,
+    "sim_cost": 448,
     "input": {
-        "item": "hostilenetworks:prediction_matrix",
-        "count": 1
+        "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:end_prediction",
-        "count": 1
+        "item": "hostilenetworks:end_prediction"
     },
     "trivia": "custom.trivia.enderminy",
     "fabricator_drops": [
         {
+            "item": "minecraft:ender_pearl",
+            "count": 4
+        },
+        {
             "item": "enderzoology:ender_fragment",
-            "count": 16
+            "count": 40
+        },
+        {
+            "optional": true,
+            "item": "evilcraft:ender_tear",
+            "count": 2
         },
         {
             "optional": true,

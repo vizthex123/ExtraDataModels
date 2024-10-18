@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "aquatic_frontiers"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquatic_frontiers"
+		}
 	],
     "entity": "aquatic_frontiers:coralcrab",
     "name": "entity.aquatic_frontiers.coralcrab",
-    "name_color": "#551d8e",
+    "name_color": "#551D8E",
     "gui_scale": 0.8,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,35 +23,31 @@
     "fabricator_drops": [
         {
             "item": "minecraft:cod",
-            "count": 32
+            "count": 16
         },
         {
             "item": "minecraft:tropical_fish",
-            "count": 32
+            "count": 16
         },
         {
             "item": "minecraft:pufferfish",
-            "count": 32
+            "count": 16
         },
         {
             "item": "minecraft:brain_coral",
-            "count": 16
+            "count": 8
         },
         {
             "item": "minecraft:fire_coral",
-            "count": 16
+            "count": 8
         },
         {
             "item": "minecraft:horn_coral",
-            "count": 16
+            "count": 8
         },
         {
             "item": "minecraft:tube_coral",
-            "count": 16
-        },
-        {
-            "item": "aquatic_frontiers:aquatic_frontiers_theme",
-            "count": 1
+            "count": 8
         }
     ]
 }

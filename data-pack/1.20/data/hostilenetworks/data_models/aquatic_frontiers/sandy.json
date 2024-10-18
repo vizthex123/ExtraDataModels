@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "aquatic_frontiers"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquatic_frontiers"
+		}
 	],
     "entity": "aquatic_frontiers:sandy",
     "variants": [
@@ -12,12 +12,12 @@
 		"aquatic_frontiers:soul_sandy"
 	],
     "name": "entity.aquatic_frontiers.sandy",
-    "name_color": "#d7cda1",
+    "name_color": "#D7CDA1",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 32,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -27,12 +27,8 @@
     "trivia": "custom.trivia.sandy",
     "fabricator_drops": [
         {
-            "item": "minecraft:sand",
+            "item": "minecraft:sea_pickle",
             "count": 8
-        },
-        {
-            "item": "minecraft:soul_sand",
-            "count": 4
         },
         {
             "item": "minecraft:brain_coral",
@@ -55,8 +51,12 @@
             "count": 16
         },
         {
-            "item": "minecraft:sea_pickle",
-            "count": 16
+            "item": "minecraft:sand",
+            "count": 8
+        },
+        {
+            "item": "minecraft:soul_sand",
+            "count": 2
         }
     ]
 }

@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:straddler",
     "name": "entity.alexsmobs.straddler",
-    "name_color": "#2b2e3b",
+    "name_color": "#2B2E3B",
     "gui_scale": 0.69,
     "gui_x_offset": 0,
     "gui_y_offset": -0.25,
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "alexsmobs:straddlite",
-            "count": 2
+            "count": 4
         },
         {
             "item": "minecraft:basalt",

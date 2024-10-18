@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:mudskipper",
     "name": "entity.alexsmobs.mudskipper",
-    "name_color": "#525b41",
+    "name_color": "#525B41",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:crimson_mosquito",
     "name": "entity.alexsmobs.crimson_mosquito",
@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 48,
+    "sim_cost": 24,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "alexsmobs:mosquito_proboscis",
-            "count": 16
+            "count": 8
         },
         {
             "item": "alexsmobs:blood_sac",

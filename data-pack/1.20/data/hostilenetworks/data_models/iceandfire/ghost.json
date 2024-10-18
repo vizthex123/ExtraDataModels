@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "iceandfire"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
 	],
 	"entity": "iceandfire:ghost",
     "name": "entity.iceandfire.ghost",
@@ -12,7 +12,7 @@
 	"gui_x_offset": 0,
 	"gui_y_offset": -0.15,
 	"gui_z_offset": 0,
-	"sim_cost": 32,
+	"sim_cost": 128,
 	"input": {
 		"item": "hostilenetworks:prediction_matrix"
 	},
@@ -23,6 +23,16 @@
 	"fabricator_drops": [
 		{
 			"item": "iceandfire:ectoplasm",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "biomemakeover:ectoplasm",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "nourished_nether:ectoplasm",
 			"count": 8
 		}
 	]

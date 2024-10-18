@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexscaves"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
 	],
     "entity": "alexscaves:subterranodon",
     "name": "entity.alexscaves.subterranodon",
-    "name_color": "#006f70",
+    "name_color": "#006F70",
     "gui_scale": 0.5,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 128,
+    "sim_cost": 192,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -24,22 +24,18 @@
         {
             "item": "alexscaves:subterranodon_egg",
             "count": 4
-        },
-        {
-            "item": "minecraft:feather",
-            "count": 16
         }
     ],
     "tier_data": [
-		16,
-        64,
-        128,
-        384
+		96,
+        384,
+        1536,
+        6144
     ],
     "data_per_kill": [
-        4,
-        8,
-        8,
-        16
+        32,
+        64,
+        128,
+        256
     ]
 }

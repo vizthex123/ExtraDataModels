@@ -1,47 +1,41 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "galosphere"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
 	],
     "entity": "galosphere:berserker",
     "name": "entity.galosphere.berserker",
-    "name_color": "#d77e66",
+    "name_color": "#D77E66",
     "gui_scale": 0.7,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 2611,
+    "sim_cost": 256,
     "input": {
-        "item": "hostilenetworks:prediction_matrix",
-        "count": 1
+        "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:end_prediction",
-        "count": 1
+        "item": "hostilenetworks:overworld_prediction"
     },
     "trivia": "custom.trivia.berserker",
     "fabricator_drops": [
         {
             "item": "galosphere:pink_salt_shard",
-            "count": 16
-        },
-        {
-            "item": "galosphere:salted_jerky",
-            "count": 12
+            "count": 64
         }
     ],
     "tier_data": [
-        66,
+        10,
         216,
-        666,
-        1990
+        1989,
+        2016
     ],
     "data_per_kill": [
-        66,
-        108,
-        222,
-        498
+        3,
+        27,
+        125,
+        63
     ]
 }

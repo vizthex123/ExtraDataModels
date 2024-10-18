@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "outer_end"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "outer_end"
+		}
 	],
     "entity": "outer_end:entombed",
     "name": "entity.outer_end.entombed",
@@ -12,20 +12,18 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 192,
+    "sim_cost": 128,
     "input": {
-        "item": "hostilenetworks:prediction_matrix",
-        "count": 1
+        "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:end_prediction",
-        "count": 1
+        "item": "hostilenetworks:end_prediction"
     },
     "trivia": "custom.trivia.entombed",
     "fabricator_drops": [
         {
             "item": "minecraft:purpur_block",
-            "count": 32
+            "count": 16
         }
     ]
 }

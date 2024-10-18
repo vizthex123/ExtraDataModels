@@ -1,12 +1,11 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "friendsandfoes"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "friendsandfoes"
+		}
 	],
     "entity": "friendsandfoes:glare",
-    "variants": [],
     "name": "entity.friendsandfoes.glare",
     "name_color": "#40531A",
     "gui_scale": 1,
@@ -25,6 +24,10 @@
         {
             "item": "minecraft:moss_block",
             "count": 1
+        },
+        {
+            "item": "minecraft:glow_berries",
+            "count": 4
         },
         {
 			"optional": true,

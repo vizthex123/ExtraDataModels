@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexscaves"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
 	],
     "entity": "alexscaves:brainiac",
     "name": "entity.alexscaves.brainiac",
@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 128,
+    "sim_cost": 256,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -30,24 +30,24 @@
             "count": 2
         },
         {
-            "item": "alexscaves:waste_drum",
-            "count": 1
+            "item": "minecraft:rotten_flesh",
+            "count": 64
         },
         {
-            "item": "minecraft:rotten_flesh",
-            "count": 48
+            "item": "alexscaves:waste_drum",
+            "count": 1
         }
     ],
     "tier_data": [
-		16,
-        64,
-        128,
-        384
+		128,
+        512,
+        2048,
+        8192
     ],
     "data_per_kill": [
-        4,
-        8,
-        8,
-        16
+        64,
+        128,
+        256,
+        512
     ]
 }

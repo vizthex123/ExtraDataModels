@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "iceandfire"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
 	],
 	"entity": "iceandfire:myrmex_queen",
     "name": "entity.iceandfire.myrmex_queen",
@@ -27,7 +27,7 @@
 		},
 		{
 			"item": "iceandfire:myrmex_desert_resin",
-			"count": 64
+			"count": 48
 		},
 		{
 			"item": "iceandfire:myrmex_jungle_chitin",
@@ -35,7 +35,7 @@
 		},
 		{
 			"item": "iceandfire:myrmex_jungle_resin",
-			"count": 64
+			"count": 48
 		}
 	]
 }

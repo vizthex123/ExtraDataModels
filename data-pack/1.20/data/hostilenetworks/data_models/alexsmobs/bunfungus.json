@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:bunfungus",
     "name": "entity.alexsmobs.bunfungus",
-    "name_color": "#757b9e",
-    "gui_scale": 0.77,
+    "name_color": "#757B9E",
+    "gui_scale": 0.62,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:rabbit",
-            "count": 16
+            "count": 24
         },
         {
             "item": "minecraft:red_mushroom",

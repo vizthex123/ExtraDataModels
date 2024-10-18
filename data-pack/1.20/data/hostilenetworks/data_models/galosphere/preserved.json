@@ -1,31 +1,29 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "galosphere"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "galosphere"
+		}
 	],
     "entity": "galosphere:preserved",
     "name": "entity.galosphere.preserved",
-    "name_color": "#e8b0a4",
+    "name_color": "#E8B0A4",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 192,
+    "sim_cost": 128,
     "input": {
-        "item": "hostilenetworks:prediction_matrix",
-        "count": 1
+        "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:overworld_prediction",
-        "count": 1
+        "item": "hostilenetworks:overworld_prediction"
     },
     "trivia": "custom.trivia.preserved",
     "fabricator_drops": [
         {
             "item": "galosphere:salted_jerky",
-            "count": 16
+            "count": 8
         }
     ]
 }

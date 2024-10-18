@@ -1,21 +1,20 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexscaves"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
 	],
     "entity": "alexscaves:relicheirus",
     "name": "entity.alexscaves.relicheirus",
-    "name_color": "#56295d",
+    "name_color": "#56295D",
     "gui_scale": 0.25,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
     "sim_cost": 192,
     "input": {
-        "item": "hostilenetworks:prediction_matrix",
-		"count": 2
+		"item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
@@ -23,8 +22,8 @@
     "trivia": "custom.trivia.relicheirus",
     "fabricator_drops": [
         {
-            "item": "alexscaves:dinosaur_chop",
-            "count": 8
+            "item": "minecraft:feather",
+            "count": 32
         },
         {
             "item": "alexscaves:heavy_bone",
@@ -35,20 +34,20 @@
             "count": 4
         },
         {
-            "item": "minecraft:feather",
-            "count": 16
+            "item": "alexscaves:dinosaur_chop",
+            "count": 4
         }
     ],
     "tier_data": [
-		16,
-        64,
-        128,
-        384
+		96,
+        384,
+        1536,
+        6144
     ],
     "data_per_kill": [
-        8,
-        16,
-        16,
-        32
+        32,
+        64,
+        128,
+        256
     ]
 }

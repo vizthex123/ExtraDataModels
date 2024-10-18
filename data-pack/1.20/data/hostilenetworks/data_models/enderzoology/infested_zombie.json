@@ -1,25 +1,23 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "enderzoology"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderzoology"
+		}
 	],
     "entity": "enderzoology:infested_zombie",
     "name": "entity.enderzoology.infested_zombie",
-    "name_color": "#2a6349",
+    "name_color": "#2A6349",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
     "sim_cost": 192,
     "input": {
-        "item": "hostilenetworks:prediction_matrix",
-        "count": 1
+        "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:end_prediction",
-        "count": 1
+        "item": "hostilenetworks:overworld_prediction"
     },
     "trivia": "custom.trivia.infested_zombie",
     "fabricator_drops": [
@@ -29,28 +27,28 @@
         },
         {
             "item": "minecraft:carrot",
-            "count": 16
-        },
-        {
-            "item": "minecraft:potato",
-            "count": 16
-        },
-        {
-            "item": "minecraft:iron_ingot",
-            "count": 8
-        },
-        {
-            "item": "minecraft:book",
             "count": 12
         },
         {
+            "item": "minecraft:potato",
+            "count": 12
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 6
+        },
+        {
+            "item": "minecraft:book",
+            "count": 4
+        },
+        {
             "item": "enderzoology:ender_fragment",
-            "count": 8
+            "count": 12
         },
         {
             "optional": true,
             "item": "reliquary:zombie_heart",
-            "count": 2
+            "count": 4
         }
     ]
 }

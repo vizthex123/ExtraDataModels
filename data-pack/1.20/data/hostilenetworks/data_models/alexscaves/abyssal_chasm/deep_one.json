@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexscaves"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
 	],
     "entity": "alexscaves:deep_one",
     "variants": [
@@ -11,12 +11,12 @@
 		"alexscaves:deep_one_mage"
 	],
     "name": "entity.alexscaves.deep_one",
-    "name_color": "#091b34",
+    "name_color": "#091B34",
     "gui_scale": 0.85,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 196,
+    "sim_cost": 113,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -26,16 +26,36 @@
     "trivia": "custom.trivia.deep_one",
     "fabricator_drops": [
         {
-            "item": "minecraft:clay_ball",
-            "count": 4
-        },
-        {
             "item": "minecraft:diamond",
             "count": 1
         },
         {
+            "item": "minecraft:lapis_lazuli",
+            "count": 4
+        },
+        {
+            "item": "minecraft:prismarine_shard",
+            "count": 4
+		},
+        {
+            "item": "minecraft:prismarine_crystals",
+            "count": 6
+        },
+        {
+            "item": "minecraft:raw_gold",
+            "count": 3
+        },
+        {
+            "item": "minecraft:clay_ball",
+            "count": 4
+        },
+        {
             "item": "minecraft:experience_bottle",
             "count": 1
+        },
+        {
+            "item": "alexscaves:sea_glass_shards",
+            "count": 4
         },
         {
             "item": "minecraft:ink_sac",
@@ -46,27 +66,11 @@
             "count": 4
         },
         {
-            "item": "minecraft:gold_nugget",
-            "count": 8
-        },
-        {
-            "item": "minecraft:kelp",
-            "count": 6
-        },
-        {
-            "item": "minecraft:lapis_lazuli",
-            "count": 4
-        },
-        {
             "item": "minecraft:nautilus_shell",
             "count": 2
         },
         {
-            "item": "minecraft:prismarine_shard",
-            "count": 4
-		},
-        {
-            "item": "minecraft:prismarine_crystals",
+            "item": "minecraft:kelp",
             "count": 6
         },
         {
@@ -82,16 +86,8 @@
             "count": 6
         },
         {
-            "item": "minecraft:raw_gold",
-            "count": 1
-        },
-        {
             "item": "minecraft:scute",
             "count": 3
-        },
-        {
-            "item": "alexscaves:sea_glass_shards",
-            "count": 4
         },
         {
             "item": "alexscaves:ping_pong_sponge",
@@ -103,15 +99,15 @@
         }
     ],
     "tier_data": [
-		16,
-        64,
-        128,
-        384
+		12,
+        102,
+        1936,
+        2011
     ],
     "data_per_kill": [
-        4,
-        8,
-        8,
-        16
+        3,
+        12,
+        121,
+        84
     ]
 }

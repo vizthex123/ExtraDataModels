@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:laviathan",
     "name": "entity.alexsmobs.laviathan",
-    "name_color": "#2b2e3b",
+    "name_color": "#2B2E3B",
     "gui_scale": 0.3,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 128,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,15 +23,15 @@
     "fabricator_drops": [
         {
             "item": "minecraft:blackstone",
-            "count": 16
-        },
-        {
-            "item": "minecraft:magma_block",
             "count": 8
         },
         {
-            "item": "minecraft:obsidian",
+            "item": "minecraft:magma_block",
             "count": 4
+        },
+        {
+            "item": "minecraft:obsidian",
+            "count": 2
         }
     ]
 }

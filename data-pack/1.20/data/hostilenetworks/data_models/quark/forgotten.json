@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "quark"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "quark"
+		}
 	],
     "entity": "quark:forgotten",
     "name": "entity.quark.forgotten",
@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 512,
+    "sim_cost": 256,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -31,19 +31,23 @@
         },
 		{
             "item": "minecraft:bone",
-            "count": 48
+            "count": 32
+        },
+		{
+            "item": "minecraft:skeleton_skull",
+            "count": 2
         }
     ],
     "tier_data": [
-        2,
-        20,
-        222,
-        2000
+        1874 ,
+        1922 ,
+        1981,
+        2023
     ],
     "data_per_kill": [
-        2,
-        10,
-        74,
-        500
+        1874,
+        961,
+        660,
+        404
     ]
 }

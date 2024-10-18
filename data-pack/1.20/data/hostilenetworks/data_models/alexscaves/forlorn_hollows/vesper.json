@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexscaves"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexscaves"
+		}
 	],
     "entity": "alexscaves:vesper",
     "name": "entity.alexscaves.vesper",
@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 192,
+    "sim_cost": 256,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -31,15 +31,15 @@
         }
     ],
     "tier_data": [
-		16,
-        64,
-        128,
-        384
+		128,
+        512,
+        2048,
+        8192
     ],
     "data_per_kill": [
-        4,
-        8,
-        8,
-        16
+        64,
+        128,
+        256,
+        512
     ]
 }

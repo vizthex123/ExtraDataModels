@@ -4,11 +4,102 @@ A full changelog for every version (and sub-version) of the [Datapack](https://w
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by .1 whenever I add more mod support to multiple versions.
+I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch.
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## v2.0
+
+Overhauled a lot of backend stuff
+- Doesn't really affect players, but it does make development a bit easier
+
+Re-balanced the Stoneling's loot once again [Quark]
+Fixed several models giving the wrong  generalized predictions
+All Ad Astra models now give End Predictions instead of Overworld.
+Added models for the following mobs:
+- Bee (suggested by Tyler489 on the Hostile Neural Networks discord server)
+- Ravager
+- Pillager
+- Vindicator
+
+
+Wraiths now give half as much Ectoplasm (all types) [Quark] 
+The Endergrade model now only loads if The Outer End is also loaded [Alex's Mobs]
+Increased the Slime Pearl output from Ferrouslimes [Alex's Caves] and Mimicubes [Alex's Mobs] to 4 (was 3)
+
+Reduced the amount of Netherite Scrap Ancient Knights give [Iron's Spells n' Spellbooks]
+Half the amount of Rotten Flesh (now 16) and Cheese (now 8) Star Crawlers give [Ad Astra]
+Changed the Wither to give Nether Predictions and require less data per tier
+The Goose is no longer a Chicken variant [Upgrade Aquatic]
+Removed End Crystals from Enderman models
+
+
+Fixed Quark's Crab model using too much RF (was 128/t, now 48/t)
+Reduced the RF usage of Star Crawlers to 109/t (was 164/t) [Ad Astra]
+Reduced the RF usage of the Forgotten to 256/t (was 512) [Quark]
+Reduced the render size of the Annihilator so it fits better into the preview box [Deep Dark: Regrowth]
+Reduced the render size of the Bone Serpent, Bunfugus, and Guster [Alex's Mobs]
+
+Added a separate model for the Wither Skeleton Knight and Wraither [Bygone Nether]
+- Previously, they were Wither Skeleton variants
+
+Added a separate model for the Fallen Knight [Ender Zoology]
+- Previously, it was a Zombie and Skeleton variant
+
+
+Added support for the following mods:
+- Aquamirae
+- Biome Makeover
+- Bygone Nether
+- Deep Dark: Regrowth
+Added a separate model for the Wither Skeleton Knight and Wraither [Bygone Nether]
+- Previously, they were Wither Skeleton variants
+
+Added a separate model for the Fallen Knight [Ender Zoology]
+- Previously, it was a Zombie and Skeleton variant
+
+
+Added support for the following mods:
+- Aquamirae
+- Biome Makeover
+- Bygone Nether
+- Deep Dark: Regrowth
+
+
+	### 1.20 only
+	Rebalanced almost every model based on my [new standards](https://github.com/vizthex123/ExtraDataModels/blob/main/standards.md#AlexsCaves)
+	- All Alex's Caves mobs have unique RF/tick costs based on their category
+	-- The various references I sometimes make do override this standard though (which applies to every model)
+	- All Alex's Caves enemies have unique scaling (due to the cave rarity), which you can find in the new standards doc
+	-- Old scaling for standard enemies was 4/8/16/24 kills to max a model
+	-- Old scaling for bosses was 2/3/4/5 kills to max a model
+	- There's too many to list, but a few of the ones I changed are below
+
+	Removed Feathers from the Subterranodon's drops
+	Halved the Dinosaur Chop drops of all the Primordial Grotto mobs [Alex's Caves]
+	Added the Atlatitan's loot to the Luxtructosaurus
+	- It give a bit less while costing more RF (since it's a boss), but makes the model a tad more useful
+
+	Tweaked a few models from Alex's Caves:
+	- Brainiac now uses 256 RF/t (was 128)
+	- Teletor now uses 192 RF/t (was 128)
+	- Notor now uses 92 RF/t (was 64)
+
+	Adjusted the Hullbreaker model
+	- Tweaked data rates
+	- Increased the Sea Glass Shard output to 32 (was 8)
+	- Moved the model preview upwards a bit so it's more centered
+
+	Tweaked the drops of the Deep One model
+	- Removed Gold Nuggets and increased Raw Gold to 3 (was 1)
+	- Tweaked the order so things are grouped together a bit better
+
+	Reduced the Mimicube's Ferrouslimeball output to 4 (was 8) [Alex's Mobs] 
+	Marauder Pillagers (Cowboys) now have their own model [Biome Makeover]
+
+
+--------------------------------------------------
 ## v1.6
 *This entire update is only for 1.21 since a guy asked for extra mod support almost a week ago. Figured I'd take a break from developing v2.0 and add this real quick.*
 
@@ -42,9 +133,9 @@ The Dead King's data model now requires far fewer kills to level up
 
 Added support for the following mods:
 - Ice & Fire (suggested by TravHan2009 in the comments section)
-- YUNG's Cave Biomes [1.20 and 1.18]
+- [1.20 and 1.18] YUNG's Cave Biomes
 
-	[1.21 Only]
+	### 1.21 only
 	Ported to 1.21.1
 
 	Most mod support has been removed for now, but I'll re-do it all as they do get ported (gonna be *so fun* to change the handful of lines that are different in all 300 files :D)
@@ -53,7 +144,7 @@ Added support for the following mods:
 	The Bogged is now a Skeleton variant
 
 
-	[1.17 Only]
+	### 1.17 only
 	Dropped support for 1.17.1
 
 	I hate having to drop support for a version people might play, but my test instance won't load and I can't fix it. In addition to this, all the mods I support either dropped support for or entirely skipped 1.17 since it's a half-baked version.
@@ -96,14 +187,14 @@ Friends & Foes [1.18+] - Moobloom is a cow variant
 Iron's Spells 'n Spellbooks [1.18+]
 Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 
-	[1.19 Only]
+	### 1.19 only
 	Backported to 1.19.2
 
 	Fixed the pack format being wrong
 
 	Fixed the UI scaling for the Warped Mosco, Lavathian, and Moose
 
-	[1.18 Only]
+	### 1.18 only
 	Backported to 1.18.X
 
 	Fixed the pack format being wrong
@@ -129,7 +220,7 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 	Apothecarist
 	Priest
 
-	[1.17 Only]
+	### 1.17 only
 	Backported to 1.17.1
 
 	Removed all mod support drops since the method it uses doesn't exist in this version
@@ -153,13 +244,15 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 --------------------------------------------------
 ## v1.3.1
 
+_This version marks the first release on Modrinth. If you want to check out previous versions, you can [read the changelog](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog_data.md#v13) or download them from [CurseForge](https://www.curseforge.com/minecraft/data-packs/extra-data-models/files/all?page=1&pageSize=20)._
+
 Fixed the Squirrel and Gloomoth models not loading
 
-	[1.19 Only]
+	### 1.19 only
 	Fixed all my custom variants not loading
 	Fixed the Phantom model not loading
 
-	[1.18 Only]
+	### 1.18 only
 	Backported to 1.18.X
 
 	Removed Aquatic Frontiers and Ender Zoology support
@@ -167,13 +260,13 @@ Fixed the Squirrel and Gloomoth models not loading
 	Fixed a few models not loading because I formatted things wrong
 	Other changes from the 1.19 version
 
-	[1.17 Only]
+	### 1.17 only
 	Backported to 1.17.1
 
 	Removed all mod support since nobody uses this version
 	- I figured I'd publish it anyway since it does tweak a couple of the default models, and maybe somebody's playing this half-finished MC version for god knows what reason and wants to use this datapack.
 
-	I don't know if this will even work (HNN wants Placebo v5.0.3 but it seems like that doesn't exist), so hopefully it does lol
+	I don't know if this will even work (HNN wants Placebo v5.0.3, but it seems like that doesn't exist), so hopefully it does lol
 
 
 --------------------------------------------------
@@ -196,7 +289,7 @@ Nucleeper data models now require 512 RF/t (was 256)
 Added data models for the following mobs:
 - Entombed [Outer End]
 - Spectrafly [Outer End]
-- [1.20 Only] Star Crawler [Ad Astra]
+- [1.20 only] Star Crawler [Ad Astra]
 
 
 --------------------------------------------------
@@ -205,7 +298,7 @@ Added data models for the following mobs:
 The datapack no longer loads models if the mod they're for isn't installed.
 Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 
-	[1.19 Only]
+	### 1.19 only
 	Backported to 1.19.2
 
 	Removed Alex's Caves support since the mod isn't on this version

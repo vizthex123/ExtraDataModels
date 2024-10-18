@@ -1,14 +1,14 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:bone_serpent",
     "name": "entity.alexsmobs.bone_serpent",
-    "name_color": "#5b524d",
-    "gui_scale": 1,
+    "name_color": "#5B524D",
+    "gui_scale": 0.56,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

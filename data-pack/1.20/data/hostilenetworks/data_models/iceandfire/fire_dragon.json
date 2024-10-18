@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "iceandfire"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
 	],
 	"entity": "iceandfire:fire_dragon",
     "name": "entity.iceandfire.fire_dragon",
@@ -22,15 +22,15 @@
 	"trivia": "custom.trivia.fire_dragon",
 	"fabricator_drops": [
 		{
-			"item": "iceandfire:dragonbone",
-			"count": 16
-		},
-		{
 			"item": "iceandfire:fire_dragon_flesh",
 			"count": 8
 		},
 		{
-			"item": "iceandfire:dragonscales_red",
+			"item": "iceandfire:dragonbone",
+			"count": 16
+		},
+		{
+			"item": "iceandfire:dragonscales_bronze",
 			"count": 32
 		},
 		{
@@ -38,11 +38,11 @@
 			"count": 32
 		},
 		{
-			"item": "iceandfire:dragonscales_bronze",
+			"item": "iceandfire:dragonscales_green",
 			"count": 32
 		},
 		{
-			"item": "iceandfire:dragonscales_green",
+			"item": "iceandfire:dragonscales_red",
 			"count": 32
 		},
 		{

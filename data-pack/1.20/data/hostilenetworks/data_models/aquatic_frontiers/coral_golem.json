@@ -7,12 +7,12 @@
 	],
     "entity": "aquatic_frontiers:coralgolem",
     "name": "entity.aquatic_frontiers.coralgolem",
-    "name_color": "#5da294",
+    "name_color": "#5DA294",
     "gui_scale": 0.6,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },

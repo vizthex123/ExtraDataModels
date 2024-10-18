@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "aquatic_frontiers"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquatic_frontiers"
+		}
 	],
     "entity": "aquatic_frontiers:giantsquid",
     "name": "entity.aquatic_frontiers.giantsquid",
@@ -19,7 +19,7 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.aquatic_giant_squid",
+    "trivia": "custom.trivia.giant_squid_aquatic",
     "fabricator_drops": [
         {
             "item": "minecraft:ink_sac",

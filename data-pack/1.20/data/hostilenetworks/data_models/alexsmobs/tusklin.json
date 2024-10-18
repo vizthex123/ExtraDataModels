@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:tusklin",
     "name": "entity.alexsmobs.tusklin",
-    "name_color": "#e6e9ec",
+    "name_color": "#E6E9EC",
     "gui_scale": 0.75,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 128,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:porkchop",
-            "count": 32
+            "count": 48
         },
         {
             "item": "minecraft:snowball",

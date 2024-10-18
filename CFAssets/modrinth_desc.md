@@ -39,14 +39,15 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)				|				  |			   |      		    |✔			  |			   |								   |
 | [Alex's Caves](https://modrinth.com/mod/alexs-caves)																						|				  |			   |      		    |✔			  |			   |								   |
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)																						|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
-| [Aquamirae](https://modrinth.com/mod/aquamirae)																							|				  |✔		   |✔			|✔			  |			   |1.6							   |
+| [Aquamirae](https://modrinth.com/mod/aquamirae)																							|				  |✔		   |✔			|✔			  |			   |2.0							   |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)																		|				  |			   |✔			|✔			  |			   |								   |
-| [Biome Makover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |1.6							   |
-| [Bygone Nether](https://modrinth.com/mod/bygone-nether)																				|				  |✔		   |✔		    |✔			  |			   |1.6							   |
-| [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |1.6							   |
+| [Biome Makover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |2.0							   |
+| [Bygone Nether](https://modrinth.com/mod/bygone-nether)																				|				  |✔		   |✔		    |✔			  |			   |2.0							   |
+| [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |2.0							   |
 | [Ecologics](https://modrinth.com/mod/ecologics)																								|				  |✔		   |✔			|✔			  |			   |								   |
 | [Ender Zoology](https://modrinth.com/mod/ender-zoology)																				|				  |			   |✔			|✔			  |✔		   |								   |
-| [The Endergetic Expansion](https://modrinth.com/mod/endergetic)																	|				  |			   |✔			|				  |			   |1.6							   |
+| [The Endergetic Expansion](https://modrinth.com/mod/endergetic)																	|				  |			   |✔			|				  |			   |2.0							   |
+| [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)									|				  |			   |			    |				  |✔		   |1.6							   |
 | [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																	|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [Galosphere](https://modrinth.com/mod/galosphere)																							|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |

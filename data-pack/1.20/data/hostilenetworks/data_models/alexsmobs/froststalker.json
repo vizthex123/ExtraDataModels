@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "entity": "alexsmobs:froststalker",
     "name": "entity.alexsmobs.froststalker",
-    "name_color": "#e6e9ec",
+    "name_color": "#6381B8",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 128,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,19 +23,19 @@
     "fabricator_drops": [
         {
             "item": "alexsmobs:froststalker_horn",
-            "count": 8
+            "count": 2
         },
         {
             "item": "minecraft:ice",
-            "count": 8
+            "count": 9
         },
         {
             "item": "minecraft:packed_ice",
-            "count": 4
+            "count": 3
         },
         {
             "item": "minecraft:blue_ice",
-            "count": 2
+            "count": 1
         }
     ]
 }
