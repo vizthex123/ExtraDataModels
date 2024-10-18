@@ -4,9 +4,44 @@ A full changelog for every version of the [Trivia Pack](https://www.curseforge.c
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by .1 whenever I add more mod support.
+I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor tweaks and/or additions I missed in the last patch.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## v1.6.1
+
+*I try to avoid changing the keys since it breaks backwards compat, but I had to make these two fit my key name standards.*
+
+Renamed the following mobs' keys, meaning their trivia won't load unless you're running v2.0 of the datapack:
+- Giant Squid and Sponge Squid [Aquatic Frontiers]
+
+*There's no reason not to update both packs at the same time, but you can avoid going past v1.6 of the Trivia Pack and v1.5 of the Data Pack if you really don't want the changes (for whatever reason).*
+
+Fixed a typo in the Kangaroo's trivia entry [Alex's Mobs]
+Fixed the trivia entry for the Bone Serpent not loading [Alex's Mobs]
+Renamed Quark's Oretoise to Toretoise
+- I swear it used to be called that since it's a good pun
+
+Added trivia entries for the following:
+- Fallen Knight [Ender Zoology]
+- Wither Skeleton Knight [Bygone Nether]
+- Wraither [Bygone Nether]
+
+Tweaked the following trivia entries:
+- Changed the line spacing in a few not listed here
+- Bald Eagle [Alex's Mobs]
+- Cave Centipede [Alex's Mobs]
+- Endergrade [Alex's Mobs]
+- Farseer [Alex's Mobs]
+- Enderminy [Ender Zoology]
+- Infested Zombie [Ender Zoology]
+- Booflo [Endergetic Expansion]
+- Starlight Golem [Eternal Starlight]
+- Wildfire [Friends & Foes]
+- Apothecarist [Iron's Spells 'n Spellbooks]
+- Foxhound [Quark]
+
+
+--------------------------------------------------
 ## v1.6
 
 Added trivia for Eternal Starlight
@@ -15,7 +50,7 @@ Added some trivia entries I forgot in v1.5:
 - Ghost Jellyfish [Deep Dark: Regrowth]
 - Marauder Pillager [Biome Makeover]
 
-Tweaked the following entries:
+Tweaked the following trivia entries:
 - Corrupted Skeleton [Deep Dark: Regrowth]
 - Sculk Parasite [Deep Dark: Regrowth]
 - Tentacle Lamp [Deep Dark: Regrowth]
@@ -90,8 +125,9 @@ Changed the trivia entry for Giant Squids [Aquatic Frontiers]
 Changed the name for the Immortal Jellyfish [Upgrade Aquatic]
 - Since all 3 variants share a model, the model is now called "Jellyfish"
 
+
 --------------------------------------------------
-## 1.2.1
+## v1.2.1
 
 Now uses the `supported_formats` field, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
 - Note that the game will whine about it being for "a newer version of Minecraft", but it will work fine
@@ -100,7 +136,7 @@ In addition, I've archived all the old versions to make the file list more reada
 
 
 --------------------------------------------------
-## 1.2
+## v1.2
 
 Tweaked the wording for the Thrasher's trivia
 
@@ -111,7 +147,7 @@ Added trivia for the following mobs:
 
 
 --------------------------------------------------
-## 1.1
+## v1.1
 
 Tweaked the trivia entries for a few mobs
 Added trivia for Upgrade Aquatic's mobs
@@ -121,6 +157,7 @@ Added trivia for Upgrade Aquatic's mobs
 
 	Removed Alex's Caves trivia since the mod isn't on this version
 	Added trivia for Camels [Ecologics]
+
 
 --------------------------------------------------
 ## v1.0

@@ -67,7 +67,7 @@
 			"custom.trivia.atlatitan": "Once a Luxtructosaurus\nis freed from its curse,\nit will wander through the Primordial Cavern.\nLoves to eat salads.",
 			"custom.trivia.grottoceratops": "Despite its outward appearance,\nthis saurian is rather peaceful.",
 			"custom.trivia.luxtructosaurus": "The luxuriously lethal Luxtructosaurus\nis not a foe to be trifled with.\nDoomed to bond with a Volcanic Core,\nit now lies in wait for a worthy challenger.",
-			"custom.trivia.relicheirus": "This overgrown primordial chicken\ncan prove useful if tempted with primal soup.\nAlso makes for a decent food source.",
+			"custom.trivia.relicheirus": "This overgrown primordial chicken\ncan prove useful if tempted with primal soup.\n\nAlso makes for a decent food source.",
 			"custom.trivia.subterranodon": "This flying reptile can be tamed & ridden.\n\nTheir favorite food is Trilocaris Tails.",
 			"custom.trivia.tremorsaurus": "Causes all to tremble when it roars.\n\nExercise caution when spelunking near them.",
 			"custom.trivia.trilocaris": "These rather sizeable arthropods\ncan be found all over the Primordial Caverns.\nOne of the few prey animals in the area.",
@@ -89,32 +89,32 @@
 	"_comment": "Alex's Mobs",
 	"entity.alexsmobs.cave_centipede": "Cave Centipede",
 
-	"custom.trivia.bald_eagle": "An eagle that's lost its plumage (but not really).",
+	"custom.trivia.bald_eagle": "An eagle that's lost its plumage (but not really).\n\nSaldy not blue (and accompanied by a fun tree).",
 	"custom.trivia.banana_slug": "Despite its namesake and appearance,\nit is quite poisonous and unfit for consumption.",
 	"custom.trivia.bison": "Bison Leather makes for an excellent insulator,\nand their large quantity of meat makes them a decent food source.\nJust don't get too close...",
 	"custom.trivia.blobfish": "Squished into a mere blob upon surfacing,\nits true appearance isn't too far off.",
 	"custom.trivia.blue_jay": "A simple bird that can be found all over.\nYou should name one Mordecai.",
-	"custom.trivia.bone_serpant": "Seems to be from an alternate dimension...\nbut even if it's not, ensure you exercise great caution.",
-	"custom.trivia.bunfungus": "This strange rabbit has been mutated\nby some kind of spore or mold.\nYou could gather some ingredients for stew...",
+	"custom.trivia.bone_serpent": "Seems like it's from an\nalternate dimension... but even if it's not,\nensure you exercise great caution around it.",
+	"custom.trivia.bunfungus": "This strange rabbit has been mutated\nby some kind of spore or mold.\n\nYou could gather some ingredients for stew...",
 	"custom.trivia.cachalot_whale": "These large mammals reside in warm oceans.\nYou'll have a whale of a tale if you ever meet one.",
 	"custom.trivia.catfish": "Despite its name, it's not actually part cat.",
-	"custom.trivia.cave_centipede": "A rare variant of a giant centipede,\nthis specimen is not to be trifled with due to its strength.",
+	"custom.trivia.cave_centipede": "A rare variant of a Giant Centipede,\nthis specimen didn't travel through a time portal.",
 	"custom.trivia.comb_jelly": "A rainbow-colored jellyfish.\nSo pretty...",
 	"custom.trivia.cosmic_cod": "Not to be confused with the Flying Fish.",
 	"custom.trivia.crimson_mosquito": "A slightly larger variant of regular mosquitos,\nthis speciment is able to quickly drain the blood of its victims.",
 	"custom.trivia.crocodile": "See you later, alligator.",
-	"custom.trivia.crow": "Quoth the raven, \"nevermore\".\nWait, that's not quite right...",
+	"custom.trivia.crow": "Quoth the raven, \"nevermore\".\n\nWait, that's not quite right...",
 	"custom.trivia.emu": "Don't declare war on them.",
-	"custom.trivia.endergrade": "An impossibly large Tardigrade,\nthe Endergrade makes its home in a strange dimension.",
-	"custom.trivia.farseer": "Guardians of the oft-forgotten Farlands,\nthese automatons are designed to repel all intruders they encounter.",
+	"custom.trivia.endergrade": "An impossibly large Tardigrade,\nthe Endergrade's home is a strange dimension.",
+	"custom.trivia.farseer": "Guardians of the oft-forgotten \"Farlands\",\nthese automatons are designed to repel\nall interlopers they encounter.",
 	"custom.trivia.fly": "An annoying insect,\nflies can be found in every radii of the globe.",
 	"custom.trivia.flying_fish": "Not to be confused with the Cosmic Cod.\nOddly, these ones do not appear during rainstorms.",
 	"custom.trivia.froststalker": "These strange creatures resemble deer,\nbut act the opposite of them.\nExercise caution when nearby.",
 	"custom.trivia.gazelle": "Incredibly agile, Gazelles can outpace almost everything.\nEnsure you have great speed when dealing with them.",
 	"custom.trivia.giant_squid": "Mistaken for a Kraken in times long gone,\nGiant Squids are a tricky beast to fight.\nMake sure you can breath underwater before provoking it.",
 	"custom.trivia.grizzly_bear": "When fighting a Grizzly Bear, do not do so.",
-	"custom.trivia.guster": "A strange, sentient tornado.\nDon't let it throw you across the desert!",
-	"custom.trivia.kangaroo": "Nature's agressive boxers.",
+	"custom.trivia.guster": "A strange, sentient tornado.\n\nDon't let it throw you across the desert!",
+	"custom.trivia.kangaroo": "Nature's aggressive boxers.",
 	"custom.trivia.laviathan": "These large lizards reside in the\nlava pools of the Nether.\nComposed of Basalt, Magma, and Obsidian,\nthey are one of the great mysteries of the realm.",
 	"custom.trivia.lobster": "Lobsters are immortal,\nand only die due to growing so large they can no longer feed themselves.\n(or they get eaten by something)",
 	"custom.trivia.mimic_octopus": "These tiny octopodes will copy any nearby materials in an attempt to blend in with their environment.",
@@ -155,8 +155,8 @@
 	"_comment": "Aquatic Frontiers",
 	"custom.trivia.coral_crab": "A strange variation of the humble crab\nthat sports a small coral reef on its back.",
 	"custom.trivia.coral_golem": "Guards its home with vigor.\nSeems to ignore you though...",
-	"custom.trivia.aquatic_giant_squid": "This large variant of a Squid is passive,\nbut would be a great source of ink if simulated.",
-	"custom.trivia.spongesquid": "A squid that's bonded with a Sponge.\n\nYou could give it some square-shaped pants, if you'd like.",
+	"custom.trivia.giant_squid_aquatic": "This large variant of a Squid is passive,\nbut would be a great source of ink if simulated.",
+	"custom.trivia.sponge_squid": "A squid that's bonded with a Sponge.\n\nYou could give it some square-shaped pants, if you'd like.",
 	"custom.trivia.sandy": "This thicker version of a Sand Dollar\ncan sport a variety of adornments on its... sand.\nIs it a carapace, a back, or something else?",
 
 
@@ -179,10 +179,8 @@
 	"_comment": "Bygone Nether",
 	"custom.trivia.corpor": "An offshoot of Wither Skeletons.\nCorpors are weaker, but more durable.\n\nStill good to keep your guard up around them.",
 	"custom.trivia.warped_enderman": "Endermen who get trapped in a\nWarped Forest may undergo severe mutation\ndue the magic within.",
-
-	"_comment": "These two are only avaliable in Capitalia: Inward Expansion",
-	"capitalia.trivia.wither_skeleton_knight": "Elite Wither Skeletons are recognized\nfor their great strength and skill,\nand are promoted to the rank of Knight.",
-	"capitalia.trivia.wraither": "Wither Skeletons who wander into\nSoul Sand Valleys may became corrupted by it,\ntransforming into Wraithers in the process.",
+	"custom.trivia.wither_skeleton_knight": "Elite Wither Skeletons recognized\nfor their great strength and skill\nare promoted to the rank of Knight.",
+	"custom.trivia.wraither": "Wither Skeletons who wander into\nSoul Sand Valleys may become corrupted by it,\nand the survivors transform into Wraithers.",
 
 
 
@@ -219,8 +217,9 @@
 
 	"_comment": "Ender Zoology",
 	"custom.trivia.concussion_creeper": "This variant of the Creeper\nis not an inverse architect,\nbut rather a concussive blow to the head.",
-	"custom.trivia.enderminy": "Technology has sadly regressed,\nand now prevents you from\nmorphing into one of these.",
-	"custom.trivia.infested_zombie": "Infested by enderic forces,\nthis Zombie now bears Books and Ender Shards -\nattempting to remedy its mutation.",
+	"custom.trivia.enderminy": "Technology has sadly regressed,\nand now prevents you from\ntransforming into one of these.",
+	"custom.trivia.fallen_knight": "Zombies in advanced stages of decay\nbecome Fallen, and those skilled in combat\nbecome Fallen Knights.",
+	"custom.trivia.infested_zombie": "Infested by enderic forces,\nthis Zombie now bears Books and Ender Shards,\nattempting to remedy its mutation by any means.",
 	"custom.trivia.owl": "I heard that Owls are a hoot at night.",
 	"custom.trivia.wither_cat": "When Wither Witches take a liking to a cat,\nthey will convert it with their dark magic.",
 	"custom.trivia.wither_witch": "Like the regular Witch,\nWither Witches employ a variety of spells\nto hinder your progress.\nOften enters battle with their feline friends.",
@@ -228,7 +227,7 @@
 
 
 	"_comment": "Endergetic Expansion",
-	"custom.trivia.booflo": "A strange flying frog, native to the End.\nIts hides have limited uses, but are still useful.",
+	"custom.trivia.booflo": "A strange flying frog, native to the End.\nIts hides have limited uses, but are still exploitable.",
 
 
 
@@ -245,7 +244,7 @@
 	"custom.trivia.lunar_monstrosity": "Twisted by the fallout of the Great Starlight War,\nthis floral aberration has taken up residence\nin the Cursed Garden, consuming the souls of all\nunfortunate enough to cross its roots.",
 	"custom.trivia.nightfall_spider":  "These Spiders share their omnipresent\ninhabitation with the regular variety -\nbut they're more aggressive than you'd think.",
 	"custom.trivia.ratlin": "A giant rodent,\nnative to the Starlight Realm.\nIt looks so soft...",
-	"custom.trivia.starlight_golem": "One of the last remnants of\nthe Great Starlight War, these Golems\nspring to life when detecting an interloper.",
+	"custom.trivia.starlight_golem": "One of the last remnants of\nthe Great Starlight War, these Golems\nspring to life when detecting an intruder.",
 	"custom.trivia.tangled": "When a Lunar Monstrosity consumes one's soul,\nit begins converting it into a Tangled.\nPart man and part plant, it is\nforced to protect the Garden by its floristic master.",
 	"custom.trivia.tangled_hatred": "Extensions of a Lunar Monstrosity's will,\nthese vines will flail about the place\nin an attempt to stop trespassers.\nAttack their roots to dispatch them.",
 	"custom.trivia.thirst_walker": "Eternally damned\nto wander the Crystallized Desert,\nthese mere husks of men\ncan never sate their dehydration.",
@@ -260,7 +259,7 @@
 	"custom.trivia.iceologer": "A distant relative of the Evoker,\nthe Iceologer deploys its frosty force against all who encroach upon its domain.",
 	"custom.trivia.illusioner": "A relative of the Evoker,\nthis master of illusionary magic\nis sure to confused and befuddle everyone.",
 	"custom.trivia.tuff_golem": "This diminutive cousin of the Iron Golem\ndisplays anything you give it - just ensure it doesn't wander away from its post.",
-	"custom.trivia.wildfire": "Masters of all Blazes, the Wildfire\nis incredibly tough for unprepared adventurers.\nEnsure you can resist its firey wrath.",
+	"custom.trivia.wildfire": "Master of all Blazes, the Wildfire\nis incredibly tough for unprepared adventurers.\n\nEnsure you can resist its firey wrath.",
 
 
 
@@ -308,7 +307,7 @@
 
 	"_comment": "Iron's Spells & Spellbooks",
 	"custom.trivia.ancient_knight": "Knights who fell in battle while defending the Nether\nare often possessed by the latent magic in the air,\nforcing them to resume their post.",
-	"custom.trivia.apothecarist": "A rare breed of passive Piglins,\nthese ones are more than willing to trade for various herbs & plantlife.",
+	"custom.trivia.apothecarist": "A rare breed of passive Piglins,\nthese ones are more than willing to trade\nvarious plants and herbs.",
 	"custom.trivia.archevoker": "Some Evokers train for decades to master their craft.\nOften times, the magic will corrupt their minds -\nrendering them even more hostile than before.",
 	"custom.trivia.cryomancer": "Some Villagers choose to master Ice Magic -\nno crown required.",
 	"custom.trivia.dead_king": "The corpose of an unknown king,\ncursed to defend its grave until the end of time.",
@@ -330,9 +329,11 @@
 
 
 	"_comment": "Quark",
+	"entity.quark.toretoise": "Toretoise",
+
 	"custom.trivia.crab": "Rarely found on beaches.\nDon't get too crabby when trying to find them!",
 	"custom.trivia.forgotten": "[ERROR]: Database entry corrupted!",
-	"custom.trivia.foxhound": "When Foxes & Dogs are trapped in\nthe Nether, the magic within bonds them into one\nand imbues them with fire.",
+	"custom.trivia.foxhound": "When Foxes or Wolves are trapped in\nthe Nether, the magic within bonds them into one\nand imbues them with fire.",
 	"custom.trivia.stoneling": "This strange creature inhabits caves,\ncarrying a variety of items.\nUnfortunately, they are quite skittish.\nFurther research is pending due to this.",
 	"custom.trivia.toretoise": "As the name implies, Toretoises\nare tortoises with ores on their shells.\nTheir ores can be harvest with a pickaxe.",
 	"custom.trivia.wraith": "A haunting apparition, formed from the\nlost souls trapped within the Soul Sand Valley.\nTheir remnants guide travellers towards the\nGreat Fortress.",
@@ -343,7 +344,9 @@
 	"_comment": "Upgrade Aquatic",
 	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
 
+	"_comment": "Only in 1.17",
 	"custom.trivia.glow_squid": "Seems oddly familiar...",
+
 	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, meandering within the oceans forever...",
 	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
 	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures reside in a tough shell.",
@@ -351,6 +354,9 @@
 	"custom.trivia.pike": "Not to be confused with Pike (weapon)\n\nThe Pike is a carnivorous fish found in\nboth salt and fresh water.",
 	"custom.trivia.thrasher": "This specialized shark resides in trenches,\ndragging prey to the sea floor before drowning it.\n\nExercise extreme caution around them.",
 	"custom.trivia.great_thrasher": "An elder Thrasher,\ntougher than its kin due to years of experience.\n\nExercise extremer caution around them.",
+
+	"_comment": "Only in Hi-Tech Revolution",
+	"revolution.trivia.goose": "Geese are some of the most hostile\nand unpleasent members of the animal kingdom.\n\nTrapping them in a simulation is about what they deserve.",
 
 
 
