@@ -5,8 +5,14 @@ A full changelog for every version of the [Trivia Pack](https://www.curseforge.c
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
 I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor tweaks and/or additions I missed in the last patch.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+## v1.6.2
+
+Added trivia entries for the new mobs from Alex's Caves 2.0.0
+
+
+--------------------------------------------------
 ## v1.6.1
 
 *I try to avoid changing the keys since it breaks backwards compat, but I had to make these two fit my key name standards.*
