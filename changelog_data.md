@@ -7,9 +7,18 @@ This one will be updated more often than the CurseForge and Modrinth changelogs.
 I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch.
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## v2.0.1
+
+Added models for the new mobs from Alex's Caves 2.0.0
+
+Changed the colour of the Mimicube [Alex's Mobs]
+
+
+--------------------------------------------------
 ## v2.0
+
+*This is a massive update, and I'm hoping y'all enjoy it. I've gone back and checked on every model in the pack, so everything should be up-to-standard with all random issues/incorrectness fixed.*
 
 Overhauled a lot of backend stuff
 - Doesn't really affect players, but it does make development a bit easier
@@ -97,6 +106,17 @@ Added support for the following mods:
 
 	Reduced the Mimicube's Ferrouslimeball output to 4 (was 8) [Alex's Mobs] 
 	Marauder Pillagers (Cowboys) now have their own model [Biome Makeover]
+
+	### 1.18/19 only
+	Added support for The Endergetic Expansion
+
+	Evokers, Pillagers, and Vindicators give Illager Flesh if [Food Enhancements](https://www.curseforge.com/minecraft/mc-mods/food-enhancements) is installed
+	The Illusioner's Totem of Illusion is now optional, so the model should load on Minecraft 1.18.2 [Friends & Foes]
+	The Iceologer's Totem of Unfreezing is now optional, so the model should load on Minecraft 1.18.2 [Friends & Foes]
+	The Great Thrasher's Disc Fragment: Atlantis is now optional, so the model should load on Minecraft 1.18.2 [Upgrade Aquatic]
+
+	My changes to the Sheep model will now only load in if Ad Astra is also loaded
+	- I had to change this since the name NBT syntax is *slightly* different across all versions, which meant the model didn't load in on 1.18.2. Since Ad Astra isn't on that version (at least for Forge), there's no real reason to load my custom model - so, if the mod isn't loaded, it will load the default model included in Hostile Neural Networks.
 
 
 --------------------------------------------------
