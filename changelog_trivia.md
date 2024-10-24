@@ -4,9 +4,15 @@ A full changelog for every version of the [Trivia Pack](https://www.curseforge.c
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor tweaks and/or additions I missed in the last patch.
+I increment the version by X.1 whenever I add more mod support (so long as the addition has 8+ models), and X.X.1 for minor tweaks and/or additions I missed in the last patch.
 
 
+## v1.6.3
+
+Added trivia entries for Autumnity and Jaden's Nether Expansion
+
+
+--------------------------------------------------
 ## v1.6.2
 
 Added trivia entries for the new mobs from Alex's Caves 2.0.0
@@ -15,12 +21,12 @@ Added trivia entries for the new mobs from Alex's Caves 2.0.0
 --------------------------------------------------
 ## v1.6.1
 
-*I try to avoid changing the keys since it breaks backwards compat, but I had to make these two fit my key name standards.*
-
 Renamed the following mobs' keys, meaning their trivia won't load unless you're running v2.0 of the datapack:
 - Giant Squid and Sponge Squid [Aquatic Frontiers]
 
-*There's no reason not to update both packs at the same time, but you can avoid going past v1.6 of the Trivia Pack and v1.5 of the Data Pack if you really don't want the changes (for whatever reason).*
+*I try to avoid changing the trivia keys since it breaks backwards compat, but I had to make these two fit my key name standards.*
+
+*There's no reason not to update both packs at the same time though, but you can avoid going past v1.6 of the Trivia Pack and v1.5 of the Data Pack if you really don't want the changes (for whatever reason).*
 
 Fixed a typo in the Kangaroo's trivia entry [Alex's Mobs]
 Fixed the trivia entry for the Bone Serpent not loading [Alex's Mobs]

@@ -4,6 +4,7 @@
 	"_comment": "4 lines before it leaves the UI",
 
 
+
 	"_comment": "Minecraft",
 	"custom.trivia.bee": "Floating about the forest,\nBees work tirelessly to produce Honeycombs\nyou can centrifuge into a variety of items.\nWait a minute, that's not quite right...",
 	"custom.trivia.breeze": "An airy relative of the Blaze,\nBreezes can only be found\nwithin the confines of a Trial Chamber.",
@@ -17,7 +18,7 @@
 	"custom.trivia.ravager": "An incredibly strong battle beast,\ndeployed only during the raids on villages\ncursed by calloused adventurers.",
 	"custom.trivia.vindicator": "The front-line fighter of the\nraider tribe that wanders the Overworld,\nsearching for their next target.\n\nBe wary of their powerful swings.",
 
-	"_comment": "Only used in Capitalia: Inward Expansion",
+	"_comment": "Only used in Capitalia: Inward Expansion [1.19]",
 	"capitalia.trivia.warden": "W3 p2073c7 0u2 h0m3. 0u2 8200d.\nW3 M(_)57 X111 411 0(_)751[)325 70 |*2073(7 0(_)2 8200[).\nW[- M|_|$'|' |>/2[]'|'[-('|' '|'#[- #!|/[- A'|' A|_|_ ([]$'|'$.",
 
 
@@ -92,8 +93,6 @@
 			"custom.trivia.radgill": "The Radgill (aka \"Blinky\")\nis the product of fish that have fallen\ninto the Toxic Waste within the Dump.\nIt can be eaten, but I advise against it",
 			"custom.trivia.raycat": "One of few defenses from Nucleepers.\n\nTame it with Radgills if you want assistance.",
 			"custom.trivia.tremorzilla": "The product of your own hubris.\nI wish you the best when trying to slay it.\nTry to have its beam kill a Nucleeper.",
-
-
 
 
 
@@ -172,6 +171,12 @@
 
 
 
+	"_comment": "Autumnity",
+	"custom.trivia.snail": "Is this just a slug with an identity crises?\n\nIt doesn't have a treehouse for a shell though,\nso it's probably a snail.",
+	"custom.trivia.turkey": "Quite dry.\n\nNot a very good food source due to that,\nbut if you're desperate enough...",
+
+
+
 	"_comment": "Biome Makeover",
 	"custom.trivia.decayed": "Zombies remaining undead for too long\nbegin falling apart, rotting into Decayed\nafter the process is complete.",
 	"custom.trivia.ghost_makeover": "Villagers left to die (or slain in raids)\nwill become wandering spirits,\ndoomed to purgatory until freed from it.",
@@ -196,7 +201,7 @@
 
 
 	"_comment": "Cave Enhancements",
-	"_comment": "Only used in Capitalia: Inward Expansion",
+	"_comment": "Only used in Capitalia: Inward Expansion [1.19]",
 	"capitalia.trivia.dripstone_tortoise": "A Tortoise whose shell is\npartially composed of Dripstone.\nHow did a Tortoise get into a cave?\nI have no idea.",
 	"capitalia.trivia.goop": "A strange, living verison of the\nrandom \"goop\" puddles scattered across various caves.",
 
@@ -213,7 +218,7 @@
 	"custom.trivia.stalker_regrowth": "W3 423 w47ch1n9 y0u\n_|(_)57 7(_)2|V 420(_)|V[).\n(4|V 70(_) 533 (_)5?\n[ERROR: Data encoding interrupted!]",
 	"custom.trivia.tentacle_lamp": "Provides light and basic defense for the Sculk,\nallowing its parasites to feast and lure in\nmore prey at the same time.\nW3 423 v32y 3ff1c13n7.",
 	
-	"_comment": "Only used in Capitalia: Inward Expansion (and it's from Sculky Bits)",
+	"_comment": "Only used in Capitalia: Inward Expansion (and it's from Sculky Bits) [1.19]",
 	"custom.trivia.sculk_saprophyte": "Serving as scouts for the Sculk,\nthese small nodules are best dispatched as quickly as possible.\n5c0u75? wh47 f02?",
 
 
@@ -328,6 +333,14 @@
 
 
 
+	"_comment": "Jaden's Nether Expansion",
+	"custom.trivia.banshee": "Blazes possessed by Apparitions\nare converted into Banshees,\nscreaming their final thoughts when attacking.",
+	"custom.trivia.ecto_slab": "Even Magma Cubes are not immune to possession.\nIf an Apparition overtakes one, it produces an Ecto Slab.\nBe on-guard for their burrowing attack.",
+	"custom.trivia.stampede": "A tall variant of the Strider,\nStampedes sadly do not offer\na higher perspective of the world.",
+	"custom.trivia.vessel": "Apparitions seek out hosts,\nand Skeletons make for an excellent home.\nThese Vessels are quite dangerous,\nand you should not fight them unprepared.",
+
+
+
 	"_comment": "The Outer End",
 	"custom.trivia.chorus_squid": "This strange offshoot of standard squids\nsomehow made its way to the End, and was corrupted by it.",
 	"custom.trivia.entombed": "Doomed to a purgatory of wandering,\nthese bulwarks of Purpur attack all who disturb their stupor.",
@@ -358,6 +371,8 @@
 	"_comment": "Only in 1.17",
 	"custom.trivia.glow_squid": "Seems oddly familiar...",
 
+
+	"custom.trivia.goose": "Geese are some of the most hostile\nand unpleasent members of the animal kingdom.\n\nTrapping them in a simulation is about what they deserve.",
 	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, meandering within the oceans forever...",
 	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
 	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures reside in a tough shell.",
@@ -365,9 +380,6 @@
 	"custom.trivia.pike": "Not to be confused with Pike (weapon)\n\nThe Pike is a carnivorous fish found in\nboth salt and fresh water.",
 	"custom.trivia.thrasher": "This specialized shark resides in trenches,\ndragging prey to the sea floor before drowning it.\n\nExercise extreme caution around them.",
 	"custom.trivia.great_thrasher": "An elder Thrasher,\ntougher than its kin due to years of experience.\n\nExercise extremer caution around them.",
-
-	"_comment": "Only in Hi-Tech Revolution",
-	"revolution.trivia.goose": "Geese are some of the most hostile\nand unpleasent members of the animal kingdom.\n\nTrapping them in a simulation is about what they deserve.",
 
 
 
