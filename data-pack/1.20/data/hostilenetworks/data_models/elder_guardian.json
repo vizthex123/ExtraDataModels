@@ -33,8 +33,13 @@
         },
         {
 			"optional": true,
+            "item": "additionaladditions:trident_shard",
+            "count": 1
+        },
+        {
+			"optional": true,
             "item": "bettertridents:trident_fragment",
-            "count": 2
+            "count": 1
         },
         {
 			"optional": true,

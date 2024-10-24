@@ -41,6 +41,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)																						|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
 | [Aquamirae](https://modrinth.com/mod/aquamirae)																							|				  |✔		   |✔			|✔			  |			   |2.0							   |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)																		|				  |			   |✔			|✔			  |			   |								   |
+| [Autumnity](https://www.modrinth.com/mod/autumnity)														|				  |✔		   |✔		    |✔			  |			   |2.1							   |
 | [Biome Makover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Bygone Nether](https://modrinth.com/mod/bygone-nether)																				|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |2.0							   |
@@ -52,6 +53,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Galosphere](https://modrinth.com/mod/galosphere)																							|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
+| [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |✔		   |✔		    |✔			  |			   |2.1							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |

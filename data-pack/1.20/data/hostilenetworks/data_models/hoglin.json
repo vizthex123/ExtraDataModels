@@ -22,6 +22,11 @@
     "fabricator_drops": [
         {
 			"optional": true,
+            "item": "netherexp:hogham",
+            "count": 32
+        },
+        {
+			"optional": true,
             "item": "nourished_nether:raw_hoglin",
             "count": 16
         },

@@ -4,10 +4,24 @@ A full changelog for every version (and sub-version) of the [Datapack](https://w
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor fixes and/or additions I missed in the last patch.
+I increment the version by X.1 whenever I add more mod support (so long as the addition has 8+ models), and X.X.1 for minor fixes and/or additions I missed in the last patch.
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
+
+## v2.1
+
+Added support for Autumnity and Jaden's Nether Expansion
+- Hoglins can now give Hogham
+- Autumnity's Mooblooms are now Cow variants
+
+Buzzier Bees' Grizzly Bear is now a variant for Alex's Mobs' Grizzly Bear
+
+Elder Guardians can now give Trident Shards from Additional Additions
+- Reduced Trident Fragment count to 1 (was 2) [Better Tridents]
+
+
+--------------------------------------------------
 ## v2.0.1
 
 Added models for the new mobs from Alex's Caves 2.0.0
@@ -50,18 +64,6 @@ Reduced the RF usage of the Forgotten to 256/t (was 512) [Quark]
 Reduced the render size of the Annihilator so it fits better into the preview box [Deep Dark: Regrowth]
 Reduced the render size of the Bone Serpent, Bunfugus, and Guster [Alex's Mobs]
 
-Added a separate model for the Wither Skeleton Knight and Wraither [Bygone Nether]
-- Previously, they were Wither Skeleton variants
-
-Added a separate model for the Fallen Knight [Ender Zoology]
-- Previously, it was a Zombie and Skeleton variant
-
-
-Added support for the following mods:
-- Aquamirae
-- Biome Makeover
-- Bygone Nether
-- Deep Dark: Regrowth
 Added a separate model for the Wither Skeleton Knight and Wraither [Bygone Nether]
 - Previously, they were Wither Skeleton variants
 
@@ -332,8 +334,8 @@ Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 ## v1.1
 
 Added support for Upgrade Aquatic
-- Geese are a Chicken variant
-- Flares are a Phantom variant
+- The Goose is a Chicken variant
+- The Flare is a Phantom variant
 - Guardian and Elder Guardian predictions can now be fabricated into fish from Upgrade Aquatic
 - Other mobs have their own data models
 

@@ -44,6 +44,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)													|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
 | [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)												|				  |✔		   |✔			|✔			  |			   |2.0							   |
 | [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)								|				  |			   |✔			|✔			  |			   |								   |
+| [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)														|				  |✔		   |✔		    |✔			  |			   |2.1							   |
 | [Biome Makover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)						|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)										|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |2.0							   |
@@ -55,6 +56,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)													|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)     				   	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)	|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
+| [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)	|				  |✔		   |✔		    |✔			  |			   |2.1							   |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)											|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   													|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1							   |

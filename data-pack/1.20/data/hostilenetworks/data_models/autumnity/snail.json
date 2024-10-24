@@ -2,31 +2,28 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "alexsmobs"
+			"modid": "autumnity"
 		}
 	],
-    "entity": "alexsmobs:grizzly_bear",
-	"variants": [
-		"buzzier_bees:grizzly_bear"
-	],
-    "name": "entity.alexsmobs.grizzly_bear",
-    "name_color": "#523727",
+    "entity": "autumnity:snail",
+    "name": "entity.autumnity.snail",
+    "name_color": "#9B805B",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 128,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.grizzly_bear",
+    "trivia": "custom.trivia.snail",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:bear_fur",
-            "count": 16
+            "item": "autumnity:snail_goo",
+            "count": 8
         }
     ]
 }
