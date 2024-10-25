@@ -20,11 +20,11 @@
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)													|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)     				   	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)	|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
-| [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)	|				  |✔		   |✔		    |✔			  |			   |2.1							   |
+| [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)	|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)											|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   													|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1							   |
-| [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)          			|				  |			   |      		    |✔			  |			   |1.5							   |
+| [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)          			|				  |✔		   |      		    |✔			  |			   |1.5							   |
 
 
 
@@ -50,11 +50,11 @@
 | [Galosphere](https://modrinth.com/mod/galosphere)																							|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
-| [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |✔		   |✔		    |✔			  |			   |2.1							   |
+| [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
-| [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)          													|				  |			   |      		    |✔			  |			   |1.5							   |
+| [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)          													|				  |✔		   |      		    |✔			  |			   |1.5							   |
 
 
 

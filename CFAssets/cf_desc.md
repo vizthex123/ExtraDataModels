@@ -56,7 +56,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)													|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)     				   	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)	|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
-| [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)	|				  |✔		   |✔		    |✔			  |			   |2.1							   |
+| [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)	|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)											|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   													|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1							   |

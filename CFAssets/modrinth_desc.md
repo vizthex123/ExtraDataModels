@@ -53,7 +53,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Galosphere](https://modrinth.com/mod/galosphere)																							|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
-| [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |✔		   |✔		    |✔			  |			   |2.1							   |
+| [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
