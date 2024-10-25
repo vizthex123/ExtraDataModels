@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"modid": "aquatic_frontiers",
-		"type": "forge:mod_loaded"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquatic_frontiers"
+		}
 	],
     "type": "aquatic_frontiers:coralgolem",
     "name": "entity.aquatic_frontiers.coralgolem",
-    "name_color": "#5da294",
+    "name_color": "#5DA294",
     "gui_scale": 0.6,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
@@ -44,10 +44,6 @@
         {
             "item": "minecraft:tube_coral",
             "count": 16
-        },
-        {
-            "item": "aquatic_frontiers:aquatic_frontiers_theme",
-            "count": 1
         }
     ]
 }

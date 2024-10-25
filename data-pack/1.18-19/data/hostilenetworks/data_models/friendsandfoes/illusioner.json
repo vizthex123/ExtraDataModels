@@ -1,12 +1,11 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "friendsandfoes"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "friendsandfoes"
+		}
 	],
     "type": "minecraft:illusioner",
-    "variants": [],
     "name": "entity.minecraft.illusioner",
     "name_color": "#40531A",
     "gui_scale": 1,
@@ -23,6 +22,7 @@
 	"trivia": "custom.trivia.illusioner",
     "fabricator_drops": [
         {
+			"optional": true,
             "item": "friendsandfoes:totem_of_illusion",
             "count": 1
         },

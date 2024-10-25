@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "irons_spellbooks"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "irons_spellbooks"
+		}
 	],
     "type": "irons_spellbooks:dead_king",
     "name": "entity.irons_spellbooks.dead_king",
-    "name_color": "#d99413",
+    "name_color": "#D99413",
     "gui_scale": 0.53,
-    "gui_x_offset": 0.0,
-    "gui_y_offset": 0.0,
-    "gui_z_offset": 0.0,
-    "sim_cost": 1024,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
@@ -23,23 +23,23 @@
     "fabricator_drops": [
         {
             "item": "irons_spellbooks:arcane_essence",
-            "count": 32
+            "count": 128
         },
         {
             "item": "irons_spellbooks:blank_rune",
-            "count": 1
+            "count": 4
         }
-    ],
+	],
     "tier_data": [
-		978,
+		700,
         1014,
-        2600,
-        3100
+        2551,
+        3170
     ],
     "data_per_kill": [
-        978,
+        700,
         507,
-        867,
-        775
+        638,
+        400
     ]
 }

@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "irons_spellbooks"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "irons_spellbooks"
+		}
 	],
     "type": "irons_spellbooks:apothecarist",
     "name": "entity.irons_spellbooks.apothecarist",
-    "name_color": "#55ea62",
-    "gui_scale": 1.0,
-    "gui_x_offset": 0.0,
-    "gui_y_offset": 0.0,
-    "gui_z_offset": 0.0,
-    "sim_cost": 256,
+    "name_color": "#55EA62",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },

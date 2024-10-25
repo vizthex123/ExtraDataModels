@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:soul_vulture",
     "name": "entity.alexsmobs.soul_vulture",
-    "name_color": "#23c0c6",
+    "name_color": "#23C0C6",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -22,11 +22,11 @@
     "trivia": "custom.trivia.soul_vulture",
     "fabricator_drops": [
         {
-            "item": "minecraft:bone",
+            "item": "minecraft:coal",
             "count": 16
         },
         {
-            "item": "minecraft:coal",
+            "item": "minecraft:bone",
             "count": 16
         }
     ]

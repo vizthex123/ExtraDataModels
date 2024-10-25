@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:kangaroo",
     "name": "entity.alexsmobs.kangaroo",
-    "name_color": "#533f28",
+    "name_color": "#533F28",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -22,11 +22,11 @@
     "trivia": "custom.trivia.kangaroo",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:kangaroo_hide",
-            "count": 16
+            "item": "alexsmobs:kangaroo_meat",
+            "count": 8
         },
         {
-            "item": "alexsmobs:kangaroo_meat",
+            "item": "alexsmobs:kangaroo_hide",
             "count": 16
         }
     ]

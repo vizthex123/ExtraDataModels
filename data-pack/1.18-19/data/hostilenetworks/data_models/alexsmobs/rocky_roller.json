@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:rocky_roller",
     "name": "entity.alexsmobs.rocky_roller",
-    "name_color": "#9d8662",
+    "name_color": "#9D8662",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 136,
+    "sim_cost": 128,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
@@ -26,11 +26,11 @@
             "count": 2
         },
         {
-            "item": "minecraft:tuff",
-            "count": 16
+            "item": "minecraft:pointed_dripstone",
+            "count": 32
         },
         {
-            "item": "minecraft:pointed_dripstone",
+            "item": "minecraft:tuff",
             "count": 16
         }
     ]

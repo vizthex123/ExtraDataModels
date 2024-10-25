@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:bison",
     "name": "entity.alexsmobs.bison",
-    "name_color": "#382b22",
+    "name_color": "#382B22",
     "gui_scale": 0.65,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -22,12 +22,12 @@
     "trivia": "custom.trivia.bison",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:bison_fur",
-            "count": 16
-        },
-        {
             "item": "minecraft:beef",
             "count": 32
+        },
+        {
+            "item": "alexsmobs:bison_fur",
+            "count": 16
         }
     ]
 }

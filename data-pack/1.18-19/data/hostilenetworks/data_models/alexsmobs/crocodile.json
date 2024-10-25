@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:crocodile",
     "name": "entity.alexsmobs.crocodile",
@@ -27,7 +27,7 @@
         },
         {
             "item": "alexsmobs:crocodile_egg",
-            "count": 8
+            "count": 4
         }
     ]
 }

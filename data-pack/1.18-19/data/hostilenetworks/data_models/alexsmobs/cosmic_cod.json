@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:cosmic_cod",
     "name": "entity.alexsmobs.cosmic_cod",
-    "name_color": "#3b4b70",
+    "name_color": "#3B4B70",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

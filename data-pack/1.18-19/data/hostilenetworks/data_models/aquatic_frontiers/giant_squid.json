@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"modid": "aquatic_frontiers",
-		"type": "forge:mod_loaded"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquatic_frontiers"
+		}
 	],
     "type": "aquatic_frontiers:giantsquid",
     "name": "entity.aquatic_frontiers.giantsquid",
@@ -12,22 +12,22 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.giant_squid",
+    "trivia": "custom.trivia.giant_squid_aquatic",
     "fabricator_drops": [
         {
             "item": "minecraft:ink_sac",
-            "count": 64
+            "count": 48
         },
         {
             "item": "minecraft:cod",
-            "count": 32
+            "count": 16
         }
     ]
 }

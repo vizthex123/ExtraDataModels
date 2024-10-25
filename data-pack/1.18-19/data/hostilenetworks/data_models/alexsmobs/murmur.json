@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:murmur",
     "name": "entity.alexsmobs.murmur",
-    "name_color": "#733c4e",
+    "name_color": "#733C4E",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "alexsmobs:elastic_tendon",
-            "count": 16
+            "count": 8
         },
         {
             "item": "minecraft:red_wool",

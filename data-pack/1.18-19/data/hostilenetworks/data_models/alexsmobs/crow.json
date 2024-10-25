@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:crow",
     "name": "entity.alexsmobs.crow",
-    "name_color": "#1c1f2f",
+    "name_color": "#1C1F2F",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

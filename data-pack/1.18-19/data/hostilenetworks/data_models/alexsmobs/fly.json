@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:fly",
     "name": "entity.alexsmobs.fly",
-    "name_color": "#464f4f",
+    "name_color": "#464F4F",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 32,
+    "sim_cost": 24,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },

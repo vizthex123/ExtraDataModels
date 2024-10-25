@@ -8,17 +8,16 @@ I increment the version by X.1 whenever I add more mod support (so long as the a
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
-
 ## v2.1
 
-Added support for Autumnity and Jaden's Nether Expansion
-- Hoglins can now give Hogham
-- Autumnity's Mooblooms are now Cow variants
-
-Buzzier Bees' Grizzly Bear is now a variant for Alex's Mobs' Grizzly Bear
+[1.20] Buzzier Bees' Grizzly Bear is now a variant of Alex's Mobs' Grizzly Bear
 
 Elder Guardians can now give Trident Shards from Additional Additions
 - Reduced Trident Fragment count to 1 (was 2) [Better Tridents]
+
+Added support for Autumnity and Jaden's Nether Expansion
+- Autumnity's Mooblooms are now Cow variants
+- Hoglins can now give Hogham
 
 
 --------------------------------------------------
@@ -47,9 +46,9 @@ Added models for the following mobs:
 - Vindicator
 
 
-Wraiths now give half as much Ectoplasm (all types) [Quark] 
-The Endergrade model now only loads if The Outer End is also loaded [Alex's Mobs]
+Wraiths now give 4 of each Ectoplasm (all types) [Quark]
 Increased the Slime Pearl output from Ferrouslimes [Alex's Caves] and Mimicubes [Alex's Mobs] to 4 (was 3)
+
 
 Reduced the amount of Netherite Scrap Ancient Knights give [Iron's Spells n' Spellbooks]
 Half the amount of Rotten Flesh (now 16) and Cheese (now 8) Star Crawlers give [Ad Astra]
@@ -63,6 +62,7 @@ Reduced the RF usage of Star Crawlers to 109/t (was 164/t) [Ad Astra]
 Reduced the RF usage of the Forgotten to 256/t (was 512) [Quark]
 Reduced the render size of the Annihilator so it fits better into the preview box [Deep Dark: Regrowth]
 Reduced the render size of the Bone Serpent, Bunfugus, and Guster [Alex's Mobs]
+
 
 Added a separate model for the Wither Skeleton Knight and Wraither [Bygone Nether]
 - Previously, they were Wither Skeleton variants
@@ -78,18 +78,17 @@ Added support for the following mods:
 - Deep Dark: Regrowth
 
 
-	### 1.20 only
-	Rebalanced almost every model based on my [new standards](https://github.com/vizthex123/ExtraDataModels/blob/main/standards.md#AlexsCaves)
-	- All Alex's Caves mobs have unique RF/tick costs based on their category
-	-- The various references I sometimes make do override this standard though (which applies to every model)
-	- All Alex's Caves enemies have unique scaling (due to the cave rarity), which you can find in the new standards doc
-	-- Old scaling for standard enemies was 4/8/16/24 kills to max a model
-	-- Old scaling for bosses was 2/3/4/5 kills to max a model
-	- There's too many to list, but a few of the ones I changed are below
+	### v2.0 - 1.20 only
+	Rebalanced almost every Alex's Caves model based on my [new standards](https://github.com/vizthex123/ExtraDataModels/blob/main/standards.md#AlexsCaves)
+	- The various references I sometimes make do override this standard though (which applies to every model)
+	- The old scaling for standard enemies was 4/8/16/24 kills to max a model
+	- The old scaling for bosses was 2/3/4/5 kills to max a model
+	- There's too many to list, but a few of the ones I changed before deciding to do an overhaul are listed below
 
-	Removed Feathers from the Subterranodon's drops
+
+	Removed Feathers from the Subterranodon's drops [Alex's Caves]
 	Halved the Dinosaur Chop drops of all the Primordial Grotto mobs [Alex's Caves]
-	Added the Atlatitan's loot to the Luxtructosaurus
+	Added the Atlatitan's loot to the Luxtructosaurus [Alex's Caves]
 	- It give a bit less while costing more RF (since it's a boss), but makes the model a tad more useful
 
 	Tweaked a few models from Alex's Caves:
@@ -109,16 +108,24 @@ Added support for the following mods:
 	Reduced the Mimicube's Ferrouslimeball output to 4 (was 8) [Alex's Mobs] 
 	Marauder Pillagers (Cowboys) now have their own model [Biome Makeover]
 
-	### 1.18/19 only
-	Added support for The Endergetic Expansion
+	### v2.0 - 1.18/19 only
+	[1.19] Added support for The Endergetic Expansion
+	[1.18] Fixed a bug that prevented some models from loading even though they should load in
 
+	Fixed the Elder Guardian's (and Guardian's) loot amounts not matching the 1.20 version
+	Martian Raptors now give more Sulfur (8 instead of 4) and fewer Slimeballs (4 instead of 8) 
+	Removed the Endergrade model since The Outer End isn't on these versions
+
+	Reduced the Golden Moth's output to 8 Gold Nuggets (was 2 Ingots) [Aquamirae]
+	Fixed the Illusioner, Iceologer, and Great Thraser models not loading on 1.18.X [Friends & Foes] [Upgrade Aquatic]
 	Evokers, Pillagers, and Vindicators give Illager Flesh if [Food Enhancements](https://www.curseforge.com/minecraft/mc-mods/food-enhancements) is installed
-	The Illusioner's Totem of Illusion is now optional, so the model should load on Minecraft 1.18.2 [Friends & Foes]
-	The Iceologer's Totem of Unfreezing is now optional, so the model should load on Minecraft 1.18.2 [Friends & Foes]
-	The Great Thrasher's Disc Fragment: Atlantis is now optional, so the model should load on Minecraft 1.18.2 [Upgrade Aquatic]
 
-	My changes to the Sheep model will now only load in if Ad Astra is also loaded
-	- I had to change this since the name NBT syntax is *slightly* different across all versions, which meant the model didn't load in on 1.18.2. Since Ad Astra isn't on that version (at least for Forge), there's no real reason to load my custom model - so, if the mod isn't loaded, it will load the default model included in Hostile Neural Networks.
+
+	**Unfixable issue:**
+
+	[1.18] Sheep models won't load in, and I can't fix it unless I separate both versions again (and I don't want to since it's annoying to maintain).
+
+	If (for whatever reason) you're playing on 1.18, you can manually remove `sheep.json` from the datapack if you're playing on 1.18.X.
 
 
 --------------------------------------------------
@@ -157,7 +164,7 @@ Added support for the following mods:
 - Ice & Fire (suggested by TravHan2009 in the comments section)
 - [1.20 and 1.18] YUNG's Cave Biomes
 
-	### 1.21 only
+	### v1.5 - 1.21 only
 	Ported to 1.21.1
 
 	Most mod support has been removed for now, but I'll re-do it all as they do get ported (gonna be *so fun* to change the handful of lines that are different in all 300 files :D)
@@ -166,7 +173,7 @@ Added support for the following mods:
 	The Bogged is now a Skeleton variant
 
 
-	### 1.17 only
+	### v1.5 - 1.17 only
 	Dropped support for 1.17.1
 
 	I hate having to drop support for a version people might play, but my test instance won't load and I can't fix it. In addition to this, all the mods I support either dropped support for or entirely skipped 1.17 since it's a half-baked version.
@@ -209,14 +216,14 @@ Friends & Foes [1.18+] - Moobloom is a cow variant
 Iron's Spells 'n Spellbooks [1.18+]
 Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 
-	### 1.19 only
+	### v1.4 - 1.19 only
 	Backported to 1.19.2
 
 	Fixed the pack format being wrong
 
 	Fixed the UI scaling for the Warped Mosco, Lavathian, and Moose
 
-	### 1.18 only
+	### v1.4 - 1.18 only
 	Backported to 1.18.X
 
 	Fixed the pack format being wrong
@@ -242,7 +249,7 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 	Apothecarist
 	Priest
 
-	### 1.17 only
+	### v1.4 - 1.17 only
 	Backported to 1.17.1
 
 	Removed all mod support drops since the method it uses doesn't exist in this version
@@ -266,15 +273,15 @@ Tetra [1.18+ - drops only] - Adds fabricator drops to the Ender Dragon
 --------------------------------------------------
 ## v1.3.1
 
-_This version marks the first release on Modrinth. If you want to check out previous versions, you can [read the changelog](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog_data.md#v13) or download them from [CurseForge](https://www.curseforge.com/minecraft/data-packs/extra-data-models/files/all?page=1&pageSize=20)._
+_This version marks the first release on Modrinth. If you want to check out previous versions, you can [read the changelog](https://github.com/vizthex123/ExtraDataModels/blob/main/changelog_data.md#v13) or download them from [CurseForge](https://www.curseforge.com/minecraft/data-packs/extra-data-models/files)._
 
 Fixed the Squirrel and Gloomoth models not loading
 
-	### 1.19 only
+	### v1.3.1 - 1.19 only
 	Fixed all my custom variants not loading
 	Fixed the Phantom model not loading
 
-	### 1.18 only
+	### v1.3.1 - 1.18 only
 	Backported to 1.18.X
 
 	Removed Aquatic Frontiers and Ender Zoology support
@@ -282,7 +289,7 @@ Fixed the Squirrel and Gloomoth models not loading
 	Fixed a few models not loading because I formatted things wrong
 	Other changes from the 1.19 version
 
-	### 1.17 only
+	### v1.3.1 - 1.17 only
 	Backported to 1.17.1
 
 	Removed all mod support since nobody uses this version
@@ -320,7 +327,7 @@ Added data models for the following mobs:
 The datapack no longer loads models if the mod they're for isn't installed.
 Fixed Wraith models trying to output modded items even if the mod isn't loaded.
 
-	### 1.19 only
+	### v1.2 - 1.19 only
 	Backported to 1.19.2
 
 	Removed Alex's Caves support since the mod isn't on this version

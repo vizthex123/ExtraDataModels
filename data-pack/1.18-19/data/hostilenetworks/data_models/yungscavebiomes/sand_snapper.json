@@ -1,5 +1,5 @@
 {
-		"conditions": [
+	"conditions": [
 		{
 			"type": "forge:mod_loaded",
 			"modid": "yungscavebiomes"
@@ -9,9 +9,9 @@
     "name": "entity.yungscavebiomes.sand_snapper",
     "name_color": "#CBBD98",
     "gui_scale": 0.6,
-    "gui_x_offset": 0.0,
-    "gui_y_offset": 0.0,
-    "gui_z_offset": 0.0,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
     "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:empty_prediction"
@@ -21,6 +21,10 @@
     },
     "trivia": "custom.trivia.sand_snapper",
     "fabricator_drops": [
+        {
+            "item": "yungscavebiomes:ancient_sand",
+            "count": 8
+        },
         {
             "item": "minecraft:sand",
             "count": 16

@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "iceandfire"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
 	],
 	"type": "iceandfire:ghost",
     "name": "entity.iceandfire.ghost",
@@ -12,7 +12,7 @@
 	"gui_x_offset": 0,
 	"gui_y_offset": -0.15,
 	"gui_z_offset": 0,
-	"sim_cost": 32,
+	"sim_cost": 128,
 	"input": {
 		"item": "hostilenetworks:empty_prediction"
 	},

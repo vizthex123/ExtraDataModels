@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:emu",
     "name": "entity.alexsmobs.emu",
-    "name_color": "#1c1f2f",
+    "name_color": "#352B25",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -24,6 +24,10 @@
         {
             "item": "alexsmobs:emu_feather",
             "count": 16
+        },
+        {
+            "item": "alexsmobs:emu_egg",
+            "count": 8
         },
         {
             "item": "minecraft:feather",

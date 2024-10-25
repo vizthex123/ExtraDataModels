@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:blue_jay",
     "name": "entity.alexsmobs.blue_jay",
-    "name_color": "#4a93fa",
+    "name_color": "#4A93FA",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:feather",
-            "count": 8
+            "count": 16
         }
     ]
 }

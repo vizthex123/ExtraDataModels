@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:flying_fish",
     "name": "entity.alexsmobs.flying_fish",
-    "name_color": "#75a4e2",
+    "name_color": "#75A4E2",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

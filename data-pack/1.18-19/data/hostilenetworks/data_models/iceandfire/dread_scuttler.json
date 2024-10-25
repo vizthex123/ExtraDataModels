@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "iceandfire"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
 	],
 	"type": "iceandfire:dread_scuttler",
     "name": "entity.iceandfire.dread_scuttler",

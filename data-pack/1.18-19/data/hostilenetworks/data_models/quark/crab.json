@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"modid": "quark",
-		"type": "forge:mod_loaded"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "quark"
+		}
 	],
     "type": "quark:crab",
     "name": "entity.quark.crab",
-    "name_color": "#8c1202",
+    "name_color": "#8C1202",
     "gui_scale": 1.25,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 128,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
@@ -27,7 +27,7 @@
         },
 		{
             "item": "quark:crab_leg",
-            "count": 4
+            "count": 8
         }
     ]
 }

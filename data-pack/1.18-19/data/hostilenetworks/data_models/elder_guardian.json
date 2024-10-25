@@ -21,15 +21,20 @@
         },
         {
             "item": "minecraft:salmon",
-            "count": 2
+            "count": 16
         },
         {
             "item": "minecraft:pufferfish",
-            "count": 2
+            "count": 16
         },
         {
             "item": "minecraft:tropical_fish",
-            "count": 2
+            "count": 16
+        },
+        {
+			"optional": true,
+            "item": "additionaladditions:trident_shard",
+            "count": 1
         },
         {
 			"optional": true,
@@ -44,17 +49,17 @@
         {
 			"optional": true,
             "item": "upgrade_aquatic:pike",
-            "count": 2
+            "count": 16
         },
         {
 			"optional": true,
             "item": "upgrade_aquatic:perch",
-            "count": 2
+            "count": 16
         },
         {
 			"optional": true,
             "item": "upgrade_aquatic:lionfish",
-            "count": 2
+            "count": 16
         },
         {
             "item": "minecraft:prismarine_crystals",

@@ -11,5 +11,7 @@ Check out his projects:
 https://www.curseforge.com/members/shadows_of_fire/projects
 
 
+Another thanks goes to the handful of people who have suggested mods I should add support for (you can find a full list in the changelog: https://github.com/vizthex123/ExtraDataModels/blob/main/changelog_data.md).
+
 
 And lastly, a big thank-you to the developers of all the mods I added support for. Can't add modded models if there's no mods to add models for lol.

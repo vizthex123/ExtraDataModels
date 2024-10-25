@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:catfish",
     "name": "entity.alexsmobs.catfish",
@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 48,
+    "sim_cost": 32,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },

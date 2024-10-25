@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:banana_slug",
     "name": "entity.alexsmobs.banana_slug",
-    "name_color": "#fbcd44",
+    "name_color": "#FBCD44",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 40,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },

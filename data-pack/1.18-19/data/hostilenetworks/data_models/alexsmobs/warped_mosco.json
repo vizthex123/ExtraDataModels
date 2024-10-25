@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:warped_mosco",
     "name": "entity.alexsmobs.warped_mosco",
-    "name_color": "#1d7572",
+    "name_color": "#1D7572",
     "gui_scale": 0.47,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -27,7 +27,7 @@
         },
         {
             "item": "alexsmobs:hemolymph_sac",
-            "count": 6
+            "count": 4
         }
     ]
 }

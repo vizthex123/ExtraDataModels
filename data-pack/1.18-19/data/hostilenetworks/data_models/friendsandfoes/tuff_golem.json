@@ -1,12 +1,11 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "friendsandfoes"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "friendsandfoes"
+		}
 	],
     "type": "friendsandfoes:tuff_golem",
-    "variants": [],
     "name": "entity.friendsandfoes.tuff_golem",
     "name_color": "#605E58",
     "gui_scale": 1,

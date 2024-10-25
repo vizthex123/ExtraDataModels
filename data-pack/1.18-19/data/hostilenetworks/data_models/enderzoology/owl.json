@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"modid": "enderzoology",
-		"type": "forge:mod_loaded"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enderzoology"
+		}
 	],
     "type": "enderzoology:owl",
     "name": "entity.enderzoology.owl",
@@ -12,14 +12,12 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 72,
+    "sim_cost": 64,
     "input": {
-        "item": "hostilenetworks:empty_prediction",
-        "count": 1
+        "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
-        "item": "hostilenetworks:nether_prediction",
-        "count": 1
+        "item": "hostilenetworks:overworld_prediction"
     },
     "trivia": "custom.trivia.owl",
     "fabricator_drops": [
@@ -29,7 +27,7 @@
         },
         {
             "item": "enderzoology:owl_egg",
-            "count": 12
+            "count": 8
         }
     ]
 }

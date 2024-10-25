@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "iceandfire"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
 	],
 	"type": "iceandfire:siren",
     "name": "entity.iceandfire.siren",
@@ -31,7 +31,7 @@
 		},
 		{
 			"item": "iceandfire:shiny_scales",
-			"count": 32
+			"count": 16
 		}
 	]
 }

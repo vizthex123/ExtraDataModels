@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "iceandfire"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
 	],
 	"type": "iceandfire:hydra",
     "name": "entity.iceandfire.hydra",
@@ -28,6 +28,16 @@
 		{
 			"item": "iceandfire:hydra_fang",
 			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "twilightforest:hydra_chop",
+			"count": 1
+		},
+		{
+			"optional": true,
+			"item": "twilightforest:fiery_blood",
+			"count": 4
 		}
 	],
     "tier_data": [

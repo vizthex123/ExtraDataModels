@@ -1,12 +1,11 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "friendsandfoes"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "friendsandfoes"
+		}
 	],
     "type": "friendsandfoes:copper_golem",
-    "variants": [],
     "name": "entity.friendsandfoes.copper_golem",
     "name_color": "#8A4F42",
     "gui_scale": 1,

@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:giant_squid",
     "name": "entity.alexsmobs.giant_squid",
-    "name_color": "#b35654",
+    "name_color": "#B35654",
     "gui_scale": 0.5,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },

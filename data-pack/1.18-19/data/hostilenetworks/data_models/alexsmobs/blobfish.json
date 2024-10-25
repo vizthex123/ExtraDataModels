@@ -1,18 +1,18 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "alexsmobs"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
 	],
     "type": "alexsmobs:blobfish",
     "name": "entity.alexsmobs.blobfish",
-    "name_color": "#c9a79a",
+    "name_color": "#C9A79A",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 48,
+    "sim_cost": 32,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },

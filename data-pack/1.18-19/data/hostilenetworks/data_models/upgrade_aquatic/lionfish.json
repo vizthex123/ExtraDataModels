@@ -1,13 +1,13 @@
 {
 	"conditions": [
-	{
-		"modid": "upgrade_aquatic",
-		"type": "forge:mod_loaded"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "upgrade_aquatic"
+		}
 	],
     "type": "upgrade_aquatic:lionfish",
     "name": "entity.upgrade_aquatic.lionfish",
-    "name_color": "#ce0a00",
+    "name_color": "#CE0A00",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -21,6 +21,11 @@
     },
     "trivia": "custom.trivia.lionfish",
     "fabricator_drops": [
+        {
+            "optional": true,
+            "item": "croptopia:roe",
+            "count": 32
+        },
         {
             "item": "upgrade_aquatic:lionfish",
             "count": 32

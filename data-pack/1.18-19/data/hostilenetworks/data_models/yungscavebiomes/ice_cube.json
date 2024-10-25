@@ -1,5 +1,5 @@
 {
-		"conditions": [
+	"conditions": [
 		{
 			"type": "forge:mod_loaded",
 			"modid": "yungscavebiomes"
@@ -9,10 +9,10 @@
     "name": "entity.yungscavebiomes.ice_cube",
     "name_color": "#849DCA",
     "gui_scale": 0.8,
-    "gui_x_offset": 0.0,
-    "gui_y_offset": 0.0,
-    "gui_z_offset": 0.0,
-    "sim_cost": 72,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
@@ -31,6 +31,11 @@
         },
         {
 			"optional": true,
+            "item": "ad_astra:ice_shard",
+            "count": 8
+        },
+        {
+			"optional": true,
             "item": "biomeswevegone:black_ice",
             "count": 6
         },
@@ -43,6 +48,11 @@
 			"optional": true,
             "item": "ecologics:thin_ice",
             "count": 24
+        },
+        {
+			"optional": true,
+            "item": "iceandfire:dragon_ice",
+            "count": 4
         }
     ],
     "tier_data": [

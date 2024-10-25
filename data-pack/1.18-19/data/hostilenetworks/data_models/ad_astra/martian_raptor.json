@@ -1,14 +1,14 @@
 {
 	"conditions": [
 		{
-			"modid": "ad_astra",
-			"type": "forge:mod_loaded"
+			"type": "forge:mod_loaded",
+			"modid": "ad_astra"
 		}
 	],
     "type": "ad_astra:martian_raptor",
     "name": "entity.ad_astra.martian_raptor",
     "name_color": "#48A33E",
-    "gui_scale": 0.7,
+    "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
@@ -17,14 +17,14 @@
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
-        "item": "hostilenetworks:overworld_prediction"
+        "item": "hostilenetworks:end_prediction"
     },
     "trivia": "custom.trivia.martian_raptor",
     "fabricator_drops": [
         {
 			"optional": true,
             "item": "thermal:sulfur",
-            "count": 4
+            "count": 8
         },
         {
             "item": "minecraft:rotten_flesh",
@@ -32,7 +32,7 @@
         },
         {
             "item": "minecraft:slime_ball",
-            "count": 8
+            "count": 4
         }
     ]
 }
