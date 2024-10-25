@@ -9,7 +9,7 @@
 	"display_nbt": {
         "CustomName": "{\"text\":\"jeb_\"}"
     },
-    "gui_scale": 1,
+    "gui_scale": 0.9,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

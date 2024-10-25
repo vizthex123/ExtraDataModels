@@ -8,16 +8,18 @@ I increment the version by X.1 whenever I add more mod support (so long as the a
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
+
 ## v2.1
 
-[1.20] Buzzier Bees' Grizzly Bear is now a variant of Alex's Mobs' Grizzly Bear
-
+[1.20] Hoglins can now give Hogham [Jaden's Nether Expansion]
 Elder Guardians can now give Trident Shards from Additional Additions
 - Reduced Trident Fragment count to 1 (was 2) [Better Tridents]
 
-Added support for Autumnity and Jaden's Nether Expansion
-- Autumnity's Mooblooms are now Cow variants
-- Hoglins can now give Hogham
+Added support for the following mods:
+
+- Autumnity
+- Buzzier Bees (as variants for the Cow and [1.20] Grizzly Bear [Alex's Mobs])
+- [1.20] Jaden's Nether Expansion
 
 
 --------------------------------------------------
