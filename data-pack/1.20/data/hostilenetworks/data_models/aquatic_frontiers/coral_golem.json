@@ -1,9 +1,9 @@
 {
 	"conditions": [
-	{
-		"type": "forge:mod_loaded",
-		"modid": "aquatic_frontiers"
-	}
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquatic_frontiers"
+		}
 	],
     "entity": "aquatic_frontiers:coralgolem",
     "name": "entity.aquatic_frontiers.coralgolem",
@@ -44,10 +44,6 @@
         {
             "item": "minecraft:tube_coral",
             "count": 16
-        },
-        {
-            "item": "aquatic_frontiers:aquatic_frontiers_theme",
-            "count": 1
         }
     ]
 }

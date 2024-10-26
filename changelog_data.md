@@ -12,6 +12,28 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 Slightly reduced the render scale of Cows and Sheep
 
+	### v2.1.1 - 1.20 only
+	Tweaked the RF usage of several models
+	Fixed the Elder Guardian's loot being in the wrong order
+	Tweaked the order of the Fallen Knight's loot [Ender Zoology]
+
+	Martian Raptors now give 4 Slimeballs
+	Pillagers now give 4 Crude Fragments [Biome Makeover] and 16 Silver Nuggets [Galosphere]
+	Coral Golems now longer give the music disc [Aquatic Frontiers]
+	Giant Squids now give 16 Cod (was 32) [Aquatic Frontiers]
+	- Reduced RF usage to 48/t (was 64)
+
+
+	***Alex's Mobs changes:***
+
+	Froststalkers no longer give blue ice
+	Kangaroos now give 8 hide (was 12)
+	Skreechers now give 2 souls (was 4)
+	Straddlers now give 2 straddlite (was 4)
+	Tarantula Hawks now give 2 wing framents (was 4)
+	Warped Moscos now give 4 hemolymph sacs (was 8)
+
+
 	### v2.1.1 - 1.18/19 only
 	Added models for the Slimes from Tinker's Construct
 

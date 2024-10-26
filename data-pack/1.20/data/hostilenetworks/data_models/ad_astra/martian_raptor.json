@@ -35,6 +35,10 @@
 			"optional": true,
             "item": "alexscaves:toxic_paste",
             "count": 16
+        },
+        {
+            "item": "minecraft:slime_ball",
+            "count": 4
         }
     ]
 }

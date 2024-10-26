@@ -33,16 +33,6 @@
         },
         {
 			"optional": true,
-            "item": "additionaladditions:trident_shard",
-            "count": 1
-        },
-        {
-			"optional": true,
-            "item": "bettertridents:trident_fragment",
-            "count": 1
-        },
-        {
-			"optional": true,
             "item": "upgrade_aquatic:pike",
             "count": 16
         },
@@ -55,6 +45,16 @@
 			"optional": true,
             "item": "upgrade_aquatic:lionfish",
             "count": 16
+        },
+        {
+			"optional": true,
+            "item": "additionaladditions:trident_shard",
+            "count": 1
+        },
+        {
+			"optional": true,
+            "item": "bettertridents:trident_fragment",
+            "count": 1
         },
         {
 			"optional": true,

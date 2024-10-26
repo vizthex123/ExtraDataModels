@@ -22,12 +22,12 @@
         {
 			"optional": true,
             "item": "biomemakover:crude_fragment",
-            "count": 8
+            "count": 4
         },
         {
 			"optional": true,
             "item": "galosphere:silver_nugget",
-            "count": 4
+            "count": 16
         },
         {
 			"optional": true,
