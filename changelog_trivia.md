@@ -7,6 +7,12 @@ This one will be updated more often than the CurseForge and Modrinth changelogs.
 I increment the version by X.1 whenever I add more mod support (so long as the addition has 8+ models), and X.X.1 for minor tweaks and/or additions I missed in the last patch.
 
 
+## v1.6.4
+
+Added trivia entries for Tinker's Construct
+
+
+--------------------------------------------------
 ## v1.6.3
 
 Added trivia entries for Autumnity and Jaden's Nether Expansion

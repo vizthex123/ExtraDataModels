@@ -365,6 +365,13 @@
 
 
 
+	"_comment": "Tinker's Construct",
+	"custom.trivia.ender_slime": "Found in the End,\nthis sub-species of the Slime can be used to\nincrease the range of one's tools.\nYou can even use it in place of Slimeballs! (sometimes).",
+	"custom.trivia.sky_slime": "Found high in the sky,\nthis sub-species of the Slime\njumps much higher than its land-bound cousins.\nYou can also use it in place of Slimeballs (sometimes).",
+	"custom.trivia.terracube": "An offshoot of the standard Slime,\nTerracubes are well-adapted\nto their clay-filled habitats.\n\nIt can even be converted into Smeltery materials!",
+
+
+
 	"_comment": "Upgrade Aquatic",
 	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
 
