@@ -35,6 +35,11 @@
 		},
 		{
 			"optional": true,
+			"item": "tconstruct:dragon_scale",
+			"count": 4
+		},
+		{
+			"optional": true,
 			"item": "tetra:dragon_sinew",
 			"count": 8
 		}

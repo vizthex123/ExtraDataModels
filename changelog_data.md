@@ -8,7 +8,19 @@ I increment the version by X.1 whenever I add more mod support (so long as the a
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
 
+## v2.1.1
 
+Slightly reduced the render scale of Cows and Sheep
+
+	### v2.1.1 - 1.18/19 only
+	Added models for the Slimes from Tinker's Construct
+
+	Added fabricator support for Tinker's Construct
+	- The Ender Dragon gives Dragon Scale
+	- Wither Skeletons give Necrotic Bones
+
+
+--------------------------------------------------
 ## v2.1
 
 [1.20] Hoglins can now give Hogham [Jaden's Nether Expansion]

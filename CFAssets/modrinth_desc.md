@@ -56,6 +56,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
+| [Tinker's Construct](https://modrinth.com/mod/tinkers-construct)																	|				  |✔		   |✔   	    |			      |			   |2.1.1						   |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)          													|				  |			   |      		    |✔			  |			   |1.5							   |
 

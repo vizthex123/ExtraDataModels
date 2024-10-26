@@ -23,6 +23,7 @@
 | [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)	|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)											|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   													|				  |✔		   |✔			|✔			  |			   |								   |
+| [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)								|				  |✔		   |✔   	    |			      |			   |2.1.1						   |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)          			|				  |✔		   |      		    |✔			  |			   |1.5							   |
 
@@ -38,7 +39,7 @@
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)																						|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
 | [Aquamirae](https://modrinth.com/mod/aquamirae)																							|				  |✔		   |✔			|✔			  |			   |2.0							   |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)																		|				  |			   |✔			|✔			  |			   |								   |
-| [Autumnity](https://www.modrinth.com/mod/autumnity)														|				  |✔		   |✔		    |✔			  |			   |2.1							   |
+| [Autumnity](https://www.modrinth.com/mod/autumnity)																					|				  |✔		   |✔		    |✔			  |			   |2.1							   |
 | [Biome Makover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Bygone Nether](https://modrinth.com/mod/bygone-nether)																				|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |2.0							   |
@@ -53,6 +54,7 @@
 | [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
+| [Tinker's Construct](https://modrinth.com/mod/tinkers-construct)																	|				  |✔		   |✔   	    |			      |			   |2.1.1						   |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)          													|				  |✔		   |      		    |✔			  |			   |1.5							   |
 

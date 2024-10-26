@@ -59,6 +59,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)	|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)											|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   													|				  |✔		   |✔			|✔			  |			   |								   |
+| [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)								|				  |✔		   |✔   	    |			      |			   |2.1.1						   |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)          			|				  |			   |      		    |✔			  |			   |1.5							   |
 
