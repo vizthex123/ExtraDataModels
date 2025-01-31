@@ -6,7 +6,7 @@ Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/h
 
 _**Also includes trivia for all of them (the paragraph of text that appear in the Deep Learner) if you install the resource pack! Grab it alongside the [regular download](https://modrinth.com/datapack/extra-data-models/versions).**_
 
-_**Suggest mods I should add support for in the comments, on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
+_**Suggest mods I should add support for on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
 
 <br />
 
@@ -41,22 +41,23 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Alex's Mobs](https://modrinth.com/mod/alexs-mobs)																						|✔		 	  |✔		   |✔			|✔			  |			   |1.4							   |
 | [Aquamirae](https://modrinth.com/mod/aquamirae)																							|				  |✔		   |✔			|✔			  |			   |2.0							   |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)																		|				  |			   |✔			|✔			  |			   |								   |
-| [Autumnity](https://www.modrinth.com/mod/autumnity)														|				  |✔		   |✔		    |✔			  |			   |2.1							   |
+| [Autumnity](https://www.modrinth.com/mod/autumnity)																					|				  |✔		   |✔		    |✔			  |			   |2.1							   |
 | [Biome Makover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |2.0							   |
-| [Bygone Nether](https://modrinth.com/mod/bygone-nether)																				|				  |✔		   |✔		    |✔			  |			   |2.0							   |
+| [Bygone Nether](https://modrinth.com/mod/bygone-nether)																			|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |2.0							   |
 | [Ecologics](https://modrinth.com/mod/ecologics)																								|				  |✔		   |✔			|✔			  |			   |								   |
 | [Ender Zoology](https://modrinth.com/mod/ender-zoology)																				|				  |			   |✔			|✔			  |✔		   |								   |
 | [The Endergetic Expansion](https://modrinth.com/mod/endergetic)																	|				  |			   |✔			|				  |			   |2.0							   |
 | [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)									|				  |			   |			    |				  |✔		   |1.6							   |
-| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																	|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
-| [Galosphere](https://modrinth.com/mod/galosphere)																							|				  |			   |      		    |✔			  |			   |								   |
+| [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
+| [Galosphere](https://modrinth.com/mod/galosphere)																						|				  |			   |      		    |✔			  |			   |								   |
 | [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |      		   |      		    |✔			  |			   |2.1							   |
+| [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)															|				  |✔		   |✔			|✔			  |✔		   |3.0							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
-| [Tinker's Construct](https://modrinth.com/mod/tinkers-construct)																	|				  |✔		   |✔   	    |			      |			   |2.1.1						   |
+| [Tinkers Construct](https://modrinth.com/mod/tinkers-construct)																	|				  |✔		   |✔   	    |✔		      |			   |2.1.1 (3.0 for 1.20 support) |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)          													|				  |			   |      		    |✔			  |			   |1.5							   |
 

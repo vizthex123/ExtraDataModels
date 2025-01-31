@@ -83,18 +83,50 @@ There's 4 levellable tiers in total (Faulty, Basic, Advanced, and Superior), wit
 --- Minibosses need 2/4/6/12 kills
 --- Bosses need 1/2/4/8 kills
 
---- Passives need 16/32/64/128
---- Neutrals need 6/12/24/48
---- Hostiles need 8/16/32/64
----- "Elites" need 4/8/16/32
+--- Passives need 16/32/64/128 kills
+--- Neutrals need 6/12/24/48 kills
+--- Hostiles need 8/16/32/64 kills
+---- "Elites" need 4/8/16/32 kills
 
 
 
 passive data:
-1024
+```
+    "tier_data": [
+		64,
+        256,
+        768,
+        2048
+    ],
+    "data_per_kill": [
+        4,
+        8,
+        12,
+        16
+    ]
+}
+```
+
+
 
 neutral data:
-2048
+```
+    "tier_data": [
+		48,
+        192,
+        768,
+        2304
+    ],
+    "data_per_kill": [
+        8,
+        16,
+        32,
+        48
+    ]
+}
+```
+
+
 
 hostile data:
 ```
