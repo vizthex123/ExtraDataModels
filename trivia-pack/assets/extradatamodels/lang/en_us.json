@@ -80,7 +80,7 @@
 			"custom.trivia.grottoceratops": "Despite its outward appearance,\nthis saurian is rather peaceful.",
 			"custom.trivia.luxtructosaurus": "The luxuriously lethal Luxtructosaurus\nis not a foe to be trifled with.\nDoomed to bond with a Volcanic Core,\nit now lies in wait for a worthy challenger.",
 			"custom.trivia.relicheirus": "This overgrown primordial chicken\ncan prove useful if tempted with primal soup.\n\nAlso makes for a decent food source.",
-			"custom.trivia.subterranodon": "This flying reptile can be tamed & ridden.\n\nTheir favourite food is Trilocaris Tails.",
+			"custom.trivia.subterranodon": "This flying reptile can be tamed & ridden.\n\nTheir favorite food is Trilocaris Tails.",
 			"custom.trivia.tremorsaurus": "Causes all to tremble when it roars.\n\nExercise caution when spelunking near them.",
 			"custom.trivia.trilocaris": "These rather sizeable arthropods\ncan be found all over the Primordial Caverns.\nOne of the few prey animals in the area.",
 			"custom.trivia.vallumraptor": "These raptors will loot\nnearby Chests in search of food.\n\nClever girl...",
@@ -91,7 +91,7 @@
 			"custom.trivia.gammaroach": "Radroaches always survive...",
 			"custom.trivia.nucleeper": "Augmented with nuclear power,\nthis Creeper is an unquantifiable threat.\nIts high fuse time is your only saving grace.\nRun.",
 			"custom.trivia.radgill": "The Radgill (aka \"Blinky\")\nis the product of fish that have fallen\ninto the Toxic Waste within the Dump.\nIt can be eaten, but I advise against it",
-			"custom.trivia.raycat": "One of few defences from Nucleepers.\n\nTame it with Radgills if you want assistance.",
+			"custom.trivia.raycat": "One of few defenses from Nucleepers.\n\nTame it with Radgills if you want assistance.",
 			"custom.trivia.tremorzilla": "The product of your own hubris.\nI wish you the best when trying to slay it.\nTry to have its beam kill a Nucleeper.",
 
 
@@ -109,7 +109,7 @@
 	"custom.trivia.cachalot_whale": "These large mammals reside in warm oceans.\nYou'll have a whale of a tale if you ever meet one.",
 	"custom.trivia.catfish": "Despite its name, it's not actually part cat.",
 	"custom.trivia.cave_centipede": "A rare variant of a Giant Centipede,\nthis specimen didn't travel through a time portal.",
-	"custom.trivia.comb_jelly": "A rainbow-coloured jellyfish.\nSo pretty...",
+	"custom.trivia.comb_jelly": "A rainbow-colored jellyfish.\nSo pretty...",
 	"custom.trivia.cosmic_cod": "Not to be confused with the Flying Fish.",
 	"custom.trivia.crimson_mosquito": "A slightly larger variant of regular mosquitos,\nthis speciment is able to quickly drain the blood of its victims.",
 	"custom.trivia.crocodile": "See you later, alligator.",
@@ -182,7 +182,7 @@
 	"custom.trivia.ghost_makeover": "Villagers left to die (or slain in raids)\nwill become wandering spirits,\ndoomed to purgatory until freed from it.",
 	"custom.trivia.glowfish": "A bioluminescent variant of Fish.\n\nWhat do you mean it's not called \"Fish\" anymore?",
 	"custom.trivia.helmit_crab": "Not to be confused with a Hermit Crab.",
-	"custom.trivia.marauder_pillager": "A variant of the Pillager that has\nlearned of basic armour,\nbut still doesn't have enough to save himself\nfrom your wrath.",
+	"custom.trivia.marauder_pillager": "A variant of the Pillager that has\nlearned of basic armor,\nbut still doesn't have enough to save himself\nfrom your wrath.",
 	"custom.trivia.moth": "Floats around aimlessly at night.\n\nStill best to keep it away from leather items...",
 	"custom.trivia.owl_makeover": "Are Owls still a hoot at night?",
 	"custom.trivia.rootling": "A strange plant, akin to a Mandrake -\nit will run around until escaping (or killed).\n\nAlthough it doesn't curse you when harvested.",
@@ -207,6 +207,11 @@
 
 
 
+	"_comment": "The Conjurer",
+	"custom.trivia.conjurer": "A magical fellow who loves to impress -\neven building his own theatre!\nBut eventually, everyone grew weary of his same tired tricks.\nThis drove him mad with grief, rendering him an Illager.",
+
+
+
 	"_comment": "Deep Dark: Regrowth",
 	"custom.trivia.abomination": "An unholy amalgamation of\nSculk and Galm,\nthis aberration should be purged forthwith.\nW3 423 n07 unh01y.",
 	"custom.trivia.annihilator": "[7H2347 D373C73D]\n[5133|* M0[)3 [)153|V9493[). 5(4|V|V1|V9...]\n['|'#/2[-A'|' |_[](A'|'[-|). M[]|/!N(_+ '|'[] [-N(_+A(_+[-...]\n[N3W D123C71V3: 3X732M1N473 7H2347]",
@@ -216,7 +221,7 @@
 	"custom.trivia.sculk_parasite": "Disguises itself as a Sculk Sensor\nto lure stray adventurers into the Sculk's fold.\n\nW3 w0u1d d0 n0 5uch 7h1n9.",
 	"custom.trivia.spreader": "Wanders aimlessly through the world,\nignorant of the parasite it carries.\n\nP4245173...? Wh47 p4245173?",
 	"custom.trivia.stalker_regrowth": "W3 423 w47ch1n9 y0u\n_|(_)57 7(_)2|V 420(_)|V[).\n(4|V 70(_) 533 (_)5?\n[ERROR: Data encoding interrupted!]",
-	"custom.trivia.tentacle_lamp": "Provides light and basic defence for the Sculk,\nallowing its parasites to feast and lure in\nmore prey at the same time.\nW3 423 v32y 3ff1c13n7.",
+	"custom.trivia.tentacle_lamp": "Provides light and basic defense for the Sculk,\nallowing its parasites to feast and lure in\nmore prey at the same time.\nW3 423 v32y 3ff1c13n7.",
 	
 	"_comment": "Only used in Capitalia: Inward Expansion (and it's from Sculky Bits) [1.19]",
 	"custom.trivia.sculk_saprophyte": "Serving as scouts for the Sculk,\nthese small nodules are best dispatched as quickly as possible.\n5c0u75? wh47 f02?",
@@ -247,9 +252,15 @@
 
 
 
+	"_comment": "Enlightend",
+	"custom.trivia.ringling": "A strange variant of Mandrake Roots,\ncorrupted by the End's magic.",
+	"custom.trivia.stalker_enlightend": "Despite their name,\nthese enderic angler fish will attack on sight.",
+
+
+
 	"_comment": "Eternal Starlight",
 	"custom.trivia.aurora_deer": "Native to Permafrost Starlight Forests,\nthese Deer don't taste quite like you'd expect.",
-	"custom.trivia.crystallized_moth": "A multi-coloured moth,\npartially composed of magical crystals.",
+	"custom.trivia.crystallized_moth": "A multi-colored moth,\npartially composed of magical crystals.",
 	"custom.trivia.ent": "A diminutive forest dweller,\nunique to the Starlight Realm.\nSmaller than its Overworldian counterparts\ndue to the lack of sunlight.",
 	"custom.trivia.freeze": "A distant relative of the Breeze, this\nfloating construct employs ice to slay its foes.",
 	"custom.trivia.gatekeeper": "Sworn to guard the Starlight Gateway,\nthis Gatekeeper only lets victorious challengers pass.\n\n...and it seems like you've come out on top.",
@@ -269,10 +280,12 @@
 
 
 	"_comment": "Friends & Foes",
+	"entity.friendsandfoes.iceologer": "Iceologer",
+
 	"custom.trivia.copper_golem": "This diminutive cousin of the Iron Golem\nactivates any buttons it can see, for it is compelled to do so by your will.",
 	"custom.trivia.crab_friend": "Found on Beaches, the humble Crab\nyields claws with reach-altering properties when slain.",
-	"custom.trivia.glare": "These floating clumps of moss and leaves seek out well-lit areas.\nGlow Berries are their favourite foods.",
-	"custom.trivia.iceologer": "A distant relative of the Evoker,\nthe Iceologer deploys its frosty force against all who encroach upon its domain.",
+	"custom.trivia.glare": "These floating clumps of moss and leaves seek out well-lit areas.\nGlow Berries are their favorite foods.",
+	"custom.trivia.iceologer": "A distant relative of the Evoker,\nthe Iceologer deploys its frosty force\nagainst all who encroach upon its domain.",
 	"custom.trivia.illusioner": "A relative of the Evoker,\nthis master of illusionary magic\nis sure to confused and befuddle everyone.",
 	"custom.trivia.tuff_golem": "This diminutive cousin of the Iron Golem\ndisplays anything you give it - just ensure it doesn't wander away from its post.",
 	"custom.trivia.wildfire": "Master of all Blazes, the Wildfire\nis incredibly tough for unprepared adventurers.\n\nEnsure you can resist its firey wrath.",
@@ -341,6 +354,30 @@
 
 
 
+	"_comment": "L_Ender's Cataclysm",
+	"custom.trivia.amethyst_crab": "When giant crabs encounter an\nAmethyst Geode, a few of them get too curious\nand become a portable Geode.",
+	"custom.trivia.ancient_remnant": "Ancient remains of a long-dead dinosaur,\nreanimated by unknown magic.",
+	"custom.trivia.aptrgangr": "The undead leader of the Draugrs,\nAptrgangr wields his oversized battleaxe with great dexterity.",
+	"custom.trivia.coral_golem_cataclysm": "Guardians of Coral Reefs,\nthese Golems are even deadlier than iron ones\ndue to their sharp coral protrusions.",
+	"custom.trivia.coralssus": "A veteran Coral Golem.\nNot as sharp, but still deadlier.",
+	"custom.trivia.draugr": "Rarely, a Viking who perishes\ndoes not go to Valhalla or Hel -\ninstead, they are doomed to wander the Earth\nas an undead warrior.\nTheir search for peace in the afterlife is neverending.",
+	"custom.trivia.elite_draugr": "A veteran Viking spirit,\nhardened by decades of battle.",
+	"custom.trivia.royal_draugr": "A royal Viking spirit who possessed great wealth in life.",
+	"custom.trivia.endermaptera": "These bothersome beetles\nare native to the End.\nAs with all ankle-biters,\nthe only good bug is a dead bug.",
+	"custom.trivia.ignis": "Ruler of the fiery realm of the Nether,\nIgnis is a challenging adversary.\nEnsure you're as close to fireproof\nas one can be before taking on his challenge.",
+	"custom.trivia.ignited_berserker": "Cousin to the Blaze,\nthis armored adversary will defend\nits domain to the death.",
+	"custom.trivia.ignited_revenant": "Cousin to the Blaze,\nthis reinforced warrior will offer quite the fight\nto defend its fortified abode.\nIt kind of reminds you of something...",
+	"custom.trivia.kobolediator": "A Kobold Gladiator's skeleton.\nWatch out for its giant sword.",
+	"custom.trivia.koboleton": "A swift, skeletal Kobold.\nTry to re-kill it before it stabs you to death.",
+	"custom.trivia.lionfish_cataclysm": "A deep sea hunter,\nLionfish will venomize their prey before eating it.",
+	"custom.trivia.netherite_monstrosity": "Guardian of all that is hellish,\nthis amalgamation of Netherite and will\nis bound to destroy all\nwho are foolish enough to challenge it.",
+	"custom.trivia.the_harbinger": "An advanced form of the Wither,\nmade far deadlier with several augmentations.",
+	"custom.trivia.the_prowler": "This mechanical monstrosity\nis hellbent on hunting you down.\n\nHunt it before it hunts you.",
+	"custom.trivia.the_watcher": "An autonomous scanner,\ndispatched to spy on you.\n\nWill defend itself if needed.",
+	"custom.trivia.wadjet": "The remains of\nan ancient serpentine warrior,\nsworn to defend its master.",
+
+
+
 	"_comment": "The Outer End",
 	"custom.trivia.chorus_squid": "This strange offshoot of standard squids\nsomehow made its way to the End, and was corrupted by it.",
 	"custom.trivia.entombed": "Doomed to a purgatory of wandering,\nthese bulwarks of Purpur attack all who disturb their stupor.",
@@ -365,9 +402,9 @@
 
 
 
-	"_comment": "Tinker's Construct",
-	"custom.trivia.ender_slime": "Found in the End,\nthis sub-species of the Slime can be used to\nincrease the range of one's tools.\nYou can even use it in place of Slimeballs! (sometimes).",
-	"custom.trivia.sky_slime": "Found high in the sky,\nthis sub-species of the Slime\njumps much higher than its land-bound cousins.\nYou can also use it in place of Slimeballs (sometimes).",
+	"_comment": "Tinkers Construct",
+	"custom.trivia.ender_slime": "Found in the End,\nthis sub-species of the Slime can be used to\nincrease the range of one's tools.\nYou can even use it in place of Slimeballs!",
+	"custom.trivia.sky_slime": "Found high in the sky,\nthis sub-species of the Slime\njumps much higher than its land-bound cousins.\nYou can even use it in place of Slimeballs!",
 	"custom.trivia.terracube": "An offshoot of the standard Slime,\nTerracubes are well-adapted\nto their clay-filled habitats.\n\nIt can even be converted into Smeltery materials!",
 
 
@@ -375,18 +412,22 @@
 	"_comment": "Upgrade Aquatic",
 	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
 
-	"_comment": "Only in 1.17",
-	"custom.trivia.glow_squid": "Seems oddly familiar...",
-
-
 	"custom.trivia.goose": "Geese are some of the most hostile\nand unpleasent members of the animal kingdom.\n\nTrapping them in a simulation is about what they deserve.",
 	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, meandering within the oceans forever...",
 	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
-	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures reside in a tough shell.",
+	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures never leave their tough shell.",
 	"custom.trivia.perch": "A small, common, uninteresting fish.",
 	"custom.trivia.pike": "Not to be confused with Pike (weapon)\n\nThe Pike is a carnivorous fish found in\nboth salt and fresh water.",
 	"custom.trivia.thrasher": "This specialized shark resides in trenches,\ndragging prey to the sea floor before drowning it.\n\nExercise extreme caution around them.",
 	"custom.trivia.great_thrasher": "An elder Thrasher,\ntougher than its kin due to years of experience.\n\nExercise extremer caution around them.",
+
+	"_comment": "Only in 1.17",
+	"custom.trivia.glow_squid": "Seems oddly familiar... but this one came first, right?",
+
+
+
+	"_comment": "Whisperwoods",
+	"custom.trivia.wisp": "Lives to lure humans to an untimely demise.\nTake caution when near one.",
 
 
 

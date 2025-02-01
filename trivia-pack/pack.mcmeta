@@ -8,6 +8,6 @@
 			15,
 			34
 		],
-		"description": "Adds trivia to my custom data models."
+		"description": "Adds trivia to my custom data models. Requires the datapack to work: https://www.curseforge.com/minecraft/data-packs/extra-data-models"
     }
 }

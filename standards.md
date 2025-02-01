@@ -15,6 +15,15 @@ Increment the version by X.1 whenever I add more mod support.
 
 Add new trivia to the English translation (copied from Simplified English) and replace words with their proper spelling (e.g. "armour" instead of "armor")
 
+Words to replace for proper english:
+
+- Armor
+- Color
+- Defense
+- Favorite
+- Specialized
+- Recognized
+
 
 
 # Data

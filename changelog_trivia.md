@@ -5,37 +5,61 @@ A full changelog for every version of the [Trivia Pack](https://www.curseforge.c
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
 I increment the version by X.1 whenever I add more mod support (so long as the addition has 8+ models), and X.X.1 for minor tweaks and/or additions I missed in the last patch.
+--------------------------------------------------
 
+## v1.7
+
+Fixed British English trivia entries not correcting the spelling of a few words
+
+Fixed the line bleed on the Iceologer's trivia [Friends & Foes]<br />
+Tweaked the trivia entry for the Glow Squid and Nautilus [Upgrade Aquatic]<br />
+Tweaked the trivia entries for the Enderslime and Skyslime [Tinkers Construct]
+
+Added trivia for the following mods:
+- The Conjurer
+- Enlightend
+- L_Ender's Cataclysm
+- Whisperwoods
+
+<br /> <br />
+
+--------------------------------------------------
 
 ## v1.6.4
 
-Added trivia entries for Tinker's Construct
+Added trivia entries for Tinkers Construct
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.6.3
 
 Added trivia entries for Autumnity and Jaden's Nether Expansion
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.6.2
 
 Added trivia entries for the new mobs from Alex's Caves 2.0.0
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.6.1
 
 Renamed the following mobs' keys, meaning their trivia won't load unless you're running v2.0 of the datapack:
 - Giant Squid and Sponge Squid [Aquatic Frontiers]
 
-*I try to avoid changing the trivia keys since it breaks backwards compat, but I had to make these two fit my key name standards.*
+*I try to avoid changing the trivia keys since it breaks backwards compatability, but I had to make these two fit my standards.*
 
 *There's no reason not to update both packs at the same time though, but you can avoid going past v1.6 of the Trivia Pack and v1.5 of the Data Pack if you really don't want the changes (for whatever reason).*
 
-Fixed a typo in the Kangaroo's trivia entry [Alex's Mobs]
-Fixed the trivia entry for the Bone Serpent not loading [Alex's Mobs]
+Fixed a typo in the Kangaroo's trivia entry [Alex's Mobs]<br />
+Fixed the trivia entry for the Bone Serpent not loading [Alex's Mobs]<br />
 Renamed Quark's Oretoise to Toretoise
 - I swear it used to be called that since it's a good pun
 
@@ -58,8 +82,10 @@ Tweaked the following trivia entries:
 - Apothecarist [Iron's Spells 'n Spellbooks]
 - Foxhound [Quark]
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.6
 
 Added trivia for Eternal Starlight
@@ -78,8 +104,10 @@ Tweaked the following trivia entries:
 - Mine Guardian [Alex's Caves]
 - Farseer [Alex's Mobs]
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.5
 
 Added a few trivia entries for some models exclusive to [Capitalia: Inward Expansion](https://www.curseforge.com/minecraft/modpacks/capitalia-2)
@@ -105,8 +133,10 @@ Added trivia for the following mods:
 - Deep Dark: Regrowth
 - The Endergetic Expansion
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.4.1
 
 Now supports Minecraft 1.21.1
@@ -117,43 +147,54 @@ Added trivia for the following mobs:
 - Breeze
 - Crab [Friends & Foes]
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.4
 
-Added trivia for Ice & Fire's mobs
+Added trivia for Ice & Fire's mobs<br />
 Added trivia for YUNG's Cave Biomes mobs
 
 Tweaked the trivia for the following mobs:
 - Great Thrasher [Upgrade Aquatic]
 - Laviathan [Alex's Mobs]
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.3
 
-Added trivia for modded mobs added in v1.4 of the datapack
+Added trivia for the following mods:
+- Alex's Mobs
+- Friends & Foes
+- Iron's Spells n' Spellbooks
 
 Added trivia for the following mobs:
 - Glow Squids [Upgrade Aquatic]
 - Chorus Squids [The Outer End]
 - Wrapped [Quark]
 
-Changed the trivia entry for Giant Squids [Aquatic Frontiers]
+Changed the trivia entry for Giant Squids [Aquatic Frontiers]<br />
 Changed the name for the Immortal Jellyfish [Upgrade Aquatic]
 - Since all 3 variants share a model, the model is now called "Jellyfish"
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.2.1
 
 Now uses the `supported_formats` field, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
-- Note that the game will whine about it being for "a newer version of Minecraft", but it will work fine
+- Note that the game will whine about it being for "a newer version of Minecraft", but it will still work fine
 
 In addition, I've archived all the old versions to make the file list more readable.
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.2
 
 Tweaked the wording for the Thrasher's trivia
@@ -163,21 +204,28 @@ Added trivia for the following mobs:
 - Spectrafly [Outer End]
 - [1.20] Star Crawler [Ad Astra]
 
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.1
 
-Tweaked the trivia entries for a few mobs
+Tweaked the trivia entries for a few mobs<br />
 Added trivia for Upgrade Aquatic's mobs
 
-	[1.19]
-	Backported to 1.19.2
+<br />
 
-	Removed Alex's Caves trivia since the mod isn't on this version
-	Added trivia for Camels [Ecologics]
+### v1.1 - 1.19 only
 
+Backported to 1.19.2
+
+Removed Alex's Caves trivia since the mod isn't on this version<br />
+Added trivia for the Camel [Ecologics]
+
+<br /> <br />
 
 --------------------------------------------------
+
 ## v1.0
 
 Initial release.
