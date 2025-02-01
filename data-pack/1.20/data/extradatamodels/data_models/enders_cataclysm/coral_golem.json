@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:coral_golem",
+    "name": "entity.cataclysm.coral_golem",
+    "name_color": "#A21dA2",
+    "gui_scale": 0.4,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 288,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.coral_golem_cataclysm",
+    "fabricator_drops": [
+		{
+            "item": "cataclysm:crystallized_coral_fragments",
+            "count": 4
+        }
+    ],
+	"tier_data": [
+		96,
+        384,
+        1536,
+        6144
+    ],
+    "data_per_kill": [
+        24,
+        48,
+        96,
+        192
+    ]
+}

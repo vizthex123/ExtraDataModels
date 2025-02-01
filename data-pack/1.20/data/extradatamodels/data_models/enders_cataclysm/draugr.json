@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:draugr",
+    "name": "entity.cataclysm.draugr",
+    "name_color": "#4C493E",
+    "gui_scale": 0.85,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.draugr",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:black_steel_ingot",
+            "count": 1
+        },
+		{
+            "item": "minecraft:bone",
+            "count": 8
+        },
+		{
+            "item": "minecraft:rotten_flesh",
+            "count": 8
+        }
+    ],
+	"tier_data": [
+		64,
+        256,
+        1024,
+        4096
+    ],
+    "data_per_kill": [
+        8,
+        16,
+        32,
+        64
+    ]
+}

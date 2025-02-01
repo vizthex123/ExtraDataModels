@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:kobolediator",
+    "name": "entity.cataclysm.kobolediator",
+    "name_color": "#D8B568",
+    "gui_scale": 0.42,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 288,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+	"trivia": "custom.trivia.kobolediator",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:koboleton_bone",
+            "count": 8
+        },
+		{
+            "item": "cataclysm:ancient_metal_ingot",
+            "count": 4
+        }
+    ],
+	"tier_data": [
+		96,
+        384,
+        1536,
+        6144
+    ],
+    "data_per_kill": [
+        24,
+        48,
+        96,
+        192
+    ]
+}

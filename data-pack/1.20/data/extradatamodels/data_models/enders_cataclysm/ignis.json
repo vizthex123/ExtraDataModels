@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:ignis",
+    "name": "entity.cataclysm.ignis",
+    "name_color": "#945B00",
+    "gui_scale": 0.3,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+	"trivia": "custom.trivia.ignis",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:ignitium_ingot",
+            "count": 8
+        }
+    ],
+    "tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        256,
+        1024,
+        2048
+    ]
+}

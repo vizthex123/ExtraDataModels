@@ -55,7 +55,7 @@
 | [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 						  	|✔  	     |✔			 |✔			|✔			  |			   |1.5											|
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)								|				 |✔			 |✔			|✔			  |✔		   |1.4											|
 | [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)								|				 |				 |      		    |✔			  |			   |2.1											|
-| [L_Ender's Cataclysm](https://modrinth.com/mod/lendercataclysm)														|				 |✔			 |✔			|✔			  |✔		   |3.0											|
+| [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)														|				 |✔			 |✔			|✔			  |✔		   |3.0											|
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																	|				 |				 |      		    |✔			  |			   |												|
 | [Quark](https://modrinth.com/mod/quark)                   																			|				 |✔			 |✔			|✔			  |			   |												|
 | [Tinker's Construct](https://modrinth.com/mod/tinkers-construct)														|				 |✔			 |✔   	    |✔		      |			   |2.1.1 (3.0 for 1.20 support)	|

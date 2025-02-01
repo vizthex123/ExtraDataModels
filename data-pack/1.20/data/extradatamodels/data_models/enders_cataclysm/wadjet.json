@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:wadjet",
+    "name": "entity.cataclysm.wadjet",
+    "name_color": "#5F502E",
+    "gui_scale": 0.6,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 288,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+	"trivia": "custom.trivia.wadjet",
+    "fabricator_drops": [
+		{
+            "item": "cataclysm:ancient_metal_ingot",
+            "count": 8
+        }
+    ],
+	"tier_data": [
+		96,
+        384,
+        1536,
+        6144
+    ],
+    "data_per_kill": [
+        24,
+        48,
+        96,
+        192
+    ]
+}

@@ -31,28 +31,28 @@
         },
         {
 			"optional": true,
-            "item": "ad_astra:ice_shard",
-            "count": 8
+            "item": "biomeswevegone:black_ice",
+            "count": 9
         },
         {
 			"optional": true,
-            "item": "biomeswevegone:black_ice",
-            "count": 6
+            "item": "biomeswevegone:packed_black_ice",
+            "count": 1
         },
         {
 			"optional": true,
             "item": "biomeswevegone:borealis_ice",
-            "count": 6
+            "count": 9
+        },
+        {
+			"optional": true,
+            "item": "biomeswevegone:packed_borealis_ice",
+            "count": 1
         },
         {
 			"optional": true,
             "item": "ecologics:thin_ice",
             "count": 24
-        },
-        {
-			"optional": true,
-            "item": "iceandfire:dragon_ice",
-            "count": 4
         }
     ],
     "tier_data": [

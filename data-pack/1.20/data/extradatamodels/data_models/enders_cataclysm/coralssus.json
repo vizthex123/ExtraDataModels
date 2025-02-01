@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:coralssus",
+    "name": "entity.cataclysm.coralssus",
+    "name_color": "#2042A1",
+    "gui_scale": 0.4,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 288,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.coralssus",
+    "fabricator_drops": [
+		{
+            "item": "cataclysm:coral_chunk",
+            "count": 4
+        }
+    ],
+	"tier_data": [
+		96,
+        384,
+        1536,
+        6144
+    ],
+    "data_per_kill": [
+        24,
+        48,
+        96,
+        192
+    ]
+}

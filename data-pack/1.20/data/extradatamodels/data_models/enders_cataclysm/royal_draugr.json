@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:royal_draugr",
+    "name": "entity.cataclysm.royal_draugr",
+    "name_color": "#9F854D",
+    "gui_scale": 0.85,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 192,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.royal_draugr",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:black_steel_ingot",
+            "count": 4
+        },
+		{
+            "item": "minecraft:bone",
+            "count": 24
+        },
+		{
+            "item": "minecraft:rotten_flesh",
+            "count": 24
+        }
+    ],
+	"tier_data": [
+		64,
+        256,
+        1024,
+        4096
+    ],
+    "data_per_kill": [
+        8,
+        16,
+        32,
+        64
+    ]
+}

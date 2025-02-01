@@ -28,17 +28,17 @@
 		{
 			"optional": true,
 			"id": "irons_spellbooks:dragonskin",
-			"count": 8
-		},
-		{
-			"optional": true,
-			"id": "tetra:dragon_sinew",
-			"count": 8
+			"count": 4
 		},
 		{
 			"optional": true,
 			"id": "quark:dragon_scale",
-			"count": 8
+			"count": 4
+		},
+		{
+			"optional": true,
+			"id": "tetra:dragon_sinew",
+			"count": 4
 		}
 	],
     "data_per_kill": {

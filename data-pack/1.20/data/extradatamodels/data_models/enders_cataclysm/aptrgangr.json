@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:aptrgangr",
+    "name": "entity.cataclysm.aptrgangr",
+    "name_color": "#A0FFFF",
+    "gui_scale": 0.4,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 320,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.aptrgangr",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:black_steel_ingot",
+            "count": 8
+        },
+		{
+            "item": "minecraft:bone",
+            "count": 32
+        },
+		{
+            "item": "minecraft:rotten_flesh",
+            "count": 32
+        }
+    ],
+	"tier_data": [
+		96,
+        384,
+        1536,
+        6144
+    ],
+    "data_per_kill": [
+        24,
+        48,
+        96,
+        192
+    ]
+}

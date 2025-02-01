@@ -23,13 +23,20 @@ Twilight Forest's Ice Elemental model can now give modded Ice types
 - Also changed its name colour
 
 Changed the colour of the Iceologer [Friends & Foes]<br />
-Reduced the Ravager's Hide output to 4 (was 8)<br />
-Ender Dragon models now give 4 of each modded loot (was varying amounts)
+Ender Dragon models now give 4 of each modded loot (was varying amounts)<br />
+Reduced the Ravager's Hide output to 4 (was 8)
 
 Added support for the following mods:
 - The Conjurer
 - Whisperwoods
 - L_Ender's Cataclysm (suggested by yrarah in the CurseForge comments section)
+
+<br />
+
+### v3.0 - 1.20 only
+
+Buffed the amount of Ignitium Ingots given (from 6 to 8) [Ender's Cataclysm]<br />
+Re-added Tinkers Construct support
 
 <br />
 

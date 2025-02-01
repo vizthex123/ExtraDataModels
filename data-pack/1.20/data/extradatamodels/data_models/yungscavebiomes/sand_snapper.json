@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "yungscavebiomes:ancient_sand",
-            "count": 8
+            "count": 16
         },
         {
             "item": "minecraft:sand",
