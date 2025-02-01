@@ -54,9 +54,9 @@ Boss: 2,560 RF/t (defined as "has a boss health bar and at least 200 health (100
 - Exception: Eternal Starlight - bosses only drop Loot Bags, so they use 1,280 RF/t.
 
 Miniboss: 1,024 RF/t (defined as "has at least 150 health (75 hearts) and no boss health bar")
-- Mobs with 50 health (25 hearts) or valuable loot are considered "elites"
 
 Elites: 256 - 512 RF/t (depends on how good the drops are and their stats/how hard it is to fight)
+- Mobs with 50 health (25 hearts) or rare, valuable loot are considered "elites"
 Hostiles: 128 RF/t
 Neutrals: 96 RF/t
 Passives: 64 RF/t
@@ -86,7 +86,7 @@ There's 4 levellable tiers in total (Faulty, Basic, Advanced, and Superior), wit
 --- Passives need 16/32/64/128 kills
 --- Neutrals need 6/12/24/48 kills
 --- Hostiles need 8/16/32/64 kills
----- "Elites" need 4/8/16/32 kills
+---- Elites need 4/8/16/32 kills
 
 
 
@@ -108,7 +108,6 @@ passive data:
 ```
 
 
-
 neutral data:
 ```
     "tier_data": [
@@ -125,7 +124,6 @@ neutral data:
     ]
 }
 ```
-
 
 
 hostile data:
@@ -163,6 +161,7 @@ elite data:
 }
 ```
 
+
 miniboss data:
 ```
     "tier_data": [
@@ -179,7 +178,6 @@ miniboss data:
     ]
 }
 ```
-
 
 
 boss data:

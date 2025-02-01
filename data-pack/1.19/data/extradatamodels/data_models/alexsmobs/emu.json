@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "alexsmobs"
+		}
+	],
+    "type": "alexsmobs:emu",
+    "name": "entity.alexsmobs.emu",
+    "name_color": "#352B25",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.emu",
+    "fabricator_drops": [
+        {
+            "item": "alexsmobs:emu_feather",
+            "count": 16
+        },
+        {
+            "item": "alexsmobs:emu_egg",
+            "count": 8
+        },
+        {
+            "item": "minecraft:feather",
+            "count": 8
+        }
+    ]
+}

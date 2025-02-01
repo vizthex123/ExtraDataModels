@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "pack_format": 9,
+		"supported_formats": [
+			8,
+			9,
+			10
+		],
+        "description": "Adds modded data models and tweaks some of the default ones."
+    }
+}

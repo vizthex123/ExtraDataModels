@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:dread_scuttler",
+    "name": "entity.iceandfire.dread_scuttler",
+	"name_color": "#70819A",
+	"gui_scale": 1,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 148,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.dread_scuttler",
+	"fabricator_drops": [
+		{
+			"item": "minecraft:rotten_flesh",
+			"count": 32
+		},
+		{
+			"item": "minecraft:spider_eye",
+			"count": 24
+		}
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:pixie",
+    "name": "entity.iceandfire.pixie",
+	"name_color": "#FFA4FF",
+	"gui_scale": 2,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 32,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.pixie",
+	"fabricator_drops": [
+		{
+			"item": "iceandfire:pixie_dust",
+			"count": 16
+		}
+	]
+}

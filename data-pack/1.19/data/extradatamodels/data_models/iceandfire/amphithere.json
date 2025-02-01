@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:amphithere",
+    "name": "entity.iceandfire.amphithere",
+	"name_color": "#004B2C",
+	"gui_scale": 0.4,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 128,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.amphithere",
+	"fabricator_drops": [
+		{
+			"item": "iceandfire:amphithere_feather",
+			"count": 8
+		}
+	]
+}

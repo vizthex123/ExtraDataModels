@@ -1,0 +1,65 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "iceandfire"
+		}
+	],
+	"type": "iceandfire:ice_dragon",
+    "name": "entity.iceandfire.ice_dragon",
+	"name_color": "#ADD8E6",
+	"gui_scale": 1.5,
+	"gui_x_offset": 0,
+	"gui_y_offset": 0,
+	"gui_z_offset": 0,
+	"sim_cost": 2560,
+	"input": {
+		"item": "hostilenetworks:empty_prediction"
+	},
+	"base_drop": {
+		"item": "hostilenetworks:overworld_prediction"
+	},
+	"trivia": "custom.trivia.ice_dragon",
+	"fabricator_drops": [
+		{
+			"item": "iceandfire:ice_dragon_flesh",
+			"count": 8
+		},
+		{
+			"item": "iceandfire:dragonbone",
+			"count": 16
+		},
+		{
+			"item": "iceandfire:dragonscales_blue",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:dragonscales_sapphire",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:dragonscales_silver",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:dragonscales_white",
+			"count": 32
+		},
+		{
+			"item": "iceandfire:ice_dragon_blood",
+			"count": 4
+		}
+	],
+    "tier_data": [
+		100,
+        400,
+        1200,
+        2400
+    ],
+    "data_per_kill": [
+        100,
+        200,
+        400,
+        600
+    ]
+}

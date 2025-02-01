@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "aquatic_frontiers"
+		}
+	],
+    "type": "aquatic_frontiers:coralgolem",
+    "name": "entity.aquatic_frontiers.coralgolem",
+    "name_color": "#5DA294",
+    "gui_scale": 0.6,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.coral_golem",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:prismarine_shard",
+            "count": 32
+        },
+        {
+            "item": "minecraft:brain_coral",
+            "count": 16
+        },
+        {
+            "item": "minecraft:bubble_coral",
+            "count": 16
+        },
+        {
+            "item": "minecraft:fire_coral",
+            "count": 16
+        },
+        {
+            "item": "minecraft:horn_coral",
+            "count": 16
+        },
+        {
+            "item": "minecraft:tube_coral",
+            "count": 16
+        }
+    ]
+}

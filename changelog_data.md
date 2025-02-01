@@ -11,20 +11,25 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 ## v3.0
 
-Moved all of my custom models to their own namespace<br />
-Went back to having a separate release for each minecraft version to curb 1.18 log spam
+Moved all of my custom models to their own namespace
+
+Went back to having a separate release for each minecraft version to curb 1.18 log spam (and fix a few annoying issues with cross-version compatability)
 
 Fixed Ice Cubes trying to give Ice from a mod that didn't exist. Also removed Ice Shards and Dragon Ice [YUNG's Cave Biomes]<br />
 Fixed Sand Snappers trying to give Sand from a mod that didn't exist. Also buffed Ancient Sand output to 16 (was 8) [YUNG's Cave Biomes]
 
-Changed the colour of the Iceologer<br />
+Twilight Forest's Snow Queen model can now give modded Ice types<br />
+Twilight Forest's Ice Elemental model can now give modded Ice types
+- Also changed its name colour
+
+Changed the colour of the Iceologer [Friends & Foes]<br />
 Reduced the Ravager's Hide output to 4 (was 8)<br />
 Ender Dragon models now give 4 of each modded loot (was varying amounts)
 
 Added support for the following mods:
 - The Conjurer
 - Whisperwoods
-- L_Ender's Cataclysm (suggested by yrarah in the CF comments)
+- L_Ender's Cataclysm (suggested by yrarah in the CurseForge comments section)
 
 <br />
 
@@ -32,14 +37,10 @@ Added support for the following mods:
 
 Removed a model I didn't intend to include<br />
 Added a model for the Ancient Paladin [OB Core (Legacy)]<br />
-[1.18] Stalkers can now give Emissive Underlilies [Enlightend]<br />
-[1.18] Added a model for the Ringling [Enlightend]
+Stalkers can now give Underlilies [Enlightend]
 
 Iceologers can now give ice from Oh the Biomes We'll Go [Friends & Foes]<br />
-Elder Guardians can now give Elder Guardian Spines [Upgrade Aquatic]<br />
-Twilight Forest's Snow Queen model can now give modded Ice types<br />
-Twilight Forest's Ice Elemental model can now give modded Ice types
-- Also changed its name colour
+Elder Guardians can now give Elder Guardian Spines [Upgrade Aquatic]
 
 Reduced the RF cost of the Golden Moth to 24 (was 48) [Aquamirae]
 
