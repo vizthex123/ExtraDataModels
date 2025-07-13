@@ -1,4 +1,6 @@
 {
+	"_comment": "English",
+
 	"_comment": "36 characters on line 1 before it clips into the drop stats",
 	"_comment": "48 characters on other lines before it spills out of the UI",
 	"_comment": "4 lines before it leaves the UI",
@@ -7,7 +9,6 @@
 
 	"_comment": "Minecraft",
 	"custom.trivia.bee": "Floating about the forest,\nBees work tirelessly to produce Honeycombs\nyou can centrifuge into a variety of items.\nWait a minute, that's not quite right...",
-	"custom.trivia.breeze": "An airy relative of the Blaze,\nBreezes can only be found\nwithin the confines of a Trial Chamber.",
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
 	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",

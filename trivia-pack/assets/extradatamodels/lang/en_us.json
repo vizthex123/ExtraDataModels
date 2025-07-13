@@ -1,4 +1,6 @@
 {
+	"_comment": "Simplified english",
+
 	"_comment": "36 characters on line 1 before it clips into the drop stats",
 	"_comment": "48 characters on other lines before it spills out of the UI",
 	"_comment": "4 lines before it leaves the UI",
@@ -7,7 +9,6 @@
 
 	"_comment": "Minecraft",
 	"custom.trivia.bee": "Floating about the forest,\nBees work tirelessly to produce Honeycombs\nyou can centrifuge into a variety of items.\nWait a minute, that's not quite right...",
-	"custom.trivia.breeze": "An airy relative of the Blaze,\nBreezes can only be found\nwithin the confines of a Trial Chamber.",
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
 	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
@@ -394,7 +395,7 @@
 
 	"custom.trivia.crab": "Rarely found on beaches.\nDon't get too crabby when trying to find them!",
 	"custom.trivia.forgotten": "[ERROR]: Database entry corrupted!",
-	"custom.trivia.foxhound": "When Foxes or Wolves are trapped in\nthe Nether, the magic within bonds them into one\nand imbues them with fire.",
+	"custom.trivia.foxhound": "When Foxes or Wolves are trapped in\nthe Nether, the magic within bonds to them,\nimbuing them with a fiery rage.",
 	"custom.trivia.stoneling": "This strange creature inhabits caves,\ncarrying a variety of items.\nUnfortunately, they are quite skittish.\nFurther research is pending due to this.",
 	"custom.trivia.toretoise": "As the name implies, Toretoises\nare tortoises with ores on their shells.\nTheir ores can be harvest with a pickaxe.",
 	"custom.trivia.wraith": "A haunting apparition, formed from the\nlost souls trapped within the Soul Sand Valley.\nTheir remnants guide travellers towards the\nGreat Fortress.",
