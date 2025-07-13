@@ -45,7 +45,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)													|				  |✔		   |✔			|✔			  |			   |2.0					|
 | [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)									|				  |			   |✔			|✔			  |			   |							|
 | [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)															|				  |✔		   |✔		    |✔			  |			   |2.1					|
-| [Biome Makover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)				 			|				  |✔		   |✔		    |✔			  |			   |2.0					|
+| [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)				 			|				  |✔		   |✔		    |✔			  |			   |2.0					|
 | [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)											|				  |✔		   |✔		    |✔			  |			   |2.0					|
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |2.0					|
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)																	|				  |✔		   |✔			|✔			  |			   |							|
@@ -61,7 +61,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)								|				  |✔		   |✔			|✔			  |✔		   |3.0					|
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)												|				  |			   |      		    |✔			  |			   |							|
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   															|				  |✔		   |✔			|✔			  |			   |							|
-| [Tinker's Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)									|				  |✔		   |✔   	    |✔		      |			   |2.1.1 (3.0 for 1.20 support)	|
+| [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)									|				  |✔		   |✔   	    |✔		      |			   |2.1.1 (3.0 for 1.20 support)	|
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)									|				  |✔		   |✔			|✔			  |			   |1.1					|
 | [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)          				|				  |✔		   |      		    |✔			  |			   |1.5					|
 

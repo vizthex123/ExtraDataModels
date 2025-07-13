@@ -30,16 +30,18 @@ Words to replace for proper english:
 
 Standard indents I like
 Removed `variants` if it's unused
-Capitalized hex codes that start with #
+Capitalized hex codes and make sure they start with #
 Modloading condition on the top, with the mod ID below it
 Folder names match the mod IDs formatting (shortened if needed)
 Data amounts are multiples of base 2 (which is what computers use)
 
 
 
-## Fabricator
+## Planned overhaul pack
+
 Doesn't give equipment
 - Exception: The Forgotten fom Quark, since that's the main point of it - plus, I like my trivia entry for it and having it only give boosted drops (or be a variant) feels a bit useless.
+
 Doesn't give drops with special conditions (e.g. burn damage kill = cooked food)
 - Exception: "Logical" drops (e.g. various foods Squirrels eat IRL from Ecologics' [Squirrel model](https://github.com/vizthex123/ExtraDataModels/blob/main/data-pack/1.20/data/hostilenetworks/data_models/ecologics/squirrel.json) - they might be carrying some around in-game and we just can't see it, ya know?)
 Make sure the fabricator order is minecraft -> modded stuff (unless the primary drop is a mod item)

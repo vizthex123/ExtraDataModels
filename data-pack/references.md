@@ -161,7 +161,18 @@ So, I settled on two from Egypt and two from Europe.
 
 ## Forgotten
 
+Tier data:
+
 1874 - Year Howard Carter was born. He would later go on to discover King Tutankhamun's tomb<br />
 1922 - King Tutankhamun's tomb is discovered. Keeping with the Indiana Jones theme, I figured I'd reference this oft-quoted discovery<br />
 1981 - Year the first Indiana Jones movie released. Seems like the mob is a reference to the character, so I figured I'd do the same<br />
 2023 - Year the last(?) Indiana Jones movie released
+
+## Stoneling
+
+Tier data:
+
+1 - EMC value of Stone in the Equivalent Exchange mods (ProjectE is a fork of EE2)<br />
+10 - Hardness of diamonds on the mohs scale<br />
+110 - Rounded up the cleavage angle of diamonds (which is 109.5)<br />
+8192 - EMC value of Diamond in the Equivalent Exchange mods (ProjectE is a fork of EE2)

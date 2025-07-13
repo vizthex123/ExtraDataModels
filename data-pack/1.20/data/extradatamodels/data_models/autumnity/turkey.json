@@ -21,13 +21,13 @@
     },
     "trivia": "custom.trivia.turkey",
     "fabricator_drops": [
-        {
-            "item": "autumnity:turkey",
-            "count": 32
-        },
 		{
             "item": "minecraft:feather",
             "count": 32
+        },
+        {
+            "item": "autumnity:turkey",
+            "count": 4
         },
 		{
             "item": "autumnity:turkey_egg",

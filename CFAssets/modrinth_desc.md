@@ -42,7 +42,7 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Aquamirae](https://modrinth.com/mod/aquamirae)																							|				  |✔		   |✔			|✔			  |			   |2.0							   |
 | [Aquatic Frontiers](https://modrinth.com/mod/aquatic-frontiers)																		|				  |			   |✔			|✔			  |			   |								   |
 | [Autumnity](https://www.modrinth.com/mod/autumnity)																					|				  |✔		   |✔		    |✔			  |			   |2.1							   |
-| [Biome Makover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |2.0							   |
+| [Biome Makeover](https://modrinth.com/mod/biome-makeover)																		|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Bygone Nether](https://modrinth.com/mod/bygone-nether)																			|				  |✔		   |✔		    |✔			  |			   |2.0							   |
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)					|				  |			   |✔		    |✔			  |			   |2.0							   |
 | [Ecologics](https://modrinth.com/mod/ecologics)																								|				  |✔		   |✔			|✔			  |			   |								   |
@@ -51,13 +51,13 @@ _Mod support only loads in if the mod(s) are also loaded into the game, so you d
 | [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)									|				  |			   |			    |				  |✔		   |1.6							   |
 | [Friends & Foes](https://modrinth.com/mod/friends-and-foes-forge)																|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [Galosphere](https://modrinth.com/mod/galosphere)																						|				  |			   |      		    |✔			  |			   |								   |
-| [Ice & Fire: Dragons](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
+| [Ice & Fire](https://modrinth.com/mod/ice-and-fire-dragons)     				 									  	|✔  		  |✔		   |✔			|✔			  |			   |1.5							   |
 | [Iron's Spells 'n Spellbooks](https://modrinth.com/mod/irons-spells-n-spellbooks)											|				  |✔		   |✔			|✔			  |✔		   |1.4							   |
 | [Jaden's Nether Expansion](https://modrinth.com/mod/jadens-nether-expansion)											|				  |      		   |      		    |✔			  |			   |2.1							   |
 | [L_Ender's Cataclysm](https://modrinth.com/mod/l_enders-cataclysm)															|				  |✔		   |✔			|✔			  |✔		   |3.0							   |
 | [The Outer End](https://modrinth.com/mod/the-outer-end)																				|				  |			   |      		    |✔			  |			   |								   |
 | [Quark](https://modrinth.com/mod/quark)                   																						|				  |✔		   |✔			|✔			  |			   |								   |
-| [Tinkers Construct](https://modrinth.com/mod/tinkers-construct)																	|				  |✔		   |✔   	    |✔		      |			   |2.1.1 (3.0 for 1.20 support) |
+| [Tinkers' Construct](https://modrinth.com/mod/tinkers-construct)																	|				  |✔		   |✔   	    |✔		      |			   |2.1.1 (3.0 for 1.20 support) |
 | [Upgrade Aquatic](https://modrinth.com/mod/upgrade-aquatic)																		|				  |✔		   |✔			|✔			  |			   |1.1							   |
 | [YUNG's Cave Biomes](https://modrinth.com/mod/yungs-cave-biomes)          													|				  |			   |      		    |✔			  |			   |1.5							   |
 

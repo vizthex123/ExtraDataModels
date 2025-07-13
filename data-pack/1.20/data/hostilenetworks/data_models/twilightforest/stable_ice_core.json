@@ -6,7 +6,7 @@
 		}
 	],
 	"entity": "twilightforest:stable_ice_core",
-	"subtypes": [
+	"variants": [
 		"twilightforest:ice_crystal",
 		"twilightforest:unstable_ice_core"
 	],
@@ -46,7 +46,7 @@
         {
 			"optional": true,
             "item": "ecologics:thin_ice",
-            "count": 48
+            "count": 16
         }
 	]
 }
