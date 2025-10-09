@@ -8,6 +8,30 @@ I increment the version by X.1 whenever I add more mod support (except when I do
 
 --------------------------------------------------
 
+## v1.8
+
+Added more trivia for The Endergetic Expansion<br />
+Updated the Copper Golem trivia since multiple mods use it<br />
+Slightly tweaked the trivia for Jellyfish [Upgrade Aquatic]<br />
+Slightly tweaked the trivia for the Warped Enderman [Bygone Nether]<br />
+Slightly tweaked the trivia for a few entries from Alex's Mobs
+
+Added trivia for the following mods:
+- Atmospheric
+- Caverns & Chasms
+- Cloud Storage
+- Draconic Evolution
+- The Endergetic Expansion
+- Environmental
+- Mob Compack
+- More Useful Copper
+- Savage & Ravage
+- Terramity 
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.7.1
 
 Removed the Breeze's trivia entry since it's now in the base mod<br />

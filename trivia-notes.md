@@ -1,7 +1,25 @@
 # Trivia notes
 
 Contains some dev notes about the trivia pack
+
 ----------------------------------------------------------------------------------------------------
+
+# Trivia
+
+Add new trivia to the English translation (copied from Simplified English) and replace words with their proper spelling (e.g. "armour" instead of "armor")
+
+Words to replace for proper english:
+
+- Armor
+- Color
+- Gray
+- Defense
+- Favorite
+- Crystallized
+- Specialized
+- Recognized
+- Venomize
+
 
 
 ## Deep Dark: Regrowth

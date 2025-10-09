@@ -1,4 +1,4 @@
-vizthex - Creator of both the data and resource packs
+vizthex - Creator of both the data and trivia packs
 
 Check out my other projects:
 https://www.curseforge.com/members/vizthex/projects
@@ -13,8 +13,11 @@ https://www.curseforge.com/members/shadows_of_fire/projects
 Another thanks goes to the handful of people who have suggested mods I should add support for (you can find a full list in the changelog: https://github.com/vizthex123/ExtraDataModels/blob/main/changelog_data.md).
 
 
-And lastly, a big thank-you to the developers of all the mods I added support for. Can't add modded models if there's no mods to add models for lol.
+And a big shout-out to the Minecraft Wiki I found out about supported_formats from it (and the constant, pointless pack format changes Mojang keeps doing), saving me a great amount of update annoyances (if only the game auto-replaced the pack format so it didn't whine about a version mismatch)...
 
-And a big shout-out to the Minecraft Wiki. I found out about supported_formats from it, saving me a great headache (if only the game auto-replaced the pack format so it didn't whine about a version mismatch)...
+https://minecraft.wiki/w/Pack_format
 
 https://minecraft.wiki/w/Pack.mcmeta
+
+
+And lastly, a big thank-you to the developers of all the mods I added support for. Can't add modded models if there's no mods to add models for lol.
