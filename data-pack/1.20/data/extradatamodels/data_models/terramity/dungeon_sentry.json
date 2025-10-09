@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:dungeon_sentry",
+    "name": "entity.terramity.dungeon_sentry",
+    "name_color": "#9CACA7",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.dungeon_sentry",
+    "fabricator_drops": [
+        {
+            "item": "terramity:lost_soul",
+            "count": 8
+        },
+        {
+            "item": "terramity:dimlite_nugget",
+            "count": 4
+        }
+    ]
+}

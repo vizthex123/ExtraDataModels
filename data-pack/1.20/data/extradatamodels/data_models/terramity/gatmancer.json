@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:gatmancer",
+    "name": "entity.terramity.gatmancer",
+    "name_color": "#838582",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.gatmancer",
+    "fabricator_drops": [
+        {
+            "item": "terramity:gold_round",
+            "count": 16
+        },
+        {
+            "item": "terramity:occult_fabric",
+            "count": 12
+        },
+        {
+            "item": "terramity:onyx",
+            "count": 8
+        }
+    ]
+}

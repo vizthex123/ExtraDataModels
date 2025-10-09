@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "draconicevolution"
+		}
+	],
+    "entity": "draconicevolution:draconic_guardian",
+    "name": "entity.draconicevolution.draconic_guardian",
+    "name_color": "#920000",
+    "gui_scale": 0.25,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0.5,
+    "gui_z_offset": 0,
+    "sim_cost": 3175,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:end_prediction"
+    },
+	"trivia": "custom.trivia.chaos_guardian",
+    "fabricator_drops": [
+		{
+            "item": "draconicevolution:dragon_heart",
+            "count": 4
+        },
+		{
+            "item": "draconicevolution:small_chaos_frag",
+            "count": 8
+        },
+        {
+            "item": "draconicevolution:draconium_dust",
+            "count": 64
+        }
+    ],
+	"tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        256,
+        1024,
+        2048
+    ]
+}

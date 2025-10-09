@@ -19,11 +19,13 @@ Words to replace for proper english:
 
 - Armor
 - Color
+- Gray
 - Defense
 - Favorite
+- Crystallized
 - Specialized
 - Recognized
-
+- Venomize
 
 
 # Data
@@ -86,13 +88,14 @@ Defaults:
 *Data rate overrides are unused for now (excluding Alex's Caves), but I might make a separate datapack or mod that uses them in the future.*
 
 There's 4 levellable tiers in total (Faulty, Basic, Advanced, and Superior), with Self-Aware being the maximum tier
-- Data rates follow factors of 8 or are references to various things
+- Data rates follow factors of 8 or are references to various things related to the enemy
 -- Gained amount is `tier requirement/kills`. If it can't evenly divide, it gets rounded up or down based on what I think fits better
 
---- Rare enemies need 1/2/3/5 kills
+--- Rare enemies need 1/2/4/6 kills
 
 --- Minibosses need 2/4/6/12 kills
 --- Bosses need 1/2/4/8 kills
+--- Superbosses need 1/2/3/4 kills
 
 --- Passives need 16/32/64/128 kills
 --- Neutrals need 6/12/24/48 kills
@@ -204,6 +207,24 @@ boss data:
         256,
         1024,
         2048
+    ]
+}
+```
+
+
+superboss data:
+```
+    "tier_data": [
+		512,
+        4096,
+        16384,
+        65536
+    ],
+    "data_per_kill": [
+		512,
+        2048,
+        5462,
+        16384
     ]
 }
 ```

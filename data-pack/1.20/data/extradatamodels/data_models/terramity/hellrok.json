@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:hellrok",
+    "name": "entity.terramity.hellrok",
+    "name_color": "#A01200",
+    "gui_scale": 0.52,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.hellrok",
+    "fabricator_drops": [
+        {
+            "item": "terramity:spiteful_soul",
+            "count": 8
+        },
+        {
+            "item": "terramity:chthonic_crystal",
+            "count": 4
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 16
+        }
+    ]
+}

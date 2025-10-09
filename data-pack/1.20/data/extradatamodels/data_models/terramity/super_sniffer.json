@@ -1,0 +1,73 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:super_sniffer",
+    "name": "entity.terramity.super_sniffer",
+    "name_color": "#701313",
+    "gui_scale": 0.35,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.super_sniffer",
+    "fabricator_drops": [
+        {
+            "item": "terramity:accursed_soul",
+            "count": 24
+        },
+        {
+            "item": "minecraft:diamond",
+            "count": 16
+        },
+        {
+            "item": "terramity:iridescent_shard",
+            "count": 12
+        },
+        {
+            "item": "terramity:ruby",
+            "count": 12
+        },
+        {
+            "item": "terramity:sapphire",
+            "count": 12
+        },
+        {
+            "item": "terramity:onyx",
+            "count": 12
+        },
+        {
+            "item": "terramity:topaz",
+            "count": 12
+        },
+        {
+            "item": "terramity:gaianite_cluster",
+            "count": 16
+        },
+        {
+            "item": "terramity:hermit_bean",
+            "count": 32
+        }
+    ],
+	"tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        256,
+        1024,
+        2048
+    ]
+}

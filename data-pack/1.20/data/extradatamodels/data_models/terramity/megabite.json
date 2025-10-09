@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:megabite",
+    "name": "entity.terramity.megabite",
+    "name_color": "#351237",
+    "gui_scale": 0.44,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.megabite",
+    "fabricator_drops": [
+        {
+            "item": "terramity:accursed_soul",
+            "count": 8
+        }
+    ]
+}

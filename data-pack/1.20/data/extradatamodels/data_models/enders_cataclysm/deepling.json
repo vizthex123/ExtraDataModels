@@ -1,0 +1,47 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:deepling",
+    "variants": [
+		"cataclysm:deepling_angler",
+		"cataclysm:deepling_brute",
+		"cataclysm:deepling_priest",
+		"cataclysm:deepling_warlock"
+	],
+    "name": "entity.cataclysm.deepling",
+    "name_color": "#172431",
+    "gui_scale": 0.78,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.deepling",
+    "fabricator_drops": [
+		{
+            "item": "minecraft:nautilus_shell",
+            "count": 4
+        }
+    ],
+	"tier_data": [
+		96,
+        384,
+        1536,
+        6144
+    ],
+    "data_per_kill": [
+        24,
+        48,
+        96,
+        192
+    ]
+}

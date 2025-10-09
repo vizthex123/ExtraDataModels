@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:conjurling",
+    "name": "entity.terramity.conjurling",
+    "name_color": "#6B6B6B",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 160,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.conjurling",
+    "fabricator_drops": [
+        {
+            "item": "terramity:chthonic_crystal",
+            "count": 6
+        },
+        {
+            "item": "terramity:occult_fabric",
+            "count": 8
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 12
+        }
+    ]
+}

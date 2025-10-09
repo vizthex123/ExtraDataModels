@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:blue_fairy",
+    "variants": [
+        "terramity:green_fairy",
+        "terramity:pink_fairy"
+    ],
+    "name": "entity.terramity.fairies",
+    "name_color": "#8FFFFF",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.fairies",
+    "fabricator_drops": [
+        {
+            "item": "terramity:fairy_dust",
+            "count": 8
+        }
+    ]
+}

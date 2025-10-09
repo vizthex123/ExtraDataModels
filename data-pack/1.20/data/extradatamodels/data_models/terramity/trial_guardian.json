@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:trial_guardian",
+    "name": "entity.terramity.trial_guardian",
+    "name_color": "#737E83",
+    "gui_scale": 0.4,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.trial_guardian",
+    "fabricator_drops": [
+        {
+            "item": "terramity:lost_soul",
+            "count": 32
+        },
+        {
+            "item": "terramity:spiteful_soul",
+            "count": 16
+        },
+        {
+            "item": "terramity:dimlite_nugget",
+            "count": 18
+        }
+    ],
+    "tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        256,
+        1024,
+        2048
+    ]
+}

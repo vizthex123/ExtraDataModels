@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:dungeon_effigy",
+    "name": "entity.terramity.dungeon_effigy",
+    "name_color": "#5C6565",
+    "gui_scale": 0.75,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 192,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.dungeon_effigy",
+    "fabricator_drops": [
+        {
+            "item": "terramity:lost_soul",
+            "count": 8
+        },
+        {
+            "item": "terramity:daemonium_chunk",
+            "count": 4
+        }
+    ]
+}

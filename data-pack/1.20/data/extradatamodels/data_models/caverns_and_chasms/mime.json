@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "caverns_and_chasms"
+		}
+	],
+    "entity": "caverns_and_chasms:mime",
+    "name": "entity.caverns_and_chasms.mime",
+    "name_color": "#6A644A",
+    "gui_scale": 0.87,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 192,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.mime",
+    "fabricator_drops": [
+        {
+            "item": "caverns_and_chasms:spinel",
+            "count": 8
+        }
+    ]
+}

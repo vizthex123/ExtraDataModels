@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:uvogre",
+    "name": "entity.terramity.uvogre",
+    "name_color": "#712D36",
+    "gui_scale": 0.38,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.uvogre",
+    "fabricator_drops": [
+        {
+            "item": "terramity:accursed_soul",
+            "count": 16
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 32
+        },
+        {
+            "item": "minecraft:oak_log",
+            "count": 64
+        }
+    ]
+}

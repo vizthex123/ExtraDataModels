@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:cindaria",
+    "name": "entity.cataclysm.cindaria",
+    "name_color": "rainbow",
+    "gui_scale": 0.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+	"trivia": "custom.trivia.cindaria",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:lacrima",
+            "count": 8
+        }
+    ]
+}

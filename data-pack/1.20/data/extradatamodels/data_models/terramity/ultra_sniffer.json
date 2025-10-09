@@ -1,0 +1,61 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:ultra_sniffer",
+    "name": "entity.terramity.ultra_sniffer",
+    "name_color": "#561522",
+    "gui_scale": 0.33,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 3840,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ultra_sniffer",
+    "fabricator_drops": [
+        {
+            "item": "terramity:black_matter",
+            "count": 16
+        },
+        {
+            "item": "terramity:spectral_soul",
+            "count": 24
+        },
+        {
+            "item": "terramity:antiprism",
+            "count": 24
+        },
+        {
+            "item": "terramity:iridium_chunk",
+            "count": 20
+        },
+        {
+            "item": "terramity:prismatic_jewel",
+            "count": 20
+        },
+        {
+            "item": "terramity:hermit_bean",
+            "count": 128
+        }
+    ],
+	"tier_data": [
+		512,
+        4096,
+        16384,
+        65536
+    ],
+    "data_per_kill": [
+		512,
+        2048,
+        5462,
+        16384
+    ]
+}

@@ -1,0 +1,53 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:gundalf",
+    "variants": [
+        "terramity:enchanter_merlin",
+        "terramity:sorceress_circe"
+    ],
+    "name": "entity.terramity.shadow_wizards",
+    "name_color": "#4F5554",
+    "gui_scale": 0.35,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.shadow_wizards",
+    "fabricator_drops": [
+        {
+            "item": "terramity:antiprism",
+            "count": 8
+        },
+        {
+            "item": "terramity:iridium_chunk",
+            "count": 8
+        },
+        {
+            "item": "terramity:occult_fabric",
+            "count": 24
+        }
+    ],
+	"tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        256,
+        1024,
+        2048
+    ]
+}

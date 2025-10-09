@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:clawdian",
+    "name": "entity.cataclysm.clawdian",
+    "name_color": "#8F2B23",
+    "gui_scale": 0.42,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+	"trivia": "custom.trivia.clawdian",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:lacrima",
+            "count": 16
+        }
+    ]
+}

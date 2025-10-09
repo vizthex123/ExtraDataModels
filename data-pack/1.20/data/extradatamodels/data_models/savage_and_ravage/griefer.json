@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "savage_and_ravage"
+		}
+	],
+    "entity": "savage_and_ravage:griefer",
+    "name": "entity.savage_and_ravage.griefer",
+    "name_color": "#748355",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 160,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.griefer",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:gunpowder",
+            "count": 24
+        },
+        {
+            "item": "savage_and_ravage:creeper_spores",
+            "count": 8
+        }
+    ]
+}

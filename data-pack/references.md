@@ -4,8 +4,56 @@ I've made so many references that I lost track lmao. Might as well make this lis
 
 --------------------------------------------------
 
+# Vanilla
+
+## Turtle
+
+References Master of Disguise, the Teenage Mutant Ninja Turtles, and the "mario, the man vs. mario, the idea" essay.
+
+<br />
+
+## Warden
+
+Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecraft/modpacks/capitalia-2) so it'd match the other enemies from Deep Dark: Regrowth.
+
+19 - References The Wild Update (1.19), which added the Deep Dark<br />
+65 - Sum of the letter-to-number conversion of "Warden"<br />
+118 - The Caves & Cliffs (part 2 lol) version number, which is the version the Deep Dark was intended to be added with
+
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Misc mods I'm too lazy to make a category for
+
+(i still made categories for them while cataloguing all the references though lol)
+
+|			Mod			|			Mob		|	Reference	|
+|---------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Ad Astra				| Star Crawler	| Wallace & Gromit (specifically [A Grand Day Out](https://en.wikipedia.org/wiki/A_Grand_Day_Out), which was the first short) |
+| Atmospheric		| Cochineal		| Terraria's dye recipes require the [Dye Vat](https://terraria.wiki.gg/wiki/Dye_Vat)                                     				 								  |
+| Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)                                                  									      |
+| Eternal Starlight | Yeti				| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain)	|
+| L_Ender 's Cataclysm | Symbiocto | Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
+
+
+
+
+<br />
+
+--------------------------------------------------
+
+<br />
 
 # Alex's Caves
+
+## Brainiac
+
+A very shoehorned reference to the eponymous character from Superman
+
+<br />
 
 ## Deep One
 
@@ -18,6 +66,25 @@ Tier data:
 1936 - Release date of [The Shadow Over Innsmouth](https://en.wikipedia.org/wiki/The_Shadow_over_Innsmouth)<br />
 2011 - Release date of the [lovecraft complete fiction](https://www.hplovecraft.com/writings/sources/hplcf.aspx)
 
+<br />
+
+## Gammarock
+
+Fallout (i'm not into the series at all lol)
+
+<br />
+
+## Gingerbread Man
+
+The famous nursery rhyme.
+
+<br />
+
+## Gumbeeper
+
+Adventure Time and Regular Show.
+
+<br />
 
 ## Hullbreaker
 
@@ -30,6 +97,7 @@ Tier data:
 2023 - Year of the titan sub disaster<br />
 6001 - The "If only they built it with 6001!" line from futurama
 
+<br />
 
 ## Nucleeper
 
@@ -40,24 +108,129 @@ Tier data:
 1945 - Year the nuclear bomb test<br />
 2009 - Year the creeper was added to minecraft
 
+<br />
 
+## Radgill
+
+The three-eyed fish from The Simpsons.
+
+<br />
+
+## Vallumraptor
+
+Jurassic Park.
+
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Alex's Mobs
+
+## Angler Fish and Seagull
+
+Finding Nemo.
+
+<br />
+
+## Bald Eagle and Catfish
+
+Mother 3.
+
+<br />
+
+## Blue Jay
+
+Regular Show.
+
+<br />
+
+## Cave Centipede
+
+The 2007 TV show Primeval.
+
+<br />
+
+## Cosmic Cod
+
+Terraria.
+
+<br />
+
+## Crow
+
+Edgar Allan Poe's poem, "The Raven"
+
+<br />
+
+## Emu
+
+Australia's Great Emu War.
+
+<br />
+
+## Farseer
+
+The [Farlands](https://minecraft.wiki/w/Far_Lands), a thing from ancient versions of minecraft.
+
+<br />
+
+## Murmur
+
+Half-Life (3 when?).
+
+<br />
+
+## Spinefish
+
+Subnautica.
+
+<br />
+
+## Tarantula Hawk Wasp
+
+That stupid fucking "meme".
+
+<br />
+
+## Toucan
+
+Fruit Loops.
+
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Cloud Storage
+
+## Badloon
+
+References the Bloons franchise
+
+<br />
+
+## Bloviator
+
+References the Aether Mod
+
+<br />
+
+--------------------------------------------------
+
+<br />
 
 # Deep Dark: Regrowth
 
 Fun fact: All of the trivia entries for this mod use [l33t sp34k](https://en.wikipedia.org/wiki/Leet). I wanted it to seem like the Sculk was talking to you without having to try and use a fancy font or different language or whatever, so I settled on leet speak.
 
-As for why some of them just have a single line appended to the end, my headcanon for the trivia is that it was gathered by some other guy in the past who just observed each creature, but due to the Sculk's semi-sentience it broke through some entries, with more powerful Sculk creatures being able to fully take over (those are the fully leet speak entries, meant to be the Sculk's stream of consciousness).
+As for why some of them just have a single line appended to the end, my headcanon for the trivia is that it was gathered by some other guy in the past who just observed each creature - but the Sculk's semi-sentience it broke through some entries, with more powerful Sculk creatures being able to fully take over (those are the fully leet speak entries, meant to be the Sculk's stream of consciousness).
 
-I also like to think that the Sculk is a hive mind. Just kinda fits imo.
+I also like to think that the Sculk is a hive mind. Just kinda fits imo (and living hive mind environments are really cool but super underutilised in fiction, so I might as well shove my own version into minecraft lol).
 
-## Warden
-
-The Warden isn't part of the mod, but I changed it in Capitalia: Inward Expansion so it'd match the other Deep Dark enemies.
-
-19 - References The Wild Update (1.19), which added the Deep Dark<br />
-65 - Sum of the letter-to-number conversion of "Warden"<br />
-118 - The Caves & Cliffs (part 2 lol) version number, which the Deep Dark was intended to be added with
-
+<br />
 
 ## Abomination
 
@@ -65,6 +238,7 @@ Tier data:
 
 1911 - References the year on Edward's watch in Fullmetal Alchemist. Since he & Alphonse made an alchemical abomination, I figured it'd make a good reference here
 
+<br />
 
 ## Annihilator
 
@@ -77,6 +251,7 @@ Tier data:
 
 This can be shuffled around to get "I [will] exterminate the [detected] threat", in reference to the trivia entry I wrote for the Annihilator.
 
+<br />
 
 ## Observer
 
@@ -89,6 +264,7 @@ Tier data:
 
 So the entire thing is meant to spell out "I see you, Steve", but I had to swap a few things around to make it follow the scaling numbers data models use.
 
+<br />
 
 ## Sculk Parasite
 
@@ -98,6 +274,7 @@ Tier data:
 
 118 - The Caves & Cliffs (part 2 lol) version number, which the Deep Dark was intended to be added with.
 
+<br />
 
 ## Spreader
 
@@ -110,6 +287,7 @@ Tier data:
 
 So the entire thing is meant to spell out "must keep spreading spores", but I had to swap a few things around to make it follow the scaling numbers data models use.
 
+<br />
 
 ## Stalker
 
@@ -122,6 +300,65 @@ Tier data:
 
 So the entire thing is meant to spell out "I'm watching you, Steve", but I had to swap a few things around to make it follow the scaling numbers data models use.
 
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Ecologics
+
+## Camel
+
+References the fact that the mod added them before vanilla did, as well as JoJo's Bizarre Adventure.
+
+<br />
+
+## Coconut Crab
+
+The theory that Coconut Crabs ate Amelia Earhart.
+
+<br />
+
+## Penguin
+
+Adventure Time.
+
+<br />
+
+## Squirrel
+
+Charlie and the Chocolate Factory and Squirrel Stapler.
+
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Environmental
+
+## Deer
+
+The opening of disney's Bambi.
+
+<br />
+
+## Duck
+
+Part 1 of the [duck song](https://www.youtube.com/watch?v=MtN1YnoL46Q) series of YouTube videos, as well as the infamous [Lemon Rant](https://www.reddit.com/r/Portal/comments/1896lcm/when_life_gives_you_lemons_dont_make_lemonade/) from Portal 2.
+
+<br />
+
+## Koi
+
+The ending of season 1 of Avatar: The Last Airbender (where Iroh threatens Zhao)
+
+<br />
+
+--------------------------------------------------
+
+<br />
 
 # Galosphere
 
@@ -129,14 +366,36 @@ So the entire thing is meant to spell out "I'm watching you, Steve", but I had t
 
 Tier data:
 
-10 - Number of years since [this post](https://www.reddit.com/r/Berserk/comments/2aw7jj/the_number_216_and_berserk/?rdt=42504) was made (that's how I found out about 216 being important)<br />
+11 - Number of years since [this post](https://www.reddit.com/r/Berserk/comments/2aw7jj/the_number_216_and_berserk/?rdt=42504) was made (that's how I found out about 216 being important)<br />
 216 - Apparently an important number in Berserk (haven't read it yet), as it's "how often [the Eclipse](https://berserk.fandom.com/wiki/Eclipse) happens"<br />
 1989 - Berserk's original publishing date<br />
 2016 - Year the anime adapation came out (or at least one of them?), which everyone vehemantly hates
 
-Since it's the *Berserk*er, I figured I'd reference the popular manga. Could probably do better if I read it though...
+Since it's the *Berserk*er, I figured I'd reference the popular manga. Could probably do better if I read it, though...
 
+<br />
 
+--------------------------------------------------
+
+<br />
+
+## Ice and Fire: Dragons
+
+## Cyclops
+
+Homer's *The Odyssey*
+
+<br />
+
+## Troll
+
+Internet trolls and The Elder Scrolls V: Skyrim.
+
+<br />
+
+--------------------------------------------------
+
+<br />
 
 # Iron's Spells
 
@@ -144,18 +403,20 @@ Since it's the *Berserk*er, I figured I'd reference the popular manga. Could pro
 
 Tier data:
 
-700 - Death date for [Ivar Vidfamne](https://en.wikipedia.org/wiki/Ivar_Vidfamne), who is the oldest know Danish king (as far as I can find, at least). The only numbers related to him are his death year the dates archeological excavations happened<br />
-1014 - [Æthelred the Unready's](https://www.youtube.com/watch?v=jNgP6d9HraI) reign begins. CGP Grey's video about the British Crown starts with the next guy, so this is a very loose reference to it<br />
+700 - Death date for [Ivar Vidfamne](https://en.wikipedia.org/wiki/Ivar_Vidfamne), who is the oldest know Danish king (as far as I can find, at least). The only numbers related to him are his death year and the dates archeological excavations happened<br />
+1014 - [Æthelred the Unready's](https://en.wikipedia.org/wiki/Aethelred_the_Unready) reign begins. CGP Grey's [video about the British Crown](https://www.youtube.com/watch?v=jNgP6d9HraI) starts with the next guy, so this is a very loose reference to it<br />
 2551 - [Khufu's](https://en.wikipedia.org/wiki/Khufu) reign begins. He orders the construction of the Great Pyramid of Giza, and did a lot more stuff<br />
 3170 - [Iry-Hor's](https://en.wikipedia.org/wiki/Iry-Hor) reign begins. As far as I can tell, he's the first monarch we know of
 
 At first, I wanted to reference the years of the first rules for multiple countries - but most countries are thousands of years old, which didn't fit with the scaling I like to do for Data Models
 
-My original plan was to reference multiple rulers of varying countries, but I'm not a historian and finding semi-reliable info about something as vague as "who was the first king/pharoh/other synonym" is pretty hard lol.
+My original plan was to reference multiple rulers of varying countries, but I'm not a historian and finding semi-reliable info about something as vague as "who was the first king/pharoh/other synonym" is pretty hard lol - so I settled for two from Egypt and two from Europe.
 
-So, I settled on two from Egypt and two from Europe.
+<br />
 
+--------------------------------------------------
 
+<br />
 
 # Quark
 
@@ -168,6 +429,8 @@ Tier data:
 1981 - Year the first Indiana Jones movie released. Seems like the mob is a reference to the character, so I figured I'd do the same<br />
 2023 - Year the last(?) Indiana Jones movie released
 
+<br />
+
 ## Stoneling
 
 Tier data:
@@ -176,3 +439,45 @@ Tier data:
 10 - Hardness of diamonds on the mohs scale<br />
 110 - Rounded up the cleavage angle of diamonds (which is 109.5)<br />
 8192 - EMC value of Diamond in the Equivalent Exchange mods (ProjectE is a fork of EE2)
+
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Savage & Ravage
+
+## Executioner
+
+Star Wars (i'm not even into the franchise lol)
+
+<br />
+
+## Griefer
+
+The "creeper? Aww man!" song ([Revenge](https://www.youtube.com/watch?v=cPJUBQd-PNM) by CaptainSparklez)
+
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Terramity
+
+## Elite Skeleton
+
+Terraria's [Skeleton Sniper](https://terraria.wiki.gg/wiki/Skeleton_Sniper).
+
+<br />
+
+## Gatmancer
+
+[Wizard with a Gun](https://store.steampowered.com/app/1150530/Wizard_with_a_Gun/).
+
+<br />
+
+## Super and Elite Sniffers
+
+The Sonic and Dragon Ball franchises.

@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:drowned_host",
+    "name": "entity.cataclysm.drowned_host",
+    "name_color": "#3B6269",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+	"trivia": "custom.trivia.drowned_host",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 8
+        },
+        {
+            "item": "minecraft:ink_sac",
+            "count": 6
+        },
+        {
+            "item": "cataclysm:lacrima",
+            "count": 4
+        }
+    ]
+}

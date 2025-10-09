@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cataclysm"
+		}
+	],
+    "entity": "cataclysm:scylla",
+    "name": "entity.cataclysm.scylla",
+    "name_color": "#415058",
+    "gui_scale": 0.6,
+    "gui_x_offset": -1,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+	"trivia": "custom.trivia.scylla",
+    "fabricator_drops": [
+        {
+            "item": "cataclysm:lacrima",
+            "count": 32
+        },
+        {
+            "item": "cataclysm:essence_of_the_storm",
+            "count": 4
+        }
+    ]
+}

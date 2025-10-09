@@ -1,0 +1,57 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:gob",
+    "name": "entity.terramity.gob",
+    "name_color": "#353F28",
+    "gui_scale": 0.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.gob",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:diamond",
+            "count": 8
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 32
+        },
+        {
+            "item": "terramity:lost_soul",
+            "count": 8
+        },
+        {
+            "item": "terramity:iridescent_shard",
+            "count": 12
+        },
+        {
+            "item": "terramity:ruby",
+            "count": 12
+        },
+        {
+            "item": "terramity:sapphire",
+            "count": 12
+        },
+        {
+            "item": "terramity:onyx",
+            "count": 12
+        },
+        {
+            "item": "terramity:topaz",
+            "count": 12
+        }
+    ]
+}

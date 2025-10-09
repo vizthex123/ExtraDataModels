@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "endergetic"
+		}
+	],
+    "entity": "endergetic:purpoid",
+    "name": "entity.endergetic.purpoid",
+    "name_color": "#7E50A0",
+    "gui_scale": 0.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.purpoid",
+    "fabricator_drops": [
+		{
+			"item": "endergetic:portaplasm",
+			"count": 4
+		}
+    ]
+}

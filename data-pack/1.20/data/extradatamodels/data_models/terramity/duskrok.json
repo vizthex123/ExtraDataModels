@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:duskrok",
+    "name": "entity.terramity.duskrok",
+    "name_color": "#2D2E30",
+    "gui_scale": 0.52,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.duskrok",
+    "fabricator_drops": [
+        {
+            "item": "terramity:lost_soul",
+            "count": 8
+        },
+        {
+            "item": "minecraft:netherite_scrap",
+            "count": 4
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 16
+        }
+    ]
+}

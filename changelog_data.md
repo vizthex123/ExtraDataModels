@@ -1,21 +1,51 @@
 # Datapack Changelog
 
-A full changelog for every version (and sub-version) of the [Datapack](https://www.curseforge.com/minecraft/data-packs/extra-data-models).
+A full changelog for every version (and sub-version) of the [Data Pack](https://www.curseforge.com/minecraft/data-packs/extra-data-models).
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
 I increment the version by X.1 whenever I add more mod support (so long as the addition has 8+ models), and X.X.1 for minor fixes and/or additions I missed in the last patch.
 
 Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes that only apply to that version.
+
 --------------------------------------------------
 
+## v3.1
+
+Fixed the Iron Golem's scaling<br />
+Increased the Skeleton Horses' Bone output<br />
+Doubled the Iron output from Magnetrons *[Alex's Caves]*<br />
+Added a few missing mod compat drops to the Ender Dragon
+
+Added a Horse model for various modded horses (and vanilla ones, of course)<br />
+Adjusted the fish outputs for Guardians and Elder Guardians<br />
+Added some models that were missing from L_Ender's Cataclysm<br />
+Increased the Purpur Golem RF cost to 512 (was 256) *[The Outer End]*
+
+Mod support added:
+- Atmospheric
+- Caverns & Chasms
+- Cloud Storage
+- Draconic Evolution (added by Synclet in [issue #4](https://github.com/vizthex123/ExtraDataModels/issues/4))
+- The Endergetic Expansion (ported from 1.19)
+- Environmental
+- Mob Compack
+- More Useful Copper
+- Neapolitan (spider variant)
+- Savage & Ravage
+- Terramity
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.0.3
 
-Fixed the Stable Ice Core's model not loading [Twilight Forest]
+Fixed the Stable Ice Core's model not loading *[Twilight Forest]*
 - Also reduced the amount of Thin Ice it gives (from 48 to 16)
 
-Martian Raptors now give 12 Sulfur Dust from Alex's Caves [Ad Astra]<br />
-The Toretoise's yields for Lapis and Redstone is now 10 Lapis (was 8) [Quark]<br />
+Martian Raptors now give 12 Sulfur Dust from Alex's Caves *[Ad Astra]*<br />
+The Toretoise's yields for Lapis and Redstone is now 10 Lapis (was 8) *[Quark]*<br />
 Added custom data requirements to Quark's Stoneling (since it's rare. Also increased its lapis output from 8 to 10)
 
 Made a few mobs give their heads so things are consistent
@@ -30,14 +60,14 @@ Moved all of my custom models to their own namespace
 
 Went back to having a separate release for each minecraft version to curb 1.18 log spam (and fix a few annoying issues with cross-version compatability)
 
-Fixed Ice Cubes trying to give Ice from a mod that didn't exist. Also removed Ice Shards and Dragon Ice [YUNG's Cave Biomes]<br />
-Fixed Sand Snappers trying to give Sand from a mod that didn't exist. Also buffed Ancient Sand output to 16 (was 8) [YUNG's Cave Biomes]
+Fixed Ice Cubes trying to give Ice from a mod that didn't exist. Also removed Ice Shards and Dragon Ice *[YUNG's Cave Biomes]*<br />
+Fixed Sand Snappers trying to give Sand from a mod that didn't exist. Also buffed Ancient Sand output to 16 (was 8) *[YUNG's Cave Biomes]*
 
 Twilight Forest's Snow Queen model can now give modded Ice types<br />
 Twilight Forest's Ice Elemental model can now give modded Ice types
 - Also changed its name colour
 
-Changed the colour of the Iceologer [Friends & Foes]<br />
+Changed the colour of the Iceologer *[Friends & Foes]*<br />
 Ender Dragon models now give 4 of each modded loot (was varying amounts)<br />
 Reduced the Ravager's Hide output to 4 (was 8)
 
@@ -237,8 +267,8 @@ Fixed the Elder Guardian's (and Guardian's) loot amounts not matching the 1.20 v
 Martian Raptors now give more Sulfur (8 instead of 4) and fewer Slimeballs (4 instead of 8) <br />
 Removed the Endergrade model since The Outer End isn't on these versions
 
-Reduced the Golden Moth's output to 8 Gold Nuggets (was 2 Ingots) [Aquamirae]<br />
-Fixed the Illusioner, Iceologer, and Great Thraser models not loading on 1.18.X [Friends & Foes] [Upgrade Aquatic]<br />
+Reduced the Golden Moth's output to 8 Gold Nuggets (was 2 Ingots) *[Aquamirae]*<br />
+Fixed the Illusioner, Iceologer, and Great Thraser models not loading on 1.18.X *[Friends & Foes] [Upgrade Aquatic]*<br />
 Evokers, Pillagers, and Vindicators give Illager Flesh if [Food Enhancements](https://www.curseforge.com/minecraft/mc-mods/food-enhancements) is installed
 
 
@@ -282,7 +312,7 @@ Fixed the scaling for the Laviathan, Moose, and Warped Mosco *[Alex's Mobs]*<br 
 Reverted the Phantom's text colour back to the default (`#0AB405`)<br />
 Ender Zoology models now give the correct predictions
 
-Reduced the amount of Netherite Scrap Ancient Knights give [Iron's Spells n' Spellbooks]<br />
+Reduced the amount of Netherite Scrap Ancient Knights give *[Iron's Spells n' Spellbooks]*<br />
 The Dead King's data model now requires far fewer kills to level up
 - Also resized it so he fits into the preview window
 

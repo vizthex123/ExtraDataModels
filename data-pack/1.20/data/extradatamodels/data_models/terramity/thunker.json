@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "terramity"
+		}
+	],
+    "entity": "terramity:thunker",
+    "name": "entity.terramity.thunker",
+    "name_color": "#4C0600",
+    "gui_scale": 0.95,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.thunker",
+    "fabricator_drops": [
+        {
+            "item": "terramity:chthonic_crystal",
+            "count": 2
+        }
+    ]
+}

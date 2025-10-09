@@ -6,6 +6,9 @@
 		}
 	],
     "entity": "friendsandfoes:glare",
+    "variants": [
+        "caverns_and_chasms:glare"
+    ],
     "name": "entity.friendsandfoes.glare",
     "name_color": "#40531A",
     "gui_scale": 1,
