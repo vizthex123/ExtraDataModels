@@ -2,9 +2,9 @@ This datapack adds more Data Models to [Hostile Neural Networks](https://www.cur
 
 Designed for my [Hi-Tech Revolution](https://curseforge.com/minecraft/modpacks/hi-tech-revolution) modpack.
 
-<br />
-
 _**Also includes trivia for all of them (the paragraph of text that appear in the Deep Learner) if you install the resource pack! Grab it alongside the [regular download](https://modrinth.com/datapack/extra-data-models/versions).**_
+
+<br />
 
 _**Suggest mods I should add support for on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues), or on the [Discord](https://discord.com/invite/NtwzA6X)!**_
 
@@ -32,6 +32,8 @@ If you downloaded the trivia pack through a launcher, just enable it in-game (an
 
 # Mod Support
 _Mod support only loads in if the mod(s) are also loaded into the game, so you don't need to install all of these mods._
+
+_For a full table of supported mods, [head here](https://github.com/vizthex123/ExtraDataModels/blob/main/CFAssets/support_table.md)._
 
 |																																																	    |  1.17.1   |  1.18.X  |  1.19.2   |  1.20.1    |  1.21.1    |		Datapack Version			|
 |---------------------------------------------------------------------------------------------------------------------------------------------|:-----------:|:----------:|:-----------:|:-----------:|:-----------:|:--------------------------------------:|

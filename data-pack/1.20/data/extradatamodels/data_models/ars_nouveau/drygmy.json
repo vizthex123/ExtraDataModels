@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+    "entity": "ars_nouveau:drygmy",
+    "name": "entity.ars_nouveau.drygmy",
+    "name_color": "#644117",
+    "gui_scale": 1.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.drygmy",
+    "fabricator_drops": [
+		{
+            "item": "ars_nouveau:drygmy_charm",
+            "count": 1
+        }
+    ]
+}

@@ -18,7 +18,8 @@
 		"creeperoverhaul:spruce_creeper",
 		"creeperoverhaul:swamp_creeper",
 		"caverns_and_chasms:deeper",
-		"caverns_and_chasms:peeper"
+		"caverns_and_chasms:peeper",
+		"mekanismadditions:baby_creeper"
     ],
     "name": "entity.minecraft.creeper",
     "name_color": "#70DC5D",

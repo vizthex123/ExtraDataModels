@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bosses_of_mass_destruction"
+		}
+	],
+    "entity": "bosses_of_mass_destruction:obsidilith",
+    "name": "entity.bosses_of_mass_destruction.obsidilith",
+    "name_color": "#32174D",
+    "gui_scale": 0.48,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:end_prediction"
+    },
+	"trivia": "custom.trivia.obsidilith",
+    "fabricator_drops": [
+        {
+            "item": "bosses_of_mass_destruction:obsidian_heart",
+            "count": 1
+        },
+		{
+            "item": "minecraft:obsidian",
+            "count": 16
+        },
+		{
+            "item": "minecraft:diamond",
+            "count": 8
+        }
+    ],
+	"tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        512,
+        1024,
+        2048
+    ]
+}

@@ -204,7 +204,7 @@ boss data:
     ],
     "data_per_kill": [
         128,
-        256,
+        512,
         1024,
         2048
     ]
@@ -237,17 +237,16 @@ Has different standards due to cave rarity and enemy sparsity
 - Passives need 4/8/16/32
 - Neutrals need 3/6/12/24
 - Hostiles need 2/4/8/16
+-- Elites need 3/6/9/12
 
 - Cave Guardians (the bosses) need 1/2/3/4
 
 
 
 ### RF Rates
+Cave guardian: 1,280 RF/t
 
-Cave guardian: 1,536 RF/t
-- If there's an enemy that summons it, said enemy is 1,280
-
-Hostiles: 256 RF/t ("elite" enemies: 512 RF/t)
+Hostiles: 256 RF/t ("elite" enemies: 512 RF/t - defined as more the difficult mobs with unique drops)
 Neutrals: 192 RF/t
 Passives: 128 RF/t+ 
 - Non-fish water mobs use 96
@@ -273,6 +272,7 @@ passive alex data:
 }
 ```
 
+
 neutral alex data:
 ```
     "tier_data": [
@@ -290,6 +290,7 @@ neutral alex data:
 }
 ```
 
+
 hostile alex data:
 ```
     "tier_data": [
@@ -306,6 +307,25 @@ hostile alex data:
     ]
 }
 ```
+
+
+elite alex data:
+```
+    "tier_data": [
+		192,
+        768,
+        3072,
+        12288
+    ],
+    "data_per_kill": [
+        64,
+        128,
+        341,
+        1024
+    ]
+}
+```
+
 
 cave guardian data:
 ```

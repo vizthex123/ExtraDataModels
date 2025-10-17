@@ -10,6 +10,25 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## v3.2
+
+Reduced the RF cost of Cave Guardians *[Alex's Caves]*
+- This refers to the boss of each cave (e.g. Hullbreaker and the Gum Worm)
+- Increased the fabricator amounts for several of them
+
+Reduced the output amounts of special items from Cave Guardians *[Alex's Caves]*
+- This refers to the unique drops they have (such as the Sweet Tooth and Pure Darkness)
+
+Mod support added by [Synclet](https://github.com/vizthex123/ExtraDataModels/issues/5):
+- Ars Nouveau
+- Bosses of Mass Destruction
+- Mekanism Additions
+- MythicBotany
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.1
 
 Fixed the Iron Golem's scaling<br />

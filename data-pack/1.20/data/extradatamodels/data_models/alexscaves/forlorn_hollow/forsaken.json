@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 1536,
+    "sim_cost": 1280,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,10 +23,10 @@
     "fabricator_drops": [
         {
             "item": "alexscaves:pure_darkness",
-            "count": 16
+            "count": 4
         }
     ],
-    "tier_data": [
+	"tier_data": [
 		256,
         1024,
         4096,

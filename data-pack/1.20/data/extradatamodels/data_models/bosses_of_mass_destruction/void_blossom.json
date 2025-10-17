@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "bosses_of_mass_destruction"
+		}
+	],
+    "entity": "bosses_of_mass_destruction:void_blossom",
+    "name": "entity.bosses_of_mass_destruction.void_blossom",
+    "name_color": "#BA55D3",
+    "gui_scale": 0.25,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.void_blossom",
+    "fabricator_drops": [
+		{
+            "item": "bosses_of_mass_destruction:void_thorn",
+            "count": 1
+        },
+		{
+            "item": "bosses_of_mass_destruction:crystal_fruit",
+            "count": 8
+        }
+    ],
+	"tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        512,
+        1024,
+        2048
+    ]
+}

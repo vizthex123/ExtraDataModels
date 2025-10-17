@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+    "entity": "ars_nouveau:wilden_stalker",
+    "name": "entity.ars_nouveau.wilden_stalker",
+    "name_color": "#1B1B1B",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.wilden_stalker",
+    "fabricator_drops": [
+		{
+            "item": "ars_nouveau:wilden_wing",
+            "count": 4
+        }
+    ]
+}

@@ -32,12 +32,12 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 
 |			Mod			|			Mob		|	Reference	|
 |---------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ad Astra				| Star Crawler	| Wallace & Gromit (specifically [A Grand Day Out](https://en.wikipedia.org/wiki/A_Grand_Day_Out), which was the first short) |
+| Ad Astra				|	Star Crawler	| Its trivia entry references Wallace & Gromit (specifically [A Grand Day Out](https://en.wikipedia.org/wiki/A_Grand_Day_Out), which was the first short) |
+| Ars Nouveau		| Wilden Chimera	|  Its trivia entry is a very vague allusion to Fullmetal Alchemist.                                     				 								  |
 | Atmospheric		| Cochineal		| Terraria's dye recipes require the [Dye Vat](https://terraria.wiki.gg/wiki/Dye_Vat)                                     				 								  |
 | Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)                                                  									      |
-| Eternal Starlight | Yeti				| [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain)	|
-| L_Ender 's Cataclysm | Symbiocto | Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
-
+| Eternal Starlight | Yeti				| Its trivia entry references [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain)	|
+| L_Ender 's Cataclysm | Symbiocto | Its trivia entry references Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
 
 
 
@@ -51,7 +51,14 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 
 ## Brainiac
 
-A very shoehorned reference to the eponymous character from Superman
+Its trivia entry is a very shoehorned reference to the eponymous character from Superman
+
+Tier data:
+
+5 - The number of times Brainiac was planned to be in a Superman movie, but wasn't added<br />
+17 - The number of Superman animated shorts made by Fleischer Studios<br />
+1938 - The year Superman debuted (in Action Comics #1)<br />
+1958 - The year Brainiac debuted (in Action Comics #242)
 
 <br />
 
@@ -197,6 +204,36 @@ That stupid fucking "meme".
 ## Toucan
 
 Fruit Loops.
+
+<br />
+
+--------------------------------------------------
+
+<br />
+
+# Bosses of Mass Destruction
+
+## Nether Gauntlet
+
+The data requirement of 1998 is a reference to Ocarina of Time's release date (since it's a giant hand with an eye, and that game is iconic to the series (even though it's rather overhyped imo)). Its trivia entry also references the series.	|
+
+<br />
+
+## Night Lich
+
+Its trivia entry references the Lich from [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest).
+
+<br />
+
+## Obsidilith
+
+Its trivia entry (very subtly) references [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo's_Bizarre_Adventure).
+
+<br />
+
+## Void Blossom
+
+Its trivia entry references Terraria's [Plantera](https://terraria.wiki.gg/wiki/Plantera) boss.
 
 <br />
 

@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+    "entity": "ars_nouveau:wilden_hunter",
+    "name": "entity.ars_nouveau.wilden_hunter",
+    "name_color": "#C0C0C0",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.wilden_hunter",
+    "fabricator_drops": [
+		{
+            "item": "ars_nouveau:wilden_horn",
+            "count": 4
+        }
+    ]
+}

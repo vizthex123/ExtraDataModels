@@ -4,14 +4,18 @@ Check out my other projects:
 https://www.curseforge.com/members/vizthex/projects
 
 
-
 Shadows_of_Fire - Made Hostile Neural Networks and helped me make the data pack.
 
 Check out his projects:
 https://www.curseforge.com/members/shadows_of_fire/projects
 
 
-Another thanks goes to the handful of people who have suggested mods I should add support for (you can find a full list in the changelog: https://github.com/vizthex123/ExtraDataModels/blob/main/changelog_data.md).
+
+Contributors:
+- The handful of people who have suggested mods I should add support for (you can find a full list in the changelog: https://github.com/vizthex123/ExtraDataModels/blob/main/changelog_data.md).
+- trav90 (Ice & Fire support)
+- Synclet (support for Ars Nouveau, Bosses of Mass Destruction, Draconic Evolution, Mekanism Additions, and MythicBotany)
+
 
 
 And a big shout-out to the Minecraft Wiki for documenting all the pointless pack format changes Mojang makes:
