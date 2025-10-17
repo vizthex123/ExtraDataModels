@@ -8,6 +8,20 @@ I increment the version by X.1 whenever I add more mod support (except when I do
 
 --------------------------------------------------
 
+## v1.9
+
+Slightly reworded the entry for Aquatic Frontiers' Sandy
+
+Added trivia for the following mods:
+- Ars Nouveau
+- Bosses of Mass Destruction
+- Mekanism Additions
+- MythicBotany
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.8
 
 Added more trivia for The Endergetic Expansion<br />

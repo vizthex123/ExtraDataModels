@@ -37,11 +37,6 @@
 
 
 
-	"_comment": "Atmospheric",
-	"custom.trivia.cochineal": "Its shell can be crushed into Red Dye.\n\nNo vat required!",
-
-
-
 	"_comment": "Alex's Caves",
 		"_comment": "Abyssal Chasm",
 			"custom.trivia.deep_one": "A mysterious race of fish-men, found\nonly within the depths of the Abyssal Chasm.\nThey enjoy bartering, but little else\nis known about them.",
@@ -173,7 +168,23 @@
 	"custom.trivia.coral_golem": "Guards its home with vigor.\nSeems to ignore you, though...",
 	"custom.trivia.giant_squid_aquatic": "This large variant of a Squid is passive,\nbut would be a great source of ink if simulated...",
 	"custom.trivia.sponge_squid": "A squid that's bonded with a Sponge.\n\nYou could give it some square-shaped pants, if you'd like.",
-	"custom.trivia.sandy": "This thicker version of a Sand Dollar\ncan sport a variety of adornments on its... sand.\nIs it a carapace, a back, or something else?",
+	"custom.trivia.sandy": "This thicker version of a Sand Dollar\ncan sport a variety of adornments on its... sandy covering?\nIs it a carapace, a back, or something else?",
+
+
+
+	"_comment": "Ars Nouveau",
+	"custom.trivia.drygmy": "A friendly forest spirit.",
+	"custom.trivia.starbuncle": "Squirrels infused with Star Magic\nsometimes transform into Starbuncles.",
+	"custom.trivia.whirlisprig": "A friendly forest spirit\nthat loves to hover around the place.",
+	"custom.trivia.wilden_chimera": "A pack of Wildens that have combined into one.\n\nDoesn't seem to be made with alchemy,\nbut you never know...",
+	"custom.trivia.wilden_guardian": "A strong forest beast,\ninfused with magic through unknown means.\n\nThis variant has tough shell, lined with spikes.",
+	"custom.trivia.wilden_hunter": "A strong forest beast,\ninfused with magic through unknown means.\n\nThis variant tends to prefer close combat.",
+	"custom.trivia.wilden_stalker": "A strong forest beast,\ninfused with magic through unknown means.\n\nThis variant has wings, which makes attacks more agile.",
+
+
+
+	"_comment": "Atmospheric",
+	"custom.trivia.cochineal": "Its shell can be crushed into Red Dye.\n\nNo vat required!",
 
 
 
@@ -195,6 +206,14 @@
 	"custom.trivia.scuttler": "Scuttles around the Badlands,\nlooking for its next meal.",
 	"custom.trivia.stone_golem": "Golems can be made out of\na variety of materials,\ntaking on varying traits based on their composition.\nThis one is strong, but static.",
 	"custom.trivia.toad": "Not to be confused with a Frog.\n\nAlthough it is kind of like a land frog...",
+
+
+
+	"_comment": "Bosses of Mass Destruction",
+	"custom.trivia.nether_gauntlet": "A hand with an eye on it,\nhell-bent on slaying you.\n\nSeems oddly familiar, somehow...",
+	"custom.trivia.night_lich": "Doesn't guard a twilight tower,\nbut still wants you dead.",
+	"custom.trivia.obsidilith": "An obsidian tower,\nstanding with a menacing aura...",
+	"custom.trivia.void_blossom": "A powerful flower,\ndetermined to kill you where you stand.\n\nNo bulbs need to be broken to summon it.",
 
 
 
@@ -312,6 +331,7 @@
 
 
 	"_comment": "Friends & Foes",
+	"_comment": "The Copper Golem's entry covers a few mods cuz i'm lazy lol.",
 	"entity.friendsandfoes.iceologer": "Iceologer",
 
 	"custom.trivia.copper_golem": "This diminutive cousin of the Iron Golem\nwill accomplish whatever menial task you assign to it.",
@@ -425,6 +445,11 @@
 
 
 
+	"_comment": "Mythic Botany",
+	"custom.trivia.alf_pixie": "Alfheim is known\nto house many magical creatures,\nbut most never venture outside of their realm.",
+
+
+
 	"_comment": "The Outer End",
 	"custom.trivia.chorus_squid": "This strange offshoot of standard squids\nsomehow made its way to the End, and was corrupted by it.",
 	"custom.trivia.entombed": "Doomed to a purgatory of wandering,\nthese bulwarks of Purpur attack all who disturb their stupor.",
@@ -514,5 +539,4 @@
 	"_comment": "YUNG's Cave Biomes",
 	"custom.trivia.ice_cube": "A strange block of sentient ice.\nHow peculiar...",
 	"custom.trivia.sand_snapper": "A most unique creature\nthat feeds on various types of sand\n(or perhaps silica in general?)"
-
 }
