@@ -322,6 +322,8 @@
 	"custom.trivia.lunar_monstrosity": "Twisted by the fallout of the Great Starlight War,\nthis floral aberration has taken up residence\nin the Cursed Garden, consuming the souls of all\nunfortunate enough to cross its roots.",
 	"custom.trivia.nightfall_spider":  "These Spiders share their omnipresent\ninhabitation with the regular variety -\nbut they're more aggressive than you'd think.",
 	"custom.trivia.ratlin": "A giant rodent,\nnative to the Starlight Realm.\nIt looks so soft...",
+	"custom.trivia.rookfish": "A strange sub-species of the Squid,\nwhich seems to be shaped like a tower.\nAs for why, it is unknown.",
+	"custom.trivia.tower_squid": "A strange sub-species of the Squid,\nwhich seems to be shaped like a tower.\nAs for why, it is unknown.",
 	"custom.trivia.starlight_golem": "One of the last remnants of\nthe Great Starlight War, these Golems\nspring to life when detecting an intruder.",
 	"custom.trivia.tangled": "When a Lunar Monstrosity consumes one's soul,\nit begins converting it into a Tangled.\nPart man and part plant, it is\nforced to protect the Garden by its floristic master.",
 	"custom.trivia.tangled_hatred": "Extensions of a Lunar Monstrosity's will,\nthese vines will flail about the place\nin an attempt to stop trespassers.\nAttack their roots to dispatch them.",
@@ -392,6 +394,7 @@
 	"custom.trivia.archevoker": "Some Evokers train for decades to master their craft.\nOften times, the magic will corrupt their minds -\nrendering them even more hostile than before.",
 	"custom.trivia.cryomancer": "Some Villagers choose to master Ice Magic -\nno crown required.",
 	"custom.trivia.dead_king": "The corpose of an unknown king,\ncursed to defend its grave until the end of time.",
+	"custom.trivia.ice_spider": "An arachnid, coated in frosty magic.\nMay prove annoying to fight without any heat-based attacks.",
 	"custom.trivia.necromancer": "Necromancy is a tricky art -\nand one that should not be taken lightly.\nThose who master it wield great power - at the cost of their very soul.",
 	"custom.trivia.priest": "Sworn to purge all evil from this world,\npriests are more than willing to offer their expertise\nto all who can afford their wares.",
 	"custom.trivia.pyromancer": "Opposite yet equal to Cryomancy,\nPyromancy required much greater discipline due to the destructive force fire rends upon the unprepared..",
@@ -447,6 +450,12 @@
 
 	"_comment": "Mythic Botany",
 	"custom.trivia.alf_pixie": "Alfheim is known\nto house many magical creatures,\nbut most never venture outside of their realm.",
+
+
+
+	"_comment": "Oh The Biomes We've Gone",
+	"custom.trivia.man_o_war": "A rare siphonophore\nwhose venom can take down even the hardiest of men.",
+	"custom.trivia.oddion": "An odd onion\nthat seems to exhibit sentience.\nStill edible, though.",
 
 
 

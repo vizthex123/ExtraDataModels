@@ -8,6 +8,16 @@ I increment the version by X.1 whenever I add more mod support (except when I do
 
 --------------------------------------------------
 
+## v1.9.1
+
+Added a missing trivia entry for the Rookfish/Tower Squid from Eternal Starlight
+
+Added trivia for Oh The Biomes We've Gone
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.9
 
 Slightly reworded the entry for Aquatic Frontiers' Sandy
