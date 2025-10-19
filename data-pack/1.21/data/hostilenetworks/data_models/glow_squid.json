@@ -7,7 +7,7 @@
     "display": {
         "y_offset": 1.0
     },
-    "sim_cost": 32,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },

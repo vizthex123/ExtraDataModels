@@ -157,6 +157,23 @@ hostile data:
 }
 ```
 
+1.21:
+```
+    "tier_data": {
+        "basic": 64,
+        "advanced": 256,
+        "superior": 1024,
+        "self_aware": 4096
+    },
+    "data_per_kill": {
+        "faulty": 8,
+        "basic": 16,
+        "advanced": 32,
+        "superior": 64
+    }
+}
+```
+
 
 elite data:
 ```
@@ -172,6 +189,23 @@ elite data:
         96,
         192
     ]
+}
+```
+
+1.21:
+```
+    "tier_data": {
+        "basic": 96,
+        "advanced": 384,
+        "superior": 1536,
+        "self_aware": 6144
+    },
+    "data_per_kill": {
+        "faulty": 24,
+        "basic": 48,
+        "advanced": 96,
+        "superior": 192
+    }
 }
 ```
 

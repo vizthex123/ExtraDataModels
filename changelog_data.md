@@ -10,6 +10,37 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## v3.3
+
+Added a model for the Ice Spider *[Iron's Spells n' Spellbooks]*<br />
+The Wildfire now gives 1 Wildfire Crown Fragment *[Friends & Foes]*<br />
+Renamed the Tower Squid model since the mod did the same *[Eternal Starlight]*
+
+L_Ender's Catalysm changes:
+- Reduced the amount of Crystallized Coral Fragments the Coral Golem gives
+- Reduced the amount of Coral Chunks the Coralssus gives
+- Doubled the Bone and Rotten Flesh output of Draugrs and Elite Draugrs
+- Doubled the Ink Sac and Rotten Flesh output of Drowned Hosts
+- Halved the drops for The Watcher
+- Doubled the RF cost for The Prowler
+- Fixed several models having incorrect RF amounts, predictions, or data requirements
+
+Ported support for the following:
+- Aquatic Frontiers
+- Atmospheric
+- Buzzier Bees
+- Draconic Evolution
+- Ecologics
+- L_Ender's Cataclysm
+- More Useful Copper
+- Oh The Biomes We've Gone
+- Upgrade Aquatic
+- YUNG's Cave Biomes
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.2.1
 
 Adjusted the loot from a few of Aquatic Frontiers' mobs<br />

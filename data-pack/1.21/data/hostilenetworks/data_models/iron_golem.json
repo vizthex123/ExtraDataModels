@@ -4,6 +4,9 @@
         "translate": "entity.minecraft.iron_golem",
         "color": "#CFB198"
     },
+    "display": {
+        "scale": 0.78
+    },
     "sim_cost": 1024,
     "input": {
         "item": "hostilenetworks:prediction_matrix",

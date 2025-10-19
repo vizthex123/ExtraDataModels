@@ -1,6 +1,7 @@
 {
     "entity": "minecraft:cow",
     "variants": [
+		"buzzier_bees:moobloom",
 		"friendsandfoes:moobloom"
 	],
     "name": {
@@ -8,7 +9,7 @@
 		"color": "#352A1F"
     },
     "display": {
-        "scale": 1.0
+        "scale": 0.99
     },
     "sim_cost": 64,
     "input": {

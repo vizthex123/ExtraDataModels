@@ -19,19 +19,24 @@
     "trivia": "hostilenetworks.trivia.hoglin",
     "fabricator_drops": [
         {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 32
+        }
+        {
 			"optional": true,
             "id": "irons_spellbooks:hogskin",
             "count": 8
         },
         {
 			"optional": true,
-            "id": "nourished_nether:raw_hoglin",
-            "count": 16
+            "id": "nourished_nether:hoglin_hide",
+            "count": 8
         },
         {
 			"optional": true,
-            "id": "nourished_nether:hoglin_hide",
-            "count": 8
+            "id": "nourished_nether:raw_hoglin",
+            "count": 16
         },
         {
             "id": "minecraft:porkchop",

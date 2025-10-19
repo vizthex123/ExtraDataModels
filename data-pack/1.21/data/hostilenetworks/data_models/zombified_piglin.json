@@ -27,6 +27,10 @@
         {
             "id": "minecraft:gold_ingot",
             "count": 8
+        },
+        {
+            "id": "minecraft:piglin_head",
+            "count": 4
         }
     ]
 }

@@ -27,12 +27,27 @@
 		},
 		{
 			"optional": true,
+			"id": "draconicevolution:dragon_heart",
+			"count": 2
+		},
+		{
+			"optional": true,
+			"id": "draconicevolution:draconium_dust",
+			"count": 32
+		},
+		{
+			"optional": true,
 			"id": "irons_spellbooks:dragonskin",
 			"count": 4
 		},
 		{
 			"optional": true,
 			"id": "quark:dragon_scale",
+			"count": 4
+		},
+		{
+			"optional": true,
+			"id": "tconstruct:dragon_scale",
 			"count": 4
 		},
 		{
