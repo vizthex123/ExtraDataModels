@@ -21,10 +21,6 @@
     },
     "trivia": "custom.trivia.duck",
     "fabricator_drops": [
-		{
-            "item": "minecraft:feather",
-            "count": 2
-        },
         {
             "item": "environmental:duck",
             "count": 32
@@ -32,6 +28,10 @@
 		{
             "item": "environmental:duck_egg",
             "count": 8
+        },
+		{
+            "item": "minecraft:feather",
+            "count": 24
         }
     ]
 }

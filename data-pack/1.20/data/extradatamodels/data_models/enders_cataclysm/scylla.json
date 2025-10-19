@@ -17,17 +17,29 @@
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:nether_prediction"
+        "item": "hostilenetworks:overworld_prediction"
     },
 	"trivia": "custom.trivia.scylla",
     "fabricator_drops": [
         {
-            "item": "cataclysm:lacrima",
-            "count": 32
+            "item": "cataclysm:essence_of_the_storm",
+            "count": 2
         },
         {
-            "item": "cataclysm:essence_of_the_storm",
-            "count": 4
+            "item": "cataclysm:lacrima",
+            "count": 32
         }
+    ],
+    "tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        512,
+        1024,
+        2048
     ]
 }

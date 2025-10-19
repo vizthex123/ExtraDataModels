@@ -27,11 +27,11 @@
         },
 		{
             "item": "minecraft:bone",
-            "count": 8
+            "count": 16
         },
 		{
             "item": "minecraft:rotten_flesh",
-            "count": 8
+            "count": 16
         }
     ],
 	"tier_data": [

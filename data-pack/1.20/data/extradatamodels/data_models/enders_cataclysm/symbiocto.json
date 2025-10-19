@@ -17,17 +17,17 @@
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:nether_prediction"
+        "item": "hostilenetworks:overworld_prediction"
     },
 	"trivia": "custom.trivia.symbiocto",
     "fabricator_drops": [
         {
-            "item": "minecraft:ink_sac",
-            "count": 6
-        },
-        {
             "item": "cataclysm:lacrima",
             "count": 4
+        },
+        {
+            "item": "minecraft:ink_sac",
+            "count": 6
         }
     ]
 }

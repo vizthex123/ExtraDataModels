@@ -10,6 +10,29 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## v3.2.1
+
+Adjusted the loot from a few of Aquatic Frontiers' mobs<br />
+Added some missing mod compat drops to several models<br />
+The Wildfire now gives 1 Wildfire Crown Fragment *[Friends & Foes]*<br />
+Tweaked the data requirements for both mobs from YUNG's Cave Biomes<br />
+Slightly increased the RF cost of both Squid Models so it matches modded Squids
+
+L_Ender's Catalysm changes:
+- Reduced the amount of Crystallized Coral Fragments the Coral Golem gives
+- Reduced the amount of Coral Chunks the Coralssus gives
+- Doubled the Bone and Rotten Flesh output of Draugrs and Elite Draugrs
+- Doubled the Ink Sac and Rotten Flesh output of Drowned Hosts
+- Halved the drops for The Watcher
+- Doubled the RF cost for The Prowler
+- Fixed several models having incorrect RF amounts, predictions, or data requirements
+
+Added support for Oh The Biomes We've Gone
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.2
 
 Reduced the RF cost of Cave Guardians *[Alex's Caves]*
@@ -125,6 +148,7 @@ Reduced the RF cost of the Golden Moth to 24 (was 48) *[Aquamirae]*
 Added support for the following mods:
 - Enlightend
 
+
 <br /> <br />
 
 --------------------------------------------------
@@ -164,6 +188,7 @@ Added models for the Slimes from Tinker's Construct<br />
 Added fabricator support for Tinker's Construct
 - The Ender Dragon gives Dragon Scales
 - Wither Skeletons give Necrotic Bones
+
 
 <br /> <br />
 
@@ -356,17 +381,21 @@ The Bogged is now a Skeleton variant
 
 Dropped support for 1.17.1
 
-*I hate having to drop support for a version people might play, but my test instance won't load and I can't fix it. In addition to this, all the mods I support either dropped support for (or entirely skipped) 1.17 since it's a half-baked version - so it's not that big of a loss imo. If you want to keep using this datapack, I would suggest moving your modpack to 1.18.2 or later if you can do so.*
+*I hate having to drop support for a version people might play, but my test instance won't load and I can't fix it. In addition to this, all the mods I support either dropped support for or entirely skipped 1.17 since it's a half-baked version.*
+
+*I would suggest moving your modpack to 1.18.2 or later if you can do so, as this version was kind of forgotten since it's half-complete.*
+
+*You are free to add things yourself, though - as the license states, you can modify the pack in any way for both personal use and published modpacks (but you can't publish your own version of the data pack).*
 
 All changes from v1.5, excluding the following:
 - Scaling fixes - Didn't affect 1.17 since none of the mods exist
-- Void worm fix - Was only on 1.20
+- Void worm fix - The mob is only on 1.20
 - Random mod fixes - The mods aren't on this version
-- Support for YUNG's Cave Biomes - Mod isn't on this version
+- Support for YUNG's Cave Biomes - The mod isn't on this version
 
 Added models for the Sheep, Pig, Cow, Squid, and Glow Squid
 - They're identical to the models on newer versions, but without the optional fabricator drops (since this version of the mod doesn't have that system)
-- The Sheep has an off-white name label instead of the customized rainbow one
+- The Sheep has an off-white name label instead of the customised rainbow one since that feature isn't in this version
 
 Standardized the file formatting
 - Entirely a backend change, but it allows anyone modify things easier if they want to (and lets me make new models more efficiently)
@@ -523,6 +552,7 @@ Added data models for the following mobs:
 - Entombed *[The Outer End]*
 - Spectrafly *[The Outer End]*
 - *[1.20 only]* Star Crawler *[Ad Astra]*
+
 
 <br /> <br />
 

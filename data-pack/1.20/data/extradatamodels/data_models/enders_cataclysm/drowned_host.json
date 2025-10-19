@@ -17,21 +17,21 @@
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:nether_prediction"
+        "item": "hostilenetworks:overworld_prediction"
     },
 	"trivia": "custom.trivia.drowned_host",
     "fabricator_drops": [
         {
+            "item": "cataclysm:lacrima",
+            "count": 4
+        },
+        {
             "item": "minecraft:rotten_flesh",
-            "count": 8
+            "count": 16
         },
         {
             "item": "minecraft:ink_sac",
-            "count": 6
-        },
-        {
-            "item": "cataclysm:lacrima",
-            "count": 4
+            "count": 12
         }
     ]
 }

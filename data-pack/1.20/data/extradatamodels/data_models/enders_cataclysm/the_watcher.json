@@ -23,11 +23,11 @@
     "fabricator_drops": [
         {
             "item": "minecraft:iron_ingot",
-            "count": 24
+            "count": 12
         },
 		{
             "item": "minecraft:redstone",
-            "count": 24
+            "count": 12
         }
     ],
 	"tier_data": [

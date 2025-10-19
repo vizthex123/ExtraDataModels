@@ -27,7 +27,17 @@
         },
         {
             "item": "minecraft:cod",
-            "count": 16
+            "count": 12
+        },
+        {
+            "optional": true,
+            "item": "croptopia:calamari",
+            "count": 48
+        },
+        {
+            "optional": true,
+            "item": "reliquary:squid_beak",
+            "count": 4
         }
     ]
 }

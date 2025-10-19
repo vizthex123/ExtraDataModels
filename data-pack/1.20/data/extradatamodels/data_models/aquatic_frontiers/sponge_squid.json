@@ -28,6 +28,16 @@
         {
             "item": "minecraft:ink_sac",
             "count": 24
+        },
+        {
+            "optional": true,
+            "item": "croptopia:calamari",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "item": "reliquary:squid_beak",
+            "count": 1
         }
     ]
 }

@@ -22,6 +22,11 @@
     "fabricator_drops": [
         {
 			"optional": true,
+            "item": "irons_spellbooks:hogskin",
+            "count": 8
+        },
+        {
+			"optional": true,
             "item": "netherexp:hogham",
             "count": 32
         },
@@ -42,6 +47,11 @@
         {
             "item": "minecraft:leather",
             "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 24
         }
     ]
 }

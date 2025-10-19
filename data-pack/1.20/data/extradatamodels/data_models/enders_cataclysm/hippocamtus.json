@@ -17,7 +17,7 @@
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:nether_prediction"
+        "item": "hostilenetworks:overworld_prediction"
     },
 	"trivia": "custom.trivia.hippocamtus",
     "fabricator_drops": [

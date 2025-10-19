@@ -2,27 +2,27 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cataclysm"
+			"modid": "biomeswevegone"
 		}
 	],
-    "entity": "cataclysm:clawdian",
-    "name": "entity.cataclysm.clawdian",
-    "name_color": "#8F2B23",
-    "gui_scale": 0.42,
+    "entity": "biomeswevegone:oddion",
+    "name": "entity.biomeswevegone.oddion",
+    "name_color": "#654435",
+    "gui_scale": 1,
     "gui_x_offset": 0,
-    "gui_y_offset": 0,
+    "gui_y_offset": 0.42,
     "gui_z_offset": 0,
-    "sim_cost": 512,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-	"trivia": "custom.trivia.clawdian",
+    "trivia": "custom.trivia.oddion",
     "fabricator_drops": [
         {
-            "item": "cataclysm:lacrima",
+            "item": "biomeswevegone:oddion_bulb",
             "count": 16
         }
     ]

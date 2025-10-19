@@ -7,7 +7,7 @@
 	],
     "entity": "environmental:pinecone_golem",
     "name": "entity.environmental.pinecone_golem",
-    "name_color": "#4E3C2f",
+    "name_color": "#4E3C2F",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

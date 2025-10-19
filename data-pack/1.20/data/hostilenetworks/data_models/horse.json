@@ -25,6 +25,11 @@
         {
             "item": "minecraft:leather",
             "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 20
         }
     ]
 }
