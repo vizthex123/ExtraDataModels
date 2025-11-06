@@ -10,6 +10,18 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## v3.3.1
+
+Fixed [#7 (several models not loading in)](https://github.com/vizthex123/ExtraDataModels/issues/7)
+- Also fixed several others that both people in that report missed
+
+Disabled the model for the Tangled Hatred since the mod removed it *[Eternal Starlight]*
+- If it gets re-added before I update the pack, you can change the `.txt` to `.json` to re-enable it
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.3
 
 Added a model for the Ice Spider *[Iron's Spells n' Spellbooks]*<br />

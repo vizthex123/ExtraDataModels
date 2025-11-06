@@ -29,7 +29,7 @@
     "trivia": "custom.trivia.deepling",
     "fabricator_drops": [
         {
-            "id": "cataclysm:nautilus_shell",
+            "id": "minecraft:nautilus_shell",
             "count": 4
         }
     ],

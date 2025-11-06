@@ -12,7 +12,7 @@
     },
     "display": {
         "scale": 0.25,
-		"y_offset": 0.5,
+		"y_offset": 0.5
     },
     "sim_cost": 3175,
     "input": {

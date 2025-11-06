@@ -11,12 +11,12 @@
 		"upgrade_aquatic:cassiopea_jellyfish"
 	],
     "name": {
-        "translate": "entity.upgrade_aquatic.immortal_jellyfish",
+        "translate": "custom.jellyfish",
         "color": "#96D1D5"
     },
     "display": {
 		"x_offset": 0.15,
-		"y_offset": 0.3,
+		"y_offset": 0.3
     },
     "sim_cost": 48,
     "input": {

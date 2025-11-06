@@ -5,12 +5,12 @@
             "modid": "eternal_starlight"
         }
     ],
-    "creteority": "eternal_starlight:creteor",
+    "entity": "eternal_starlight:creteor",
 	"variants": [
 		"eternal_starlight:tiny_creteor"
 	],
     "name": {
-        "translate": "creteority.eternal_starlight.creteor",
+        "translate": "entity.eternal_starlight.creteor",
         "color": "#883E9D"
     },
     "sim_cost": 256,

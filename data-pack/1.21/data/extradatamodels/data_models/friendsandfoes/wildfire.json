@@ -32,7 +32,7 @@
         },
         {
             "optional": true,
-            "item": "reliquary:molten_core",
+            "id": "reliquary:molten_core",
             "count": 4
         }
     ]
