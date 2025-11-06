@@ -8,6 +8,14 @@ I increment the version by X.1 whenever I add more mod support (except when I do
 
 --------------------------------------------------
 
+## v1.9.2
+
+Renamed the Immortal Jellyfish's model to "Jellyfish" *[Upgrade Aquatic]*
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.9.1
 
 Added a missing trivia entry for the Rookfish/Tower Squid from Eternal Starlight

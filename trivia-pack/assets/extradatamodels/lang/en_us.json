@@ -524,7 +524,7 @@
 
 
 	"_comment": "Upgrade Aquatic",
-	"entity.upgrade_aquatic.immortal_jellyfish": "Jellyfish",
+	"custom.jellyfish": "Jellyfish",
 
 	"custom.trivia.goose": "Geese are some of the most hostile\nand unpleasent members of the animal kingdom.\n\nTrapping them in a simulation is about what they deserve.",
 	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, forever meandering through the ocean...",
