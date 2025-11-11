@@ -29,7 +29,7 @@
 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)			|				  |✔		   |✔			|✔			  |✔		   |1.4											|
 | [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)			|				  |      		   |      		    |✔			  |			   |2.1											|
 | [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)									|				  |✔		   |✔			|✔			  |✔		   |3.0											|
-| [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)								|				  |			   |      		    |✔		      |			   |3.2								  			|
+| [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions)								|				  |			   |      		    |✔		      |✔		   |3.2								  			|
 | [Mob Compack](https://www.curseforge.com/minecraft/mc-mods/mob-compack)													|				  |			   |      		    |✔		      |			   |3.1							  				|
 | [More Useful Copper](https://www.curseforge.com/minecraft/mc-mods/more-useful-copper-2-0)						|				  |			   |      		    |✔		      |✔		   |3.1							  				|
 | [MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)													|				  |			   |      		    |✔		      |			   |3.2								  			|

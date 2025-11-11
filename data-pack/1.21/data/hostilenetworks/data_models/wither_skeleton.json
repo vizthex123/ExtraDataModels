@@ -1,5 +1,8 @@
 {
 	"entity": "minecraft:wither_skeleton",
+    "variants": [
+		"mekanismadditions:baby_wither_skeleton"
+    ],
 	"name": {
 		"translate": "entity.minecraft.wither_skeleton",
 		"color": "#343434"

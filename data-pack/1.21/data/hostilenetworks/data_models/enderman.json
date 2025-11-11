@@ -19,7 +19,8 @@
         "endermanoverhaul:swamp_enderman",
         "endermanoverhaul:nether_wastes_enderman",
         "endermanoverhaul:warped_forest_enderman",
-        "endermanoverhaul:windswept_hills_enderman"
+        "endermanoverhaul:windswept_hills_enderman",
+		"mekanismadditions:baby_enderman"
     ],
     "name": {
         "translate": "entity.minecraft.enderman",

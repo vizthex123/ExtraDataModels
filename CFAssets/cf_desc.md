@@ -18,13 +18,29 @@ _Note: Since I made this for a 1.20 modpack, I'll start adding support starting 
 
 # Installation Instructions
 
+1) After downloading the datapack, get [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader). *If you want the trivia entries, download the latest version of the [resource pack](https://www.curseforge.com/minecraft/texture-packs/extra-data-models-trivia) as well*
+
+2) Place the datapack into `config/openloader/data`
+
+3) **Optional:** Enable the trivia pack in the game's settings. ***If you downloaded it manually, you can place it into `config/openloader/resources` and it will auto-enable itself.***
+
+4) **Optional:** Load your world and check one of the models from the datapack to view its trivia entry. ***If the datapack isn't loaded, this resource pack won't do anything!***
+
+5) When updating the datapack, repeat step 2 - just override the .zip with the new one and it'll update everything. ***Same applies for manually updating the resource pack.***
+
+If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://www.curseforge.com/minecraft/mc-mods/default-options) if you plan to publish your modpack)
+
+<br />
+
+## 1.21
+
 There are two ways to install this pack: Using [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader) and the CurseForge App (other launchers might work, but I don't use them so idk) or by using [Paxi](https://www.curseforge.com/minecraft/mc-mods/paxi).
 
 *Paxi is the preferred method since it works like Open Loader did on 1.20 & earlier. Open Loader's devs changed the way packs are loaded and neglected to update either project page lol, so idk how it works now.*
 
 <br />
 
-## Paxi
+### Paxi
 
 1) Download [the mod](https://www.curseforge.com/minecraft/mc-mods/paxi) and [datapack](https://www.curseforge.com/minecraft/data-packs/extra-data-models/files/all?page=1&pageSize=20&version=1.21.1&showAlphaFiles=show)
 
@@ -40,7 +56,7 @@ If you downloaded the trivia pack through a launcher, just enable it in-game (an
 
 <br />
 
-## Open Loader
+### Open Loader
 
 1) Make sure the CurseForge App is installed. Other launchers should work if they have a section to download datapacks, though.
 

@@ -16,13 +16,29 @@ _Note: Since I made this for a 1.20 modpack, I'll start adding support starting 
 
 # Installation Instructions
 
+1) After downloading the datapack, get [Open Loader](https://modrinth.com/mod/open-loader). *If you want the trivia entries, download the latest version of the [resource pack](https://modrinth.com/datapack/extra-data-models/versions) as well. It's attached to every datapack version, and works across all supported Minecraft versions.*
+
+2) Place the datapack into `config/openloader/data`
+
+3) **Optional:** Enable the trivia pack in the game's settings. _**If you downloaded it manually, you can place it into `config/openloader/resources` and it will auto-enable itself.**_
+
+4) **Optional:** Load your world and check one of the models from the datapack to view its trivia entry. _**If the datapack isn't loaded, this resource pack won't do anything!**_
+
+5) When updating the datapack, repeat step 2 - just override the .zip with the new one and it'll update everything. _**Same applies for manually updating the resource pack.**_
+
+If you downloaded the trivia pack through a launcher, just enable it in-game (and make sure it's [enabled by default](https://modrinth.com/mod/default-options) if you plan to publish your modpack)
+
+<br />
+
+## 1.21
+
 There are two ways to install this pack: Using [Open Loader](https://modrinth.com/mod/open-loader) and the CurseForge App (other launchers might work, but I don't use them so idk) or by using [Paxi](https://modrinth.com/mod/paxi).
 
 *Paxi is the preferred method since it works like Open Loader did on 1.20 & earlier. Open Loader's devs changed the way packs are loaded and neglected to update either project page lol, so idk how it works now.*
 
 <br />
 
-## Paxi
+### Paxi
 
 1) Download [the mod](https://modrinth.com/mod/paxi) and [datapack](https://modrinth.com/datapack/extra-data-models/versions?g=1.21.1)
 
@@ -38,7 +54,7 @@ If you downloaded the trivia pack through a launcher, just enable it in-game (an
 
 <br />
 
-## Open Loader
+### Open Loader
 
 1) Make sure the CurseForge App is installed. Other launchers should work if they have a section to download datapacks, though.
 

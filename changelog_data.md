@@ -10,6 +10,15 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## v3.3.2
+
+Fixed a few models not loading properly (reported by warpalicious on the discord)<br />
+Ported (the remaining) support for Mekanism Additions
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.3.1
 
 Fixed [#7 (several models not loading in)](https://github.com/vizthex123/ExtraDataModels/issues/7)
