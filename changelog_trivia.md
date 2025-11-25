@@ -8,6 +8,17 @@ I increment the version by X.1 whenever I add more mod support (except when I do
 
 --------------------------------------------------
 
+## v1.9.3
+
+Fixed the text bleed on the Llama's entry
+
+Added an entry for the Sniffer<br />
+Added an entry for the Starfire Bird *[Eternal Starlight]*
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.9.2
 
 Renamed the Immortal Jellyfish's model to "Jellyfish" *[Upgrade Aquatic]*
