@@ -93,8 +93,13 @@
             "count": 32
         },
         {
-            "id": "potionsmaster:bezoar",
             "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "potionsmaster:bezoar",
             "count": 16
         }
     ]

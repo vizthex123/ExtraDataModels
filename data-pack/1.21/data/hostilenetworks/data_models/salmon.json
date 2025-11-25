@@ -14,17 +14,17 @@
     "trivia": "custom.trivia.salmon",
     "fabricator_drops": [
         {
-            "optional": true,
-            "id": "croptopia:roe",
-            "count": 64
-        },
-        {
             "id": "minecraft:salmon",
             "count": 32
         },
         {
             "id": "minecraft:bone_meal",
             "count": 2
+        },
+        {
+            "optional": true,
+            "id": "croptopia:roe",
+            "count": 64
         }
     ]
 }

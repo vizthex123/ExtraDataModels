@@ -34,8 +34,8 @@
             "count": 4
         },
         {
-            "id": "reliquary:rib_bone",
             "optional": true,
+            "id": "reliquary:rib_bone",
             "count": 2
         }
     ]

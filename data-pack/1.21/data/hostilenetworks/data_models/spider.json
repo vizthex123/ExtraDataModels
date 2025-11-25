@@ -34,13 +34,18 @@
             "count": 4
         },
         {
-            "id": "silentgear:fine_silk",
             "optional": true,
+            "id": "biomesoplenty:spider_egg",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "silentgear:fine_silk",
             "count": 3
         },
         {
-            "id": "reliquary:chelicerae",
             "optional": true,
+            "id": "reliquary:chelicerae",
             "count": 2
         }
     ]

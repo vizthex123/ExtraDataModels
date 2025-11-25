@@ -1,14 +1,14 @@
-|																																																	  			|  1.17.1   |  1.18.X  |  1.19.2   |  1.20.1    |  1.21.1    |		Datapack Version			|
-|---------------------------------------------------------------------------------------------------------------------------------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:--------------------------------------:|
+|																																																	  			|  1.17.1   |  1.18.X  |  1.19.2   |  1.20.1    |  1.21.1    |		Datapack Version		|
+|---------------------------------------------------------------------------------------------------------------------------------------------------|:-----------:|:-----------:|:-----------:|:-----------:|:-----------:|:----------------------------:|
 | [Ad Astra](https://www.curseforge.com/minecraft/mc-mods/ad-astra)   																		|				  |			   |✔			|✔			  |			   |												|
 | [Ad Astra: Proxima Plus](https://www.curseforge.com/minecraft/mc-mods/ad-astra-proxima-plus)						|				  |			   |      		    |✔			  |			   |												|
 | [Alex's Caves](https://www.curseforge.com/minecraft/mc-mods/alexs-caves)																|				  |			   |      		    |✔			  |			   |												|
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)																|✔		 	  |✔		   |✔			|✔			  |			   |1.4											|
 | [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)															|				  |✔		   |✔			|✔			  |			   |2.0											|
-| [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)											|				  |			   |✔			|✔			  |			   |												|
+| [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)											|				  |			   |✔			|✔			  |✔		   |												|
 | [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)															|				  |			   |      		    |✔		      |			   |3.2								  			|
 | [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)															|				  |			   |      		    |✔		      |✔		   |3.1							  				|
-| [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)																	|				  |✔		   |✔		    |✔			  |			   |2.1											|
+| [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)																	|				  |✔		   |✔		    |✔			  |✔		   |2.1											|
 | [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)					 			|				  |✔		   |✔		    |✔			  |			   |2.0											|
 | [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction)	|				  |			   |      		    |✔		      |			   |3.2								  			|
 | [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)															|				  |			   |      		    |✔		      |✔		   |2.1											|
@@ -21,7 +21,7 @@
 | [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)										|				  |			   |✔			|✔			  |			   |2.0											|
 | [Enlightend](https://www.curseforge.com/minecraft/mc-mods/enlightend)																|				  |✔		   |✔			|				  |			   |3.0											|
 | [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)													|				  |			   |✔			|✔			  |✔		   |												|
-| [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)													|				  |			   |      		    |✔		      |			   |3.1							  				|
+| [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)													|				  |			   |      		    |✔		      |✔		   |3.1							  				|
 | [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)											|				  |			   |			    |				  |✔		   |1.6											|
 | [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)									|				  |✔		   |✔			|✔			  |✔		   |1.4											|
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)																|				  |			   |      		    |✔			  |			   |												|

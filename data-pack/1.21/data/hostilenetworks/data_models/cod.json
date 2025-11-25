@@ -17,17 +17,17 @@
     "trivia": "hostilenetworks.trivia.cod",
     "fabricator_drops": [
         {
-            "id": "croptopia:roe",
-            "optional": true,
-            "count": 32
-        },
-        {
             "id": "minecraft:cod",
             "count": 32
         },
         {
             "id": "minecraft:bone_meal",
             "count": 2
+        },
+        {
+            "id": "croptopia:roe",
+            "optional": true,
+            "count": 32
         }
     ]
 }

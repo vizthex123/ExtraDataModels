@@ -10,6 +10,25 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## v3.3.3
+
+Added a model for the Starfire Bird *[Eternal Starlight]*<br />
+Fixed the Sheep model not giving Animal Fat if Hexerei is installed<br />
+Equalised both Horse animal fat outputs to 24 (was 20 and 32)
+
+Updated the Deepsilver drops for the Lunar Monstrosity and Lonestar Skeleton since the registry names were changed *[Eternal Starlight]*
+
+Fixed a few missing egg drops:
+- Crab *[Friends & Foes]*
+- Spider *[Biomes o' Plenty]*
+- Ice Spider *[Iron's Spells n' Spellbooks]*
+
+Imported Autumnity support
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v3.3.2
 
 Fixed a few models not loading properly (reported by warpalicious on the discord)<br />

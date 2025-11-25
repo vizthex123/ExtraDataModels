@@ -43,13 +43,13 @@
             "count": 16
         },
         {
-            "id": "evilcraft:ender_tear",
             "optional": true,
+            "id": "evilcraft:ender_tear",
             "count": 4
         },
         {
-            "id": "reliquary:nebulous_heart",
             "optional": true,
+            "id": "reliquary:nebulous_heart",
             "count": 2
         }
     ]

@@ -26,6 +26,10 @@
         {
             "id": "irons_spellbooks:arcane_essence",
             "count": 16
+        },
+        {
+            "id": "irons_spellbooks:ice_spider_egg",
+            "count": 4
         }
     ]
 }

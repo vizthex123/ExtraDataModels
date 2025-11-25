@@ -2,30 +2,34 @@
     "neoforge:conditions": [
         {
             "type": "neoforge:mod_loaded",
-            "modid": "eternal_starlight"
+            "modid": "autumnity"
         }
     ],
-    "entity": "eternal_starlight:lonestar_skeleton",
+    "entity": "autumnity:turkey",
     "name": {
-        "translate": "entity.eternal_starlight.lonestar_skeleton",
-        "color": "#5A5B56"
+        "translate": "entity.autumnity.turkey",
+        "color": "#653B36"
     },
-    "sim_cost": 128,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "id": "hostilenetworks:overworld_prediction"
     },
-	"trivia": "custom.trivia.lonestar_skeleton",
+	"trivia": "custom.trivia.turkey",
     "fabricator_drops": [
-        {
-            "id": "minecraft:bone",
+		{
+            "id": "minecraft:feather",
             "count": 32
         },
-		{
-            "id": "eternal_starlight:deepsilver_nugget",
+        {
+            "id": "autumnity:turkey",
             "count": 4
+        },
+		{
+            "id": "autumnity:turkey_egg",
+            "count": 8
         }
     ]
 }

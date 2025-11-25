@@ -22,6 +22,10 @@
         {
             "id": "friendsandfoes:crab_claw",
             "count": 4
+        },
+        {
+            "id": "friendsandfoes:crab_egg",
+            "count": 12
         }
     ]
 }

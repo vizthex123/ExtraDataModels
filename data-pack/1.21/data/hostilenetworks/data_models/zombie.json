@@ -40,8 +40,8 @@
             "count": 4
         },
 		{
-			"id": "reliquary:zombie_heart",
 			"optional": true,
+			"id": "reliquary:zombie_heart",
 			"count": 2
 		}
 	]
