@@ -1,5 +1,8 @@
 {
     "entity": "minecraft:elder_guardian",
+    "variants": [
+		"occultism:possessed_elder_guardian"
+	],
     "name": "entity.minecraft.elder_guardian",
     "name_color": "#CBB1A5",
     "gui_scale": 0.5,

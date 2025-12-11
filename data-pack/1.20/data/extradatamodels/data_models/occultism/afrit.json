@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "occultism"
+		}
+	],
+    "entity": "occultism:afrit",
+    "variants": [
+		"occultism:afrit_wild"
+	],
+    "name": "entity.occultism.afrit",
+    "name_color": "#AE6800",
+    "gui_scale": 0.88,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.afrit",
+    "fabricator_drops": [
+        {
+            "item": "occultism:afrit_essence",
+            "count": 16
+        }
+    ]
+}

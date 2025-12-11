@@ -3,7 +3,6 @@ vizthex - Creator of both this data pack and resource pack that adds trivia.
 Check out my other projects:
 https://www.curseforge.com/members/vizthex/projects
 
-
 Shadows_of_Fire - Made Hostile Neural Networks and helped me make the data pack.
 
 Check out his projects:

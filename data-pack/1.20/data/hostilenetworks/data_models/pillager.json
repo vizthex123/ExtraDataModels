@@ -1,5 +1,8 @@
 {
     "entity": "minecraft:pillager",
+    "variants": [
+		"occultism:sickened_pillager"
+	],
     "name": "entity.minecraft.pillager",
     "name_color": "#484C46",
     "gui_scale": 1,
@@ -17,7 +20,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:emerald",
-            "count": 8
+            "count": 4
         },
         {
 			"optional": true,

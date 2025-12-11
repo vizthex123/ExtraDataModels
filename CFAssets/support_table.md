@@ -15,6 +15,7 @@
 | [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)													|				  |✔		   |✔		    |✔			  |			   |2.0											|
 | [Caverns & Chasms](https://www.curseforge.com/minecraft/mc-mods/caverns-and-chasms)								|				  |			   |      		    |✔		      |			   |3.1							  				|
 | [Cloud Storage](https://www.curseforge.com/minecraft/mc-mods/alexs-cloud-storage)											|				  |			   |      		    |✔		      |			   |3.1							  				|
+| [Cracker's Wither Storm](https://www.curseforge.com/minecraft/mc-mods/crackers-wither-storm-mod)			|				  |			   |      		    |✔		      |			   |3.3											|
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)							|				  |			   |✔		    |✔			  |			   |2.0											|
 | [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)									|				  |			   |      		    |✔		      |✔		   |3.1							  				|
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)																		|				  |✔		   |✔			|✔			  |✔		   |												|
@@ -34,6 +35,7 @@
 | [More Useful Copper](https://www.curseforge.com/minecraft/mc-mods/more-useful-copper-2-0)						|				  |			   |      		    |✔		      |✔		   |3.1							  				|
 | [MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)													|				  |			   |      		    |✔		      |			   |3.2								  			|
 | [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)																|				  |			   |      		    |✔		      |			   |3.1							  				|
+| [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)																	|				  |			   |      		    |✔		      |			   |3.3											|
 | [Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone)	|				  |			   |      		    |✔		      |✔		   |3.2.1							  			|
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)													|				  |			   |      		    |✔			  |			   |												|
 | [Quark](https://www.curseforge.com/minecraft/mc-mods/quark)                   																|				  |✔		   |✔			|✔			  |			   |												|

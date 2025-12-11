@@ -1,0 +1,46 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "witherstormmod"
+		}
+	],
+    "entity": "witherstormmod:sickened_mooshroom",
+    "name": "entity.witherstormmod.sickened_mooshroom",
+    "name_color": "#721E8D",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.sickened_animal",
+    "fabricator_drops": [
+        {
+            "item": "witherstormmod:withered_flesh",
+            "count": 32
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 16
+        },
+        {
+            "item": "minecraft:red_mushroom",
+            "count": 8
+        },
+        {
+            "item": "minecraft:brown_mushroom",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 8
+        }
+    ]
+}

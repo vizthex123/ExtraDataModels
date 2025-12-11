@@ -1,0 +1,50 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "witherstormmod"
+		}
+	],
+    "entity": "witherstormmod:sickened_zombie",
+    "name": "entity.witherstormmod.sickened_zombie",
+    "name_color": "#4B4553",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 112,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.sickened_zombie",
+    "fabricator_drops": [
+        {
+            "item": "witherstormmod:withered_flesh",
+            "count": 32
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 12
+        },
+        {
+            "item": "minecraft:carrot",
+            "count": 20
+        },
+        {
+            "item": "minecraft:potato",
+            "count": 20
+        },
+        {
+            "item": "minecraft:zombie_head",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "item": "reliquary:zombie_heart",
+            "count": 3
+        }
+    ]
+}

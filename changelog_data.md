@@ -12,6 +12,7 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 ## v4.2.3
 
+Added a model for the Sniffer<br />
 Added a model for the Starfire Bird *[Eternal Starlight]*<br />
 Fixed the Sheep model not giving Animal Fat if Hexerei is installed<br />
 Equalised both Horse animal fat outputs to 24 (was 20 and 32)
@@ -106,6 +107,21 @@ Most mod support has been removed for now, but I'll re-do it all as they do get 
 
 Added a model for the Breeze<br />
 The Bogged is now a Skeleton variant
+
+
+<br /> <br />
+
+--------------------------------------------------
+## v3.3
+
+Backported the Sniffer model I added in v4.2.3
+
+Reduced the emerald gain from Pillagers to 4 (was 8)<br />
+Reduced the Iron Golem's RF use to 512/t (was 1,024)<br />
+Added Hexerei's Animal Fat to the Mooshroom model<br />
+Increased the Skull and Rib Bone output for Skeleton Druids *[The Twilight Forest]*
+
+Added support for Occultism and Cracker's Wither Storm (requested by [explodingtomatos544-code](https://github.com/vizthex123/ExtraDataModels/issues/8))
 
 
 <br /> <br />

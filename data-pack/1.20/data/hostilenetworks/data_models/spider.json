@@ -24,12 +24,12 @@
     "trivia": "hostilenetworks.trivia.spider",
     "fabricator_drops": [
         {
-            "item": "minecraft:string",
-            "count": 32
-        },
-        {
             "item": "minecraft:spider_eye",
             "count": 16
+        },
+        {
+            "item": "minecraft:string",
+            "count": 32
         },
         {
             "item": "minecraft:cobweb",

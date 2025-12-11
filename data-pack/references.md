@@ -28,7 +28,7 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 
 # Misc mods I'm too lazy to make a category for
 
-(i still made categories for them while cataloguing all the references though lol)
+(i still made categories for them when I initially catalogued all the references though lol)
 
 |			Mod			|			Mob		|	Reference	|
 |---------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 | Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)                                                  									      |
 | Eternal Starlight | Yeti				| Its trivia entry references [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain)	|
 | L_Ender 's Cataclysm | Symbiocto | Its trivia entry references Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
-
+| Cracker's Wither Storm | Wither Symbiont | The data values of 2015 and 2019 were the release and delist dates for Minecraft: Story Mode.	|
 
 
 <br />

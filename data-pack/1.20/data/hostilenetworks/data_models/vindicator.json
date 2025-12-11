@@ -1,5 +1,8 @@
 {
     "entity": "minecraft:vindicator",
+    "variants": [
+		"occultism:sickened_vindicator"
+	],
     "name": "entity.minecraft.vindicator",
     "name_color": "#484C46",
     "gui_scale": 1,

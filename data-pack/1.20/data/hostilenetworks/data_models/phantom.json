@@ -1,7 +1,9 @@
 {
     "entity": "minecraft:phantom",
     "variants": [
-		"upgrade_aquatic:flare"
+		"occultism:possessed_phantom",
+		"upgrade_aquatic:flare",
+		"witherstormmod:sickened_phantom"
 	],
     "name": "entity.minecraft.phantom",
     "name_color": "#0AB405",

@@ -2,12 +2,13 @@
     "entity": "minecraft:hoglin",
     "variants": [
 		"minecraft:zoglin",
+		"occultism:possessed_hogiln",
 		"ad_astra:mogler",
 		"ad_astra:zombified_mogler"
 	],
     "name": "entity.minecraft.hoglin",
     "name_color": "#E8A074",
-    "gui_scale": 1.0,
+    "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
