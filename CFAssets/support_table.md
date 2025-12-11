@@ -22,7 +22,7 @@
 | [Enlightend](https://www.curseforge.com/minecraft/mc-mods/enlightend)																|				  |✔		   |✔			|				  |			   |3.0											|
 | [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)													|				  |			   |✔			|✔			  |✔		   |												|
 | [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)													|				  |			   |      		    |✔		      |✔		   |3.1							  				|
-| [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)											|				  |			   |			    |				  |✔		   |1.6											|
+| [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)											|				  |			   |			    |				  |✔		   |4.1											|
 | [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)									|				  |✔		   |✔			|✔			  |✔		   |1.4											|
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)																|				  |			   |      		    |✔			  |			   |												|
 | [Ice & Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)     				   							|✔  		  |✔		   |✔			|✔			  |			   |1.5											|

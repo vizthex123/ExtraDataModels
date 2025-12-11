@@ -10,7 +10,7 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
-## v3.3.3
+## v4.2.3
 
 Added a model for the Starfire Bird *[Eternal Starlight]*<br />
 Fixed the Sheep model not giving Animal Fat if Hexerei is installed<br />
@@ -29,7 +29,7 @@ Imported Autumnity support
 <br /> <br />
 
 --------------------------------------------------
-## v3.3.2
+## v4.2.2
 
 Fixed a few models not loading properly (reported by warpalicious on the discord)<br />
 Ported (the remaining) support for Mekanism Additions
@@ -38,7 +38,7 @@ Ported (the remaining) support for Mekanism Additions
 <br /> <br />
 
 --------------------------------------------------
-## v3.3.1
+## v4.2.1
 
 Fixed [#7 (several models not loading in)](https://github.com/vizthex123/ExtraDataModels/issues/7)
 - Also fixed several others that both people in that report missed
@@ -50,7 +50,7 @@ Disabled the model for the Tangled Hatred since the mod removed it *[Eternal Sta
 <br /> <br />
 
 --------------------------------------------------
-## v3.3
+## v4.2
 
 Added a model for the Ice Spider *[Iron's Spells n' Spellbooks]*<br />
 The Wildfire now gives 1 Wildfire Crown Fragment *[Friends & Foes]*<br />
@@ -76,6 +76,36 @@ Ported support for the following:
 - Oh The Biomes We've Gone
 - Upgrade Aquatic
 - YUNG's Cave Biomes
+
+<br /> <br />
+
+--------------------------------------------------
+## v4.1
+
+*This entire update is only for 1.21 since a guy asked for extra mod support almost a week ago. Figured I'd take a break from developing v2.0 and add this real quick.*
+
+Fixed the Illusioner's name not being localized
+
+Added support for Eternal Starlight (suggested by MrEizy on the Hostile Neural Networks discord server)<br />
+Reduced the amount of Netherite Scrap Ancient Knights give *[Iron's Spells n' Spellbooks]*
+
+Imported the following changes from v2.0:
+
+- Added a model for the Bee, Ravager, Pillager, and Vindicator
+- The Bee model was suggested by Tyler489 on the Hostile Neural Networks discord server
+
+
+<br /> <br />
+
+--------------------------------------------------
+## v4.0
+
+Ported to 1.21.1
+
+Most mod support has been removed for now, but I'll re-do it all as they do get ported (gonna be *so fun* to change the handful of lines that are different in all 300 files :D)
+
+Added a model for the Breeze<br />
+The Bogged is now a Skeleton variant
 
 
 <br /> <br />
@@ -397,24 +427,6 @@ If (for whatever reason) you're playing on 1.18, you can manually remove `sheep.
 <br /> <br />
 
 --------------------------------------------------
-## v1.6
-
-*This entire update is only for 1.21 since a guy asked for extra mod support almost a week ago. Figured I'd take a break from developing v2.0 and add this real quick.*
-
-Fixed the Illusioner's name not being localized
-
-Added support for Eternal Starlight (suggested by MrEizy on the Hostile Neural Networks discord server)<br />
-Reduced the amount of Netherite Scrap Ancient Knights give *[Iron's Spells n' Spellbooks]*
-
-Imported the following changes from v2.0:
-
-- Added a model for the Bee, Ravager, Pillager, and Vindicator
-- The Bee model was suggested by Tyler489 on the Hostile Neural Networks discord server
-
-
-<br /> <br />
-
---------------------------------------------------
 ## v1.5
 
 *This is the first version with multi-version support for Minecraft!*
@@ -434,17 +446,6 @@ The Dead King's data model now requires far fewer kills to level up
 Added support for the following mods:
 - Ice & Fire (suggested by TravHan2009 in the comments section)
 - *[1.18 and 1.20]* YUNG's Cave Biomes
-
-<br />
-
-### v1.5 - 1.21 only
-
-Ported to 1.21.1
-
-Most mod support has been removed for now, but I'll re-do it all as they do get ported (gonna be *so fun* to change the handful of lines that are different in all 300 files :D)
-
-Added a model for the Breeze<br />
-The Bogged is now a Skeleton variant
 
 <br />
 
