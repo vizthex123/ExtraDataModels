@@ -8,6 +8,17 @@ I increment the version by X.1 whenever I add more mod support (except when I do
 
 --------------------------------------------------
 
+## v1.10
+
+Fixed the text bleed on the Man o' War's entry *[Oh The Biomes We've Gone]*<br />
+Updated the entry for the Ice Cube *[YUNG's Cave Biomes]*
+
+Added entries for Occultism and Cracker's Wither Storm
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## v1.9.3
 
 Fixed the text bleed on the Llama's entry

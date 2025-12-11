@@ -12,7 +12,7 @@
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.llama": "Often found in Savanna‌s,\nLlamas are known for their hostility to all who dare touch them.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
-	"custom.trivia.sniffer": "Meanders around, searching for food\nor maybe something else entirely?",
+	"custom.trivia.sniffer": "Meanders around, searching for food\n- or maybe something else entirely?",
 	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
 	"custom.trivia.turtle": "Wearing this may make you turtly enough for the turtle club.\n(or make you some kind of ninja, perchance?)",
 
@@ -455,8 +455,14 @@
 
 
 
+	"_comment": "Occultism",
+	"custom.trivia.afrit": "A wandering spirit,\nripe for exploitation.",
+	"custom.trivia.possessed_endermite": "Even enderic creatures aren't immune\nto the influence of the occult.",
+
+
+
 	"_comment": "Oh The Biomes We've Gone",
-	"custom.trivia.man_o_war": "A rare siphonophore\nwhose venom can take down even the hardiest of men.",
+	"custom.trivia.man_o_war": "A rare siphonophore\nwhose venom can take down\neven the hardiest of men.",
 	"custom.trivia.oddion": "An odd onion\nthat seems to exhibit sentience.\nStill edible, though.",
 
 
@@ -547,7 +553,18 @@
 
 
 
+	"_comment": "Wither Storm",
+	"custom.trivia.sickened_animal": "Even innocent creatures aren't spared\nfrom the Wither Storm's corruption.",
+	"custom.trivia.sickened_creeper": "Creepers corrupted by the Storm\nhave their explosive volatility amplified.",
+	"custom.trivia.sickened_iron_golem": "Iron Golems corrupted by the Storm\nhave their strength increased,\nand become aggressive to all life forms.",
+	"custom.trivia.sickened_skeleton": "Skeletons corrupted by the Storm\ngained increased accuracy and a thirst for blood.",
+	"custom.trivia.sickened_spider": "Spiders corrupted by the Storm\nbecome hostile to everything nearby.",
+	"custom.trivia.sickened_zombie": "Zombies corrupted by the Storm\nhave their unnatural hunger increased tenfold.",
+	"custom.trivia.withered_symbiont": "An extension of the Storm's will,\nthis vassal will deliver you to it at all costs.",
+
+
+
 	"_comment": "YUNG's Cave Biomes",
-	"custom.trivia.ice_cube": "A strange block of sentient ice.\nHow peculiar...",
+	"custom.trivia.ice_cube": "A strange block of sentient ice.\nHow peculiar...\n\n...kind of cool, too.",
 	"custom.trivia.sand_snapper": "A most unique creature\nthat feeds on various types of sand\n(or perhaps silica in general?)"
 }
