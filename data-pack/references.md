@@ -28,17 +28,17 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 
 # Misc mods I'm too lazy to make a category for
 
-(i still made categories for them when I initially catalogued all the references though lol)
+(i still made categories for some of them when I initially catalogued all the references though lol)
 
 |			Mod			|			Mob		|	Reference	|
 |---------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ad Astra				|	Star Crawler	| Its trivia entry references Wallace & Gromit (specifically [A Grand Day Out](https://en.wikipedia.org/wiki/A_Grand_Day_Out), which was the first short) |
-| Ars Nouveau		| Wilden Chimera	|  Its trivia entry is a very vague allusion to Fullmetal Alchemist.                                     				 								  |
-| Atmospheric		| Cochineal		| Terraria's dye recipes require the [Dye Vat](https://terraria.wiki.gg/wiki/Dye_Vat)                                     				 								  |
-| Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)                                                  									      |
+| Ars Nouveau		| Wilden Chimera	|  Its trivia entry is a very vague allusion to Fullmetal Alchemist.	|
+| Atmospheric		| Cochineal		| Terraria's dye recipes require the [Dye Vat](https://terraria.wiki.gg/wiki/Dye_Vat)	|
+| Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)	|
 | Eternal Starlight | Yeti				| Its trivia entry references [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain)	|
 | L_Ender 's Cataclysm | Symbiocto | Its trivia entry references Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
-| Cracker's Wither Storm | Wither Symbiont | The data values of 2015 and 2019 were the release and delist dates for Minecraft: Story Mode.	|
+| Cracker's Wither Storm | Wither Symbiont | The data values of 2015 and 2019 were the release and delist dates for [Minecraft: Story Mode](https://minecraft.wiki/w/Minecraft:_Story_Mode), which introduced the [Wither Storm](https://minecraft.wiki/w/Story_Mode:Wither_Storm) as the final boss.	|
 
 
 <br />
@@ -215,7 +215,7 @@ Fruit Loops.
 
 ## Nether Gauntlet
 
-The data requirement of 1998 is a reference to Ocarina of Time's release date (since it's a giant hand with an eye, and that game is iconic to the series (even though it's rather overhyped imo)). Its trivia entry also references the series.	|
+The data requirement of 1998 is a reference to Ocarina of Time's release date (since it's a giant hand with an eye, and as far as I can tell it was the first game in the series to introduce a "hand with eye"-style boss). The final line in its trivia entry alludes to that type of boss from the series.
 
 <br />
 
@@ -227,13 +227,13 @@ Its trivia entry references the Lich from [The Twilight Forest](https://www.curs
 
 ## Obsidilith
 
-Its trivia entry (very subtly) references [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo's_Bizarre_Adventure).
+Its trivia entry (very subtly) references the menacing aura effect from [JoJo's Bizarre Adventure](https://en.wikipedia.org/wiki/JoJo's_Bizarre_Adventure).
 
 <br />
 
 ## Void Blossom
 
-Its trivia entry references Terraria's [Plantera](https://terraria.wiki.gg/wiki/Plantera) boss.
+Its trivia entry references Terraria's [Plantera](https://terraria.wiki.gg/wiki/Plantera) boss (and sort of alluds to the [Flower Pow](https://terraria.wiki.gg/wiki/Flower_Pow), as well as indirectly referencing the "[power flower](https://technicpack.fandom.com/wiki/Power_Flower_Tutorial)" build from [Equivalent Exchange 2](https://ftbwiki.org/Equivalent_Exchange_2).
 
 <br />
 
@@ -420,13 +420,24 @@ Since it's the *Berserk*er, I figured I'd reference the popular manga. Could pro
 
 ## Cyclops
 
-Homer's *The Odyssey*
+Homer's *[Odyssey](https://en.wikipedia.org/wiki/Odyssey)*
+
+<br />
+
+## Hippogryph
+
+[My Little Pony: Friendship is Magic](https://equestripedia.org/wiki/Hippogriff).
+
+<br />
+
+## Hydra
+The [Lernaean Hydra](https://en.wikipedia.org/wiki/Lernaean_Hydra) from the myth of Heracles (Hercules).
 
 <br />
 
 ## Troll
 
-Internet trolls and The Elder Scrolls V: Skyrim.
+[Internet trolls](https://en.wikipedia.org/wiki/Trolling) and the ones from [The Elder Scrolls V: Skyrim](https://en.uesp.net/wiki/Skyrim:Troll) (even though I don't play the game lol).
 
 <br />
 

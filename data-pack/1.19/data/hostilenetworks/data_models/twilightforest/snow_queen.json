@@ -34,6 +34,11 @@
 			"item": "byg:packed_ice_black",
 			"count": 12
 		},
+        {
+			"optional": true,
+            "item": "iceandfire:dragon_ice",
+            "count": 4
+        },
 		{
 			"item": "twilightforest:snow_queen_trophy",
 			"count": 4

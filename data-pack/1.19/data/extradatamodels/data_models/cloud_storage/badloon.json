@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "cloudstorage"
+		}
+	],
+    "type": "cloudstorage:badloon",
+    "name": "entity.cloudstorage.badloon",
+    "name_color": "#A41D1D",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.badloon",
+    "fabricator_drops": [
+        {
+            "item": "cloudstorage:balloon_bit",
+            "count": 8
+        }
+    ]
+}

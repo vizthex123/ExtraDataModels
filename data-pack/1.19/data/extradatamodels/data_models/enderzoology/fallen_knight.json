@@ -22,11 +22,11 @@
     "trivia": "custom.trivia.fallen_knight",
     "fabricator_drops": [
         {
-            "item": "minecraft:rotten_flesh",
+            "item": "minecraft:bone",
             "count": 32
         },
         {
-            "item": "minecraft:bone",
+            "item": "minecraft:rotten_flesh",
             "count": 32
         },
         {

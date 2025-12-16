@@ -5,11 +5,11 @@
         "twilightforest:bighorn_sheep"
     ],
     "name": "entity.minecraft.sheep",
+    "name_color": "rainbow",
 	"display_nbt": {
 		"CustomName": "{\"text\":\"jeb_\"}"
 	},
-    "name_color": "rainbow",
-    "gui_scale": 0.9,
+    "gui_scale": 0.99,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

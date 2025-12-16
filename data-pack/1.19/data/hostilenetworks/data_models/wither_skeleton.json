@@ -1,5 +1,9 @@
 {
 	"type": "minecraft:wither_skeleton",
+    "subtypes": [
+		"occultism:wild_hunt_wither_skeleton",
+		"mekanismadditions:baby_wither_skeleton"
+    ],
 	"name": "entity.minecraft.wither_skeleton",
 	"name_color": "#343434",
 	"gui_scale": 0.85,

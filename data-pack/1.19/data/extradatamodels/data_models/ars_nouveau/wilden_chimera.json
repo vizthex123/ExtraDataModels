@@ -1,0 +1,53 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+    "type": "ars_nouveau:wilden_boss",
+    "name": "entity.ars_nouveau.wilden_boss",
+    "name_color": "#C0C0C0",
+    "gui_scale": 0.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.wilden_chimera",
+    "fabricator_drops": [
+		{
+            "item": "ars_nouveau:wilden_tribute",
+            "count": 1
+        },
+		{
+            "item": "ars_nouveau:wilden_spike",
+            "count": 8
+        },
+		{
+            "item": "ars_nouveau:wilden_horn",
+            "count": 8
+        },
+		{
+            "item": "ars_nouveau:wilden_wing",
+            "count": 8
+        }
+    ],
+    "tier_data": [
+		128,
+        1024,
+        4096,
+        16384
+    ],
+    "data_per_kill": [
+        128,
+        512,
+        1024,
+        2048
+    ]
+}

@@ -26,6 +26,11 @@
         {
             "item": "minecraft:turtle_egg",
             "count": 8
+        },
+        {
+			"optional": true,
+            "item": "alexsmobs:terrapin_egg",
+            "count": 4
         }
     ]
 }

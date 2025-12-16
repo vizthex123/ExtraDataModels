@@ -20,21 +20,26 @@
             "count": 1
         },
         {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 32
+        },
+        {
 			"optional": true,
             "item": "quark:ravager_hide",
             "count": 4
         }
 	],
 	"tier_data": [
-        10,
-        114,
-        200,
-        666
+		128,
+        512,
+        3072,
+        9216
     ],
     "data_per_kill": [
-        7,
-        14,
-        20,
-        50
+        64,
+        128,
+        512,
+        768
     ]
 }

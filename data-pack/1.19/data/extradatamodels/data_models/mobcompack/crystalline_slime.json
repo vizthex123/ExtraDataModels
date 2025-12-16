@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mobcompack"
+		}
+	],
+    "type": "mobcompack:crystallineslime",
+    "name": "entity.mobcompack.crystallineslime",
+    "name_color": "#751E35",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 192,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.crystalline_slime",
+    "fabricator_drops": [
+        {
+            "item": "mobcompack:rose_gelball",
+            "count": 4
+        },
+        {
+            "item": "biomesoplenty:rose_quartz_shard",
+            "count": 8
+        }
+    ]
+}

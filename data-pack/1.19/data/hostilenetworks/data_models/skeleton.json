@@ -2,7 +2,11 @@
     "type": "minecraft:skeleton",
     "subtypes": [
         "minecraft:stray",
-        "enderzoology:fallen_knight"
+		"occultism:possessed_skeleton",
+		"occultism:wild_hunt_skeleton",
+        "savage_and_ravage:skeleton_villager",
+		"mekanismadditions:baby_skeleton",
+		"mekanismadditions:baby_stray"
     ],
     "name": "entity.minecraft.skeleton",
     "name_color": "#BCBCBC",

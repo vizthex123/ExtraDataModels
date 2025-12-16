@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "byg"
+		}
+	],
+    "type": "byg:man_o_war",
+    "name": "entity.byg.man_o_war",
+    "name_color": "#E9B0CE",
+    "gui_scale": 0.92,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0.7,
+    "gui_z_offset": 0,
+    "sim_cost": 80,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.man_o_war",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:phantom_membrane",
+            "count": 4
+        },
+        {
+            "item": "minecraft:string",
+            "count": 8
+        }
+    ]
+}

@@ -8,7 +8,7 @@
     "type": "alexsmobs:kangaroo",
     "name": "entity.alexsmobs.kangaroo",
     "name_color": "#533F28",
-    "gui_scale": 1,
+    "gui_scale": 0.7,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

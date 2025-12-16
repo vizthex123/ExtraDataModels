@@ -26,6 +26,10 @@
             "count": 32
         },
         {
+            "item": "friendsandfoes:wildfire_crown_fragment",
+            "count": 1
+        },
+        {
             "optional": true,
             "item": "reliquary:molten_core",
             "count": 4

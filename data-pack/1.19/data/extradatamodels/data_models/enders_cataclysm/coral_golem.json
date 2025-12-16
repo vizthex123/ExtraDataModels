@@ -7,7 +7,7 @@
 	],
     "type": "cataclysm:coral_golem",
     "name": "entity.cataclysm.coral_golem",
-    "name_color": "#A21dA2",
+    "name_color": "#A21DA2",
     "gui_scale": 0.4,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -23,7 +23,7 @@
     "fabricator_drops": [
 		{
             "item": "cataclysm:crystallized_coral_fragments",
-            "count": 4
+            "count": 1
         }
     ],
 	"tier_data": [

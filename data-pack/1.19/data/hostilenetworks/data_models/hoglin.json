@@ -2,6 +2,7 @@
     "type": "minecraft:hoglin",
     "subtypes": [
 		"minecraft:zoglin",
+		"occultism:possessed_hogiln",
 		"ad_astra:mogler",
 		"ad_astra:zombified_mogler"
 	],
@@ -37,6 +38,16 @@
         {
             "item": "minecraft:leather",
             "count": 16
+        },
+        {
+			"optional": true,
+            "item": "irons_spellbooks:hogskin",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 24
         }
     ]
 }

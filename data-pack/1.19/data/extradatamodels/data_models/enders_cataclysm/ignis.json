@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "cataclysm:ignitium_ingot",
-            "count": 6
+            "count": 8
         }
     ],
     "tier_data": [
@@ -34,7 +34,7 @@
     ],
     "data_per_kill": [
         128,
-        256,
+        512,
         1024,
         2048
     ]

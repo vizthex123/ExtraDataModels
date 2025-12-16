@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "savage_and_ravage"
+		}
+	],
+    "type": "savage_and_ravage:trickster",
+    "name": "entity.savage_and_ravage.trickster",
+    "name_color": "#748355",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 896,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.trickster",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:totem_of_undying",
+            "count": 1
+        },
+        {
+            "item": "minecraft:emerald",
+            "count": 20
+        }
+    ]
+}
