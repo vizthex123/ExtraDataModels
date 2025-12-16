@@ -1,14 +1,22 @@
 # Trivia Pack Changelog
 
-A full changelog for every version of the [Trivia Pack](https://www.curseforge.com/minecraft/texture-packs/extra-data-models-trivia).
+A full changelog for every version of the [Trivia Pack](https://www.curseforge.com/minecraft/texture-packs/extra-data-models-trivia). The modrinth download will be attached to each version of the datapack since they won't let me publish it separately.
 
 This one will be updated more often than the CurseForge and Modrinth changelogs.
 
-I increment the version by X.1 whenever I add more mod support (except when I don't lol - it's pretty arbitrary tbh), and X.X.1 for minor tweaks and/or additions I missed in the last patch.
+I increment the version by X.1 whenever I add more mod support, and X.X.1 for minor tweaks and/or additions I missed in the last patch.
 
 --------------------------------------------------
 
-## v1.10
+## 1.10.1
+
+Reworded a few entries
+
+
+<br /> <br />
+
+--------------------------------------------------
+## 1.10
 
 Fixed the text bleed on the Man o' War's entry *[Oh The Biomes We've Gone]*<br />
 Updated the entry for the Ice Cube *[YUNG's Cave Biomes]*
@@ -19,7 +27,7 @@ Added entries for Occultism and Cracker's Wither Storm
 <br /> <br />
 
 --------------------------------------------------
-## v1.9.3
+## 1.9.3
 
 Fixed the text bleed on the Llama's entry
 
@@ -30,15 +38,20 @@ Added an entry for the Starfire Bird *[Eternal Starlight]*
 <br /> <br />
 
 --------------------------------------------------
-## v1.9.2
+## 1.9.2
 
-Renamed the Immortal Jellyfish's model to "Jellyfish" *[Upgrade Aquatic]*
+Renamed the Immortal Jellyfish's model to "Jellyfish" *[Upgrade Aquatic]*<br />
+The minimum data pack versions required to see this in-game are as folllows:
+- 1.3 on 1.18
+- 2.2 on 1.19
+- 3.3 on 1.20
+- 3.3.1 on 1.21
 
 
 <br /> <br />
 
 --------------------------------------------------
-## v1.9.1
+## 1.9.1
 
 Added a missing trivia entry for the Rookfish/Tower Squid from Eternal Starlight
 
@@ -48,7 +61,7 @@ Added trivia for Oh The Biomes We've Gone
 <br /> <br />
 
 --------------------------------------------------
-## v1.9
+## 1.9
 
 Slightly reworded the entry for Aquatic Frontiers' Sandy
 
@@ -62,7 +75,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-## v1.8
+## 1.8
 
 Added more trivia for The Endergetic Expansion<br />
 Updated the Copper Golem trivia since multiple mods use it<br />
@@ -86,7 +99,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-## v1.7.1
+## 1.7.1
 
 Removed the Breeze's trivia entry since it's now in the base mod<br />
 Updated the entry for the Foxhound
@@ -95,7 +108,7 @@ Updated the entry for the Foxhound
 <br /> <br />
 
 --------------------------------------------------
-## v1.7
+## 1.7
 
 Changed namespace to `extradatamodels` (was `custom`)<br />
 Fixed British English trivia entries not correcting the spelling of a few words
@@ -114,7 +127,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-## v1.6.4
+## 1.6.4
 
 Added trivia entries for Tinkers Construct
 
@@ -122,7 +135,7 @@ Added trivia entries for Tinkers Construct
 <br /> <br />
 
 --------------------------------------------------
-## v1.6.3
+## 1.6.3
 
 Added trivia entries for Autumnity and Jaden's Nether Expansion
 
@@ -130,7 +143,7 @@ Added trivia entries for Autumnity and Jaden's Nether Expansion
 <br /> <br />
 
 --------------------------------------------------
-## v1.6.2
+## 1.6.2
 
 Added trivia entries for the new mobs from Alex's Caves 2.0.0
 
@@ -138,7 +151,7 @@ Added trivia entries for the new mobs from Alex's Caves 2.0.0
 <br /> <br />
 
 --------------------------------------------------
-## v1.6.1
+## 1.6.1
 
 Renamed the following mobs' keys, meaning their trivia won't load unless you're running v2.0 of the datapack:
 - Giant Squid and Sponge Squid *[Aquatic Frontiers]*
@@ -175,7 +188,7 @@ Tweaked the following trivia entries:
 <br /> <br />
 
 --------------------------------------------------
-## v1.6
+## 1.6
 
 Added trivia for Eternal Starlight
 
@@ -197,7 +210,7 @@ Tweaked the following trivia entries:
 <br /> <br />
 
 --------------------------------------------------
-## v1.5
+## 1.5
 
 Added a few trivia entries for some models exclusive to [Capitalia: Inward Expansion](https://www.curseforge.com/minecraft/modpacks/capitalia-2)
 
@@ -226,7 +239,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
-## v1.4.1
+## 1.4.1
 
 Now supports Minecraft 1.21.1
 - I'll port the [data pack](https://www.curseforge.com/minecraft/data-packs/extra-data-models) as the supported mods update. For now, it supports Ender Zoology, Friends & Foes, and Iron's Spells n' Spellbooks.
@@ -240,7 +253,7 @@ Added trivia for the following mobs:
 <br /> <br />
 
 --------------------------------------------------
-## v1.4
+## 1.4
 
 Added trivia for Ice & Fire's mobs<br />
 Added trivia for YUNG's Cave Biomes mobs
@@ -253,7 +266,7 @@ Tweaked the trivia for the following mobs:
 <br /> <br />
 
 --------------------------------------------------
-## v1.3
+## 1.3
 
 Added trivia for the following mods:
 - Alex's Mobs
@@ -273,7 +286,7 @@ Changed the name for the Immortal Jellyfish *[Upgrade Aquatic]*
 <br /> <br />
 
 --------------------------------------------------
-## v1.2.1
+## 1.2.1
 
 Now uses the `supported_formats` field, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
 - Note that the game will whine about it being for "a newer version of Minecraft", but it will still work fine
@@ -284,7 +297,7 @@ In addition, I've archived all the old versions to make the file list more reada
 <br /> <br />
 
 --------------------------------------------------
-## v1.2
+## 1.2
 
 Tweaked the wording for the Thrasher's trivia
 
@@ -297,25 +310,19 @@ Added trivia for the following mobs:
 <br /> <br />
 
 --------------------------------------------------
-## v1.1
+## 1.1
 
-Tweaked the trivia entries for a few mobs<br />
-Added trivia for Upgrade Aquatic's mobs
+Added trivia for Upgrade Aquatic's mobs<br />
+Tweaked the trivia entries for a few mobs
 
-<br />
-
-### v1.1 - 1.19 only
-
-Backported to 1.19.2
-
-Removed Alex's Caves trivia since the mod isn't on this version<br />
-Added trivia for the Camel *[Ecologics]*
+*[1.19]* Added trivia for the Camel *[Ecologics]*
+*[1.19]* Removed Alex's Caves trivia since the mod isn't on this version<br />
 
 
 <br /> <br />
 
 --------------------------------------------------
-## v1.0
+## 1.0
 
 Initial release.
 

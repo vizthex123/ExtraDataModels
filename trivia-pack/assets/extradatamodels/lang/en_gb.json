@@ -213,8 +213,8 @@
 	"_comment": "Bosses of Mass Destruction",
 	"custom.trivia.nether_gauntlet": "A hand with an eye on it,\nhell-bent on slaying you.\n\nSeems oddly familiar, somehow...",
 	"custom.trivia.night_lich": "Doesn't guard a twilight tower,\nbut still wants you dead.",
-	"custom.trivia.obsidilith": "An obsidian tower,\nstanding with a menacing aura...",
-	"custom.trivia.void_blossom": "A powerful flower,\ndetermined to kill you where you stand.\n\nNo bulbs need to be broken to summon it.",
+	"custom.trivia.obsidilith": "A tall obsidian tower,\nemanating a menacing aura...",
+	"custom.trivia.void_blossom": "A flower of power,\ndetermined to kill you where you stand.\n\nNo bulbs need to be broken to summon it.",
 
 
 
@@ -373,8 +373,8 @@
 
 	"custom.trivia.ghost": "Spectres of the night,\nGhosts will haunt you until exorcised.",
 	"custom.trivia.hippocampus": "These strange horse-fish hybrids\ncan be ridden underwater when tamed.",
-	"custom.trivia.hippogryph": "A most strange hybrid, unknown\nto even the most seasoned of adventurers.",
-	"custom.trivia.hydra": "Heracles still required help with this nemesis.\nGood luck.",
+	"custom.trivia.hippogryph": "A most strange hybrid, unknown\nto even the most seasoned of adventurers.\nOld myths tell of how some members\nprefer to live in the oceans.",
+	"custom.trivia.hydra": "Even Heracles required help with this nemesis.\nGood luck.",
 
 	"custom.trivia.myrmex_queen": "Ruler of the Myrmex,\nall of which will defend the nest and their Queen\nat all costs - even if they die during a failed attempt.",
 	"custom.trivia.myrmex_royal": "A rank (or two) below the Queen,\nMyrmex Royals are her personal guard",
@@ -557,7 +557,7 @@
 	"custom.trivia.sickened_animal": "Even innocent creatures aren't spared\nfrom the Wither Storm's corruption.",
 	"custom.trivia.sickened_creeper": "Creepers corrupted by the Storm\nhave their explosive volatility amplified.",
 	"custom.trivia.sickened_iron_golem": "Iron Golems corrupted by the Storm\nhave their strength increased,\nand become aggressive to all life forms.",
-	"custom.trivia.sickened_skeleton": "Skeletons corrupted by the Storm\ngained increased accuracy and a thirst for blood.",
+	"custom.trivia.sickened_skeleton": "Skeletons corrupted by the Storm\ngained increased accuracy - and newfound bloodlust.",
 	"custom.trivia.sickened_spider": "Spiders corrupted by the Storm\nbecome hostile to everything nearby.",
 	"custom.trivia.sickened_zombie": "Zombies corrupted by the Storm\nhave their unnatural hunger increased tenfold.",
 	"custom.trivia.withered_symbiont": "An extension of the Storm's will,\nthis vassal will deliver you to it at all costs.",
