@@ -7,7 +7,7 @@
 	],
     "type": "enlightened_end:stalker",
     "name": "entity.enlightened_end.stalker",
-    "name_color": "#2C827b",
+    "name_color": "#2C827B",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

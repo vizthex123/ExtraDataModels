@@ -32,6 +32,11 @@
 		{
             "item": "minecraft:feather",
             "count": 24
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 4
         }
     ]
 }

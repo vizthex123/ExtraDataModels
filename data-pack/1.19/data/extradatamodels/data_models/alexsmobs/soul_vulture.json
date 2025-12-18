@@ -28,6 +28,11 @@
         {
             "item": "minecraft:bone",
             "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 12
         }
     ]
 }

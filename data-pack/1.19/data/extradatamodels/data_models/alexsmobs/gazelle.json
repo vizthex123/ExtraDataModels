@@ -28,6 +28,11 @@
         {
             "item": "alexsmobs:gazelle_horn",
             "count": 8
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 16
         }
     ]
 }

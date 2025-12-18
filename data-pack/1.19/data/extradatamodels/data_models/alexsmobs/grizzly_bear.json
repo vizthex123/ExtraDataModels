@@ -25,6 +25,11 @@
         {
             "item": "alexsmobs:bear_fur",
             "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 24
         }
     ]
 }

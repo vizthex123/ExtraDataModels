@@ -504,6 +504,16 @@ Supports the following mods:
 --------------------------------------------------
 # Minecraft 1.19 - v2.0
 
+## 2.2.1
+
+Added animal fat drops to most modded mobs<br />
+Re-added the Three Bolt Helmet to Captain Cornealia's fabricator drops *[Aquamirae]*
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 2.2
 
 Backported most changes from v3.7 & onwards
@@ -536,6 +546,7 @@ Backported support for the following:
 - Occultism
 - Oh The Biomes You'll Go
 - Savage & Ravage
+
 
 <br /> <br />
 

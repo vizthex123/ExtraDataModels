@@ -22,6 +22,10 @@
     "trivia": "custom.trivia.captain_cornelia",
     "fabricator_drops": [
         {
+            "item": "aquamirae:three_bolt_helmet",
+            "count": 1
+        },
+        {
             "item": "aquamirae:ship_graveyard_echo",
             "count": 4
         },

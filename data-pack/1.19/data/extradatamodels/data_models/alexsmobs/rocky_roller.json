@@ -32,6 +32,11 @@
         {
             "item": "minecraft:tuff",
             "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 6
         }
     ]
 }
