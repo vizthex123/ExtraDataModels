@@ -20,7 +20,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:emerald",
-            "count": 8
+            "count": 4
         },
         {
 			"optional": true,

@@ -3,7 +3,6 @@
     "subtypes": [
         "minecraft:husk",
         "minecraft:zombie_villager",
-        "enderzoology:fallen_knight",
         "twilightforest:rising_zombie"
     ],
     "name": "entity.minecraft.zombie",
@@ -36,6 +35,10 @@
         {
             "item": "minecraft:potato",
             "count": 16
+        },
+        {
+            "item": "minecraft:zombie_head",
+            "count": 4
         },
         {
             "optional": true,

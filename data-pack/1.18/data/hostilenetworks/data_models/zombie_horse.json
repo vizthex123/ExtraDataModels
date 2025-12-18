@@ -19,17 +19,18 @@
     "trivia": "custom.trivia.zombie_horse",
     "fabricator_drops": [
         {
-            "item": "minecraft:saddle",
-            "count": 1
+            "item": "minecraft:rotten_flesh",
+            "count": 96
         },
         {
-            "item": "minecraft:rotten_flesh",
-            "count": 64
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 32
         },
         {
             "optional": true,
             "item": "reliquary:zombie_heart",
-            "count": 3
+            "count": 4
         }
     ]
 }

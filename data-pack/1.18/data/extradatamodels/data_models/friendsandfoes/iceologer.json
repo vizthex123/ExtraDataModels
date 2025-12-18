@@ -7,7 +7,7 @@
 	],
     "type": "friendsandfoes:iceologer",
     "name": "entity.friendsandfoes.iceologer",
-    "name_color": "#40531A",
+    "name_color": "#0F244B",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -22,17 +22,22 @@
 	"trivia": "custom.trivia.iceologer",
     "fabricator_drops": [
         {
-			"optional": true,
-            "item": "friendsandfoes:totem_of_freezing",
-            "count": 1
-        },
-        {
             "item": "minecraft:emerald",
             "count": 16
         },
         {
             "item": "minecraft:blue_ice",
             "count": 8
+        },
+        {
+			"optional": true,
+            "item": "byg:packed_black_ice",
+            "count": 16
+        },
+        {
+			"optional": true,
+            "item": "byg:packed_borealis_ice",
+            "count": 16
         }
     ]
 }

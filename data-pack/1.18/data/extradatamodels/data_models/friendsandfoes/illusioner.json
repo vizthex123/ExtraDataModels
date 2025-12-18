@@ -22,11 +22,6 @@
 	"trivia": "custom.trivia.illusioner",
     "fabricator_drops": [
         {
-			"optional": true,
-            "item": "friendsandfoes:totem_of_illusion",
-            "count": 1
-        },
-        {
             "item": "minecraft:emerald",
             "count": 16
         },

@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "yungscavebiomes:ancient_sand",
-            "count": 8
+            "count": 16
         },
         {
             "item": "minecraft:sand",
@@ -75,15 +75,15 @@
 		}
     ],
     "tier_data": [
-        6,
-        12,
+        4,
+        16,
         48,
-        60
+        128
     ],
     "data_per_kill": [
-        6,
-        9,
+        4,
+        8,
         12,
-        15
+        16
     ]
 }

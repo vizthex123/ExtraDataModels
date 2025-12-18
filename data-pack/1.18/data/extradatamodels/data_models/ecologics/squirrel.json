@@ -21,12 +21,17 @@
     },
 	"trivia": "custom.trivia.squirrel",
     "fabricator_drops": [
+		{
+            "item": "minecraft:sweet_berries",
+            "count": 4
+        },
         {
             "item": "ecologics:walnut",
             "count": 4
         },
-		{
-            "item": "minecraft:sweet_berries",
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
             "count": 4
         }
     ]

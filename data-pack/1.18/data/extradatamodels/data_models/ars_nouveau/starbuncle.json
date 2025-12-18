@@ -1,0 +1,29 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "ars_nouveau"
+		}
+	],
+    "type": "ars_nouveau:starbuncle",
+    "name": "entity.ars_nouveau.starbuncle",
+    "name_color": "#DAA520",
+    "gui_scale": 1.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.starbuncle",
+    "fabricator_drops": [
+		{
+            "item": "ars_nouveau:starbuncle_charm",
+            "count": 1
+        }
+    ]
+}

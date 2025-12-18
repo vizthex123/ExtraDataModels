@@ -506,7 +506,7 @@ Supports the following mods:
 
 ## 2.2.1
 
-Added animal fat drops to most modded mobs<br />
+Added Hexerei's animal fat drops to most modded mobs<br />
 Re-added the Three Bolt Helmet to Captain Cornealia's fabricator drops *[Aquamirae]*
 
 
@@ -619,6 +619,35 @@ Added a data model for Camels *[Ecologics]*
 
 --------------------------------------------------
 # Minecraft 1.18 - v1.0
+
+## 1.3
+
+Backported most changes from v2.2 & onwards
+- I'll only list a couple of highlights here, but I did make sure to check all the supported mods on this version to try and find all the changes - but i'm sure i missed a few things since there's a lot of stuff to cover lol. As always, report bugs/feedback on the [issue tracker](https://github.com/vizthex123/ExtraDataModels/issues) or [discord server](https://discord.com/invite/NtwzA6X).
+- Changes are obviously excluded if the mob(s) don't exist on this version
+
+Added Hexrei's animal fat drops to many modded mobs<br />
+Removed support for a few mods that aren't on this version
+
+Backported support for the following:
+- Ars Nouveau
+- Buzzier Bees
+- Cloud Storage
+- Cracker's Wither Storm Mod
+- Draconic Evolution
+- Environmental
+- Mekanism Additions
+- Mob Compack
+- MythicBotany
+- Neapolitan
+- Occultism
+- Oh The Biomes You'll Go
+- Savage & Ravage
+
+
+<br /> <br />
+
+--------------------------------------------------
 
 ## 1.2
 

@@ -28,6 +28,11 @@
         {
             "item": "enderzoology:withering_dust",
             "count": 8
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 4
         }
     ]
 }

@@ -8,7 +8,7 @@
     "type": "alexsmobs:guster",
     "name": "entity.alexsmobs.guster",
     "name_color": "#9D8662",
-    "gui_scale": 0.8,
+    "gui_scale": 0.6,
     "gui_x_offset": 0,
     "gui_y_offset": -0.1,
     "gui_z_offset": 0,

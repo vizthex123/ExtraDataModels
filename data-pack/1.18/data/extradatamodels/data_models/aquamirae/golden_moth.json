@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:gold_nugget",
-            "count": 8
+            "count": 6
         }
     ]
 }

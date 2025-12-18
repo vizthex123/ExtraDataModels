@@ -1,5 +1,9 @@
 {
 	"type": "minecraft:enderman",
+    "subtypes": [
+		"occultism:possessed_enderman",
+		"mekanismadditions:baby_enderman"
+],
 	"name": "entity.minecraft.enderman",
 	"name_color": "#161616",
 	"gui_scale": 0.75,

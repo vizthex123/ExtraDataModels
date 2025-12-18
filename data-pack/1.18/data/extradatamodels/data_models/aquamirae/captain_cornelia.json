@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": -0.25,
     "gui_z_offset": 0,
-    "sim_cost": 1024,
+    "sim_cost": 2560,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
@@ -23,10 +23,6 @@
     "fabricator_drops": [
         {
             "item": "aquamirae:three_bolt_helmet",
-            "count": 1
-        },
-        {
-            "item": "aquamirae:oxygen_tank",
             "count": 1
         },
         {

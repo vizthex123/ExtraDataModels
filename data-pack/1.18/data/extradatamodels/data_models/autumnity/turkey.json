@@ -21,16 +21,21 @@
     },
     "trivia": "custom.trivia.turkey",
     "fabricator_drops": [
+		{
+            "item": "minecraft:feather",
+            "count": 32
+        },
         {
             "item": "autumnity:turkey",
             "count": 32
         },
 		{
-            "item": "minecraft:feather",
-            "count": 32
-        },
-		{
             "item": "autumnity:turkey_egg",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
             "count": 8
         }
     ]

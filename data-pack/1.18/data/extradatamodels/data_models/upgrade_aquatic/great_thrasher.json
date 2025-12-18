@@ -24,11 +24,6 @@
         {
             "item": "upgrade_aquatic:thrasher_tooth",
             "count": 16
-        },
-        {
-			"optional": true,
-            "item": "upgrade_aquatic:disc_fragment_atlantis",
-            "count": 1
         }
     ],
 	"tier_data": [

@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 896,
+    "sim_cost": 1024,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
@@ -31,7 +31,7 @@
         },
         {
             "item": "aquamirae:ship_graveyard_echo",
-            "count": 4
+            "count": 2
         },
         {
             "item": "minecraft:prismarine_crystals",

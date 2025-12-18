@@ -24,6 +24,11 @@
         {
             "item": "alexsmobs:moose_ribs",
             "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 20
         }
     ]
 }

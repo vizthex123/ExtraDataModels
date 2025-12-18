@@ -17,7 +17,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:cod",
-            "count": 24
+            "count": 8
         },
         {
 			"optional": true,
