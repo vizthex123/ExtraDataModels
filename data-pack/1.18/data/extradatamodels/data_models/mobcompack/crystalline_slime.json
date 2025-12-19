@@ -26,6 +26,7 @@
             "count": 4
         },
         {
+			"optional": true,
             "item": "biomesoplenty:rose_quartz_shard",
             "count": 8
         }

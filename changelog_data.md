@@ -620,6 +620,19 @@ Added a data model for Camels *[Ecologics]*
 --------------------------------------------------
 # Minecraft 1.18 - v1.0
 
+## 1.3.1
+
+Fixed the Crystalline Slime's model not loading in properly *[Mob Compack]*
+
+Doubled the Archevoker's Arcane Essence output *[Iron's Spells n' Spellbooks]*<br />
+Added Hexerei's animal fat to a couple of models I missed<br />
+Removed animal fat from the Crocodile *[Alex's Mobs]*
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.3
 
 Backported most changes from v2.2 & onwards
