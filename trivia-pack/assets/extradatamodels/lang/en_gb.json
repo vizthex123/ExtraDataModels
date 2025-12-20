@@ -124,7 +124,7 @@
 	"custom.trivia.froststalker": "These strange creatures resemble deer,\nbut act the opposite of them.\nExercise caution when near one.",
 	"custom.trivia.gazelle": "Incredibly agile, Gazelles can outpace almost everything.\nEnsure you have great speed when dealing with them.",
 	"custom.trivia.giant_squid": "Mistaken for the Kraken in times long gone,\nGiant Squids are a tricky beast to fight.\nMake sure you can breath underwater before provoking it.",
-	"custom.trivia.grizzly_bear": "When fighting a Grizzly Bear, do not do so.",
+	"custom.trivia.grizzly_bear": "When fighting a Grizzly Bear,\ndo not do so.",
 	"custom.trivia.guster": "A strange, sentient tornado.\n\nDon't let it throw you across the desert!",
 	"custom.trivia.kangaroo": "Nature's aggressive boxers.",
 	"custom.trivia.laviathan": "These large lizards reside in the\nlava pools of the Nether.\nComposed of Basalt, Magma, and Obsidian,\nthey are one of the great mysteries of the realm.",
@@ -554,6 +554,8 @@
 
 
 	"_comment": "Wither Storm",
+	"custom.sickened_mooshroom": "Sickened Mooshroom",
+
 	"custom.trivia.sickened_animal": "Even innocent creatures aren't spared\nfrom the Wither Storm's corruption.",
 	"custom.trivia.sickened_creeper": "Creepers corrupted by the Storm\nhave their explosive volatility amplified.",
 	"custom.trivia.sickened_iron_golem": "Iron Golems corrupted by the Storm\nhave their strength increased,\nand become aggressive to all life forms.",

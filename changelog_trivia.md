@@ -8,6 +8,15 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## 1.10.2
+
+Fixed the minor text bleeding on the Grizzly Bear's entry *[Alex's Mobs]*<br />
+Added a custom name for the Sickened Mooshroom *[Cracker's Wither Storm]*
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## 1.10.1
 
 Reworded a few entries
