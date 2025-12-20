@@ -23,10 +23,15 @@
     "fabricator_drops": [
         {
             "item": "minecraft:feather",
-            "count": 24
+            "count": 20
         },
         {
             "item": "enderzoology:owl_egg",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
             "count": 8
         }
     ]

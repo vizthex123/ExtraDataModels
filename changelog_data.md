@@ -504,6 +504,21 @@ Supports the following mods:
 --------------------------------------------------
 # Minecraft 1.19 - v2.0
 
+## 2.2.2
+
+Fixed the Crystalline Slime's model not loading in<br />
+Reduced the Jawbreaker's Giant Tooth output to 2 (was 4)<br />
+Added Hexerei's animal fat to a few mobs I missed in the last update
+
+*Alex's Mobs changes:*
+
+Removed animal fat from the Crocodile<br />
+Reduce the Skreecher Soul output to 1 (was 2)
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## 2.2.1
 
 Added Hexerei's animal fat drops to most modded mobs<br />

@@ -28,11 +28,6 @@
         {
             "item": "alexsmobs:crocodile_egg",
             "count": 4
-        },
-        {
-            "optional": true,
-            "item": "hexerei:animal_fat",
-            "count": 20
         }
     ]
 }

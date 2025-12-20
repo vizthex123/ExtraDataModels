@@ -24,6 +24,11 @@
 		{
             "item": "ars_nouveau:starbuncle_charm",
             "count": 1
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 4
         }
     ]
 }
