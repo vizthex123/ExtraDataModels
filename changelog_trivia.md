@@ -8,6 +8,23 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## 1.10.3
+
+Tweaked the entry for Captain Cornelia *[Aquamirae]*
+
+*Alex's Mobs changes:*
+
+Tweaked the entry for the Tusklin<br />
+Tweaked the entry for the Kangaroo<br />
+Fixed the text bleeding on the Skreecher's entry<br />
+Fixed the text bleeding on the Tusklin's entry<br />
+Added entries for the Frilled Shark and Hammerhead Shark
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.10.2
 
 Fixed the minor text bleeding on the Grizzly Bear's entry *[Alex's Mobs]*<br />
@@ -17,6 +34,7 @@ Added a custom name for the Sickened Mooshroom *[Cracker's Wither Storm]*
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.10.1
 
 Reworded a few entries
@@ -25,6 +43,7 @@ Reworded a few entries
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.10
 
 Fixed the text bleed on the Man o' War's entry *[Oh The Biomes We've Gone]*<br />
@@ -36,6 +55,7 @@ Added entries for Occultism and Cracker's Wither Storm
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.9.3
 
 Fixed the text bleed on the Llama's entry
@@ -47,6 +67,7 @@ Added an entry for the Starfire Bird *[Eternal Starlight]*
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.9.2
 
 Renamed the Immortal Jellyfish's model to "Jellyfish" *[Upgrade Aquatic]*<br />
@@ -60,6 +81,7 @@ The minimum data pack versions required to see this in-game are as folllows:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.9.1
 
 Added a missing trivia entry for the Rookfish/Tower Squid from Eternal Starlight
@@ -70,6 +92,7 @@ Added trivia for Oh The Biomes We've Gone
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.9
 
 Slightly reworded the entry for Aquatic Frontiers' Sandy
@@ -84,6 +107,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.8
 
 Added more trivia for The Endergetic Expansion<br />
@@ -108,6 +132,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.7.1
 
 Removed the Breeze's trivia entry since it's now in the base mod<br />
@@ -117,6 +142,7 @@ Updated the entry for the Foxhound
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.7
 
 Changed namespace to `extradatamodels` (was `custom`)<br />
@@ -136,6 +162,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.6.4
 
 Added trivia entries for Tinkers Construct
@@ -144,6 +171,7 @@ Added trivia entries for Tinkers Construct
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.6.3
 
 Added trivia entries for Autumnity and Jaden's Nether Expansion
@@ -152,6 +180,7 @@ Added trivia entries for Autumnity and Jaden's Nether Expansion
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.6.2
 
 Added trivia entries for the new mobs from Alex's Caves 2.0.0
@@ -160,6 +189,7 @@ Added trivia entries for the new mobs from Alex's Caves 2.0.0
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.6.1
 
 Renamed the following mobs' keys, meaning their trivia won't load unless you're running v2.0 of the datapack:
@@ -197,6 +227,7 @@ Tweaked the following trivia entries:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.6
 
 Added trivia for Eternal Starlight
@@ -219,6 +250,7 @@ Tweaked the following trivia entries:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.5
 
 Added a few trivia entries for some models exclusive to [Capitalia: Inward Expansion](https://www.curseforge.com/minecraft/modpacks/capitalia-2)
@@ -248,6 +280,7 @@ Added trivia for the following mods:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.4.1
 
 Now supports Minecraft 1.21.1
@@ -262,6 +295,7 @@ Added trivia for the following mobs:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.4
 
 Added trivia for Ice & Fire's mobs<br />
@@ -275,6 +309,7 @@ Tweaked the trivia for the following mobs:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.3
 
 Added trivia for the following mods:
@@ -295,6 +330,7 @@ Changed the name for the Immortal Jellyfish *[Upgrade Aquatic]*
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.2.1
 
 Now uses the `supported_formats` field, so I only have to update a single version (and it'll be less spammy to find the one for the MC version you're on)
@@ -306,6 +342,7 @@ In addition, I've archived all the old versions to make the file list more reada
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.2
 
 Tweaked the wording for the Thrasher's trivia
@@ -319,6 +356,7 @@ Added trivia for the following mobs:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.1
 
 Added trivia for Upgrade Aquatic's mobs<br />
@@ -331,6 +369,7 @@ Tweaked the trivia entries for a few mobs
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.0
 
 Initial release.
