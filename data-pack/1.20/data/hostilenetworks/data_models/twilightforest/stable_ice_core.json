@@ -47,6 +47,11 @@
 			"optional": true,
             "item": "ecologics:thin_ice",
             "count": 16
+        },
+        {
+			"optional": true,
+            "item": "iceandfire:dragon_ice",
+            "count": 4
         }
 	]
 }

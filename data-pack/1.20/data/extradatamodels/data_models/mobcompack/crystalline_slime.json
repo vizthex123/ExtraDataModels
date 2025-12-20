@@ -23,12 +23,12 @@
     "fabricator_drops": [
         {
             "item": "mobcompack:rose_gelball",
-            "count": 8
+            "count": 4
         },
         {
 			"optional": true,
-            "item": "biomesoplenty:rose_quartz_cluster",
-            "count": 4
+            "item": "biomesoplenty:rose_quartz_chunk",
+            "count": 8
         }
     ]
 }

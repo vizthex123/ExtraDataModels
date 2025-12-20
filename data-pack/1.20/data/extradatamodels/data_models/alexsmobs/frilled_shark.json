@@ -2,28 +2,28 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "ars_nouveau"
+			"modid": "alexsmobs"
 		}
 	],
-    "entity": "ars_nouveau:wilden_hunter",
-    "name": "entity.ars_nouveau.wilden_hunter",
-    "name_color": "#C0C0C0",
-    "gui_scale": 1,
+    "entity": "alexsmobs:frilled_shark",
+    "name": "entity.alexsmobs.frilled_shark",
+    "name_color": "#4E3F40",
+    "gui_scale": 0.8,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 256,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-	"trivia": "custom.trivia.wilden_hunter",
+    "trivia": "custom.trivia.frilled_shark",
     "fabricator_drops": [
-		{
-            "item": "ars_nouveau:wilden_horn",
-            "count": 4
+        {
+            "item": "alexsmobs:serrated_shark_tooth",
+            "count": 1
         }
     ]
 }

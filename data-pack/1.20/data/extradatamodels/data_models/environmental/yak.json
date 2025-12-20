@@ -28,6 +28,11 @@
 		{
             "item": "minecraft:beef",
             "count": 32
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 20
         }
     ]
 }

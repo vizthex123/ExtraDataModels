@@ -23,11 +23,11 @@
     "fabricator_drops": [
         {
             "item": "aquamirae:ship_graveyard_echo",
-            "count": 8
+            "count": 4
         },
         {
             "item": "aquamirae:treasure_pouch",
-            "count": 8
+            "count": 4
         }
     ]
 }

@@ -22,15 +22,15 @@
     "trivia": "custom.trivia.sand_snapper",
     "fabricator_drops": [
         {
+            "item": "yungscavebiomes:ancient_sand",
+            "count": 16
+        },
+        {
             "item": "minecraft:sand",
             "count": 16
         },
         {
             "item": "minecraft:red_sand",
-            "count": 16
-        },
-        {
-            "item": "yungscavebiomes:ancient_sand",
             "count": 16
         },
         {
@@ -60,14 +60,14 @@
         },
         {
 			"optional": true,
-            "item": "biomeswevegone:purple_sand",
-            "count": 16
-        },
-        {
-			"optional": true,
             "item": "biomeswevegone:pink_sand",
             "count": 16
 		},
+        {
+			"optional": true,
+            "item": "biomeswevegone:purple_sand",
+            "count": 16
+        },
 		{
 			"optional": true,
             "item": "biomeswevegone:windswept_sand",

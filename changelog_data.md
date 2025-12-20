@@ -116,6 +116,33 @@ The Bogged is now a Skeleton variant
 --------------------------------------------------
 # Minecraft 1.20 - v3.0
 
+## 3.10.1
+
+Fixed the Evoker not properly outputting Biome Makeover's Illunite Shards<br />
+Fixed the Horse model using the wrong fabricator method for Hexerei's animal fat<br />
+Fixed the Crystalline Slime's model not loading in properly *[Mob Compack]*<br />
+Fixed several Wither Storm models not loading in<br />
+Finally fixed the Ultra Sniffer model not loading in
+
+Reduced the render scale of the Grizzly Bear *[Alex's Mobs]*<br />
+Remove my Wilden models since HNN covers them already *[Ars Nouveau]*
+
+Rebalanced a few models to be in-line with balance changes from v1.3 and v2.2<br />
+Added Hexerei's animal fat drops to most modded mobs<br />
+Added models for the Hammerhead and Frilled Shark *[Alex's Mobs]*<br />
+Added a model for the Iceologer *[Savage & Ravage]*<br />
+Added a model for the Glare *[Caverns & Chasms]*
+
+Added Bygone Nether's Piglin variants to the Zombified Piglin's model<br />
+Added Tinkers' Construct Piglin Heads to the Zombified Piglin's model<br />
+Biome Makeover's Owls can now output Ender Zoology's Owl Eggs<br />
+Doubled the Archevoker's Arcane Essence output *[Iron's Spells n' Spellbooks]*
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.10
 
 Backported the Sniffer model I added in v4.2.3

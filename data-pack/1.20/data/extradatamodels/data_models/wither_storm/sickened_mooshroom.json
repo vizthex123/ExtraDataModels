@@ -5,8 +5,8 @@
 			"modid": "witherstormmod"
 		}
 	],
-    "entity": "witherstormmod:sickened_mooshroom",
-    "name": "entity.witherstormmod.sickened_mooshroom",
+    "entity": "witherstormmod:sickened_mushroom_cow",
+    "name": "custom.sickened_mooshroom",
     "name_color": "#721E8D",
     "gui_scale": 1,
     "gui_x_offset": 0,

@@ -2,28 +2,28 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "ars_nouveau"
+			"modid": "alexsmobs"
 		}
 	],
-    "entity": "ars_nouveau:wilden_guardian",
-    "name": "entity.ars_nouveau.wilden_guardian",
-    "name_color": "#FF4500",
-    "gui_scale": 1,
+    "entity": "alexsmobs:hammerhead_shark",
+    "name": "entity.alexsmobs.hammerhead_shark",
+    "name_color": "#434554",
+    "gui_scale": 0.7,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 256,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-	"trivia": "custom.trivia.wilden_guardian",
+    "trivia": "custom.trivia.hammerhead_shark",
     "fabricator_drops": [
-		{
-            "item": "ars_nouveau:wilden_spike",
-            "count": 4
+        {
+            "item": "alexsmobs:shark_tooth",
+            "count": 1
         }
     ]
 }

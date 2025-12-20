@@ -36,6 +36,11 @@
 		{
             "item": "ars_nouveau:wilden_wing",
             "count": 8
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 32
         }
     ],
     "tier_data": [

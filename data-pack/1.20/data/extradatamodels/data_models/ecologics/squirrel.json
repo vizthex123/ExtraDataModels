@@ -21,6 +21,10 @@
     },
 	"trivia": "custom.trivia.squirrel",
     "fabricator_drops": [
+		{
+            "item": "minecraft:sweet_berries",
+            "count": 4
+        },
         {
             "item": "ecologics:walnut",
             "count": 4
@@ -28,10 +32,6 @@
 		{
 			"optional": true,
             "item": "alexscaves:pine_nuts",
-            "count": 4
-        },
-		{
-            "item": "minecraft:sweet_berries",
             "count": 4
         },
         {

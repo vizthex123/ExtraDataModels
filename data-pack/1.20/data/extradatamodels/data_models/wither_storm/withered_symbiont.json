@@ -7,7 +7,7 @@
 	],
     "entity": "witherstormmod:withered_symbiont",
     "name": "entity.witherstormmod.withered_symbiont",
-    "name_color": "#0E0818",
+    "name_color": "#FF00FF",
     "gui_scale": 0.58,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

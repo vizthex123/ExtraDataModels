@@ -248,20 +248,22 @@ boss data:
 
 superboss data:
 ```
-    "tier_data": [
-		512,
+	"tier_data": [
+		128,
+        1024,
         4096,
-        16384,
-        65536
+        16384
     ],
     "data_per_kill": [
-		512,
-        2048,
-        5462,
+        128,
+        512,
+        1366,
         16384
     ]
 }
 ```
+
+seems like 16384 is the limit for data values... very annoying, but whatever.
 
 
 

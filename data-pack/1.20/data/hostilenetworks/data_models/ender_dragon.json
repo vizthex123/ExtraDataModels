@@ -23,10 +23,10 @@
 			"item": "minecraft:dragon_egg",
 			"count": 1
 		},
-        {
-            "item": "minecraft:dragon_head",
-            "count": 1
-        },
+		{
+			"item": "minecraft:dragon_head",
+			"count": 1
+		},
 		{
 			"optional": true,
 			"item": "draconicevolution:dragon_heart",

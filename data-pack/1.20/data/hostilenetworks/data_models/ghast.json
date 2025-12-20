@@ -1,9 +1,9 @@
 {
     "entity": "minecraft:ghast",
     "variants": [
-        "twilightforest:carminite_ghastguard",
-        "twilightforest:carminite_ghastling",
-		"occultism:possessed_ghast"
+		"occultism:possessed_ghast",
+		"twilightforest:carminite_ghastguard",
+		"twilightforest:carminite_ghastling"
     ],
     "name": "entity.minecraft.ghast",
     "name_color": "#F0F0F0",

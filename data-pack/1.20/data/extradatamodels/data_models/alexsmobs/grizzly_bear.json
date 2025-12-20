@@ -11,7 +11,7 @@
 	],
     "name": "entity.alexsmobs.grizzly_bear",
     "name_color": "#523727",
-    "gui_scale": 1,
+    "gui_scale": 0.7,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
@@ -27,6 +27,11 @@
         {
             "item": "alexsmobs:bear_fur",
             "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 24
         }
     ]
 }

@@ -28,7 +28,7 @@
         },
         {
             "optional": true,
-            "id": "hexerei:animal_fat",
+            "item": "hexerei:animal_fat",
             "count": 20
         }
     ]

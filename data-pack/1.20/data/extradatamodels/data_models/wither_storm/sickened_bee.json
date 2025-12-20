@@ -7,7 +7,7 @@
 	],
     "entity": "witherstormmod:sickened_bee",
     "name": "entity.witherstormmod.sickened_bee",
-    "name_color": "#A16F72",
+    "name_color": "#A16F72",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

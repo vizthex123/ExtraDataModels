@@ -32,6 +32,11 @@
         {
             "item": "minecraft:packed_ice",
             "count": 1
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 16
         }
     ]
 }

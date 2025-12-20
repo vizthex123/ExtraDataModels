@@ -2,15 +2,15 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "environmental"
+			"modid": "caverns_and_chasms"
 		}
 	],
-    "entity": "environmental:deer",
+    "entity": "caverns_and_chasms:glare",
     "variants": [
-		"environmental:reindeer"
-	],
-    "name": "entity.environmental.deer",
-    "name_color": "#9C7C53",
+        "caverns_and_chasms:glare"
+    ],
+    "name": "entity.caverns_and_chasms.glare",
+    "name_color": "#40531A",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -22,19 +22,19 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.deer",
+	"trivia": "custom.trivia.glare",
     "fabricator_drops": [
         {
-            "item": "environmental:venison",
-            "count": 32
-        },
-		{
-            "item": "minecraft:leather",
-            "count": 24
+            "item": "minecraft:moss_block",
+            "count": 1
         },
         {
-            "optional": true,
-            "item": "hexerei:animal_fat",
+            "item": "minecraft:glow_berries",
+            "count": 4
+        },
+        {
+			"optional": true,
+            "item": "ecologics:surface_moss",
             "count": 16
         }
     ]

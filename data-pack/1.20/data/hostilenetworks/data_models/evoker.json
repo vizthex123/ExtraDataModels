@@ -25,7 +25,7 @@
         },
         {
 			"optional": true,
-            "item": "minecraft:biomemakeover",
+            "item": "biomemakeover:illunite_shard",
             "count": 8
         }
     ],

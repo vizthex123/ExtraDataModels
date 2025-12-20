@@ -22,8 +22,8 @@
     "trivia": "custom.trivia.golden_moth",
     "fabricator_drops": [
         {
-            "item": "minecraft:gold_ingot",
-            "count": 1
+            "item": "minecraft:gold_nugget",
+            "count": 6
         }
     ]
 }

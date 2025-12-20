@@ -33,6 +33,7 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 |			Mod			|			Mob		|	Reference	|
 |---------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Ad Astra				|	Star Crawler	| Its trivia entry references Wallace & Gromit (specifically [A Grand Day Out](https://en.wikipedia.org/wiki/A_Grand_Day_Out), which was the first short) |
+| Alex's Mobs		| Kangaroo |  Its trivia entry is a reference to [Kangaroo Jack](https://en.wikipedia.org/wiki/Kangaroo_Jack)	|
 | Ars Nouveau		| Wilden Chimera	|  Its trivia entry is a very vague allusion to Fullmetal Alchemist.	|
 | Atmospheric		| Cochineal		| Terraria's dye recipes require the [Dye Vat](https://terraria.wiki.gg/wiki/Dye_Vat)	|
 | Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)	|

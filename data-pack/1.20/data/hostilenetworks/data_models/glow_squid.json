@@ -8,12 +8,10 @@
     "gui_z_offset": 0,
     "sim_cost": 32,
     "input": {
-        "item": "hostilenetworks:prediction_matrix",
-        "count": 1
+        "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:overworld_prediction",
-        "count": 1
+        "item": "hostilenetworks:overworld_prediction"
     },
     "trivia": "hostilenetworks.trivia.glow_squid",
     "fabricator_drops": [

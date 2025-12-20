@@ -28,6 +28,11 @@
         {
             "item": "minecraft:red_mushroom",
             "count": 24
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 6
         }
     ]
 }
