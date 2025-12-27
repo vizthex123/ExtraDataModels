@@ -2,6 +2,7 @@
     "entity": "minecraft:hoglin",
     "variants": [
 		"minecraft:zoglin",
+		"occultism:possessed_hogiln",
 		"ad_astra:mogler",
 		"ad_astra:zombified_mogler"
 	],

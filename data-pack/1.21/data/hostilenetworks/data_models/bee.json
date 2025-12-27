@@ -1,5 +1,8 @@
 {
     "entity": "minecraft:bee",
+    "variants": [
+		"occultism:possessed_bee"
+	],
     "name": {
 		"translate": "entity.minecraft.bee",
 		"color": "#7D6933"

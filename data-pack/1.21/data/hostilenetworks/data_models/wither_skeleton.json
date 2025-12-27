@@ -1,6 +1,7 @@
 {
 	"entity": "minecraft:wither_skeleton",
     "variants": [
+		"occultism:wild_hunt_wither_skeleton",
 		"mekanismadditions:baby_wither_skeleton"
     ],
 	"name": {

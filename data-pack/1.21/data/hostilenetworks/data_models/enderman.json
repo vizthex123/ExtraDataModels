@@ -1,6 +1,7 @@
 {
     "entity": "minecraft:enderman",
     "variants": [
+		"occultism:possessed_enderman",
         "endermanoverhaul:badlands_enderman",
         "endermanoverhaul:cave_enderman",
         "endermanoverhaul:coral_enderman",
@@ -41,6 +42,11 @@
         {
             "id": "minecraft:ender_pearl",
             "count": 16
+        },
+        {
+            "optional": true,
+            "id": "enderio:enderman_head",
+            "count": 4
         },
         {
             "optional": true,

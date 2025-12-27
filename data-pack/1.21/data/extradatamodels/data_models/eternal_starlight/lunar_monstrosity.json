@@ -23,12 +23,12 @@
 	"trivia": "custom.trivia.lunar_monstrosity",
     "fabricator_drops": [
 		{
-            "id": "eternal_starlight:trapped_soul",
+            "id": "eternal_starlight:soul_dew",
             "count": 4
         },
 		{
             "id": "eternal_starlight:tenacious_petal",
-            "count": 8
+            "count": 10
         },
 		{
             "id": "eternal_starlight:lunar_berries",
@@ -44,11 +44,7 @@
         },
 		{
             "id": "minecraft:coal",
-            "count": 4
-        },
-		{
-            "id": "eternal_starlight:amaramber_arrow",
-            "count": 64
+            "count": 6
         },
 		{
             "id": "minecraft:spectral_arrow",
@@ -56,7 +52,7 @@
         },
 		{
             "id": "minecraft:arrow",
-            "count": 64
+            "count": 128
         }
     ]
 }

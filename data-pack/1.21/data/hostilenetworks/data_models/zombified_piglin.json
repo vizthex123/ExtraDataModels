@@ -5,7 +5,8 @@
         "minecraft:piglin_brute",
         "ad_astra:pygro",
         "ad_astra:pygro_brute",
-        "ad_astra:zombified_pygro"
+        "ad_astra:zombified_pygro",
+		"occultism:possessed_zombified_piglin"
     ],
     "name": {
         "translate": "entity.minecraft.zombified_piglin",

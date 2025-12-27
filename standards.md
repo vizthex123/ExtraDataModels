@@ -246,6 +246,24 @@ boss data:
 ```
 
 
+1.21:
+```
+    "tier_data": {
+        "basic": 128,
+        "advanced": 1024,
+        "superior": 4096,
+        "self_aware": 16384
+    },
+    "data_per_kill": {
+        "faulty": 128,
+        "basic": 512,
+        "advanced": 1024,
+        "superior": 2048
+    }
+}
+```
+
+
 superboss data:
 ```
 	"tier_data": [

@@ -4,6 +4,9 @@
         "translate": "entity.minecraft.sniffer",
         "color": "#B99529"
     },
+    "display": {
+        "scale": 0.5
+    },
     "sim_cost": 72,
     "input": {
         "item": "hostilenetworks:prediction_matrix"

@@ -10,6 +10,22 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## 4.3
+
+Fixed the Lunar Monstrosity model not loading in (and tweaked its loot a bit) *[Eternal Starlight]*<br />
+Added EnderIO's Enderman Heads as a drop (requested by SrNadien on the HNN discord)
+
+Ported support for the following mods:
+- Ars Nouveau
+- Bosses of Mass Destruction
+- Galosphere
+- Neapolitan
+- Occultism
+
+
+<br /> <br />
+
+--------------------------------------------------
 ## 4.2.3
 
 Added a model for the Sniffer<br />

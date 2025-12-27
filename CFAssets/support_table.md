@@ -6,11 +6,11 @@
 | [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs)																			|✔		 	  |✔			|✔				|✔			  |			   |0.6											|
 | [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae)																		|				  |✔			|✔				|✔			  |			   |1.2											|
 | [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)														|				  |✔			|✔				|✔			  |✔		   |2.0											|
-| [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)																		|				  |✔			|✔				|✔		      |			   |1.3								  			|
+| [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)																		|				  |✔			|✔				|✔		      |✔		   |1.3								  			|
 | [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)																		|				  |				|      		    |✔		      |✔		   |2.2							  				|
 | [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)																				|				  |✔			|✔				|✔			  |✔		   |1.2											|
 | [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)					 						|				  |✔			|✔				|✔			  |			   |1.2											|
-| [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge)	|				  |✔			|✔				|✔		      |			   |1.3								  			|
+| [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge)	|				  |✔			|✔				|✔		      |✔		   |1.3								  			|
 | [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees)																		|				  |✔			|✔				|✔		      |✔		   |1.3											|
 | [Bygone Nether](https://www.curseforge.com/minecraft/mc-mods/bygone-nether)																|				  |✔			|✔				|✔			  |			   |1.2											|
 | [Caverns & Chasms](https://www.curseforge.com/minecraft/mc-mods/caverns-and-chasms)											|				  |				|✔				|✔		      |			   |1.3							  				|
@@ -26,7 +26,7 @@
 | [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)																|				  |				|✔				|✔		      |✔		   |2.2							  				|
 | [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)														|				  |				|      		    |				  |✔		   |4.1											|
 | [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)												|				  |✔			|✔				|✔			  |✔		   |1.1											|
-| [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)																			|				  |				|      		    |✔			  |			   |3.0											|
+| [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)																			|				  |				|      		    |✔			  |✔		   |3.0											|
 | [Ice & Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)     				   										|✔  		  |✔			|✔				|✔			  |			   |0.7											|
 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)						|				  |✔			|✔				|✔			  |✔		   |1.1											|
 | [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)						|				  |				|      		    |✔			  |			   |3.6											|
@@ -35,8 +35,8 @@
 | [Mob Compack](https://www.curseforge.com/minecraft/mc-mods/mob-compack)																|				  |				|✔				|✔		      |			   |1.3							  				|
 | [More Useful Copper](https://www.curseforge.com/minecraft/mc-mods/more-useful-copper-2-0)									|				  |				|      		    |✔		      |✔		   |3.8						 	 				|
 | [MythicBotany](https://www.curseforge.com/minecraft/mc-mods/mythicbotany)																|				  |				|✔				|✔		      |			   |1.3								  			|
-| [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)																			|				  |				|✔				|✔		      |			   |1.3							  				|
-| [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)																				|				  |				|✔				|✔		      |			   |1.3							  				|
+| [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan)																			|				  |				|✔				|✔		      |✔		   |1.3							  				|
+| [Occultism](https://www.curseforge.com/minecraft/mc-mods/occultism)																				|				  |				|✔				|✔		      |✔		   |1.3							  				|
 | [Oh The Biomes We've Gone](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-weve-gone)				|				  |				|      		    |✔		      |✔		   |3.9.1							  			|
 | [Oh The Biomes You'll Go](https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go)							|				  |				|✔				|				  |			   |1.3							  				|
 | [The Outer End](https://www.curseforge.com/minecraft/mc-mods/the-outer-end)																|				  |				|      		    |✔			  |			   |3.0											|

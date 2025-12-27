@@ -1,6 +1,7 @@
 {
     "entity": "minecraft:phantom",
     "variants": [
+		"occultism:possessed_phantom",
 		"upgrade_aquatic:flare"
 	],
     "name": {

@@ -3,6 +3,8 @@
     "variants": [
         "minecraft:cave_spider",
         "neapolitan:plantain_spider",
+		"occultism:possessed_spider",
+		"occultism:possessed_cave_spider",
         "twilightforest:hedge_spider",
         "twilightforest:king_spider",
         "twilightforest:swarm_spider",
