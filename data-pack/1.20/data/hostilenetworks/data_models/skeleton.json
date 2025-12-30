@@ -37,6 +37,11 @@
         },
         {
             "optional": true,
+            "item": "tconstruct:stray_head",
+            "count": 4
+        },
+        {
+            "optional": true,
             "item": "reliquary:rib_bone",
             "count": 2
         }

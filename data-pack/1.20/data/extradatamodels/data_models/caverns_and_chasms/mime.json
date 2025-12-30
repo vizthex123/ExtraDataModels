@@ -24,6 +24,10 @@
         {
             "item": "caverns_and_chasms:spinel",
             "count": 8
+        },
+        {
+            "item": "caverns_and_chasms:mime_head",
+            "count": 4
         }
     ]
 }

@@ -34,7 +34,7 @@
         },
         {
             "item": "minecraft:piglin_head",
-            "count": 4
+            "count": 2
         },
         {
 			"optional": true,
@@ -44,7 +44,7 @@
         {
 			"optional": true,
             "item": "tconstruct:zombified_piglin_head",
-            "count": 2
+            "count": 4
         }
     ]
 }

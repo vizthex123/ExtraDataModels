@@ -44,6 +44,16 @@
         },
         {
             "optional": true,
+            "item": "tconstruct:enderman_head",
+            "count": 4
+        },
+        {
+            "optional": true,
+            "item": "enderio:enderman_head",
+            "count": 4
+        },
+        {
+            "optional": true,
             "item": "evilcraft:ender_tear",
             "count": 4
         },

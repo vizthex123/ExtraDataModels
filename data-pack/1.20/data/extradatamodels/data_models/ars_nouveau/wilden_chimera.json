@@ -26,21 +26,21 @@
             "count": 1
         },
 		{
-            "item": "ars_nouveau:wilden_spike",
-            "count": 8
+            "item": "ars_nouveau:wilden_horn",
+            "count": 32
         },
 		{
-            "item": "ars_nouveau:wilden_horn",
-            "count": 8
+            "item": "ars_nouveau:wilden_spike",
+            "count": 32
         },
 		{
             "item": "ars_nouveau:wilden_wing",
-            "count": 8
+            "count": 32
         },
         {
             "optional": true,
             "item": "hexerei:animal_fat",
-            "count": 32
+            "count": 64
         }
     ],
     "tier_data": [

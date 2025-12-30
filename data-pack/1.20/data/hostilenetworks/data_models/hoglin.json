@@ -2,9 +2,9 @@
     "entity": "minecraft:hoglin",
     "variants": [
 		"minecraft:zoglin",
-		"occultism:possessed_hogiln",
-		"ad_astra:mogler",
-		"ad_astra:zombified_mogler"
+		"occultism:possessed_hoglin",
+		"ad_astra:zombified_mogler",
+		"ad_astra:mogler"
 	],
     "name": "entity.minecraft.hoglin",
     "name_color": "#E8A074",

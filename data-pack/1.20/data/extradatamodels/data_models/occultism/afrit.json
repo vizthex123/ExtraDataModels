@@ -5,9 +5,9 @@
 			"modid": "occultism"
 		}
 	],
-    "entity": "occultism:afrit",
+    "entity": "occultism:afrit_wild",
     "variants": [
-		"occultism:afrit_wild"
+		"occultism:afrit"
 	],
     "name": "entity.occultism.afrit",
     "name_color": "#AE6800",

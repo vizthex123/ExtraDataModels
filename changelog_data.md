@@ -13,7 +13,10 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 ## 4.3
 
 Fixed the Lunar Monstrosity model not loading in (and tweaked its loot a bit) *[Eternal Starlight]*<br />
-Added EnderIO's Enderman Heads as a drop (requested by SrNadien on the HNN discord)
+Added EnderIO's Enderman Heads as a drop (requested by SrNadien on the HNN discord)<br />
+Added Ender Fragments as a drop from the Possesed Endermite *[Occultism]*<br />
+Made the Wild Afrit the main mob on its model *[Occultism]*<br />
+Doubled the RF cost for the Berserker *[Galosphere]*
 
 Ported support for the following mods:
 - Ars Nouveau
@@ -131,6 +134,25 @@ The Bogged is now a Skeleton variant
 
 --------------------------------------------------
 # Minecraft 1.20 - v3.0
+
+## 3.10.2
+
+Fixed the Possessed Hoglin's variant support not loading in *[Occultism]*<br />
+Added Ender Fragments as a drop from the Possesed Endermite *[Occultism]*<br />
+Buffed the drops given by the Wilden Chimera *[Ars Nouveau]*<br />
+Added Tinkers Construct's Necrotic Bone to the Wither Skeleton model
+- Adjusted head drops so that variants (e.g. the stray) give 2 instead of 4
+- Also added a bunch of heads I missed
+
+Added EnderIO's and Tinkers' Enderman Heads as a drop<br />
+Added Deeper, Peeper, and Mime Heads as drops *[Caverns & Chasms]*<br />
+Made the Wild Afrit the main mob on its model *[Occultism]*<br />
+Doubled the RF cost for the Berserker *[Galosphere]*
+
+
+<br /> <br />
+
+--------------------------------------------------
 
 ## 3.10.1
 

@@ -26,15 +26,15 @@
     "trivia": "hostilenetworks.trivia.ars_wilden",
     "fabricator_drops": [
         {
+            "item": "ars_nouveau:wilden_horn",
+            "count": 16
+        },
+        {
             "item": "ars_nouveau:wilden_spike",
             "count": 16
         },
         {
             "item": "ars_nouveau:wilden_wing",
-            "count": 16
-        },
-        {
-            "item": "ars_nouveau:wilden_horn",
             "count": 16
         },
         {

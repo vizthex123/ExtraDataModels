@@ -24,6 +24,11 @@
         {
             "item": "minecraft:end_stone",
             "count": 4
+        },
+        {
+            "optional": true,
+            "item": "enderzoology:ender_fragment",
+            "count": 2
         }
     ]
 }

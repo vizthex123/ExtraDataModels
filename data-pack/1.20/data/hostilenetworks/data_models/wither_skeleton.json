@@ -38,6 +38,11 @@
 		},
 		{
 			"optional": true,
+			"item": "tconstruct:necrotic_bone",
+			"count": 8
+		},
+		{
+			"optional": true,
 			"item": "reliquary:withered_rib",
 			"count": 2
 		},

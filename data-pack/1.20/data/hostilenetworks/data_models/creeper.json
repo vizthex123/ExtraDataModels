@@ -51,6 +51,16 @@
         },
         {
             "optional": true,
+            "item": "caverns_and_chasms:deeper_head",
+            "count": 2
+        },
+        {
+            "optional": true,
+            "item": "caverns_and_chasms:peeper_head",
+            "count": 2
+        },
+        {
+            "optional": true,
             "item": "savage_and_ravage:creeper_spores",
             "count": 4
         }
