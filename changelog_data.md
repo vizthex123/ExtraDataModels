@@ -135,6 +135,19 @@ The Bogged is now a Skeleton variant
 --------------------------------------------------
 # Minecraft 1.20 - v3.0
 
+## 3.10.3
+
+Disabled the Purpoid's model since it crashes the game (reported by LuiHere in the CF comments) *[Endergetic Expansion]*
+
+Reduced the Watcher's Occult Gem output to 2 (was 4) *[Alex's Caves]*<br />
+Added a model for the Candicorn *[Alex's Caves]*<br />
+Added support for End's Phantasm
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.10.2
 
 Fixed the Possessed Hoglin's variant support not loading in *[Occultism]*<br />

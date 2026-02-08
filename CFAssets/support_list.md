@@ -22,6 +22,7 @@
 * [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)
 * [The Endergetic Expansion](https://www.curseforge.com/minecraft/mc-mods/endergetic)
 * [Enlightend](https://www.curseforge.com/minecraft/mc-mods/enlightend)
+* [End's Phantasm](https://www.curseforge.com/minecraft/mc-mods/phantasm)
 * [Ender Zoology](https://www.curseforge.com/minecraft/mc-mods/ender-zoology)
 * [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)
 * [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)
@@ -47,3 +48,9 @@
 * [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)
 * [Whisperwoods](https://www.curseforge.com/minecraft/mc-mods/whisperwoods)
 * [YUNG's Cave Biomes](https://www.curseforge.com/minecraft/mc-mods/yungs-cave-biomes)
+
+<br />
+
+Empty line for when I add more support:
+
+* [NAME](Link)
