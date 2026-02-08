@@ -9,7 +9,7 @@ assignees: vizthex123
 
 **Describe the bug**
 
-**What version(s) has this bug?**
+**What version(s) does this affect?**
 - [ ] 1.21.1
 - [ ] 1.20.1
 - [ ] 1.19.2

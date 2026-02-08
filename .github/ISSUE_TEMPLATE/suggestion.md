@@ -1,6 +1,6 @@
 ---
 name: Suggestion
-about: Suggest support for a mod.
+about: Suggest support for a mod (or multiple).
 title: "[Suggestion] "
 labels: Suggestion
 assignees: vizthex123
