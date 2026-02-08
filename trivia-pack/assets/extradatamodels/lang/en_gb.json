@@ -50,6 +50,7 @@
 
 
 		"_comment": "Candy Cavity",
+			"custom.trivia.candicorn": "A unicorn dripping with sweetness,\nbut its tender nature remains.",
 			"custom.trivia.caniac": "Maniacs who gorge themselves on\nfar too many Candy Canes are converted by the sugar,\nbecoming mere husks driven only\nby the desire to feed their sweet addiction.",
 			"custom.trivia.caramel_cube": "When Caramel coalesces into life,\nthe humble Caramel Cube is born.\nThey resemble Slimes from the surface,\nbut will slow you down with their post-hop puddles.",
 			"custom.trivia.gingerbread_man": "\"Run run, as fast as you can!\nYou can't catch me,\nI'm the Gingerbread Man!\"\n- Gingerbread Man seconds before being killed.",
@@ -291,9 +292,14 @@
 
 
 
+	"_comment": "End's Phantasm",
+	"custom.trivia.behemoth": "An aggressive beast,\nsure to knock you down as soon as you're spotted.\nEnsure you have appropriate equipment to survive its powerful blows.",
+
+
+
 	"_comment": "Endergetic Expansion",
 	"custom.trivia.booflo": "A strange flying frog, native to the End.\nIts hides have limited uses, but are still exploitable.",
-	"custom.trivia.purpoid": "A curious floating jellyfish,\ncorrupted by the Ender Dragon's influence.",
+	"custom.trivia.purpoid": "A curious floating jellyfish,\ntwisted by the Ender Dragon's influence.",
 
 
 
