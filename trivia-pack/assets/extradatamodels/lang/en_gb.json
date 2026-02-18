@@ -12,6 +12,7 @@
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.llama": "Often found in Savanna‌s,\nLlamas are known for their hostility to all who dare touch them.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
+	"custom.trivia.silverfish": "An annoying arthropod,\nthese irksome insects infest various rocks\nand only exist to annoy you.",
 	"custom.trivia.sniffer": "Meanders around, searching for food\n- or maybe something else entirely?",
 	"custom.trivia.tropical_fish": "Like a fish, but more tropical-y.",
 	"custom.trivia.turtle": "Wearing this may make you turtly enough for the turtle club.\n(or make you some kind of ninja, perchance?)",
@@ -50,7 +51,7 @@
 
 
 		"_comment": "Candy Cavity",
-			"custom.trivia.candicorn": "A unicorn dripping with sweetness,\nbut its tender nature remains.",
+			"custom.trivia.candicorn": "A unicorn dripping with sweetness,\nforcefully infused with it by the Licowitch.\nIts tender nature remains,\nbut it will retaliate if attacked.",
 			"custom.trivia.caniac": "Maniacs who gorge themselves on\nfar too many Candy Canes are converted by the sugar,\nbecoming mere husks driven only\nby the desire to feed their sweet addiction.",
 			"custom.trivia.caramel_cube": "When Caramel coalesces into life,\nthe humble Caramel Cube is born.\nThey resemble Slimes from the surface,\nbut will slow you down with their post-hop puddles.",
 			"custom.trivia.gingerbread_man": "\"Run run, as fast as you can!\nYou can't catch me,\nI'm the Gingerbread Man!\"\n- Gingerbread Man seconds before being killed.",
@@ -110,7 +111,7 @@
 	"custom.trivia.bone_serpent": "Seems like it's from an\nalternate dimension... but even if it's not,\nensure you exercise great caution around it.",
 	"custom.trivia.bunfungus": "This strange rabbit has been mutated\nby some kind of spore or mold.\n\nYou could gather some ingredients for stew...",
 	"custom.trivia.cachalot_whale": "These large mammals reside in warm oceans.\nYou'll have a whale of a tale if you ever meet one.",
-	"custom.trivia.catfish": "Despite its name, it's not actually part cat.\nNeither is the Dogfish, but they're not found here.",
+	"custom.trivia.catfish": "Despite its name, it's not actually part cat.\nNeither is the Dogfish, but this isn't the chimera lab.",
 	"custom.trivia.cave_centipede": "A rare variant of a Giant Centipede,\nthis specimen didn't travel through a time portal.",
 	"custom.trivia.comb_jelly": "A rainbow-coloured jellyfish.\nSo pretty...",
 	"custom.trivia.cosmic_cod": "Not to be confused with the Flying Fish.",
@@ -193,12 +194,13 @@
 
 
 	"_comment": "Autumnity",
-	"custom.trivia.snail": "Is this just a slug with an identity crises?\n\nIt doesn't have a treehouse for a shell though,\nso it's probably a snail.",
+	"custom.trivia.snail": "Is this just a slug with an identity crises?\n\nSince it doesn't have a treehouse for a shell,\nit's probably a snail.",
 	"custom.trivia.turkey": "Quite dry.\n\nNot a very good food source due to that,\nbut if you're desperate enough...",
 
 
 
 	"_comment": "Biome Makeover",
+	"custom.trivia.blightbat": "Bats infected by an unknown pathogen\nget converted into this.",
 	"custom.trivia.decayed": "Zombies remaining undead for too long\nbegin falling apart, rotting into Decayed\nafter the process is complete.",
 	"custom.trivia.ghost_makeover": "Villagers left to die (or slain in raids)\nwill become wandering spirits,\ndoomed to purgatory until freed from it.",
 	"custom.trivia.glowfish": "A bioluminescent variant of Fish.\n\nWhat do you mean it's not called \"Fish\" anymore?",
@@ -281,6 +283,11 @@
 
 
 
+	"_comment": "End's Phantasm",
+	"custom.trivia.behemoth": "An aggressive beast,\nsure to attack as soon as you're spotted.\nEnsure you have appropriate equipment\nto endure its powerful blows.",
+
+
+
 	"_comment": "Ender Zoology",
 	"custom.trivia.concussion_creeper": "This variant of the Creeper\nis not an inverse architect,\nbut rather a concussive blow to the head.",
 	"custom.trivia.enderminy": "Technology has sadly regressed,\nand now prevents you from\ntransforming into one of these.",
@@ -292,8 +299,19 @@
 
 
 
-	"_comment": "End's Phantasm",
-	"custom.trivia.behemoth": "An aggressive beast,\nsure to knock you down as soon as you're spotted.\nEnsure you have appropriate equipment to survive its powerful blows.",
+	"_comment": "Enemy Expansion",
+	"custom.trivia.crawler": "Creepers with stunted growth\nbecome these malevolent interlopers.\n\nNot as destructive, but still quite sneaky.",
+	"custom.trivia.equestrian": "Unlike the Knights of Harmony,\nthis one is unwilling to learn from his mistakes.\n\nBest to fire your laser and dispatch it.",
+	"custom.trivia.faller": "An ambushing variant of the Creeper,\nthis tricky devil will fall upon the unsuspecting\nthat pass below them.",
+	"custom.trivia.intruder": "A Creeper engorged with TNT,\nwhose destructive force is\nimproved by their durability.",
+	"custom.trivia.ladybug": "Not part of a circus,\nas far as we know.",
+	"custom.trivia.meature": "A most strange creature,\ncomposed entirely of meat.",
+	"custom.trivia.scorpion": "Similar to those \"Stingtails\"\nyou might've seen before.",
+	"custom.trivia.slugger": "A strong Zombie,\nthe Slugger will beat you into pulp\nif given the opportunity.",
+	"custom.trivia.sprinter": "A fast Zombie,\nbut it lacks the crab head and piercing wail.",
+	"custom.trivia.starved": "A flattened mass of flesh,\nthe Starved will seek out anything edible\nthat enters its teritory.",
+	"custom.trivia.vampire":  "Seeks out your blood (or plasma)\nand won't rest until it's recovered.",
+	"custom.trivia.wasp": "An evil relative of bees,\nWasps are very territorial and must be purged post-haste.",
 
 
 
@@ -310,8 +328,8 @@
 
 
 	"_comment": "Environmental",
-	"custom.trivia.deer": "Oh deer.\n\nMake sure her child isn't nearby when you shoot.",
-	"custom.trivia.duck": "You're in for a ducking good time!\nMight decide to seek out a nearby lemonade stands.\nPerhaps you could rob it & invent combustible lemons?",
+	"custom.trivia.deer": "D'oh!\nA deer!\nA female deer!\nMake sure her child isn't nearby when you shoot.",
+	"custom.trivia.duck": "You're in for a ducking good time!\nMight seek out a nearby lemonade stand.\nPerhaps you could rob it & invent combustible lemons?",
 	"custom.trivia.koi": "A certain old man may seek retribution\nfor anything you do to this fish.\nOh, it's not that type of koi?\nThen start eating!",
 	"custom.trivia.pinecone_golem": "A rare specimen,\nas Golems don't occur naturally very often.",
 	"custom.trivia.yak": "Does anyone read all\nthe yakking in these entries?",
@@ -463,6 +481,24 @@
 
 
 
+	"_comment": "Naturalist",
+	"custom.trivia.bass": "*fish*.\n\nNot to be confused with a Bass.",
+	"custom.trivia.boar": "After taking out a platoon of crazy Romans,\nwhy not celebrate with a fresh-roasted boar?",
+	"custom.trivia.brown_bear": "Can you bare to care\nabout a big brown bear?\nWill you dare to swear\nto find a pear for the big brown bear?",
+	"custom.trivia.canary": "Take it to the coal mine,\nbut don't forget to retrieve it before leaving.",
+	"custom.trivia.cardinal": "*birb.*",
+	"custom.trivia.elephant": "Address me.",
+	"custom.trivia.firefly": "You would not believe your eyes\nif ten million fireflies\nlit up the world as I fell asleep!",
+	"custom.trivia.giraffe": "You can't hear what\nit's saying all the way up there.",
+	"custom.trivia.hippo": "Nature's cruelty given form.",
+	"custom.trivia.lion": "Might betray you\nto become the new king.",
+	"custom.trivia.rhino": "Often fights spiders,\nthough nobody's entirely sure why.",
+	"custom.trivia.robin": "Can often be spotted\nhanging around bats.",
+	"custom.trivia.vulture": "Often found scavenging for food.",
+	"custom.trivia.zebra": "Lives in the forest,\nbrewing many potions\nand even some lotions.",
+
+
+
 	"_comment": "Occultism",
 	"custom.trivia.afrit": "A wandering spirit,\nripe for exploitation.",
 	"custom.trivia.possessed_endermite": "Even enderic creatures aren't immune\nto the influence of the occult.",
@@ -496,6 +532,18 @@
 	"custom.trivia.toretoise": "As the name implies, Toretoises\nare tortoises with ores on their shells.\nTheir ores can be harvest with a pickaxe.",
 	"custom.trivia.wraith": "A haunting apparition, formed from the\nlost souls trapped within the Soul Sand Valley.\nTheir remnants guide travellers towards the\nGreat Fortress.",
 	"custom.trivia.wrapped": "This Zombie seems to have gotten himself\nstuck inside of a Cobweb.",
+
+
+
+	"_comment": "Rotten Creatures",
+	"custom.trivia.burned": "A Zombie that's been warped\nby the magic within the nether.",
+	"custom.trivia.dead_beard": "A pirate captain,\nclaimed by Davy Jones.\nYou might be able to liberate his treasure -\nif you're willing to fight for it",
+	"custom.trivia.frostbitten": "A Zombie that's been twisted\nby ice-cold magic.\n\nYou didn't see any kings near it, did you?",
+	"custom.trivia.glacial_hunter": "Once a proud hunter,\nnow just a mindless monster.",
+	"custom.trivia.immortal": "Surprisingly mortal.",
+	"custom.trivia.mummy": "\"Are you my mummy?\"\n\nWait, no - wrong type of mummy.",
+	"custom.trivia.swampy": "Give him some water\nso he can take that nice shower.\nWhat do you mean this isn't an alligator?",
+	"custom.trivia.undead_miner": "A skeletal foe that's sure to\ndrop his helmet when slain.\nWait, wrong miner...\nbut this one still drops a pickaxe.",
 
 
 

@@ -8,6 +8,15 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## 1.11
+
+Added entries for Enemy Expansion, Naturalist, and Rotten Creatures.
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.10.4
 
 Added an entry for the Candicorn *[Alex's Caves]*<br />
@@ -17,6 +26,7 @@ Added entries for End's Phantasm
 <br /> <br />
 
 --------------------------------------------------
+
 ## 1.10.3
 
 Tweaked the entry for Captain Cornelia *[Aquamirae]*
