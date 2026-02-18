@@ -135,6 +135,31 @@ The Bogged is now a Skeleton variant
 --------------------------------------------------
 # Minecraft 1.20 - v3.0
 
+## 3.11
+
+Added a model for the Blightbat *[Biome Makeover]*<br />
+Added a model for Silverfish if Caverns & Chasms is installed<br />
+Added the Catalyzing Gland and Creeper Spores to the Concussion Creeper's loot<br />
+Added Biome Makeover's Bat Wings to the Bat's loot
+
+Swapped the Ender Fragment rates for Concussion Creepers and Infested Zombies *[Ender Zoology]*<br />
+Adjusted the item rates given by the Stoneling and Toretoise *[Quark]*<br />
+Updated the text colour for the Sickened Spider and Zombie *[Wither Storm]*
+
+<br />
+
+Mod support added:
+- Enemy Expansion
+- Naturalist
+- Rotten Creatures
+- Variants & Ventures ([#10](https://github.com/vizthex123/ExtraDataModels/issues/10))
+- Zombie Variants ([#9](https://github.com/vizthex123/ExtraDataModels/issues/9))
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.10.3
 
 Disabled the Purpoid's model since it crashes the game (reported by LuiHere in the CF comments) *[Endergetic Expansion]*

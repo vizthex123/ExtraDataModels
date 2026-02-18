@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "entity": "enemyexpansion:equestrian",
+    "name": "entity.enemyexpansion.equestrian",
+    "name_color": "#527564",
+    "gui_scale": 0.8,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.equestrian",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 96
+        },
+        {
+            "item": "enemyexpansion:horsehead_helmet",
+            "count": 1
+        }
+    ]
+}

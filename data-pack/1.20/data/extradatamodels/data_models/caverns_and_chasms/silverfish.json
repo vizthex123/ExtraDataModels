@@ -1,0 +1,34 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "caverns_and_chasms"
+		}
+	],
+    "entity": "minecraft:silverfish",
+    "variants": [
+        "minecraft:endermite",
+        "enemyexpansion:silverqueen",
+		"enemyexpansion:silverqueenbodiless"
+    ],
+    "name": "entity.minecraft.silverfish",
+    "name_color": "#60645A",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.silverfish",
+    "fabricator_drops": [
+        {
+            "item": "caverns_and_chasms:silver_nugget",
+            "count": 4
+        }
+    ]
+}

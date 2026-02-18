@@ -2,46 +2,38 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "enderzoology"
+			"modid": "enemyexpansion"
 		}
 	],
-    "entity": "enderzoology:concussion_creeper",
-    "name": "entity.enderzoology.concussion_creeper",
-    "name_color": "#105D50",
-    "gui_scale": 1,
+    "entity": "enemyexpansion:intruder",
+    "name": "entity.enemyexpansion.intruder",
+    "name_color": "#14431F",
+    "gui_scale": 0.85,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 144,
+    "sim_cost": 160,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.concussion_creeper",
+    "trivia": "custom.trivia.intruder",
     "fabricator_drops": [
         {
             "item": "minecraft:gunpowder",
-            "count": 16
-        },
-        {
-            "item": "enderzoology:confusing_powder",
-            "count": 32
-        },
-        {
-            "item": "enderzoology:ender_fragment",
-            "count": 12
+            "count": 48
         },
         {
             "optional": true,
             "item": "reliquary:catalyzing_gland",
-            "count": 1
+            "count": 3
         },
         {
             "optional": true,
             "item": "savage_and_ravage:creeper_spores",
-            "count": 2
+            "count": 6
         }
     ]
 }

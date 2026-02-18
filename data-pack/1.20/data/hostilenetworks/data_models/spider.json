@@ -2,6 +2,7 @@
     "entity": "minecraft:spider",
     "variants": [
         "minecraft:cave_spider",
+        "enemyexpansion:tarantula",
         "neapolitan:plantain_spider",
         "twilightforest:hedge_spider",
         "twilightforest:king_spider",

@@ -1,31 +1,34 @@
 {
-    "entity": "minecraft:pig",
-    "variants": [
-        "twilightforest:boar"
-    ],
-    "name": "entity.minecraft.pig",
-    "name_color": "#614B4B",
-    "gui_scale": 1,
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
+	],
+    "entity": "naturalist:bear",
+    "name": "entity.naturalist.bear",
+    "name_color": "#4A2D1D",
+    "gui_scale": 0.8,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "hostilenetworks.trivia.pig",
+    "trivia": "custom.trivia.brown_bear",
     "fabricator_drops": [
         {
-            "item": "minecraft:porkchop",
-            "count": 32
+            "item": "naturalist:fur",
+            "count": 16
         },
         {
             "optional": true,
             "item": "hexerei:animal_fat",
-            "count": 16
+            "count": 24
         }
     ]
 }

@@ -1,11 +1,14 @@
 {
-    "entity": "minecraft:pig",
-    "variants": [
-        "twilightforest:boar"
-    ],
-    "name": "entity.minecraft.pig",
-    "name_color": "#614B4B",
-    "gui_scale": 1,
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
+	],
+    "entity": "naturalist:boar",
+    "name": "entity.naturalist.boar",
+    "name_color": "#483222",
+    "gui_scale": 0.9,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
@@ -16,11 +19,15 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "hostilenetworks.trivia.pig",
+    "trivia": "custom.trivia.boar",
     "fabricator_drops": [
         {
             "item": "minecraft:porkchop",
             "count": 32
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 16
         },
         {
             "optional": true,

@@ -2,33 +2,33 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "autumnity"
+			"modid": "enemyexpansion"
 		}
 	],
-    "entity": "autumnity:snail",
-    "name": "entity.autumnity.snail",
-    "name_color": "#9B805B",
+    "entity": "enemyexpansion:wasp",
+    "name": "entity.enemyexpansion.wasp",
+    "name_color": "#E0AB3A",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.snail",
+    "trivia": "custom.trivia.wasp",
     "fabricator_drops": [
         {
-            "item": "autumnity:snail_goo",
-            "count": 8
+            "item": "enemyexpansion:wasp_thorax",
+            "count": 4
         },
         {
-			"optional": true,
-            "item": "naturalist:snail_shell",
-            "count": 4
+            "optional": "true",
+            "item": "reliquary:chelicerae",
+            "count": 1
         }
     ]
 }

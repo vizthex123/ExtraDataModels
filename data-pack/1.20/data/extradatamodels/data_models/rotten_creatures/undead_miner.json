@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "rottencreatures"
+		}
+	],
+    "entity": "rottencreatures:undead_miner",
+    "name": "entity.rottencreatures.undead_miner",
+    "name_color": "#47614C",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.undead_miner",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 64
+        },
+        {
+            "item": "minecraft:cobblestone",
+            "count": 32
+        },
+        {
+            "item": "minecraft:raw_iron",
+            "count": 8
+        },
+        {
+            "item": "minecraft:raw_gold",
+            "count": 4
+        },
+        {
+            "item": "minecraft:diamond",
+            "count": 1
+        },
+        {
+            "item": "rottencreatures:undead_miner_head",
+            "count": 4
+        }
+    ]
+}

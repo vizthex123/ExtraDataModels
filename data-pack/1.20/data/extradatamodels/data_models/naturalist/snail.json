@@ -2,12 +2,12 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "autumnity"
+			"modid": "naturalist"
 		}
 	],
-    "entity": "autumnity:snail",
-    "name": "entity.autumnity.snail",
-    "name_color": "#9B805B",
+    "entity": "naturalist:snail",
+    "name": "entity.naturalist.snail",
+    "name_color": "#CA9C5C",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -22,13 +22,17 @@
     "trivia": "custom.trivia.snail",
     "fabricator_drops": [
         {
+            "item": "naturalist:snail_shell",
+            "count": 4
+        },
+        {
+			"optional": true,
             "item": "autumnity:snail_goo",
             "count": 8
         },
         {
-			"optional": true,
-            "item": "naturalist:snail_shell",
-            "count": 4
+            "item": "minecraft:slime_ball",
+            "count": 8
         }
     ]
 }

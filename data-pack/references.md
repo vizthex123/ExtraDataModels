@@ -1,6 +1,6 @@
 # References to other media
 
-I've made so many references that I lost track lmao. Might as well make this list while I work on v2.0. Hope I can remember them all lol.
+I've made so many references that I lost track lmao. Might as well make this list to try and keep track of them all just in case anyone's curious.
 
 --------------------------------------------------
 
@@ -39,8 +39,22 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 | Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)	|
 | Eternal Starlight | Yeti				| Its trivia entry references [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain)	|
 | L_Ender 's Cataclysm | Symbiocto | Its trivia entry references Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
+| Rotten Creatures	| Mummy | [S1E9 "The Empty Child"](https://en.wikipedia.org/wiki/The_Empty_Child) of Doctor Who (2005)  |
+| Rotten Creatures	| Undead Miner | [Undead Miners](https://terraria.wiki.gg/wiki/Undead_Miner) from Terraria  |
 | Cracker's Wither Storm | Wither Symbiont | The data values of 2015 and 2019 were the release and delist dates for [Minecraft: Story Mode](https://minecraft.wiki/w/Minecraft:_Story_Mode), which introduced the [Wither Storm](https://minecraft.wiki/w/Story_Mode:Wither_Storm) as the final boss.	|
 
+<br />
+
+| MOD	| MOB		| REFERENCE |
+
+# Entries that are used across multiple mods
+
+|	Mob	|	Reference	|
+|----------|------------------|
+| Catfish	| The [Dogfish](https://wikibound.info/wiki/Dogfish) from Mother 3 |
+| Deer	| [This clip](https://www.youtube.com/watch?v=2BxWKuntYFQ) from The Simpsons and the opening to [Bambi (1942)](https://en.wikipedia.org/wiki/Bambi) |
+| Snail	| Adventure Time [S2E6 "Slow Love"](https://adventuretime.fandom.com/wiki/Slow_Love) |
+| Troll	| The concept of [internet trolls](https://en.wikipedia.org/wiki/Trolling), and the [well-known bug](https://gamefaqs.gamespot.com/boards/615805-the-elder-scrolls-v-skyrim/61104174) from The Elder Scrolls V: Skyrim (even though I don't play the game lol). |
 
 <br />
 
@@ -142,7 +156,7 @@ Finding Nemo.
 
 <br />
 
-## Bald Eagle and Catfish
+## Bald Eagle
 
 Mother 3.
 
@@ -150,31 +164,31 @@ Mother 3.
 
 ## Blue Jay
 
-Regular Show.
+[Mordecai](https://regularshow.fandom.com/wiki/Mordecai) from Regular Show.
 
 <br />
 
 ## Cave Centipede
 
-The 2007 TV show Primeval.
+The [Arthropleura](https://primeval.fandom.com/wiki/Arthropleura) from the 2007 TV show Primeval.
 
 <br />
 
 ## Cosmic Cod
 
-Terraria.
+The [Flying Fish](https://terraria.wiki.gg/wiki/Flying_Fish) from Terraria.
 
 <br />
 
 ## Crow
 
-Edgar Allan Poe's poem, "The Raven"
+Edgar Allan Poe's poem, "[The Raven](https://www.poetryfoundation.org/poems/48860/the-raven)"
 
 <br />
 
 ## Emu
 
-Australia's Great Emu War.
+Australia's [Great Emu War](https://en.wikipedia.org/wiki/Emu_War).
 
 <br />
 
@@ -204,7 +218,7 @@ That stupid fucking "meme".
 
 ## Toucan
 
-Fruit Loops.
+Froot Loops.
 
 <br />
 
@@ -372,19 +386,35 @@ Charlie and the Chocolate Factory and Squirrel Stapler.
 
 --------------------------------------------------
 
+# Enemy Expansion
+
+## Equestrian
+
+Its trivia entry references the ending of the [season 10 comic arc](https://equestripedia.org/wiki/My_Little_Pony:_Season_10) of My Little Pony: Friendship is Magic
+
+## Ladybug
+
+Its trivia entry references the 1998 movie [A Bug's life](https://en.wikipedia.org/wiki/A_Bug's_Life). One of the supporting characters (Francis) is a ladybug who's part of the travelling circus.
+
+## Scorpion
+
+Its trivia entry references the [Glyphid Stingtail](https://deeprockgalactic.wiki.gg/wiki/Glyphid_Stingtail) from Deep Rock Galactic.
+
+## Vampire
+
+Its trivia entry is a light reference to one version of [Morbius](https://en.wikipedia.org/wiki/Morbius) that drained plasma instead of blood due to censorship (I think from the 90's Spider-Man cartoon?)
+
+<br />
+
+--------------------------------------------------
+
 <br />
 
 # Environmental
 
-## Deer
-
-The opening of disney's Bambi.
-
-<br />
-
 ## Duck
 
-Part 1 of the [duck song](https://www.youtube.com/watch?v=MtN1YnoL46Q) series of YouTube videos, as well as the infamous [Lemon Rant](https://www.reddit.com/r/Portal/comments/1896lcm/when_life_gives_you_lemons_dont_make_lemonade/) from Portal 2.
+Part 1 of the [duck song](https://www.youtube.com/watch?v=MtN1YnoL46Q) series of YouTube videos, as well as the infamous [Lemon Rant](https://www.youtube.com/watch?v=NyLUU3O4zW8) from Portal 2.
 
 <br />
 
@@ -436,12 +466,6 @@ The [Lernaean Hydra](https://en.wikipedia.org/wiki/Lernaean_Hydra) from the myth
 
 <br />
 
-## Troll
-
-[Internet trolls](https://en.wikipedia.org/wiki/Trolling) and the ones from [The Elder Scrolls V: Skyrim](https://en.uesp.net/wiki/Skyrim:Troll) (even though I don't play the game lol).
-
-<br />
-
 --------------------------------------------------
 
 <br />
@@ -462,6 +486,39 @@ At first, I wanted to reference the years of the first rules for multiple countr
 My original plan was to reference multiple rulers of varying countries, but I'm not a historian and finding semi-reliable info about something as vague as "who was the first king/pharoh/other synonym" is pretty hard lol - so I settled for two from Egypt and two from Europe.
 
 <br />
+
+--------------------------------------------------
+
+<br />
+
+# Naturalist
+
+## Bass
+
+The fact that both "bass" and "bass" are pronounced differently despite being different things. You could also extend this to [Bass](https://megaman.fandom.com/wiki/Bass) from the Mega Man games (his name was mispronounced in the dub of one of the games iirc), but idc about that series and only thought of it whilst writing this sentence.
+
+## Boar
+
+The [Asterix comics](https://en.wikipedia.org/wiki/Asterix).
+
+## Canary
+
+The old idiom of a "[canary in a coal mine](https://en.wikipedia.org/wiki/Sentinel_species#Canaries)", as well as the fact that the miners would take care of the birds and attempt to retrieve them if the mine collapsed or anything.
+
+## Rhino
+
+Rhino from Marvel's Spider-Man.
+
+## Robin
+
+Refers to DC's Batman & Robin.
+
+## Zebra
+
+Its trivia entry references is an incredibly forced reference to [Zecora](https://equestripedia.org/wiki/Zecora_(Friendship_is_Magic)) from My Little Pony: Friendship is Magic. She lives in the Everfree Forest, brews potions, and always speaks in [rhyming couplets](https://en.wikipedia.org/wiki/Couplet).
+
+
+
 
 --------------------------------------------------
 

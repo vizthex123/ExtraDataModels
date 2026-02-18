@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "entity": "enemyexpansion:troll",
+    "variants": [
+        "enemyexpansion:trollenraged"
+    ],
+    "name": "entity.enemyexpansion.troll",
+    "name_color": "#6F6A63",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.troll",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 80
+        },
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 80
+        },
+        {
+            "item": "minecraft:spider_eye",
+            "count": 40
+        },
+        {
+            "item": "enemyexpansion:troll_molar",
+            "count": 1
+        }
+    ]
+}

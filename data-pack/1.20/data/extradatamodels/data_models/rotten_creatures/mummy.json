@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "rottencreatures"
+		}
+	],
+    "entity": "rottencreatures:mummy",
+    "name": "entity.rottencreatures.mummy",
+    "name_color": "#75633D",
+    "gui_scale": 0.95,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.mummy",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 64
+        },
+        {
+            "item": "minecraft:paper",
+            "count": 16
+        },
+        {
+            "item": "minecraft:gold_nugget",
+            "count": 8
+        },
+        {
+            "item": "rottencreatures:mummy_head",
+            "count": 4
+        }
+    ]
+}

@@ -6,6 +6,9 @@
 		}
 	],
     "entity": "occultism:possessed_endermite",
+    "variants": [
+        "minecraft:endermite"
+    ],
     "name": "entity.occultism.possessed_endermite",
     "name_color": "#3B2B57",
     "gui_scale": 1,

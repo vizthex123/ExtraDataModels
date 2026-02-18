@@ -2,12 +2,12 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "autumnity"
+			"modid": "naturalist"
 		}
 	],
-    "entity": "autumnity:snail",
-    "name": "entity.autumnity.snail",
-    "name_color": "#9B805B",
+    "entity": "naturalist:canary",
+    "name": "entity.naturalist.canary",
+    "name_color": "#FBE04C",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -19,15 +19,15 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.snail",
+    "trivia": "custom.trivia.canary",
     "fabricator_drops": [
         {
-            "item": "autumnity:snail_goo",
-            "count": 8
+            "item": "minecraft:feather",
+            "count": 16
         },
         {
-			"optional": true,
-            "item": "naturalist:snail_shell",
+            "optional": true,
+            "item": "hexerei:animal_fat",
             "count": 4
         }
     ]

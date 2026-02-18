@@ -1,16 +1,14 @@
 {
-    "entity": "minecraft:horse",
-    "variants": [
-		"minecraft:donkey",
-		"minecraft:mule",
-		"environmental:zebra",
-		"environmental:zorse",
-		"environmental:zonkey",
-		"naturalist:zebra"
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
 	],
-    "name": "entity.minecraft.horse",
-    "name_color": "#411D0B",
-    "gui_scale": 1,
+    "entity": "naturalist:deer",
+    "name": "entity.naturalist.deer",
+    "name_color": "#8B633C",
+    "gui_scale": 0.85,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
@@ -21,8 +19,16 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.horse",
+    "trivia": "custom.trivia.deer",
     "fabricator_drops": [
+        {
+            "item": "naturalist:venison",
+            "count": 32
+        },
+        {
+            "item": "naturalist:antler",
+            "count": 16
+        },
         {
             "item": "minecraft:leather",
             "count": 16
@@ -30,7 +36,7 @@
         {
             "optional": true,
             "item": "hexerei:animal_fat",
-            "count": 20
+            "count": 16
         }
     ]
 }

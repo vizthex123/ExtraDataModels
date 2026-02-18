@@ -1,18 +1,13 @@
 {
-    "entity": "minecraft:drowned",
-    "variants": [
-		"rottencreatures:zombie_lackey"
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "rottencreatures"
+		}
 	],
-    "name": "entity.minecraft.drowned",
-    "name_color": "#3B6269",
-    "display_nbt": {
-        "HandItems": [
-            {
-                "id": "minecraft:trident"
-            },
-            {}
-        ]
-    },
+    "entity": "rottencreatures:glacial_hunter",
+    "name": "entity.rottencreatures.glacial_hunter",
+    "name_color": "#233440",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -24,19 +19,22 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "hostilenetworks.trivia.drowned",
+	"trivia": "custom.trivia.glacial_hunter",
     "fabricator_drops": [
         {
             "item": "minecraft:rotten_flesh",
             "count": 64
         },
         {
-            "item": "minecraft:copper_ingot",
+            "item": "minecraft:cod",
+            "count": 16
+        },
+        {
+            "item": "minecraft:leather",
             "count": 8
         },
         {
-            "optional": true,
-            "item": "tconstruct:drowned_head",
+            "item": "rottencreatures:glacial_hunter_head",
             "count": 4
         }
     ]

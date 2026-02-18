@@ -1,0 +1,52 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "twilightforest"
+		}
+	],
+    "entity": "twilightforest:deer",
+    "name": "entity.twilightforest.deer",
+    "name_color": "#4B241D",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix",
+        "count": 1
+    },
+    "base_drop": {
+        "item": "hostilenetworks:twilight_prediction",
+        "count": 1
+    },
+    "trivia": "hostilenetworks.trivia.deer",
+    "fabricator_drops": [
+        {
+            "item": "twilightforest:raw_venison",
+            "count": 32
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 24
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 16
+        }
+    ],
+    "tier_data": [
+        6,
+        54,
+        354,
+        1254
+    ],
+    "data_per_kill": [
+        1,
+        4,
+        10,
+        18
+    ]
+}
