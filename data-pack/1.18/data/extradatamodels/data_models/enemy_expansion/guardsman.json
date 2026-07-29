@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:guardsman",
+	"subtypes": [
+		"enemyexpansion:huntsmanskeleton"
+	],
+    "name": "entity.enemyexpansion.guardsman",
+    "name_color": "#37060B",
+    "gui_scale": 0.85,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.guardsman",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:arrow",
+            "count": 64
+        },
+        {
+            "item": "minecraft:bone",
+            "count": 48
+        },
+        {
+            "item": "minecraft:flint",
+            "count": 24
+        },
+        {
+            "item": "minecraft:feather",
+            "count": 16
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:ghoul",
+    "name": "entity.enemyexpansion.ghoul",
+    "name_color": "#6F7C85",
+    "gui_scale": 0.78,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 384,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ghoul",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 72
+        },
+        {
+            "item": "minecraft:bone",
+            "count": 72
+        }
+    ]
+}

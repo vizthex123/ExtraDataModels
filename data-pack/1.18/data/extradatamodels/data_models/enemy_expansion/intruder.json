@@ -1,0 +1,39 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:intruder",
+    "name": "entity.enemyexpansion.intruder",
+    "name_color": "#14431F",
+    "gui_scale": 0.85,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 160,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.intruder",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:gunpowder",
+            "count": 48
+        },
+        {
+            "optional": true,
+            "item": "reliquary:catalyzing_gland",
+            "count": 3
+        },
+        {
+            "optional": true,
+            "item": "savage_and_ravage:creeper_spores",
+            "count": 6
+        }
+    ]
+}

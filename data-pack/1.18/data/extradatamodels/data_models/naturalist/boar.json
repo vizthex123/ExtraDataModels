@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
+	],
+    "type": "naturalist:boar",
+    "name": "entity.naturalist.boar",
+    "name_color": "#483222",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.boar",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:porkchop",
+            "count": 32
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

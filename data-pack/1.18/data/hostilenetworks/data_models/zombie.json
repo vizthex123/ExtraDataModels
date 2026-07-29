@@ -3,6 +3,9 @@
     "subtypes": [
         "minecraft:husk",
         "minecraft:zombie_villager",
+		"enemyexpansion:frigid",
+		"rottencreatures:zap",
+		"rottencreatures:zombie_lackey",
         "twilightforest:rising_zombie"
     ],
     "name": "entity.minecraft.zombie",

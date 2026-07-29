@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:errant",
+    "name": "entity.enemyexpansion.errant",
+    "name_color": "#2D464E",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.goblin_errant",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:raw_iron",
+            "count": 14
+        },
+        {
+            "item": "minecraft:chicken",
+            "count": 16
+        }
+    ]
+}

@@ -1,5 +1,9 @@
 {
     "type": "minecraft:chicken",
+    "subtypes": [
+		"enemyexpansion:cockatrice",
+		"enemyexpansion:rooster"
+	],
     "name": "entity.minecraft.chicken",
     "name_color": "#F0EAD6",
     "gui_scale": 1,

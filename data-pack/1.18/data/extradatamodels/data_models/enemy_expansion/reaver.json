@@ -1,0 +1,43 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:reaver",
+    "name": "entity.enemyexpansion.reaver",
+    "name_color": "#814742",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 160,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.reaver",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:emerald",
+            "count": 4
+        },
+        {
+            "item": "minecraft:arrow",
+            "count": 8
+        },
+        {
+			"optional": true,
+            "item": "galosphere:silver_nugget",
+            "count": 16
+        },
+        {
+			"optional": true,
+            "item": "food_enhancements:illager_flesh",
+            "count": 32
+        }
+    ]
+}

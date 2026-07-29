@@ -22,8 +22,8 @@
     "trivia": "custom.trivia.bloviator",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:balloon_bit",
-            "count": 8
+            "item": "cloudstorage:cloud",
+            "count": 4
         }
     ]
 }

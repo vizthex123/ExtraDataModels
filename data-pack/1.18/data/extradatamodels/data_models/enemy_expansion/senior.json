@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:senior",
+    "name": "entity.enemyexpansion.senior",
+    "name_color": "#173535",
+    "gui_scale": 0.8,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.senior",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 100
+        },
+        {
+            "item": "minecraft:apple",
+            "count": 10
+        },
+        {
+            "item": "minecraft:carrot",
+            "count": 10
+        },
+        {
+            "item": "minecraft:potato",
+            "count": 10
+        },
+        {
+            "item": "minecraft:iron_nugget",
+            "count": 20
+        }
+    ]
+}

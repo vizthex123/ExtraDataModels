@@ -1,0 +1,46 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:sprinter",
+    "name": "entity.enemyexpansion.sprinter",
+    "name_color": "#434A1E",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.sprinter",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 64
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 8
+        },
+        {
+            "item": "minecraft:cooked_rabbit",
+            "count": 16
+        },
+        {
+            "item": "minecraft:baked_potato",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "item": "reliquary:zombie_heart",
+            "count": 3
+        }
+    ]
+}

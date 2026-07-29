@@ -1,0 +1,42 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
+	],
+    "type": "naturalist:deer",
+    "name": "entity.naturalist.deer",
+    "name_color": "#8B633C",
+    "gui_scale": 0.85,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.deer",
+    "fabricator_drops": [
+        {
+            "item": "naturalist:venison",
+            "count": 32
+        },
+        {
+            "item": "naturalist:antler",
+            "count": 16
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

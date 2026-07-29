@@ -6,6 +6,9 @@
 		}
 	],
 	"type": "iceandfire:cockatrice",
+    "subtypes": [
+		"enemyexpansion:cockatrice"
+	],
     "name": "entity.iceandfire.cockatrice",
 	"name_color": "#593203",
 	"gui_scale": 0.65,

@@ -2,7 +2,9 @@
     "type": "minecraft:horse",
     "subtypes": [
 		"minecraft:donkey",
-		"minecraft:mule"
+		"minecraft:mule",
+		"enemyexpansion:kelpie",
+		"naturalist:zebra"
 	],
     "name": "entity.minecraft.horse",
     "name_color": "#411D0B",

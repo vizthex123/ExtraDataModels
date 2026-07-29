@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:meature",
+    "name": "entity.enemyexpansion.meature",
+    "name_color": "#814742",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.meature",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 64
+        },
+        {
+            "item": "minecraft:apple",
+            "count": 8
+        },
+        {
+            "item": "minecraft:carrot",
+            "count": 8
+        },
+        {
+            "item": "minecraft:potato",
+            "count": 8
+        },
+        {
+            "item": "enemyexpansion:meathead_armor_helmet",
+            "count": 1
+        }
+    ]
+}

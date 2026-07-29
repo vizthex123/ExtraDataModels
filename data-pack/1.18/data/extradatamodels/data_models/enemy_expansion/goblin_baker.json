@@ -1,0 +1,44 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:baker",
+    "subtypes": [
+		"enemyexpansion:cakerover"
+	],
+    "name": "entity.enemyexpansion.baker",
+    "name_color": "#2D464E",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.goblin_baker",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:sugar",
+            "count": 64
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 10
+        },
+        {
+            "item": "enemyexpansion:suspicious_slice",
+            "count": 16
+        },
+        {
+            "item": "enemyexpansion:preposterous_portion",
+            "count": 4
+        }
+    ]
+}

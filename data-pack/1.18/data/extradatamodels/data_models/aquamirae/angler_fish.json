@@ -5,6 +5,9 @@
 			"modid": "aquamirae"
 		}
 	],
+    "subtypes": [
+		"enemyexpansion:angler"
+	],
     "type": "aquamirae:anglerfish",
     "name": "entity.aquamirae.anglerfish",
     "name_color": "#5CDBDB",

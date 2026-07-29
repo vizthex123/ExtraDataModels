@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
+	],
+    "type": "naturalist:snail",
+    "name": "entity.naturalist.snail",
+    "name_color": "#CA9C5C",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.snail",
+    "fabricator_drops": [
+        {
+            "item": "naturalist:snail_shell",
+            "count": 4
+        },
+        {
+			"optional": true,
+            "item": "autumnity:snail_goo",
+            "count": 8
+        },
+        {
+            "item": "minecraft:slime_ball",
+            "count": 8
+        }
+    ]
+}

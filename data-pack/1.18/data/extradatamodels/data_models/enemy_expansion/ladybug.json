@@ -1,0 +1,42 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:ladybug",
+	"subtypes": [
+		"enemyexpansion:zadybug"
+	],
+    "name": "entity.enemyexpansion.ladybug",
+    "name_color": "#8F2115",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ladybug",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:spider_eye",
+            "count": 8
+        },
+        {
+            "optional": "true",
+            "item": "silentgear:fine_silk",
+            "count": 2
+        },
+        {
+            "optional": "true",
+            "item": "reliquary:chelicerae",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:gladilad",
+    "name": "entity.enemyexpansion.gladilad",
+    "name_color": "#1C2933",
+    "gui_scale": 0.87,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.gladilad",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:ink_sac",
+            "count": 48
+        },
+		{
+		  "optional": true,
+		  "item": "reliquary:squid_beak",
+		  "count": 6
+		}
+    ]
+}

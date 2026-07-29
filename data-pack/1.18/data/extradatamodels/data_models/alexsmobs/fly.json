@@ -6,6 +6,10 @@
 		}
 	],
     "type": "alexsmobs:fly",
+    "subtypes": [
+		"enemyexpansion:fly",
+		"enemyexpansion:flutterfly"
+	],
     "name": "entity.alexsmobs.fly",
     "name_color": "#464F4F",
     "gui_scale": 1,

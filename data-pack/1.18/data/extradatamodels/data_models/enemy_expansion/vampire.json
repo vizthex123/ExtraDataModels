@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:vampire",
+    "variants": [
+        "enemyexpansion:vampbiter",
+		"enemyexpansion:vampflyer"
+    ],
+    "name": "entity.enemyexpansion.vampire",
+    "name_color": "#474564",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 160,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.vampire",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:gunpowder",
+            "count": 16
+        }
+    ]
+}

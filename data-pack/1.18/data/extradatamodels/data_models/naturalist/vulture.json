@@ -1,0 +1,38 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
+	],
+    "type": "naturalist:vulture",
+    "name": "entity.naturalist.vulture",
+    "name_color": "#A26653",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.vulture",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:feather",
+            "count": 16
+        },
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 12
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 8
+        }
+    ]
+}

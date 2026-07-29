@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:troll",
+    "variants": [
+        "enemyexpansion:petrifiedtroll"
+    ],
+    "name": "entity.enemyexpansion.troll",
+    "name_color": "#6F6A63",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.troll",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:iron_nugget",
+            "count": 3
+        },
+        {
+            "item": "minecraft:gold_nugget",
+            "count": 3
+        },
+		{
+			"optional": true,
+			"item": "iceandfire:troll_leather_mountain",
+			"count": 10
+		},
+        {
+            "item": "minecraft:rooted_dirt",
+            "count": 20
+        }
+    ]
+}

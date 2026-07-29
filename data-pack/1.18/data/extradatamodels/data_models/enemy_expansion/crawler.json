@@ -1,0 +1,39 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:crawler",
+    "name": "entity.enemyexpansion.crawler",
+    "name_color": "#5C9034",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.crawler",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:gunpowder",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "item": "reliquary:catalyzing_gland",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "item": "savage_and_ravage:creeper_spores",
+            "count": 2
+        }
+    ]
+}

@@ -7,6 +7,9 @@
 	],
     "type": "alexsmobs:rattlesnake",
     "name": "entity.alexsmobs.rattlesnake",
+    "subtypes": [
+		"naturalist:rattlesnake"
+	],
     "name_color": "#91785A",
     "gui_scale": 1,
     "gui_x_offset": 0,
@@ -23,6 +26,10 @@
     "fabricator_drops": [
         {
             "item": "alexsmobs:rattlesnake_rattle",
+            "count": 4
+        },
+        {
+            "item": "alexsmobs:shed_snake_skin",
             "count": 8
         }
     ]

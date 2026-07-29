@@ -7,7 +7,7 @@
 	],
     "type": "witherstormmod:sickened_spider",
     "name": "entity.witherstormmod.sickened_spider",
-    "name_color": "#251E25",
+    "name_color": "#FF0087",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

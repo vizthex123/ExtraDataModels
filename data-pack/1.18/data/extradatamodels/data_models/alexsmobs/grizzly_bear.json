@@ -7,6 +7,10 @@
 	],
     "entity": "alexsmobs:grizzly_bear",
     "type": "alexsmobs:grizzly_bear",
+    "subtypes": [
+		"buzzier_bees:grizzly_bear",
+		"naturalist:bear"
+	],
     "name": "entity.alexsmobs.grizzly_bear",
     "name_color": "#523727",
     "gui_scale": 1,

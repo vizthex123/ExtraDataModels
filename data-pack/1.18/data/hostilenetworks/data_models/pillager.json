@@ -23,6 +23,10 @@
             "count": 4
         },
         {
+            "item": "minecraft:arrow",
+            "count": 16
+        },
+        {
 			"optional": true,
             "item": "galosphere:silver_nugget",
             "count": 16

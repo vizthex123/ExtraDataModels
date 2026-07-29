@@ -1,0 +1,50 @@
+{
+    "conditions": [
+		"type": "forge:or",
+		"values": [
+			{
+				"type": "forge:mod_loaded",
+				"modid": "biomemakeover"
+			},
+			{
+				"type": "forge:mod_loaded",
+				"modid": "reliquary"
+			}
+		]
+    ],
+    "type": "minecraft:bat",
+    "subtypes": [
+		"enemyexpansion:caster"
+	],
+    "name": "entity.minecraft.bat",
+    "name_color": "#302514",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:empty_prediction"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "hostilenetworks.trivia.bat",
+    "fabricator_drops": [
+        {
+			"optional": true,
+            "item": "biomemakeover:bat_wing",
+            "count": 8
+        },
+        {
+			"optional": true,
+            "item": "reliquary:bat_wing",
+            "count": 8
+        },
+        {
+			"optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 4
+        }
+    ]
+}

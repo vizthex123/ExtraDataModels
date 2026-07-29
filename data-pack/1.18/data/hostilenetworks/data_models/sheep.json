@@ -2,6 +2,7 @@
     "type": "minecraft:sheep",
     "subtypes": [
         "ad_astra:glacian_ram",
+        "enemyexpansion:ram",
         "twilightforest:bighorn_sheep"
     ],
     "name": "entity.minecraft.sheep",

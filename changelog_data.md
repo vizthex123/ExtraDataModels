@@ -29,6 +29,7 @@ Ported support for the following mods:
 <br /> <br />
 
 --------------------------------------------------
+
 ## 4.2.3
 
 Added a model for the Sniffer<br />
@@ -49,6 +50,7 @@ Imported Autumnity support
 <br /> <br />
 
 --------------------------------------------------
+
 ## 4.2.2
 
 Fixed a few models not loading properly (reported by warpalicious on the discord)<br />
@@ -58,6 +60,7 @@ Ported (the remaining) support for Mekanism Additions
 <br /> <br />
 
 --------------------------------------------------
+
 ## 4.2.1
 
 Fixed [#7 (several models not loading in)](https://github.com/vizthex123/ExtraDataModels/issues/7)
@@ -70,6 +73,7 @@ Disabled the model for the Tangled Hatred since the mod removed it *[Eternal Sta
 <br /> <br />
 
 --------------------------------------------------
+
 ## 4.2
 
 Added a model for the Ice Spider *[Iron's Spells n' Spellbooks]*<br />
@@ -139,6 +143,7 @@ The Bogged is now a Skeleton variant
 
 Added a model for the Blightbat *[Biome Makeover]*<br />
 Added a model for Silverfish if Caverns & Chasms is installed<br />
+Added Crude Fragment drops to the Vindicator and Evoker<br />
 Added the Catalyzing Gland and Creeper Spores to the Concussion Creeper's loot<br />
 Added Biome Makeover's Bat Wings to the Bat's loot
 
@@ -737,6 +742,29 @@ Added a data model for Camels *[Ecologics]*
 
 --------------------------------------------------
 # Minecraft 1.18 - v1.0
+
+## 1.4
+
+Fixed the Bloviator not outputting the correct item<br />
+Fixed the Horse model not supporting Naturalist's Zebra
+
+Updated the text colour for the Sickened Spider and Zombie [Wither Storm]<br />
+Buffed the Rocky Roller's Tuff and Animal Fat outputs (16 -> 32, 6 -> 8) [Alex's Mobs]<br />
+Reduced the amount of Ender Fragments given by the Enderminy, Concussion Creeper, and Infested Zombie
+
+Added some modded mobs as Alex's Mobs' variants:
+- Grizzly Bear from Buzzier Bees & Naturalist
+- Rattlesnake from Naturalist
+
+Mod support added:
+- Enemy Expansion
+- Rotten Creatures
+- Naturalist
+
+
+<br /> <br />
+
+--------------------------------------------------
 
 ## 1.3.1
 
