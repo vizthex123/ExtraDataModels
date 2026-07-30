@@ -1,16 +1,14 @@
 {
-    "type": "minecraft:zombie",
-    "subtypes": [
-        "minecraft:husk",
-        "minecraft:zombie_villager",
-		"rottencreatures:zap",
-        "twilightforest:rising_zombie",
-        "variantsandventures:gelid",
-        "variantsandventures:thicket"
-    ],
-    "name": "entity.minecraft.zombie",
-    "name_color": "#3B622F",
-    "gui_scale": 1,
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "enemyexpansion"
+		}
+	],
+    "type": "enemyexpansion:slugger",
+    "name": "entity.enemyexpansion.slugger",
+    "name_color": "#3C5A52",
+    "gui_scale": 0.85,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
@@ -21,7 +19,7 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "hostilenetworks.trivia.zombie",
+    "trivia": "custom.trivia.slugger",
     "fabricator_drops": [
         {
             "item": "minecraft:rotten_flesh",
@@ -32,21 +30,17 @@
             "count": 8
         },
         {
-            "item": "minecraft:carrot",
+            "item": "minecraft:cooked_beef",
             "count": 16
         },
         {
-            "item": "minecraft:potato",
+            "item": "minecraft:baked_potato",
             "count": 16
-        },
-        {
-            "item": "minecraft:zombie_head",
-            "count": 4
         },
         {
             "optional": true,
             "item": "reliquary:zombie_heart",
-            "count": 2
+            "count": 3
         }
     ]
 }

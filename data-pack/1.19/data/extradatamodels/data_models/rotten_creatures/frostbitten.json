@@ -1,15 +1,13 @@
 {
-    "type": "minecraft:zombie",
-    "subtypes": [
-        "minecraft:husk",
-        "minecraft:zombie_villager",
-		"rottencreatures:zap",
-        "twilightforest:rising_zombie",
-        "variantsandventures:gelid",
-        "variantsandventures:thicket"
-    ],
-    "name": "entity.minecraft.zombie",
-    "name_color": "#3B622F",
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "rottencreatures"
+		}
+	],
+    "type": "rottencreatures:frostbitten",
+    "name": "entity.rottencreatures.frostbitten",
+    "name_color": "#48586E",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -21,11 +19,15 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "hostilenetworks.trivia.zombie",
+	"trivia": "custom.trivia.frostbitten",
     "fabricator_drops": [
         {
-            "item": "minecraft:rotten_flesh",
+            "item": "rottencreatures:frozen_rotten_flesh",
             "count": 64
+        },
+        {
+            "item": "minecraft:snowball",
+            "count": 16
         },
         {
             "item": "minecraft:iron_ingot",
@@ -40,13 +42,8 @@
             "count": 16
         },
         {
-            "item": "minecraft:zombie_head",
+            "item": "rottencreatures:frostbitten_head",
             "count": 4
-        },
-        {
-            "optional": true,
-            "item": "reliquary:zombie_heart",
-            "count": 2
         }
     ]
 }

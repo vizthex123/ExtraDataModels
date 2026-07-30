@@ -2,31 +2,32 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "alexsmobs"
+			"modid": "deeperdarker"
 		}
 	],
-    "type": "alexsmobs:rattlesnake",
-    "name": "entity.alexsmobs.rattlesnake",
-	"subtypes": [
-		"naturalist:rattlesnake"
-	],
-    "name_color": "#91785A",
+    "type": "deeperdarker:sculk_leech",
+    "name": "entity.deeperdarker.sculk_leech",
+    "name_color": "#053743",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.rattlesnake",
+    "trivia": "custom.trivia.sculk_leech",
     "fabricator_drops": [
-        {
-            "item": "alexsmobs:rattlesnake_rattle",
-            "count": 8
-        }
+		{
+			"item": "minecraft:string",
+			"count": 8
+		},
+		{
+			"item": "deeperdarker:soul_dust",
+			"count": 4
+		}
     ]
 }

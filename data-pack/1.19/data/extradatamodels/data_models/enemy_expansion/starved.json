@@ -2,32 +2,32 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cloudstorage"
+			"modid": "enemyexpansion"
 		}
 	],
-    "type": "cloudstorage:bloviator",
-    "name": "entity.cloudstorage.bloviator",
-    "name_color": "#FFFFFF",
-    "gui_scale": 1,
+    "type": "enemyexpansion:starved",
+    "name": "entity.enemyexpansion.starved",
+    "name_color": "#A69C86",
+    "gui_scale": 0.6,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 128,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.bloviator",
+    "trivia": "custom.trivia.starved",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:cloud",
-            "count": 8
+            "item": "minecraft:bone",
+            "count": 16
         },
         {
-            "item": "cloudstorage:static_cloud",
-            "count": 2
+            "item": "minecraft:sand",
+            "count": 8
         }
     ]
 }

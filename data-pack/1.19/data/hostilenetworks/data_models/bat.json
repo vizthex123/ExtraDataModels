@@ -1,13 +1,7 @@
 {
-    "type": "minecraft:horse",
-    "subtypes": [
-		"minecraft:donkey",
-		"minecraft:mule",
-		"environmental:zebra",
-		"naturalist:zebra"
-	],
-    "name": "entity.minecraft.horse",
-    "name_color": "#411D0B",
+    "type": "minecraft:bat",
+    "name": "entity.minecraft.bat",
+    "name_color": "#302514",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -19,16 +13,22 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.horse",
+    "trivia": "hostilenetworks.trivia.bat",
     "fabricator_drops": [
         {
-            "item": "minecraft:leather",
-            "count": 16
+			"optional": true,
+            "item": "biomemakeover:bat_wing",
+            "count": 8
         },
         {
-            "optional": true,
+			"optional": true,
+            "item": "reliquary:bat_wing",
+            "count": 8
+        },
+        {
+			"optional": true,
             "item": "hexerei:animal_fat",
-            "count": 20
+            "count": 4
         }
     ]
 }

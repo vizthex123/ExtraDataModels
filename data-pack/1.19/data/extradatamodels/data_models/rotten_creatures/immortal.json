@@ -2,12 +2,12 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "alexsmobs"
+			"modid": "rottencreatures"
 		}
 	],
-    "type": "alexsmobs:rocky_roller",
-    "name": "entity.alexsmobs.rocky_roller",
-    "name_color": "#9D8662",
+    "type": "rottencreatures:immortal",
+    "name": "entity.rottencreatures.immortal",
+    "name_color": "#073724",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -19,24 +19,19 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.rocky_roller",
+	"trivia": "custom.trivia.immortal",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:rocky_shell",
-            "count": 2
-        },
-        {
-            "item": "minecraft:pointed_dripstone",
+            "item": "minecraft:rotten_flesh",
             "count": 32
         },
         {
-            "item": "minecraft:tuff",
+            "item": "minecraft:bone",
             "count": 32
         },
         {
-            "optional": true,
-            "item": "hexerei:animal_fat",
-            "count": 8
+            "item": "rottencreatures:immortal_head",
+            "count": 4
         }
     ]
 }

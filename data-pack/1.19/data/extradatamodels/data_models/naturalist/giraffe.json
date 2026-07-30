@@ -1,34 +1,34 @@
 {
-    "type": "minecraft:horse",
-    "subtypes": [
-		"minecraft:donkey",
-		"minecraft:mule",
-		"environmental:zebra",
-		"naturalist:zebra"
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
 	],
-    "name": "entity.minecraft.horse",
-    "name_color": "#411D0B",
-    "gui_scale": 1,
+    "type": "naturalist:giraffe",
+    "name": "entity.naturalist.giraffe",
+    "name_color": "#A76F3A",
+    "gui_scale": 0.4,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 64,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.horse",
+    "trivia": "custom.trivia.giraffe",
     "fabricator_drops": [
         {
-            "item": "minecraft:leather",
-            "count": 16
+            "item": "minecraft:hay_block",
+            "count": 8
         },
         {
             "optional": true,
             "item": "hexerei:animal_fat",
-            "count": 20
+            "count": 36
         }
     ]
 }

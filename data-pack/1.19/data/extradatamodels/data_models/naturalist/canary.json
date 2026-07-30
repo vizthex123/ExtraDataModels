@@ -1,13 +1,13 @@
 {
-    "type": "minecraft:horse",
-    "subtypes": [
-		"minecraft:donkey",
-		"minecraft:mule",
-		"environmental:zebra",
-		"naturalist:zebra"
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "naturalist"
+		}
 	],
-    "name": "entity.minecraft.horse",
-    "name_color": "#411D0B",
+    "type": "naturalist:canary",
+    "name": "entity.naturalist.canary",
+    "name_color": "#FBE04C",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -19,16 +19,16 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.horse",
+    "trivia": "custom.trivia.canary",
     "fabricator_drops": [
         {
-            "item": "minecraft:leather",
+            "item": "minecraft:feather",
             "count": 16
         },
         {
             "optional": true,
             "item": "hexerei:animal_fat",
-            "count": 20
+            "count": 4
         }
     ]
 }

@@ -1,13 +1,13 @@
 {
-    "type": "minecraft:horse",
-    "subtypes": [
-		"minecraft:donkey",
-		"minecraft:mule",
-		"environmental:zebra",
-		"naturalist:zebra"
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "biomemakeover"
+		}
 	],
-    "name": "entity.minecraft.horse",
-    "name_color": "#411D0B",
+    "type": "biomemakeover:blightbat",
+    "name": "entity.biomemakeover.blightbat",
+    "name_color": "#591F7C",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -19,16 +19,16 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.horse",
+    "trivia": "custom.trivia.blightbat",
     "fabricator_drops": [
         {
-            "item": "minecraft:leather",
-            "count": 16
+            "item": "biomemakeover:blightbat_wing",
+            "count": 8
         },
         {
-            "optional": true,
+			"optional": true,
             "item": "hexerei:animal_fat",
-            "count": 20
+            "count": 6
         }
     ]
 }

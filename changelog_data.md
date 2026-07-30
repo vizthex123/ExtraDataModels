@@ -612,6 +612,30 @@ Supports the following mods:
 --------------------------------------------------
 # Minecraft 1.19 - v2.0
 
+## 2.3
+
+Fixed the Bloviator not outputting the correct item<br />
+Fixed the Horse model not supporting Naturalist's Zebra
+
+Added Bat and Blightbat *[Biome Makeover]* models<br />
+Doubled all of the Laviathan's outputs *[Alex's Mobs]*<br />
+Tweaked Dead Beard's loot rates a tad *[Rotten Creatures]*<br />
+Updated the text colour for the Sickened Spider and Zombie *[Wither Storm]*<br />
+Buffed the Rocky Roller's Tuff and Animal Fat outputs (16 -> 32, 6 -> 8) *[Alex's Mobs]*<br />
+Reduced the amount of Ender Fragments given by the Enderminy, Concussion Creeper, and Infested Zombie
+
+Mod support added:
+- Deeper & Darker
+- Enemy Expansion
+- Naturalist
+- Rotten Creatures
+- Variants & Ventures
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 2.2.2
 
 Fixed the Crystalline Slime's model not loading in<br />
@@ -627,6 +651,7 @@ Reduce the Skreecher Soul output to 1 (was 2)
 <br /> <br />
 
 --------------------------------------------------
+
 ## 2.2.1
 
 Added Hexerei's animal fat drops to most modded mobs<br />
@@ -748,8 +773,8 @@ Added a data model for Camels *[Ecologics]*
 Fixed the Bloviator not outputting the correct item<br />
 Fixed the Horse model not supporting Naturalist's Zebra
 
-Updated the text colour for the Sickened Spider and Zombie [Wither Storm]<br />
-Buffed the Rocky Roller's Tuff and Animal Fat outputs (16 -> 32, 6 -> 8) [Alex's Mobs]<br />
+Updated the text colour for the Sickened Spider and Zombie *[Wither Storm]*<br />
+Buffed the Rocky Roller's Tuff and Animal Fat outputs (16 -> 32, 6 -> 8) *[Alex's Mobs]*<br />
 Reduced the amount of Ender Fragments given by the Enderminy, Concussion Creeper, and Infested Zombie
 
 Added some modded mobs as Alex's Mobs' variants:

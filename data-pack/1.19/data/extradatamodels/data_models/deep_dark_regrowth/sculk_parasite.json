@@ -24,6 +24,10 @@
 		{
 			"item": "deep_dark_regrowth:mossy_fluorite",
 			"count": 8
+		},
+		{
+			"item": "deeperdarker:soul_dust",
+			"count": 16
 		}
     ],
 	"tier_data": [

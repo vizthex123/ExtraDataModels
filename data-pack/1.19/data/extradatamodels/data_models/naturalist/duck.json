@@ -2,41 +2,41 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "alexsmobs"
+			"modid": "naturalist"
 		}
 	],
-    "type": "alexsmobs:rocky_roller",
-    "name": "entity.alexsmobs.rocky_roller",
-    "name_color": "#9D8662",
+    "type": "naturalist:duck",
+    "name": "entity.naturalist.duck",
+    "name_color": "#146223",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 128,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.rocky_roller",
+    "trivia": "custom.trivia.duck",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:rocky_shell",
-            "count": 2
-        },
-        {
-            "item": "minecraft:pointed_dripstone",
+            "item": "naturalist:duck",
             "count": 32
         },
         {
-            "item": "minecraft:tuff",
-            "count": 32
+            "item": "minecraft:feather",
+            "count": 16
+        },
+        {
+            "item": "naturalist:duck_egg",
+            "count": 8
         },
         {
             "optional": true,
             "item": "hexerei:animal_fat",
-            "count": 8
+            "count": 4
         }
     ]
 }

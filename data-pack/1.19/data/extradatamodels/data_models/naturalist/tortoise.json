@@ -2,32 +2,32 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cloudstorage"
+			"modid": "naturalist"
 		}
 	],
-    "type": "cloudstorage:bloviator",
-    "name": "entity.cloudstorage.bloviator",
-    "name_color": "#FFFFFF",
+    "type": "naturalist:tortoise",
+    "name": "entity.naturalist.tortoise",
+    "name_color": "#5F624A",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.bloviator",
+    "trivia": "custom.trivia.tortoise",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:cloud",
-            "count": 8
+            "item": "naturalist:reptile_hide",
+            "count": 4
         },
         {
-            "item": "cloudstorage:static_cloud",
-            "count": 2
+            "item": "naturalist:tortoise_egg",
+            "count": 8
         }
     ]
 }

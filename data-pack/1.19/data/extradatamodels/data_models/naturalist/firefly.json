@@ -2,32 +2,28 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cloudstorage"
+			"modid": "naturalist"
 		}
 	],
-    "type": "cloudstorage:bloviator",
-    "name": "entity.cloudstorage.bloviator",
-    "name_color": "#FFFFFF",
+    "type": "naturalist:firefly",
+    "name": "entity.naturalist.firefly",
+    "name_color": "#FCDC20",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 32,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.bloviator",
+    "trivia": "custom.trivia.firefly",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:cloud",
+            "item": "naturalist:glow_goop",
             "count": 8
-        },
-        {
-            "item": "cloudstorage:static_cloud",
-            "count": 2
         }
     ]
 }

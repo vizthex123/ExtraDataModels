@@ -2,41 +2,38 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "witherstormmod"
+			"modid": "enemyexpansion"
 		}
 	],
-    "type": "witherstormmod:sickened_spider",
-    "name": "entity.witherstormmod.sickened_spider",
-    "name_color": "#FF0087",
+    "type": "enemyexpansion:ladybug",
+    "name": "entity.enemyexpansion.ladybug",
+    "name_color": "#8F2115",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 112,
+    "sim_cost": 96,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.sickened_spider",
+    "trivia": "custom.trivia.ladybug",
     "fabricator_drops": [
         {
-            "item": "witherstormmod:withered_flesh",
-            "count": 12
-        },
-        {
-            "item": "minecraft:string",
-            "count": 48
-        },
-        {
-            "item": "minecraft:cobweb",
+            "item": "minecraft:spider_eye",
             "count": 8
         },
         {
             "optional": "true",
+            "item": "silentgear:fine_silk",
+            "count": 2
+        },
+        {
+            "optional": "true",
             "item": "reliquary:chelicerae",
-            "count": 3
+            "count": 1
         }
     ]
 }

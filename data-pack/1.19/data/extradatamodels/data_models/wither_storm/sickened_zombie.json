@@ -7,7 +7,7 @@
 	],
     "type": "witherstormmod:sickened_zombie",
     "name": "entity.witherstormmod.sickened_zombie",
-    "name_color": "#4B4553",
+    "name_color": "#382057",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,

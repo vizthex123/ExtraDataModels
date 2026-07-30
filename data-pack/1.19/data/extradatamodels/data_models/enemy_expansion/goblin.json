@@ -2,32 +2,28 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cloudstorage"
+			"modid": "enemyexpansion"
 		}
 	],
-    "type": "cloudstorage:bloviator",
-    "name": "entity.cloudstorage.bloviator",
-    "name_color": "#FFFFFF",
+    "type": "enemyexpansion:goblin",
+    "name": "entity.enemyexpansion.goblin",
+    "name_color": "#2D464E",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 128,
     "input": {
         "item": "hostilenetworks:empty_prediction"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.bloviator",
+    "trivia": "custom.trivia.goblin",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:cloud",
+            "item": "minecraft:experience_bottle",
             "count": 8
-        },
-        {
-            "item": "cloudstorage:static_cloud",
-            "count": 2
         }
     ]
 }
