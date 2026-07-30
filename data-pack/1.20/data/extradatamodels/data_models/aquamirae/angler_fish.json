@@ -6,6 +6,9 @@
 		}
 	],
     "entity": "aquamirae:anglerfish",
+	"variants": [
+		"deeperdarker:angler_fish"
+	],
     "name": "entity.aquamirae.anglerfish",
     "name_color": "#5CDBDB",
     "gui_scale": 0.3,
@@ -26,12 +29,16 @@
             "count": 8
         },
         {
-            "item": "aquamirae:anglers_fang",
+            "item": "aquamirae:angler_fang",
             "count": 4
         },
         {
             "item": "aquamirae:esca",
             "count": 2
+        },
+        {
+            "item": "aquamirae:ship_graveyard_echo",
+            "count": 1
         }
     ]
 }

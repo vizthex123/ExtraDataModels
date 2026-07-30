@@ -22,6 +22,11 @@
 	"trivia": "custom.trivia.lightning_dragon",
 	"fabricator_drops": [
 		{
+			"optional": true,
+			"item": "iceandfire:lightning_dragon_heart",
+			"count": 4
+		},
+		{
 			"item": "iceandfire:lightning_dragon_flesh",
 			"count": 8
 		},
@@ -30,7 +35,7 @@
 			"count": 16
 		},
 		{
-			"item": "iceandfire:dragonscales_amythest",
+			"item": "iceandfire:dragonscales_amethyst",
 			"count": 32
 		},
 		{
@@ -48,6 +53,11 @@
 		{
 			"item": "iceandfire:lightning_dragon_blood",
 			"count": 4
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:dragon_skull_lightning",
+			"count": 1
 		}
 	],
     "tier_data": [

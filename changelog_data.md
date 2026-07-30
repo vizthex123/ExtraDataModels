@@ -139,6 +139,34 @@ The Bogged is now a Skeleton variant
 --------------------------------------------------
 # Minecraft 1.20 - v3.0
 
+## 3.12
+
+Fixed the Bat model not loading in<br />
+Fixed the Bloviator not outputting the correct items<br />
+Fixed the Horse model not supporting Naturalist's Zebra
+
+Buffed the Sniffer's Animal Fat output to 128 (was 32)<br />
+Nerfed the Eel's Treasure Pouch output to 1 (was 4) *[Aquamirae]*<br />
+Adjusted the drop amounts for the Burned *[Rotten Creatures]*<br />
+Adjusted some drop amounts for Dead Beard and the Undead Miner *[Rotten Creatures]*
+
+Removed the Zebra model *[Naturalist]*<br />
+Added a model for the Sour Sludge *[End's Phantasm]*<br />
+Added a model for the Abyssal Scyphoid *[Aquamirae]*<br />
+Added models for the new Caverns & Chasms mobs<br />
+Added models for the new Aquamirae mobs<br />
+Updated Ice & Fire support to work with some Community Edition content (requested by Zafkiel in the comments section)
+- Since both mods use the same ID, all of the models already loaded in - but since I've never used this mod, it's possible I missed something. If so, please let me know & I'll fix it.
+
+Mod support added:
+- Deeper & Darker (requested by (nosnowowie93347)[https://github.com/vizthex123/ExtraDataModels/issues/11])
+- ForceCraft
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.11
 
 Added a model for the Blightbat *[Biome Makeover]*<br />
@@ -614,7 +642,7 @@ Supports the following mods:
 
 ## 2.3
 
-Fixed the Bloviator not outputting the correct item<br />
+Fixed the Bloviator not outputting the correct items<br />
 Fixed the Horse model not supporting Naturalist's Zebra
 
 Added Bat and Blightbat *[Biome Makeover]* models<br />
@@ -770,7 +798,7 @@ Added a data model for Camels *[Ecologics]*
 
 ## 1.4
 
-Fixed the Bloviator not outputting the correct item<br />
+Fixed the Bloviator not outputting the correct items<br />
 Fixed the Horse model not supporting Naturalist's Zebra
 
 Updated the text colour for the Sickened Spider and Zombie *[Wither Storm]*<br />

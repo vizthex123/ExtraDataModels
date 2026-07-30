@@ -43,15 +43,19 @@
         },
         {
             "item": "minecraft:diamond",
-            "count": 2
+            "count": 4
         },
         {
             "item": "minecraft:feather",
             "count": 16
         },
         {
+            "item": "minecraft:paper",
+            "count": 24
+        },
+        {
             "item": "minecraft:experience_bottle",
-            "count": 8
+            "count": 10
         },
         {
             "item": "rottencreatures:dead_beard_head",

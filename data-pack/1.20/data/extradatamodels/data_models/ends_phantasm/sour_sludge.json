@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "phantasm"
+		}
+	],
+    "entity": "phantasm:sour_sludge",
+    "name": "entity.phantasm.sour_sludge",
+    "name_color": "#351426",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.sour_sludge",
+    "fabricator_drops": [
+		{
+			"item": "phantasm:pomb_slice",
+			"count": 32
+		},
+		{
+			"item": "phantasm:acidic_mass",
+			"count": 8
+		}
+    ]
+}

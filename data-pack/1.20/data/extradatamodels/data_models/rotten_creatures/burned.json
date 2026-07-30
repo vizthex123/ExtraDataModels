@@ -27,11 +27,11 @@
         },
 		{
             "item": "minecraft:magma_cream",
-            "count": 16
+            "count": 24
         },
 		{
-            "item": "minecraft:magma",
-            "count": 8
+            "item": "minecraft:magma_block",
+            "count": 6
         },
         {
             "item": "rottencreatures:burned_head",

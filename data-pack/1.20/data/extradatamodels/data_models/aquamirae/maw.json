@@ -32,6 +32,10 @@
         {
             "item": "minecraft:slime_ball",
             "count": 4
+        },
+        {
+            "item": "aquamirae:ship_graveyard_echo",
+            "count": 1
         }
 	]
 }

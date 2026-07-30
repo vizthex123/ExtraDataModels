@@ -36,6 +36,11 @@
 		{
 			"item": "iceandfire:troll_tusk",
 			"count": 4
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:troll_skull",
+			"count": 2
 		}
 	]
 }

@@ -2,32 +2,32 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cloudstorage"
+			"modid": "aquamirae"
 		}
 	],
-    "entity": "cloudstorage:bloviator",
-    "name": "entity.cloudstorage.bloviator",
-    "name_color": "#FFFFFF",
+    "entity": "aquamirae:abyssal_scyphoid",
+    "name": "entity.aquamirae.abyssal_scyphoid",
+    "name_color": "#FF5FFF",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 128,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.bloviator",
+    "trivia": "custom.trivia.abyssal_scyphoid",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:cloud",
-            "count": 8
+            "item": "aquamirae:jellyfish_jelly",
+            "count": 32
         },
         {
-            "item": "cloudstorage:static_cloud",
-            "count": 2
+            "item": "aquamirae:ship_graveyard_echo",
+            "count": 1
         }
     ]
 }

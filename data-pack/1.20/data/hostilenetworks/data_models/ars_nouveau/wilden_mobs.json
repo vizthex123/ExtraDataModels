@@ -12,7 +12,7 @@
     ],
     "name": "name.hostilenetworks.ars_wilden",
     "name_color": "#55FF55",
-    "gui_scale": 1,
+    "gui_scale": 0.95,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
@@ -26,16 +26,16 @@
     "trivia": "hostilenetworks.trivia.ars_wilden",
     "fabricator_drops": [
         {
-            "item": "ars_nouveau:wilden_horn",
-            "count": 16
+            "item": "ars_nouveau:wilden_spike",
+            "count": 4
         },
         {
-            "item": "ars_nouveau:wilden_spike",
-            "count": 16
+            "item": "ars_nouveau:wilden_horn",
+            "count": 4
         },
         {
             "item": "ars_nouveau:wilden_wing",
-            "count": 16
+            "count": 4
         },
         {
             "optional": true,

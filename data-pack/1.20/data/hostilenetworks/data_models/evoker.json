@@ -25,6 +25,11 @@
         },
         {
 			"optional": true,
+            "item": "biomemakover:crude_fragment",
+            "count": 16
+        },
+        {
+			"optional": true,
             "item": "biomemakeover:illunite_shard",
             "count": 8
         }

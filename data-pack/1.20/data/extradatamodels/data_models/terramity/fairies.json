@@ -8,7 +8,9 @@
     "entity": "terramity:blue_fairy",
     "variants": [
         "terramity:green_fairy",
-        "terramity:pink_fairy"
+        "terramity:pink_fairy",
+        "forcecraft:fairy",
+        "iceandfire:pixie"
     ],
     "name": "entity.terramity.fairies",
     "name_color": "#8FFFFF",

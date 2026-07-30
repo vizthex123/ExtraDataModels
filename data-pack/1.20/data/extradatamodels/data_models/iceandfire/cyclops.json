@@ -32,6 +32,11 @@
 		{
 			"item": "minecraft:white_wool",
 			"count": 64
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:cyclops_skull",
+			"count": 2
 		}
 	],
     "tier_data": [

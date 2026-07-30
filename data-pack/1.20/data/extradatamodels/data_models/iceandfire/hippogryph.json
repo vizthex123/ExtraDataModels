@@ -28,6 +28,21 @@
 		{
 			"item": "minecraft:feather",
 			"count": 32
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:hippogryph_egg",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:hippogryph_skull",
+			"count": 2
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:hippogryph_talon",
+			"count": 1
 		}
 	]
 }

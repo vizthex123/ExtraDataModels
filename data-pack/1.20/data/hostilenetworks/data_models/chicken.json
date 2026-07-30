@@ -1,5 +1,8 @@
 {
     "entity": "minecraft:chicken",
+	"variants": [
+		"forcecraft:cold_chicken"
+	],
     "name": "entity.minecraft.chicken",
     "name_color": "#F0EAD6",
     "gui_scale": 1,

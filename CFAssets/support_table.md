@@ -17,7 +17,7 @@
 | [Cloud Storage](https://www.curseforge.com/minecraft/mc-mods/alexs-cloud-storage)														|				|✔			|✔			|✔		      |      		    |1.3											     |
 | [The Conjurer](https://www.curseforge.com/minecraft/mc-mods/the-conjurer)																		|				|✔			|✔			|✔			  |      		    |1.2											     |
 | [Cracker's Wither Storm](https://www.curseforge.com/minecraft/mc-mods/crackers-wither-storm-mod)						|				|✔			|✔			|✔		      |      		    |3.3											     |
-| [Deeper & Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)																|				|				|✔			|			      |      		    |2.3											     |
+| [Deeper & Darker](https://www.curseforge.com/minecraft/mc-mods/deeperdarker)																|				|				|✔			|✔		      |      		    |2.3											     |
 | [Deep Dark: Regrowth](https://www.curseforge.com/minecraft/mc-mods/deep-dark-regrowth)										|				|				|✔			|✔			  |      		    |2.1											     |
 | [Draconic Evolution](https://www.curseforge.com/minecraft/mc-mods/draconic-evolution)												|				|✔			|				|✔		      |✔		    |1.3											     |
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics)																					|				|✔			|✔			|✔			  |✔		    |											     		 |
@@ -28,9 +28,11 @@
 | [Enemy Expansion](https://www.curseforge.com/minecraft/mc-mods/enemy-expansion)													|				|✔			|✔			|✔			  |			    |3.11											     |
 | [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental)																|				|				|✔			|✔		      |✔		    |2.2											     |
 | [Eternal Starlight](https://www.curseforge.com/minecraft/mc-mods/eternal-starlight)															|				|				|				|				  |✔		    |4.1											     |
+| [ForceCraft](https://www.curseforge.com/minecraft/mc-mods/forcecraft)																			 		|				|				|				|✔			  |			    |3.12											     |
 | [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge)													|				|✔			|✔			|✔			  |✔		    |1.1											     |
 | [Galosphere](https://www.curseforge.com/minecraft/mc-mods/galosphere)																				|				|				|				|✔			  |✔		    |3.0											     |
 | [Ice & Fire](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons)     				 											|✔  		|✔			|✔			|✔			  |			    |0.7											     |
+| [Ice & Fire: Community Edition](https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-ce)     				 				|				|				|				|✔		      |			    |3.12											     |
 | [Iron's Spells 'n Spellbooks](https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks)						|				|✔			|✔			|✔			  |✔		    |1.1											     |
 | [Jaden's Nether Expansion](https://www.curseforge.com/minecraft/mc-mods/jadens-nether-expansion)						|				|				|				|✔			  |			    |3.6											     |
 | [L_Ender's Cataclysm](https://www.curseforge.com/minecraft/mc-mods/lendercataclysm)													|				|✔			|✔			|✔			  |✔		    |1.2											     |

@@ -1,28 +1,34 @@
 {
-    "entity": "minecraft:sniffer",
-    "name": "entity.minecraft.sniffer",
-    "name_color": "#B99529",
-    "gui_scale": 0.5,
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "caverns_and_chasms"
+		}
+	],
+    "entity": "caverns_and_chasms:rat",
+    "name": "entity.caverns_and_chasms.rat",
+    "name_color": "#5E4A3F",
+    "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 72,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.sniffer",
+    "trivia": "custom.trivia.rat",
     "fabricator_drops": [
         {
-            "item": "minecraft:sniffer_egg",
+            "item": "minecraft:bone",
             "count": 4
         },
         {
-            "optional": true,
+			"optional": true,
             "item": "hexerei:animal_fat",
-            "count": 128
+            "count": 4
         }
     ]
 }

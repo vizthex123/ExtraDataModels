@@ -2,12 +2,12 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "enemyexpansion"
+			"modid": "forcecraft"
 		}
 	],
-    "entity": "enemyexpansion:scorpion",
-    "name": "entity.enemyexpansion.scorpion",
-    "name_color": "#342120",
+    "entity": "forcecraft:green_chu_chu",
+    "name": "entity.forcecraft.green_chu_chu",
+    "name_color": "#367E65",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -19,16 +19,11 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.scorpion",
+    "trivia": "custom.trivia.chu_chu",
     "fabricator_drops": [
         {
-            "item": "enemyexpansion:scorpion_tail",
-            "count": 8
-        },
-        {
-            "optional": "true",
-            "item": "reliquary:chelicerae",
-            "count": 1
+            "item": "forcecraft:green_chu_jelly",
+            "count": 32
         }
     ]
 }

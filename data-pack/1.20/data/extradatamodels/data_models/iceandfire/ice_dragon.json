@@ -22,6 +22,11 @@
 	"trivia": "custom.trivia.ice_dragon",
 	"fabricator_drops": [
 		{
+			"optional": true,
+			"item": "iceandfire:ice_dragon_heart",
+			"count": 4
+		},
+		{
 			"item": "iceandfire:ice_dragon_flesh",
 			"count": 8
 		},
@@ -48,6 +53,11 @@
 		{
 			"item": "iceandfire:ice_dragon_blood",
 			"count": 4
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:dragon_skull_ice",
+			"count": 1
 		}
 	],
     "tier_data": [

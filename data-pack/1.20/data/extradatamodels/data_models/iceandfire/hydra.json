@@ -23,7 +23,7 @@
 	"fabricator_drops": [
 		{
 			"item": "minecraft:rotten_flesh",
-			"count": 64
+			"count": 72
 		},
 		{
 			"item": "iceandfire:hydra_fang",
@@ -38,6 +38,11 @@
 			"optional": true,
 			"item": "twilightforest:fiery_blood",
 			"count": 4
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:hydra_skull",
+			"count": 2
 		}
 	],
     "tier_data": [

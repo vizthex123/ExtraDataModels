@@ -22,6 +22,10 @@
 	"trivia": "custom.trivia.sea_serpent",
 	"fabricator_drops": [
 		{
+			"item": "iceandfire:sea_serpent_scales_purple",
+			"count": 32
+		},
+		{
 			"item": "iceandfire:sea_serpent_scales_deepblue",
 			"count": 32
 		},
@@ -31,10 +35,6 @@
 		},
 		{
 			"item": "iceandfire:sea_serpent_scales_teal",
-			"count": 32
-		},
-		{
-			"item": "iceandfire:sea_serpent_scales_purple",
 			"count": 32
 		},
 		{
@@ -48,6 +48,11 @@
 		{
 			"item": "iceandfire:sea_serpent_fang",
 			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:seaserpent_skull",
+			"count": 2
 		}
 	]
 }

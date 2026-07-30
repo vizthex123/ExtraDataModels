@@ -42,6 +42,11 @@
 		{
 			"item": "iceandfire:stymphalian_bird_feather",
 			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:stymphalian_skull",
+			"count": 2
 		}
 	]
 }

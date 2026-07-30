@@ -21,6 +21,7 @@
 		"endermanoverhaul:nether_wastes_enderman",
 		"endermanoverhaul:warped_forest_enderman",
 		"endermanoverhaul:windswept_hills_enderman",
+        "forcecraft:angry_enderman",
 		"mekanismadditions:baby_enderman"
 ],
     "name": "entity.minecraft.enderman",

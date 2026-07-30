@@ -29,16 +29,21 @@
             "count": 80
         },
         {
-            "item": "minecraft:rotten_flesh",
-            "count": 80
-        },
-        {
             "item": "minecraft:spider_eye",
             "count": 40
         },
         {
+            "item": "minecraft:rooted_dirt",
+            "count": 20
+        },
+        {
             "item": "enemyexpansion:troll_molar",
             "count": 1
-        }
+        },
+		{
+			"optional": true,
+			"item": "iceandfire:troll_leather_mountain",
+			"count": 10
+		}
     ]
 }

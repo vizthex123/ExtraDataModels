@@ -2,12 +2,12 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "enderzoology"
+			"modid": "forcecraft"
 		}
 	],
-    "entity": "enderzoology:enderminy",
-    "name": "entity.enderzoology.enderminy",
-    "name_color": "#082420",
+    "entity": "forcecraft:ender_tot",
+    "name": "entity.forcecraft.ender_tot",
+    "name_color": "#161616",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -17,13 +17,23 @@
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "item": "hostilenetworks:end_prediction"
+        "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.enderminy",
+    "trivia": "custom.trivia.ender_tot",
     "fabricator_drops": [
         {
-            "item": "enderzoology:ender_fragment",
-            "count": 20
+            "item": "minecraft:ender_pearl",
+            "count": 4
+        },
+        {
+            "optional": true,
+            "item": "tconstruct:enderman_head",
+            "count": 2
+        },
+        {
+            "optional": true,
+            "item": "enderio:enderman_head",
+            "count": 2
         },
         {
             "optional": true,

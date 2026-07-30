@@ -2,32 +2,32 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cloudstorage"
+			"modid": "caverns_and_chasms"
 		}
 	],
-    "entity": "cloudstorage:bloviator",
-    "name": "entity.cloudstorage.bloviator",
-    "name_color": "#FFFFFF",
+    "entity": "caverns_and_chasms:cavefish",
+    "name": "entity.caverns_and_chasms.cavefish",
+    "name_color": "#9C8D90",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 32,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.bloviator",
+    "trivia": "custom.trivia.cavefish",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:cloud",
-            "count": 8
+            "item": "caverns_and_chasms:cavefish",
+            "count": 32
         },
         {
-            "item": "cloudstorage:static_cloud",
-            "count": 2
+            "item": "minecraft:bone_meal",
+            "count": 4
         }
     ]
 }

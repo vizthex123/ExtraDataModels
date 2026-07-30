@@ -32,6 +32,16 @@
 		{
 			"item": "iceandfire:witherbone",
 			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:cockatrice_skull",
+			"count": 2
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:cockatrice_eye",
+			"count": 1
 		}
 	]
 }

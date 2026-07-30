@@ -3,10 +3,10 @@
     "variants": [
 		"minecraft:donkey",
 		"minecraft:mule",
+		"naturalist:zebra",
 		"environmental:zebra",
 		"environmental:zorse",
-		"environmental:zonkey",
-		"naturalist:zebra"
+		"environmental:zonkey"
 	],
     "name": "entity.minecraft.horse",
     "name_color": "#411D0B",

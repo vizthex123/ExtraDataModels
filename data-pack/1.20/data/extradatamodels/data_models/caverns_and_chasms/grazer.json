@@ -2,15 +2,15 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "alexsmobs"
+			"modid": "caverns_and_chasms"
 		}
 	],
-    "entity": "alexsmobs:rattlesnake",
-    "name": "entity.alexsmobs.rattlesnake",
-	"variants": [
-		"naturalist:rattlesnake"
+    "entity": "caverns_and_chasms:grazer",
+    "variants": [
+		"caverns_and_chasms:saddled_grazer"
 	],
-    "name_color": "#91785A",
+    "name": "entity.caverns_and_chasms.grazer",
+    "name_color": "#665229",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
@@ -22,10 +22,14 @@
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.rattlesnake",
+    "trivia": "custom.trivia.grazer",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:rattlesnake_rattle",
+            "item": "caverns_and_chasms:tin_ingot",
+            "count": 16
+        },
+        {
+            "item": "caverns_and_chasms:saddled_egg",
             "count": 8
         }
     ]

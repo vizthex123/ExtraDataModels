@@ -36,6 +36,16 @@
 		{
 			"item": "iceandfire:deathworm_chitin_white",
 			"count": 16
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:deathworm_egg",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:deathworm_egg_giant",
+			"count": 4
 		}
 	]
 }

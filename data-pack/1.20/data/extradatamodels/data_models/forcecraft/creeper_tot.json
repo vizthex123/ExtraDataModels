@@ -1,0 +1,43 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "forcecraft"
+		}
+	],
+    "entity": "forcecraft:creeper_tot",
+    "name": "entity.forcecraft.creeper_tot",
+    "name_color": "#890109",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.creeper_tot",
+    "fabricator_drops": [
+        {
+            "item": "forcecraft:pile_of_gunpowder",
+            "count": 32
+        },
+        {
+            "optional": true,
+            "item": "reliquary:catalyzing_gland",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "item": "savage_and_ravage:creeper_spores",
+            "count": 2
+        },
+        {
+            "item": "minecraft:creeper_head",
+            "count": 2
+        }
+    ]
+}

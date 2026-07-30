@@ -2,32 +2,28 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "cloudstorage"
+			"modid": "aquamirae"
 		}
 	],
-    "entity": "cloudstorage:bloviator",
-    "name": "entity.cloudstorage.bloviator",
-    "name_color": "#FFFFFF",
+    "entity": "aquamirae:scuttler",
+    "name": "entity.aquamirae.scuttler",
+    "name_color": "#4A5B6A",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.bloviator",
+    "trivia": "custom.trivia.scuttler",
     "fabricator_drops": [
         {
-            "item": "cloudstorage:cloud",
+            "item": "minecraft:string",
             "count": 8
-        },
-        {
-            "item": "cloudstorage:static_cloud",
-            "count": 2
         }
     ]
 }

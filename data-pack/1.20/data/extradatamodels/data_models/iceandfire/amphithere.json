@@ -24,6 +24,11 @@
 		{
 			"item": "iceandfire:amphithere_feather",
 			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:amphithere_skull",
+			"count": 2
 		}
 	]
 }
