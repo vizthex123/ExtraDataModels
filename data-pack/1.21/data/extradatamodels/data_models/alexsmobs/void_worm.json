@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:void_worm",
+    "name": {
+        "translate": "entity.alexsmobs.void_worm",
+        "color": "#4F4EB3"
+    },
+    "display": {
+        "scale": 0.35
+    },
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.void_worm",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:void_worm_eye",
+            "count": 1
+        },
+        {
+            "id": "alexsmobs:void_worm_mandible",
+            "count": 8
+        }
+    ]
+}

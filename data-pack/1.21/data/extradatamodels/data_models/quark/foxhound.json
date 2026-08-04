@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "quark"
+        }
+    ],
+    "entity": "quark:foxhound",
+    "name": {
+        "translate": "entity.quark.foxhound",
+        "color": "#751D23"
+    },
+    "display": {
+        "scale": 0.85
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.foxhound",
+    "fabricator_drops": [
+		{
+            "id": "minecraft:coal",
+            "count": 32
+        },
+		{
+            "id": "minecraft:leather",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:tusklin",
+    "name": {
+        "translate": "entity.alexsmobs.tusklin",
+        "color": "#E6E9EC"
+    },
+    "display": {
+        "scale": 0.75
+    },
+    "sim_cost": 192,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.tusklin",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:porkchop",
+            "count": 32
+        },
+        {
+            "id": "minecraft:snowball",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

@@ -10,6 +10,48 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## 4.4
+
+Added a model for the Goose *[Upgrade Aquatic]*<br />
+Added a model for the Apparition *[Jaden's Nether Expansion]*<br />
+Added the Guardian Wither as a Wither variant *[Draconic Evolution]*<br />
+The Caiman is now an Alligator variant *[Alex's Mobs] [Naturalist]*<br />
+The Zap is now a Drowned variant *[Rotten Creatures]*<br />
+Fixed a few Crab models having the wrong RF rates
+
+Adjusted the data requirements for Ice & Fire's dragons and Cyclops<br />
+Buffed the Dread Knight's Iron drop to 24 (was 16) *[Ice & Fire: Community Edition]*<br />
+Replaced the Possessed Endermite model with a vanilla Endermite<br />
+Imported some random changes from previous versions
+- Wildfire now uses 512 RF/t (was 256)
+- Added a model for the Bat and Silverfish
+- Support for new variants of Creepers & Drowned
+- Importing some mod support drops for various vanilla models
+- Buffed the Skeleton and Zombie Horse drop amounts
+
+Mod support added:
+- Alex's Mobs (Unofficial Port)
+- Alex's Mobs Continued
+- Caverns & Chasms
+- Dangerous Mobs
+- Deeper & Darker (requested by [nosnowowie93347](https://github.com/vizthex123/ExtraDataModels/issues/1))
+- Ecologics
+- End's Phantasm
+- ForceCraft
+- Ice & Fire: Community Edition (requested by Zafkiel in the CF comments)
+- Jaden's Nether Expansion
+- Mob Compack
+- Naturalist
+- Quark
+- Rotten Creatures
+- Variants & Ventures
+- Zombie Variants
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 4.3
 
 Fixed the Lunar Monstrosity model not loading in (and tweaked its loot a bit) *[Eternal Starlight]*<br />

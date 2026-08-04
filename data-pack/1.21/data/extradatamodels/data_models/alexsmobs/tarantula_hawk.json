@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:tarantula_hawk",
+    "name": {
+        "translate": "entity.alexsmobs.tarantula_hawk",
+        "color": "#1C1F2F"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.tarantula_hawk",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:tarantula_hawk_wing_fragment",
+            "count": 2
+        }
+    ]
+}

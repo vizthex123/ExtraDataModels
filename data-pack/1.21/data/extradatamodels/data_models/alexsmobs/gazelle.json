@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:gazelle",
+    "name": {
+        "translate": "entity.alexsmobs.gazelle",
+        "color": "#765944"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.gazelle",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:mutton",
+            "count": 16
+        },
+        {
+            "id": "alexsmobs:gazelle_horn",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

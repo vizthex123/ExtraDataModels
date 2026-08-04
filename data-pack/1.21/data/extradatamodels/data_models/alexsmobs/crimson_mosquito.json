@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:crimson_mosquito",
+    "name": {
+        "translate": "entity.alexsmobs.crimson_mosquito",
+        "color": "#900429"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 24,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.crimson_mosquito",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:mosquito_proboscis",
+            "count": 2
+        },
+        {
+            "id": "alexsmobs:blood_sac",
+            "count": 1
+        }
+    ]
+}

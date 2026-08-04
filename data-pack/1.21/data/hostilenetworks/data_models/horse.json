@@ -1,4 +1,12 @@
 {
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:not",
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+	  }
+    ],
     "entity": "minecraft:horse",
     "variants": [
 		"minecraft:donkey",
@@ -10,6 +18,9 @@
     "name": {
         "translate": "entity.minecraft.horse",
         "color": "#411D0B"
+    },
+    "display": {
+        "scale": 1
     },
     "sim_cost": 64,
     "input": {

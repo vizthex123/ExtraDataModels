@@ -1,0 +1,35 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:hedgehog",
+    "name": {
+        "translate": "entity.naturalist.hedgehog",
+        "color": "#0252B0"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.hedgehog",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:morsel",
+            "count": 4
+        },
+        {
+			"optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 4
+        }
+    ]
+}

@@ -23,26 +23,26 @@
 	"trivia": "custom.trivia.aurora_deer",
     "fabricator_drops": [
 		{
+            "id": "eternal_starlight:aurora_deer_steak",
+            "count": 8
+        },
+		{
             "id": "minecraft:leather",
             "count": 16
         },
-		{
-            "id": "eternal_starlight:aurora_deer_steak",
-            "count": 8
+        {
+            "optional": true,
+            "id": "naturalist:venison",
+            "count": 32
+        },
+        {
+            "optional": true,
+            "id": "naturalist:antler",
+            "count": 16
         },
         {
             "optional": true,
             "id": "hexerei:animal_fat",
-            "count": 16
-        },
-        {
-            "id": "naturalist:venison",
-            "optional": true,
-            "count": 32
-        },
-        {
-            "id": "naturalist:antler",
-            "optional": true,
             "count": 16
         }
     ]

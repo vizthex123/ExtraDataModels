@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:kangaroo",
+    "name": {
+        "translate": "entity.alexsmobs.kangaroo",
+        "color": "#533F28"
+    },
+    "display": {
+        "scale": 0.7
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.kangaroo",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:kangaroo_meat",
+            "count": 8
+        },
+        {
+            "id": "alexsmobs:kangaroo_hide",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

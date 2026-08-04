@@ -17,7 +17,7 @@
     "base_drop": {
         "id": "hostilenetworks:overworld_prediction"
     },
-	"trivia": "custom.trivia.crystallized_moth",
+	"trivia": "custom.trivia.crystallised_moth",
     "fabricator_drops": [
 		{
             "id": "eternal_starlight:blue_starlight_crystal_shard",

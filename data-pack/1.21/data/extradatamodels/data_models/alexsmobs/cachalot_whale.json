@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:cachalot_whale",
+    "name": {
+        "translate": "entity.alexsmobs.cachalot_whale",
+        "color": "#6B6A71"
+    },
+    "display": {
+        "scale": 0.1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.cachalot_whale",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:cachalot_whale_tooth",
+            "count": 4
+        }
+    ]
+}

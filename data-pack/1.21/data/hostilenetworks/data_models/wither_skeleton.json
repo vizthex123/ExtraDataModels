@@ -34,6 +34,11 @@
 		},
 		{
 			"optional": true,
+			"id": "iceandfire:witherbone",
+			"count": 8
+		},
+		{
+			"optional": true,
 			"id": "reliquary:withered_rib",
 			"count": 2
 		},

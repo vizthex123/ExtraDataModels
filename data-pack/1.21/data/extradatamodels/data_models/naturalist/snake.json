@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:snake",
+    "name": {
+        "translate": "entity.naturalist.snake",
+        "color": "#A4A938"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.snake",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:tooth",
+            "count": 4
+        },
+        {
+            "id": "naturalist:morsel",
+            "count": 8
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ecologics"
+        }
+    ],
+    "entity": "ecologics:penguin",
+    "variants": [
+        "twilightforest:penguin"
+	],
+    "name": {
+        "translate": "entity.ecologics.penguin",
+        "color": "#121117"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.penguin",
+    "fabricator_drops": [
+        {
+            "id": "ecologics:penguin_feather",
+            "count": 4
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 8
+        }
+    ]
+}

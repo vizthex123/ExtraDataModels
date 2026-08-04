@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:burned",
+    "name": {
+        "translate": "entity.dangerous_mobs.burned",
+        "color": "#4C4A49"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.burned",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:rotten_flesh",
+            "count": 16
+        },
+        {
+            "id": "minecraft:blaze_rod",
+            "count": 4
+        },
+        {
+            "id": "minecraft:nether_wart",
+            "count": 32
+        },
+        {
+            "id": "minecraft:gold_ingot",
+            "count": 2
+        }
+    ]
+}

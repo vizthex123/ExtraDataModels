@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "deeperdarker"
+        }
+    ],
+    "entity": "deeperdarker:sculk_leech",
+    "name": {
+        "translate": "entity.deeperdarker.sculk_leech",
+        "color": "#053743"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.sculk_leech",
+    "fabricator_drops": [
+        {
+            "id": "deeperdarker:soul_dust",
+            "count": 2
+        }
+    ]
+}

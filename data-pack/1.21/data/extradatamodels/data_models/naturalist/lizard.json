@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:lizard",
+    "name": {
+        "translate": "entity.naturalist.lizard",
+        "color": "#878A28"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.lizard",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:bone_meal",
+            "count": 4
+        },
+        {
+            "id": "naturalist:morsel",
+            "count": 8
+        }
+    ]
+}

@@ -3,8 +3,8 @@
     "variants": [
 		"minecraft:zoglin",
 		"occultism:possessed_hogiln",
-		"ad_astra:mogler",
-		"ad_astra:zombified_mogler"
+		"ad_astra:zombified_mogler",
+		"ad_astra:mogler"
 	],
     "name": {
         "translate": "entity.minecraft.hoglin",
@@ -20,24 +20,24 @@
     "trivia": "hostilenetworks.trivia.hoglin",
     "fabricator_drops": [
         {
-            "optional": true,
-            "id": "hexerei:animal_fat",
-            "count": 32
-        },
-        {
 			"optional": true,
             "id": "irons_spellbooks:hogskin",
             "count": 8
         },
         {
 			"optional": true,
-            "id": "nourished_nether:hoglin_hide",
-            "count": 8
+            "id": "netherexp:hogham",
+            "count": 32
         },
         {
 			"optional": true,
             "id": "nourished_nether:raw_hoglin",
             "count": 16
+        },
+        {
+			"optional": true,
+            "id": "nourished_nether:hoglin_hide",
+            "count": 8
         },
         {
             "id": "minecraft:porkchop",
@@ -46,6 +46,11 @@
         {
             "id": "minecraft:leather",
             "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 24
         }
     ]
 }

@@ -1,0 +1,60 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ],
+    "entity": "iceandfire:hydra",
+    "name": {
+        "translate": "entity.iceandfire.hydra",
+        "color": "#34472F"
+    },
+    "display": {
+        "scale": 0.8
+    },
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.hydra",
+    "fabricator_drops": [
+		{
+			"id": "minecraft:rotten_flesh",
+			"count": 72
+		},
+		{
+			"id": "iceandfire:hydra_fang",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"id": "twilightforest:hydra_chop",
+			"count": 1
+		},
+		{
+			"optional": true,
+			"id": "twilightforest:fiery_blood",
+			"count": 4
+		},
+		{
+			"id": "iceandfire:hydra_skull",
+			"count": 2
+		}
+	],
+    "tier_data": {
+		"faulty": 12,
+        "basic": 250,
+        "advanced": 360,
+        "superior": 700
+    },
+    "data_gained": {
+        "faulty": 12,
+        "basic": 125,
+        "advanced": 120,
+        "superior": 117
+    }
+}

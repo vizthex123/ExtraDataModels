@@ -14,7 +14,9 @@
         "translate": "name.hostilenetworks.ars_wilden",
         "color": "#55FF55"
     },
-    "display": {},
+    "display": {
+		"scale": 0.95
+	},
     "sim_cost": 256,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
@@ -26,16 +28,16 @@
     "trivia": "hostilenetworks.trivia.ars_wilden",
     "fabricator_drops": [
         {
-            "id": "ars_nouveau:wilden_horn",
-            "count": 16
+            "id": "ars_nouveau:wilden_spike",
+            "count": 4
         },
         {
-            "id": "ars_nouveau:wilden_spike",
-            "count": 16
+            "id": "ars_nouveau:wilden_horn",
+            "count": 4
         },
         {
             "id": "ars_nouveau:wilden_wing",
-            "count": 16
+            "count": 4
         },
         {
             "optional": true,

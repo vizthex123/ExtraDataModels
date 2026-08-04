@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:bunfungus",
+    "name": {
+        "translate": "entity.alexsmobs.bunfungus",
+        "color": "#757B9E"
+    },
+    "display": {
+        "scale": 0.62
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.bunfungus",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:rabbit",
+            "count": 24
+        },
+        {
+            "id": "minecraft:red_mushroom",
+            "count": 24
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 6
+        }
+    ]
+}

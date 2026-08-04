@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:twisted",
+    "name": {
+        "translate": "entity.dangerous_mobs.twisted",
+        "color": "#464752"
+    },
+    "display": {
+        "scale": 0.7
+    },
+    "sim_cost": 176,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.twisted",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:twisted_leather",
+            "count": 4
+        }
+    ]
+}

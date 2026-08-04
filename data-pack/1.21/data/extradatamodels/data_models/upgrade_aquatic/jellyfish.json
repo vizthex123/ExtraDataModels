@@ -8,11 +8,12 @@
     "entity": "upgrade_aquatic:immortal_jellyfish",
 	"variants": [
 		"upgrade_aquatic:box_jellyfish",
-		"upgrade_aquatic:cassiopea_jellyfish"
+		"upgrade_aquatic:cassiopea_jellyfish",
+		"naturalist:jellyfish"
 	],
     "name": {
         "translate": "custom.jellyfish",
-        "color": "#96D1D5"
+        "color": "rainbow"
     },
     "display": {
 		"x_offset": 0.15,

@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:rhino",
+	"variants": [
+		"alexsmobs:rhino"
+	],
+    "name": {
+        "translate": "entity.naturalist.rhino",
+        "color": "#6D5C4F"
+    },
+    "display": {
+        "scale": 0.5
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.rhino",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:bushmeat",
+            "count": 32
+        },
+        {
+            "id": "naturalist:hide",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 48
+        }
+    ]
+}

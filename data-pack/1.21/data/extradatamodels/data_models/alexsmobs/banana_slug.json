@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:banana_slug",
+    "name": {
+        "translate": "entity.alexsmobs.banana_slug",
+        "color": "#FBCD44"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 40,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.banana_slug",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:banana_slug_slime",
+            "count": 16
+        }
+    ]
+}

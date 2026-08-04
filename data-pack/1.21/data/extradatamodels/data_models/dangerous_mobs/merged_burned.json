@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:merged_burned",
+    "name": {
+        "translate": "entity.dangerous_mobs.merged_burned",
+        "color": "#F9924E"
+    },
+    "display": {
+        "scale": 0.72
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.merged_burned",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 16
+        },
+        {
+            "id": "minecraft:coal",
+            "count": 32
+        },
+        {
+            "id": "minecraft:charcoal",
+            "count": 32
+        },
+        {
+            "id": "minecraft:blaze_powder",
+            "count": 8
+        }
+    ]
+}

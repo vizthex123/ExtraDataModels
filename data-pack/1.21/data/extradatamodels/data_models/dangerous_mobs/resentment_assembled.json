@@ -1,0 +1,70 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:resentment",
+    "name": {
+        "translate": "entity.dangerous_mobs.resentment",
+        "color": "#32A9CA"
+    },
+    "display": {
+        "scale": 0.57
+    },
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.resentment_assembled",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:residual_soul",
+            "count": 64
+        },
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 64
+        },
+        {
+            "id": "dangerous_mobs:necro_dust",
+            "count": 64
+        },
+        {
+            "id": "dangerous_mobs:soul_mass",
+            "count": 8
+        },
+        {
+            "id": "dangerous_mobs:soul_upgrade_smithing_template",
+            "count": 4
+        },
+        {
+            "id": "minecraft:diamond",
+            "count": 4
+        },
+        {
+            "id": "minecraft:ancient_debris",
+            "count": 2
+        },
+        {
+            "id": "minecraft:bone_block",
+            "count": 8
+        }
+    ],
+    "tier_data": {
+        "faulty": 128,
+        "basic": 1920,
+        "advanced": 3072,
+        "superior": 9216
+    },
+    "data_gained": {
+        "faulty": 128,
+        "basic": 960,
+        "advanced": 1024,
+        "superior": 1536
+    }
+}

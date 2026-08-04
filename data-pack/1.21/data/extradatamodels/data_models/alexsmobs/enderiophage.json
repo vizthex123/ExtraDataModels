@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:enderiophage",
+    "name": {
+        "translate": "entity.alexsmobs.enderiophage",
+        "color": "#46316E"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 384,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.enderiophage",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:capsid",
+            "count": 1
+        }
+    ]
+}

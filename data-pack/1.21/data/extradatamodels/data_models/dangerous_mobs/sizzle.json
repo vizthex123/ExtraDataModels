@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:sizzle",
+    "name": {
+        "translate": "entity.dangerous_mobs.sizzle",
+        "color": "#62C3FF"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.sizzle",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:sizzle_rod",
+            "count": 16
+        }
+    ]
+}

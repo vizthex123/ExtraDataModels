@@ -1,0 +1,35 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:guster",
+    "name": {
+        "translate": "entity.alexsmobs.guster",
+        "color": "#9D8662"
+    },
+    "display": {
+        "scale": 0.6,
+		"y_offset": -0.1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.guster",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:guster_eye",
+            "count": 1
+        },
+        {
+            "id": "minecraft:sand",
+            "count": 16
+        }
+    ]
+}

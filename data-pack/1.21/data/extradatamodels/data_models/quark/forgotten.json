@@ -1,0 +1,54 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "quark"
+        }
+    ],
+    "entity": "quark:forgotten",
+    "name": {
+        "translate": "entity.quark.forgotten",
+        "color": "#423636"
+    },
+    "display": {
+        "scale": 0.8
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.forgotten",
+    "fabricator_drops": [
+        {
+            "id": "quark:forgotten_hat",
+            "count": 1
+        },
+		{
+            "id": "minecraft:arrow",
+            "count": 64
+        },
+		{
+            "id": "minecraft:bone",
+            "count": 32
+        },
+		{
+            "id": "minecraft:skeleton_skull",
+            "count": 8
+        }
+    ],
+    "tier_data": {
+        "faulty": 1874,
+        "basic": 1922,
+        "advanced": 1981,
+        "superior": 2023
+    },
+    "data_gained": {
+        "faulty": 937,
+        "basic": 480,
+        "advanced": 330,
+        "superior": 169
+    }
+}

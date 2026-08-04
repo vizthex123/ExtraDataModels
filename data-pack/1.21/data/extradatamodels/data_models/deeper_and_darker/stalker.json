@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "deeperdarker"
+        }
+    ],
+    "entity": "deeperdarker:stalker",
+    "name": {
+        "translate": "entity.deeperdarker.stalker",
+        "color": "#053743"
+    },
+    "display": {
+        "scale": 0.48
+    },
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.stalker",
+    "fabricator_drops": [
+        {
+            "id": "deeperdarker:soul_crystal",
+            "count": 2
+        }
+    ]
+}

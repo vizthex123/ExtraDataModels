@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:soul_vulture",
+    "name": {
+        "translate": "entity.alexsmobs.soul_vulture",
+        "color": "#23C0C6"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.soul_vulture",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:coal",
+            "count": 16
+        },
+        {
+            "id": "minecraft:bone",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 12
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "mobcompack"
+        }
+    ],
+    "entity": "mobcompack:jawbreaker",
+    "name": {
+        "translate": "entity.mobcompack.jawbreaker",
+        "color": "#4F1C17"
+    },
+    "display": {
+        "scale": 0.6
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.jawbreaker",
+    "fabricator_drops": [
+        {
+            "id": "mobcompack:giant_tooth",
+            "count": 2
+        }
+    ]
+}

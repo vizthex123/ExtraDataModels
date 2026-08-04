@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:mole",
+    "name": {
+        "translate": "entity.naturalist.mole",
+        "color": "#6B443C"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.mole",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:fur",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 8
+        },
+        {
+            "id": "minecraft:dirt",
+            "count": 4
+        }
+    ]
+}

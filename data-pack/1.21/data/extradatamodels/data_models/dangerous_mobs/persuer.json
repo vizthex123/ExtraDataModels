@@ -1,0 +1,50 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:persuer",
+    "name": {
+        "translate": "entity.dangerous_mobs.persuer",
+        "color": "#0C7790"
+    },
+    "display": {
+        "scale": 0.9
+    },
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.persuer",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:persuer_eye",
+            "count": 16
+        },
+        {
+            "id": "minecraft:echo_shard",
+            "count": 2
+        },
+        {
+            "id": "minecraft:sculk",
+            "count": 8
+        }
+    ],
+    "tier_data": {
+        "faulty": 96,
+        "basic": 384,
+        "advanced": 1536,
+        "superior": 6144
+    },
+    "data_gained": {
+        "faulty": 24,
+        "basic": 48,
+        "advanced": 96,
+        "superior": 192
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:great_white_shark",
+    "name": {
+        "translate": "entity.naturalist.great_white_shark",
+        "color": "#4B615B"
+    },
+    "display": {
+        "scale": 0.3
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.great_white_shark",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:tooth",
+            "count": 32
+        },
+        {
+            "optional": true,
+            "id": "alexsmobs:shark_tooth",
+            "count": 4
+        },
+        {
+            "optional": true,
+            "id": "alexsmobs:serrated_shark_tooth",
+            "count": 2
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 48
+        }
+    ]
+}

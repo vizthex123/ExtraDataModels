@@ -38,11 +38,11 @@
         },
         {
             "id": "minecraft:echo_shard",
-            "count": 2
+            "count": 4
         },
         {
             "id": "minecraft:sculk_catalyst",
-            "count": 4
+            "count": 2
         }
     ]
 }

@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:bird",
+    "name": {
+        "translate": "entity.naturalist.bird",
+        "color": "#681D12"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 32,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.bird",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:feather",
+            "count": 32
+        }
+    ]
+}

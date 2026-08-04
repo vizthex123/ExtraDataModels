@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "deeperdarker"
+        }
+    ],
+    "entity": "deeperdarker:sludge",
+    "name": {
+        "translate": "entity.deeperdarker.sludge",
+        "color": "#377472"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 192,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.sludge",
+    "fabricator_drops": [
+        {
+            "id": "deeperdarker:resonarium",
+            "count": 16
+        }
+    ]
+}

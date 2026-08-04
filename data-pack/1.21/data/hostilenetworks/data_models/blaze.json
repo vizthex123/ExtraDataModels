@@ -7,6 +7,9 @@
         "translate": "entity.minecraft.blaze",
         "color": "#FFD528"
     },
+    "display": {
+        "scale": 1
+    },
     "sim_cost": 256,
     "input": {
         "item": "hostilenetworks:prediction_matrix"

@@ -1,0 +1,35 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:hippo",
+    "name": {
+        "translate": "entity.naturalist.hippo",
+        "color": "#714C4A"
+    },
+    "display": {
+        "scale": 0.7
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.hippo",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:melon_slice",
+            "count": 32
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 64
+        }
+    ]
+}

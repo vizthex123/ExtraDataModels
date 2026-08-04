@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "deeperdarker"
+        }
+    ],
+    "entity": "deeperdarker:shattered",
+    "name": {
+        "translate": "entity.deeperdarker.shattered",
+        "color": "#011D23"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.shattered",
+    "fabricator_drops": [
+        {
+            "id": "deeperdarker:sculk_bone",
+            "count": 4
+        }
+    ]
+}

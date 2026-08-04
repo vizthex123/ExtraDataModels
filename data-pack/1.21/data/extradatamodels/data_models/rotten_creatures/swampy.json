@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "rottencreatures"
+        }
+    ],
+    "entity": "rottencreatures:swampy",
+    "name": {
+        "translate": "entity.rottencreatures.swampy",
+        "color": "#3F2E0B"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.swampy",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:rotten_flesh",
+            "count": 64
+        },
+        {
+            "id": "minecraft:brown_dye",
+            "count": 16
+        },
+        {
+            "id": "minecraft:poisonous_potato",
+            "count": 16
+        },
+        {
+            "id": "rottencreatures:swampy_head",
+            "count": 4
+        }
+    ]
+}

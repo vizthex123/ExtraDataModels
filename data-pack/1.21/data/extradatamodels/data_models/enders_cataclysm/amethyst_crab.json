@@ -13,7 +13,7 @@
 	"display": {
         "scale": 0.4
     },
-    "sim_cost": 164,
+    "sim_cost": 160,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },

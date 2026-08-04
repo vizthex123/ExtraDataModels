@@ -19,8 +19,7 @@
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
-        "id": "hostilenetworks:overworld_prediction",
-        "count": 1
+        "id": "hostilenetworks:overworld_prediction"
     },
     "trivia": "hostilenetworks.trivia.sheep",
     "fabricator_drops": [

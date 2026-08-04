@@ -1,5 +1,8 @@
 {
     "entity": "minecraft:pillager",
+	"variants": [
+		"occultism:sickened_pillager"
+	],
     "name": {
         "translate": "entity.minecraft.pillager",
         "color": "#484C46"

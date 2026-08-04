@@ -1,0 +1,47 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ecologics"
+        }
+    ],
+    "entity": "ecologics:squirrel",
+    "variants": [
+        "twilightforest:squirrel"
+	],
+    "name": {
+        "translate": "entity.ecologics.squirrel",
+        "color": "#121117"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.squirrel",
+    "fabricator_drops": [
+		{
+            "id": "minecraft:sweet_berries",
+            "count": 4
+        },
+        {
+            "id": "ecologics:walnut",
+            "count": 4
+        },
+		{
+			"optional": true,
+            "id": "alexscaves:pine_nuts",
+            "count": 4
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 4
+        }
+    ]
+}

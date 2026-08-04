@@ -1,0 +1,45 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "quark"
+        }
+    ],
+    "entity": "quark:wraith",
+    "name": {
+        "translate": "entity.quark.wraith",
+        "color": "#D7FBFC"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 92,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.wraith",
+    "fabricator_drops": [
+		{
+            "id": "quark:soul_bead",
+            "count": 2
+        },
+		{
+			"optional": true,
+			"id": "biomemakeover:ectoplasm",
+			"count": 4
+		},
+		{
+			"optional": true,
+			"id": "iceandfire:ectoplasm",
+			"count": 4
+		},
+		{
+			"optional": true,
+			"id": "nourished_nether:ectoplasm",
+			"count": 4
+		}
+    ]
+}

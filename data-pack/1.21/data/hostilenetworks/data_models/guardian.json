@@ -26,23 +26,28 @@
         },
         {
 			"optional": true,
+            "id": "environmental:koi",
+            "count": 8
+        },
+        {
+			"optional": true,
             "id": "upgrade_aquatic:pike",
-            "count": 2
+            "count": 8
         },
         {
 			"optional": true,
             "id": "upgrade_aquatic:perch",
-            "count": 2
+            "count": 8
         },
         {
 			"optional": true,
             "id": "upgrade_aquatic:lionfish",
-            "count": 2
+            "count": 8
         },
         {
             "optional": true,
             "id": "reliquary:guardian_spike",
-            "count": 2
+            "count": 8
         }
     ]
 }

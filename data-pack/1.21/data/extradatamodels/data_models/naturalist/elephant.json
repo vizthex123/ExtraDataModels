@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:elephant",
+	"variants": [
+		"alexsmobs:elephant"
+	],
+    "name": {
+        "translate": "entity.naturalist.elephant",
+        "color": "#524337"
+    },
+    "display": {
+        "scale": 0.5
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.elephant",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:bushmeat",
+            "count": 32
+        },
+        {
+            "id": "naturalist:hide",
+            "count": 48
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 48
+        }
+    ]
+}

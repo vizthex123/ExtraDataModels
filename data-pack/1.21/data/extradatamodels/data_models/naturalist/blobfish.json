@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:blobfish",
+    "name": {
+        "translate": "entity.naturalist.blobfish",
+        "color": "#E5ADB1"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 32,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.blobfish",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:blobfish",
+            "count": 32
+        },
+        {
+			"optional": true,
+            "id": "alexsmobs:blobfish",
+            "count": 32
+        },
+        {
+            "id": "minecraft:bone_meal",
+            "count": 4
+        }
+    ]
+}

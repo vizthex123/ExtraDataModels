@@ -1,0 +1,46 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:necro_knight",
+    "name": {
+        "translate": "entity.dangerous_mobs.necro_knight",
+        "color": "#7F83C5"
+    },
+    "display": {
+        "scale": 0.88
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.necro_knight",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 16
+        },
+        {
+            "id": "dangerous_mobs:necro_dust",
+            "count": 24
+        },
+        {
+            "id": "dangerous_mobs:residual_soul",
+            "count": 12
+        },
+        {
+            "id": "minecraft:iron_nugget",
+            "count": 24
+        },
+        {
+            "id": "minecraft:diamond",
+            "count": 2
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:duck",
+    "name": {
+        "translate": "entity.naturalist.duck",
+        "color": "#146223"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.duck",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:duck",
+            "count": 32
+        },
+        {
+            "id": "minecraft:feather",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "rottencreatures"
+        }
+    ],
+    "entity": "rottencreatures:dead_beard",
+    "name": {
+        "translate": "entity.rottencreatures.dead_beard",
+        "color": "#0D4523"
+    },
+    "display": {
+        "scale": 0.88
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.dead_beard",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:rotten_flesh",
+            "count": 64
+        },
+        {
+            "id": "minecraft:iron_ingot",
+            "count": 24
+        },
+        {
+            "id": "minecraft:gold_nugget",
+            "count": 32
+        },
+        {
+            "id": "minecraft:lapis_lazuli",
+            "count": 24
+        },
+        {
+            "id": "minecraft:emerald",
+            "count": 12
+        },
+        {
+            "id": "minecraft:diamond",
+            "count": 4
+        },
+        {
+            "id": "minecraft:feather",
+            "count": 16
+        },
+        {
+            "id": "minecraft:paper",
+            "count": 24
+        },
+        {
+            "id": "minecraft:experience_bottle",
+            "count": 10
+        },
+        {
+            "id": "rottencreatures:dead_beard_head",
+            "count": 4
+        }
+    ]
+}

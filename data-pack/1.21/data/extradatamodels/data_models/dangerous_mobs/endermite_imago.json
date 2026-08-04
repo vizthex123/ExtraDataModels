@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:endermite_imago",
+    "name": {
+        "translate": "entity.dangerous_mobs.endermite_imago",
+        "color": "#2F203D"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.endermite_imago",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:mitemass",
+            "count": 8
+        },
+        {
+            "id": "dangerous_mobs:necrotite_upgrade_smithing_template",
+            "count": 1
+        },
+        {
+            "id": "dangerous_mobs:magic_upgrade_smithing_template",
+            "count": 1
+        },
+        {
+            "id": "dangerous_mobs:soul_upgrade_smithing_template",
+            "count": 1
+        }
+    ]
+}

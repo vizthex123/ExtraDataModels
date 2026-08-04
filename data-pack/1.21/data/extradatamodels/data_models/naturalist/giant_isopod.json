@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:giant_isopod",
+    "name": {
+        "translate": "entity.naturalist.giant_isopod",
+        "color": "#8E7C77"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 20,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.giant_isopod",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:bone_meal",
+            "count": 10
+        }
+    ]
+}

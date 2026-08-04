@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:ray",
+    "name": {
+        "translate": "entity.naturalist.ray",
+        "color": "#4F3C32"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ray",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:crab_meat",
+            "count": 32
+        }
+    ]
+}

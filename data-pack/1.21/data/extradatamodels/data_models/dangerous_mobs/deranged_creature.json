@@ -1,0 +1,46 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:deranged_creature",
+    "name": {
+        "translate": "entity.dangerous_mobs.deranged_creature",
+        "color": "#351B18"
+    },
+    "display": {
+        "scale": 0.64
+    },
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.deranged_creature",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:reactivated_flesh",
+            "count": 64
+        },
+        {
+            "id": "dangerous_mobs:deranged_flesh",
+            "count": 64
+        },
+        {
+            "id": "dangerous_mobs:rotten_flesh_block",
+            "count": 8
+        },
+        {
+            "id": "minecraft:bone",
+            "count": 32
+        },
+        {
+            "id": "minecraft:bone_block",
+            "count": 4
+        }
+    ]
+}

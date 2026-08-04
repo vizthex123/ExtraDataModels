@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "netherexp"
+        }
+    ],
+    "entity": "netherexp:vessel",
+    "name": {
+        "translate": "entity.netherexp.vessel",
+        "color": "#057A75"
+    },
+    "display": {
+        "scale": 0.75
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.vessel",
+    "fabricator_drops": [
+        {
+            "id": "netherexp:wraithing_flesh",
+            "count": 32
+        },
+        {
+            "id": "minecraft:bone",
+            "count": 16
+        }
+    ]
+}

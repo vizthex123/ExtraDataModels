@@ -1,10 +1,14 @@
 {
     "entity": "minecraft:skeleton_horse",
+    "variants": [
+		"bygonenether:wither_skeleton_horse",
+		"iceandfire:dread_horse"
+	],
     "name": {
         "translate": "entity.minecraft.zombie_horse",
         "color": "#BABABA"
     },
-    "sim_cost": 96,
+    "sim_cost": 160,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -15,11 +19,7 @@
     "fabricator_drops": [
         {
             "id": "minecraft:bone",
-            "count": 32
-        },
-        {
-            "id": "minecraft:saddle",
-            "count": 1
+            "count": 96
         },
         {
             "optional": true,

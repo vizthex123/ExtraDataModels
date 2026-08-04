@@ -1,0 +1,47 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:whale",
+    "name": {
+        "translate": "entity.naturalist.whale",
+        "color": "#365A68"
+    },
+    "display": {
+        "scale": 0.3
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.whale",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:cod",
+            "count": 64
+        },
+        {
+            "id": "minecraft:salmon",
+            "count": 64
+        },
+        {
+            "id": "minecraft:tropical_fish",
+            "count": 64
+        },
+        {
+            "id": "naturalist:fat",
+            "count": 64
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 64
+        }
+    ]
+}

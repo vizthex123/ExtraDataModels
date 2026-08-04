@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "phantasm"
+        }
+    ],
+    "entity": "phantasm:behemoth",
+    "name": {
+        "translate": "entity.phantasm.behemoth",
+        "color": "#4E437C"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.behemoth",
+    "fabricator_drops": [
+		{
+			"id": "phantasm:behemoth_meat",
+			"count": 32
+		}
+    ]
+}

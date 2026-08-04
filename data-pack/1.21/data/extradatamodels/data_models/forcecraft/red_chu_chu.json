@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "forcecraft"
+        }
+    ],
+    "entity": "forcecraft:red_chu_chu",
+    "name": {
+        "translate": "entity.forcecraft.red_chu_chu",
+        "color": "#890109"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.chu_chu",
+    "fabricator_drops": [
+        {
+            "id": "forcecraft:red_chu_jelly",
+            "count": 32
+        }
+    ]
+}

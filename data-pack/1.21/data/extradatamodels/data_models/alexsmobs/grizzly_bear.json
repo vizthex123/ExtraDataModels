@@ -1,0 +1,35 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:grizzly_bear",
+    "name": {
+        "translate": "entity.alexsmobs.grizzly_bear",
+        "color": "#523727"
+    },
+    "display": {
+        "scale": 0.7
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.grizzly_bear",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:bear_fur",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 24
+        }
+    ]
+}

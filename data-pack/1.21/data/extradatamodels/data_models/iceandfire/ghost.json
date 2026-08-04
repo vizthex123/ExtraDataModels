@@ -1,0 +1,45 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ],
+    "entity": "iceandfire:ghost",
+    "name": {
+        "translate": "entity.iceandfire.ghost",
+        "color": "#F1F3F0"
+    },
+    "display": {
+        "scale": 1,
+		"y_offset": -0.15
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ghost",
+    "fabricator_drops": [
+		{
+			"id": "iceandfire:ectoplasm",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"id": "biomemakeover:ectoplasm",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"id": "nourished_nether:ectoplasm",
+			"count": 8
+		},
+		{
+			"id": "iceandfire:ghost_ingot",
+			"count": 2
+		}
+    ]
+}

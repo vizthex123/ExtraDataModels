@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:clam",
+    "name": {
+        "translate": "entity.naturalist.clam",
+        "color": "#EDB497"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.clam",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:clam_meat",
+            "count": 32
+        }
+    ]
+}

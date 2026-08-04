@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:giraffe",
+    "name": {
+        "translate": "entity.naturalist.giraffe",
+        "color": "#A76F3A"
+    },
+    "display": {
+        "scale": 0.4
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.giraffe",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:bushmeat",
+            "count": 32
+        },
+        {
+            "id": "minecraft:hay_block",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 56
+        }
+    ]
+}

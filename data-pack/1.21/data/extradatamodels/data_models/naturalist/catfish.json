@@ -1,0 +1,39 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:catfish",
+    "name": {
+        "translate": "entity.naturalist.catfish",
+        "color": "#8A7835"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 32,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.catfish",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:catfish",
+            "count": 32
+        },
+        {
+			"optional": true,
+            "id": "alexsmobs:raw_catfish",
+            "count": 32
+        },
+        {
+            "id": "minecraft:bone_meal",
+            "count": 2
+        }
+    ]
+}

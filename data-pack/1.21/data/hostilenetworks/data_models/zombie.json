@@ -2,11 +2,28 @@
 	"entity": "minecraft:zombie",
 	"variants": [
 		"minecraft:husk",
-		"minecraft:zombie_villager",
+        "minecraft:zombie_villager",
 		"occultism:wild_husk",
 		"occultism:wild_horde_husk",
-		"twilightforest:rising_zombie"
-	],
+        "twilightforest:rising_zombie",
+        "variantsandventures:gelid",
+        "variantsandventures:thicket",
+		"zombie_variants:badlands_zombie",
+		"zombie_variants:bamboo_zombie",
+		"zombie_variants:cave_zombie",
+		"zombie_variants:cherry_zombie",
+		"zombie_variants:deep_dark_zombie",
+		"zombie_variants:desert_zombie",
+		"zombie_variants:dripstone_zombie",
+		"zombie_variants:frozen_zombie",
+		"zombie_variants:jungle_zombie",
+		"zombie_variants:lush_zombie",
+		"zombie_variants:mangrove_zombie",
+		"zombie_variants:mushroom_zombie",
+		"zombie_variants:pale_garden_zombie",
+		"zombie_variants:savanna_zombie",
+		"zombie_variants:swamp_zombie"
+    ],
 	"name": {
 		"translate": "entity.minecraft.zombie",
 		"color": "#3B622F"

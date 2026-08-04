@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "caverns_and_chasms"
+        }
+    ],
+    "entity": "caverns_and_chasms:mime",
+    "name": {
+        "translate": "entity.caverns_and_chasms.mime",
+        "color": "#6A644A"
+    },
+    "display": {
+        "scale": 0.87
+    },
+    "sim_cost": 192,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.mime",
+    "fabricator_drops": [
+        {
+            "id": "caverns_and_chasms:spinel",
+            "count": 8
+        },
+        {
+            "id": "caverns_and_chasms:zirconia",
+            "count": 8
+        },
+        {
+            "id": "caverns_and_chasms:mime_head",
+            "count": 4
+        }
+    ]
+}

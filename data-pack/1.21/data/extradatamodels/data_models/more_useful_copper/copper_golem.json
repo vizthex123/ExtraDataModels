@@ -10,6 +10,9 @@
         "translate": "entity.more_useful_copper.copper_golem",
         "color": "#8A4F42"
     },
+	"display": {
+        "scale": 0.78
+    },
     "sim_cost": 256,
     "input": {
         "item": "hostilenetworks:prediction_matrix"

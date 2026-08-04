@@ -1,0 +1,44 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "forcecraft"
+        }
+    ],
+    "entity": "forcecraft:creeper_tot",
+    "name": {
+        "translate": "entity.forcecraft.creeper_tot",
+        "color": "#890109"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.creeper_tot",
+    "fabricator_drops": [
+        {
+            "id": "forcecraft:pile_of_gunpowder",
+            "count": 32
+        },
+        {
+            "optional": true,
+            "id": "reliquary:catalyzing_gland",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "id": "savage_and_ravage:creeper_spores",
+            "count": 2
+        },
+        {
+            "id": "minecraft:creeper_head",
+            "count": 1
+        }
+    ]
+}

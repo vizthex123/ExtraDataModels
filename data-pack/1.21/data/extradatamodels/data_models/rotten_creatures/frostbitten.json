@@ -1,0 +1,50 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "rottencreatures"
+        }
+    ],
+    "entity": "rottencreatures:frostbitten",
+    "name": {
+        "translate": "entity.rottencreatures.frostbitten",
+        "color": "#48586E"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.frostbitten",
+    "fabricator_drops": [
+        {
+            "id": "rottencreatures:frozen_rotten_flesh",
+            "count": 64
+        },
+        {
+            "id": "minecraft:snowball",
+            "count": 16
+        },
+        {
+            "id": "minecraft:iron_ingot",
+            "count": 8
+        },
+        {
+            "id": "minecraft:carrot",
+            "count": 16
+        },
+        {
+            "id": "minecraft:potato",
+            "count": 16
+        },
+        {
+            "id": "rottencreatures:frostbitten_head",
+            "count": 4
+        }
+    ]
+}

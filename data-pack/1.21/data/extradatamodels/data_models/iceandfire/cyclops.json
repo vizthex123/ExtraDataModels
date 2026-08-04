@@ -1,0 +1,55 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ],
+    "entity": "iceandfire:cyclops",
+    "name": {
+        "translate": "entity.iceandfire.cyclops",
+        "color": "#815A48"
+    },
+    "display": {
+        "scale": 0.25
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.cyclops",
+    "fabricator_drops": [
+		{
+			"id": "minecraft:leather",
+			"count": 64
+		},
+		{
+			"id": "minecraft:mutton",
+			"count": 64
+		},
+		{
+			"id": "minecraft:white_wool",
+			"count": 64
+		},
+		{
+			"optional": true,
+			"id": "iceandfire:cyclops_skull",
+			"count": 2
+		}
+	],
+    "tier_data": {
+        "faulty": 1,
+        "basic": 10,
+        "advanced": 111,
+        "superior": 1010
+    },
+    "data_gained": {
+        "faulty": 1,
+        "basic": 5,
+        "advanced": 37,
+        "superior": 169
+    }
+}

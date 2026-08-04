@@ -1,0 +1,53 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ],
+    "entity": "iceandfire:stymphalian_bird",
+    "name": {
+        "translate": "entity.iceandfire.stymphalian_bird",
+        "color": "#5E432D"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.stymphalian_bird",
+    "fabricator_drops": [
+		{
+			"id": "minecraft:iron_nugget",
+			"count": 32
+		},
+		{
+			"optional": true,
+			"id": "create:copper_nugget",
+			"count": 32
+		},
+		{
+			"optional": true,
+			"id": "thermal:copper_nugget",
+			"count": 32
+		},
+		{
+			"id": "iceandfire:copper_nugget",
+			"count": 32
+		},
+		{
+			"id": "iceandfire:stymphalian_bird_feather",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"id": "iceandfire:stymphalian_skull",
+			"count": 2
+		}
+    ]
+}

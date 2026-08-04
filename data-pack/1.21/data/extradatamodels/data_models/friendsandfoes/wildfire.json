@@ -13,7 +13,7 @@
     "display": {
         "scale": 0.7
     },
-    "sim_cost": 256,
+    "sim_cost": 512,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,12 +23,12 @@
 	"trivia": "custom.trivia.wildfire",
     "fabricator_drops": [
         {
-            "id": "minecraft:blaze_rod",
-            "count": 32
-        },
-        {
             "id": "friendsandfoes:wildfire_crown_fragment",
             "count": 1
+        },
+        {
+            "id": "minecraft:blaze_rod",
+            "count": 32
         },
         {
             "optional": true,

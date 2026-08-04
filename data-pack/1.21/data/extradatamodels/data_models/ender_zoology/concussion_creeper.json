@@ -29,7 +29,17 @@
         },
         {
             "id": "enderzoology:ender_fragment",
-            "count": 8
+            "count": 12
+        },
+        {
+            "optional": true,
+            "id": "reliquary:catalyzing_gland",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "id": "savage_and_ravage:creeper_spores",
+            "count": 2
         }
     ]
 }

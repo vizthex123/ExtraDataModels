@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:amethyst_sorcerer",
+    "name": {
+        "translate": "entity.dangerous_mobs.amethyst_sorcerer",
+        "color": "#8055BB"
+    },
+    "display": {
+        "scale": 0.9
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.amethyst_sorcerer",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:amethyst_shard",
+            "count": 16
+        },
+        {
+            "id": "minecraft:emerald",
+            "count": 20
+        },
+        {
+            "id": "minecraft:diamond",
+            "count": 2
+        },
+        {
+            "id": "minecraft:raw_iron",
+            "count": 12
+        }
+    ]
+}

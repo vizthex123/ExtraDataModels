@@ -7,7 +7,7 @@
         "translate": "entity.minecraft.zombie_horse",
         "color": "#406C40"
     },
-    "sim_cost": 128,
+    "sim_cost": 160,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -18,21 +18,17 @@
     "fabricator_drops": [
         {
             "id": "minecraft:rotten_flesh",
-            "count": 64
-        },
-        {
-            "id": "minecraft:saddle",
-            "count": 1
+            "count": 96
         },
         {
             "optional": true,
             "id": "reliquary:zombie_heart",
-            "count": 3
+            "count": 4
         },
         {
             "optional": true,
             "id": "hexerei:animal_fat",
-            "count": 24
+            "count": 32
         }
     ]
 }

@@ -1,0 +1,42 @@
+{
+    "entity": "minecraft:endermite",
+    "variants": [
+        "occultism:possessed_endermite"
+    ],
+    "name": {
+        "translate": "entity.minecraft.endermite",
+        "color": "#423150"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.endermite",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:end_stone",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "id": "enderzoology:ender_fragment",
+            "count": 4
+        },
+		{
+			"optional": true,
+			"id": "evilcraft:ender_tear",
+			"count": 1
+		},
+        {
+            "optional": true,
+            "id": "dangerous_mobs:mitemass",
+            "count": 2
+        }
+    ]
+}

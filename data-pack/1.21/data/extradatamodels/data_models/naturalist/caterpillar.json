@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:caterpillar",
+    "name": {
+        "translate": "entity.naturalist.caterpillar",
+        "color": "#45843F"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 16,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.caterpillar",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:bone_meal",
+            "count": 8
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:straddler",
+    "variants": [
+		"alexsmobs:stradpole"
+	],
+    "name": {
+        "translate": "entity.alexsmobs.straddler",
+        "color": "#2B2E3B"
+    },
+    "display": {
+        "scale": 0.69,
+		"y_offset": -0.25
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.straddler",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:straddlite",
+            "count": 2
+        },
+        {
+            "id": "minecraft:basalt",
+            "count": 16
+        }
+    ]
+}

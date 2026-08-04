@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "deeperdarker"
+        }
+    ],
+    "entity": "deeperdarker:angler_fish",
+    "name": {
+        "translate": "entity.deeperdarker.angler_fish",
+        "color": "#B14341"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.angler_fish",
+    "fabricator_drops": [
+        {
+            "id": "deeperdarker:angler_fish",
+            "count": 32
+        },
+        {
+            "id": "minecraft:bone_meal",
+            "count": 4
+        }
+    ]
+}

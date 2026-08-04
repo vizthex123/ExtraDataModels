@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:diffuser",
+    "name": {
+        "translate": "entity.dangerous_mobs.diffuser",
+        "color": "#920301"
+    },
+    "display": {
+        "scale": 0.9
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.diffuser",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:blaze_ruby_shard",
+            "count": 1
+        },
+        {
+            "id": "minecraft:blaze_powder",
+            "count": 16
+        }
+    ]
+}

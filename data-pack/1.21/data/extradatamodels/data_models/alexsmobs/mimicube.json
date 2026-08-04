@@ -1,0 +1,44 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:mimicube",
+    "name": {
+        "translate": "entity.alexsmobs.mimicube",
+        "color": "#524672"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.mimicube",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:mimicream",
+            "count": 1
+        },
+        {
+			"optional": true,
+            "id": "alexscaves:ferrouslime_ball",
+            "count": 4
+        },
+        {
+            "id": "minecraft:slime_ball",
+            "count": 8
+        },
+        {
+            "optional": true,
+            "id": "reliquary:slime_pearl",
+            "count": 4
+        }
+    ]
+}

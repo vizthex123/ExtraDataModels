@@ -2,7 +2,9 @@
     "entity": "minecraft:phantom",
     "variants": [
 		"occultism:possessed_phantom",
-		"upgrade_aquatic:flare"
+		"witherstormmod:sickened_phantom",
+		"upgrade_aquatic:flare",
+		"alexsmobs:spectre"
 	],
     "name": {
         "translate": "entity.minecraft.phantom",

@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "netherexp"
+        }
+    ],
+    "entity": "netherexp:apparition",
+    "name": {
+        "translate": "entity.netherexp.apparition",
+        "color": "#139CA5"
+    },
+    "display": {
+        "scale": 0.8
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.apparition",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:chain",
+            "count": 32
+        }
+    ]
+}

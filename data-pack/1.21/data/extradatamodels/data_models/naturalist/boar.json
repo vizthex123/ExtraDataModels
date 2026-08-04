@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:boar",
+    "name": {
+        "translate": "entity.naturalist.boar",
+        "color": "#483222"
+    },
+    "display": {
+        "scale": 0.9
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.boar",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:porkchop",
+            "count": 32
+        },
+        {
+            "id": "naturalist:hide",
+            "count": 16
+        },
+        {
+            "id": "naturalist:fat",
+            "count": 16
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ],
+    "entity": "iceandfire:amphithere",
+    "name": {
+        "translate": "entity.iceandfire.amphithere",
+        "color": "#004B2C"
+    },
+    "display": {
+        "scale": 0.4
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.amphithere",
+    "fabricator_drops": [
+		{
+			"id": "iceandfire:amphithere_feather",
+			"count": 8
+		},
+		{
+			"id": "iceandfire:amphithere_skull",
+			"count": 2
+		}
+    ]
+}

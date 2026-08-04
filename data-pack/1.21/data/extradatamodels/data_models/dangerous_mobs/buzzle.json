@@ -1,0 +1,54 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:buzzle",
+    "name": {
+        "translate": "entity.dangerous_mobs.buzzle",
+        "color": "#62C3FF"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.buzzle",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:sizzle_rod",
+            "count": 32
+        },
+        {
+            "id": "dangerous_mobs:thunder_topaz_fragment",
+            "count": 4
+        },
+        {
+            "id": "minecraft:copper_ingot",
+            "count": 12
+        },
+        {
+            "id": "minecraft:diamond",
+            "count": 1
+        }
+    ],
+    "tier_data": {
+        "faulty": 160,
+        "basic": 640,
+        "advanced": 3840,
+        "superior": 15360
+    },
+    "data_gained": {
+        "faulty": 80,
+        "basic": 160,
+        "advanced": 640,
+        "superior": 1280
+    }
+}

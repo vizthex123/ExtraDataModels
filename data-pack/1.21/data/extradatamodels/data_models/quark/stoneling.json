@@ -1,0 +1,94 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "quark"
+        }
+    ],
+    "entity": "quark:stoneling",
+    "name": {
+        "translate": "entity.quark.stoneling",
+        "color": "#838383"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 384,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.stoneling",
+    "fabricator_drops": [
+		{
+            "id": "quark:diamond_heart",
+            "count": 1
+        },
+		{
+            "id": "minecraft:golden_apple",
+            "count": 4
+        },
+		{
+            "id": "minecraft:coal",
+            "count": 8
+        },
+		{
+            "id": "minecraft:diamond",
+            "count": 2
+        },
+		{
+            "id": "minecraft:emerald",
+            "count": 4
+        },
+		{
+            "id": "minecraft:redstone",
+            "count": 12
+        },
+		{
+            "id": "minecraft:lapis_lazuli",
+            "count": 16
+        },
+		{
+            "id": "minecraft:gold_ingot",
+            "count": 8
+        },
+		{
+            "id": "minecraft:iron_ingot",
+            "count": 8
+        },
+		{
+            "id": "minecraft:ender_pearl",
+            "count": 4
+        },
+		{
+            "id": "minecraft:creeper_head",
+            "count": 1
+        },
+		{
+            "id": "minecraft:zombie_head",
+            "count": 1
+        },
+		{
+            "id": "minecraft:name_tag",
+            "count": 2
+        },
+		{
+            "id": "minecraft:saddle",
+            "count": 1
+        }
+    ],
+    "tier_data": {
+        "faulty": 1,
+        "basic": 10,
+        "advanced": 110,
+        "superior": 8192
+    },
+    "data_gained": {
+        "faulty": 1,
+        "basic": 3,
+        "advanced": 19,
+        "superior": 683
+    }
+}

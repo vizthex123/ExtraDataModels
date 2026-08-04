@@ -22,19 +22,19 @@
     "fabricator_drops": [
         {
             "id": "minecraft:cod",
-            "count": 16
+            "count": 32
         },
         {
             "id": "minecraft:salmon",
-            "count": 2
+            "count": 32
         },
         {
             "id": "minecraft:pufferfish",
-            "count": 2
+            "count": 24
         },
         {
             "id": "minecraft:tropical_fish",
-            "count": 2
+            "count": 24
         },
         {
 			"optional": true,
@@ -44,17 +44,17 @@
         {
 			"optional": true,
             "id": "upgrade_aquatic:pike",
-            "count": 2
+            "count": 16
         },
         {
 			"optional": true,
             "id": "upgrade_aquatic:perch",
-            "count": 2
+            "count": 16
         },
         {
 			"optional": true,
             "id": "upgrade_aquatic:lionfish",
-            "count": 2
+            "count": 16
         },
         {
             "id": "minecraft:prismarine_crystals",

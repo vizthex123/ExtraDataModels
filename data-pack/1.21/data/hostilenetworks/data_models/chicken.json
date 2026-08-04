@@ -1,7 +1,7 @@
 {
     "entity": "minecraft:chicken",
-    "variants": [
-		"upgrade_aquatic:goose"
+	"variants": [
+		"forcecraft:cold_chicken"
 	],
     "name": {
 		"translate": "entity.minecraft.chicken",

@@ -1,0 +1,74 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ],
+    "entity": "iceandfire:ice_dragon",
+    "name": {
+        "translate": "entity.iceandfire.ice_dragon",
+        "color": "#ADD8E6"
+    },
+    "display": {
+        "scale": 1.5
+    },
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ice_dragon",
+    "fabricator_drops": [
+		{
+			"id": "iceandfire:ice_dragon_heart",
+			"count": 4
+		},
+		{
+			"id": "iceandfire:ice_dragon_flesh",
+			"count": 8
+		},
+		{
+			"id": "iceandfire:dragonbone",
+			"count": 16
+		},
+		{
+			"id": "iceandfire:dragonscales_blue",
+			"count": 32
+		},
+		{
+			"id": "iceandfire:dragonscales_sapphire",
+			"count": 32
+		},
+		{
+			"id": "iceandfire:dragonscales_silver",
+			"count": 32
+		},
+		{
+			"id": "iceandfire:dragonscales_white",
+			"count": 32
+		},
+		{
+			"id": "iceandfire:ice_dragon_blood",
+			"count": 4
+		},
+		{
+			"id": "iceandfire:dragon_skull_ice",
+			"count": 1
+		}
+	],
+    "tier_data": {
+        "faulty": 100,
+        "basic": 400,
+        "advanced": 1600,
+        "superior": 3200
+    },
+    "data_gained": {
+        "faulty": 100,
+        "basic": 200,
+        "advanced": 400,
+        "superior": 800
+    }
+}

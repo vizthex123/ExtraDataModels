@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:ostrich",
+    "name": {
+        "translate": "entity.naturalist.ostrich",
+        "color": "#AD7360"
+    },
+    "display": {
+        "scale": 0.83
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ostrich",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:drumstick",
+            "count": 16
+        },
+        {
+            "id": "minecraft:feather",
+            "count": 32
+        }
+    ]
+}

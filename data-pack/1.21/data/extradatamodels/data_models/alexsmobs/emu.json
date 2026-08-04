@@ -1,0 +1,43 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:emu",
+    "name": {
+        "translate": "entity.alexsmobs.emu",
+        "color": "#352B25"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.emu",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:emu_feather",
+            "count": 8
+        },
+        {
+            "id": "alexsmobs:emu_egg",
+            "count": 4
+        },
+        {
+            "id": "minecraft:feather",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 12
+        }
+    ]
+}

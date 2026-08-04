@@ -3,6 +3,7 @@
     "variants": [
         "ad_astra:sulfur_creeper",
 		"caverns_and_chasms:deeper",
+		"caverns_and_chasms:evendeeper",
 		"caverns_and_chasms:peeper",
         "creeperoverhaul:badlands_creeper",
         "creeperoverhaul:bamboo_creeper",
@@ -42,6 +43,21 @@
         {
             "id": "minecraft:creeper_head",
             "count": 4
+        },
+        {
+            "optional": true,
+            "id": "caverns_and_chasms:deeper_head",
+            "count": 2
+        },
+        {
+            "optional": true,
+            "id": "caverns_and_chasms:evendeeper_head",
+            "count": 2
+        },
+        {
+            "optional": true,
+            "id": "caverns_and_chasms:peeper_head",
+            "count": 2
         },
         {
             "optional": true,

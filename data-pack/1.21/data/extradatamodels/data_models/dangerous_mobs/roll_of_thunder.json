@@ -1,0 +1,65 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:rollofthunder",
+	"variants": [
+		"dangerous_mobs:elite_rollofthunder"
+	],
+    "name": {
+        "translate": "entity.dangerous_mobs.rollofthunder",
+        "color": "#62C3FF"
+    },
+    "display": {
+        "scale": 0.95
+    },
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.roll_of_thunder",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:sizzle_rod",
+            "count": 64
+        },
+        {
+            "id": "dangerous_mobs:thunder_topaz_fragment",
+            "count": 8
+        },
+        {
+            "id": "minecraft:copper_ingot",
+            "count": 24
+        },
+        {
+            "id": "dangerous_mobs:necrotite_upgrade_smithing_template",
+            "count": 2
+        },
+        {
+            "id": "dangerous_mobs:magic_upgrade_smithing_template",
+            "count": 2
+        },
+        {
+            "id": "dangerous_mobs:soul_upgrade_smithing_template",
+            "count": 2
+        }
+    ],
+    "tier_data": {
+        "faulty": 6,
+        "basic": 2065,
+        "advanced": 4736,
+        "superior": 129026
+    },
+    "data_gained": {
+        "faulty": 6,
+        "basic": 1033,
+        "advanced": 1579,
+        "superior": 21505
+    }
+}

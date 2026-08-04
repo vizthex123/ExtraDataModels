@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:ant",
+    "name": {
+        "translate": "entity.naturalist.ant",
+        "color": "#43241C"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 16,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ant",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:ant",
+            "count": 8
+        },
+		{
+            "id": "naturalist:queen_ant",
+            "count": 1
+        }
+    ]
+}

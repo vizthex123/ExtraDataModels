@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:laviathan",
+    "name": {
+        "translate": "entity.alexsmobs.laviathan",
+        "color": "#2B2E3B"
+    },
+    "display": {
+        "scale": 0.3
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.laviathan",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:blackstone",
+            "count": 16
+        },
+        {
+            "id": "minecraft:magma_block",
+            "count": 8
+        },
+        {
+            "id": "minecraft:obsidian",
+            "count": 4
+        }
+    ]
+}

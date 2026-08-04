@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:straw_golem",
+    "name": {
+        "translate": "entity.dangerous_mobs.straw_golem",
+        "color": "#695714"
+    },
+    "display": {
+        "scale": 0.64
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.straw_golem",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:residual_soul",
+            "count": 16
+        },
+        {
+            "id": "minecraft:wheat",
+            "count": 64
+        },
+        {
+            "id": "minecraft:stick",
+            "count": 48
+        }
+    ]
+}

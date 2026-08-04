@@ -1,0 +1,45 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "caverns_and_chasms"
+        }
+    ],
+    "entity": "caverns_and_chasms:rat",
+    "name": {
+        "translate": "entity.caverns_and_chasms.rat",
+        "color": "#5E4A3F"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.rat",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:bone",
+            "count": 4
+        },
+        {
+			"optional": true,
+            "id": "naturalist:morsel",
+            "count": 4
+        },
+        {
+			"optional": true,
+            "id": "naturalist:fur",
+            "count": 4
+        },
+        {
+			"optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 4
+        }
+    ]
+}

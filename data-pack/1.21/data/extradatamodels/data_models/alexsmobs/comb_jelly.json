@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:comb_jelly",
+    "name": {
+        "translate": "entity.alexsmobs.comb_jelly",
+        "color": "rainbow"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.comb_jelly",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:rainbow_jelly",
+            "count": 16
+        }
+    ]
+}

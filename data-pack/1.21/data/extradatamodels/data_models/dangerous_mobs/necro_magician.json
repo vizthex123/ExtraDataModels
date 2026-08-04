@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:necro_magician",
+    "name": {
+        "translate": "entity.dangerous_mobs.necro_magician",
+        "color": "#6387FF"
+    },
+    "display": {
+        "scale": 0.9
+    },
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.necro_magician",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:residual_magic",
+            "count": 32
+        },
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 8
+        },
+        {
+            "id": "dangerous_mobs:necro_dust",
+            "count": 16
+        },
+        {
+            "id": "minecraft:diamond",
+            "count": 2
+        }
+    ]
+}

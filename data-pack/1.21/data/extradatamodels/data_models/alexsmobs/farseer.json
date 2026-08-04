@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:endergrade",
+    "name": {
+        "translate": "entity.alexsmobs.endergrade",
+        "color": "#4C862F"
+    },
+    "display": {
+        "scale": 0.55
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.endergrade",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:farseer_arm",
+            "count": 2
+        }
+    ]
+}

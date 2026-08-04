@@ -30,31 +30,32 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 
 (i still made categories for some of them when I initially catalogued all the references though lol)
 
-|			Mod			|			Mob		|	Reference	|
+|			Mod			|			Mob		|	 Reference	|
 |---------------------|-------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Ad Astra				|	Star Crawler	| Its trivia entry references Wallace & Gromit (specifically [A Grand Day Out](https://en.wikipedia.org/wiki/A_Grand_Day_Out), which was the first short) |
-| Alex's Mobs		| Kangaroo |  Its trivia entry is a reference to [Kangaroo Jack](https://en.wikipedia.org/wiki/Kangaroo_Jack)	|
-| Ars Nouveau		| Wilden Chimera	|  Its trivia entry is a very vague allusion to Fullmetal Alchemist.	|
-| Atmospheric		| Cochineal		| Terraria's dye recipes require the [Dye Vat](https://terraria.wiki.gg/wiki/Dye_Vat)	|
-| Ender Zoology	| Enderminy		| The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph)	|
-| Eternal Starlight | Yeti				| Its trivia entry references [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain)	|
+| Ad Astra				|	Star Crawler | Its trivia entry references [Wallace & Gromit](https://en.wikipedia.org/wiki/Wallace_&_Gromit) (specifically [A Grand Day Out](https://en.wikipedia.org/wiki/A_Grand_Day_Out), which was the first entry in the series.). |
+| Alex's Mobs		| Kangaroo |  Its trivia entry is a reference to [Kangaroo Jack](https://en.wikipedia.org/wiki/Kangaroo_Jack).	|
+| Ars Nouveau		| Wilden Chimera	|  Its trivia entry is a very vague allusion to [Fullmetal Alchemist](https://en.wikipedia.org/wiki/Fullmetal_Alchemist).	|
+| Atmospheric		| Cochineal | Its trivia entry is a reference to how Terraria's dye recipes require the [Dye Vat](https://terraria.wiki.gg/wiki/Dye_Vat) to craft.	|
+| Ender Zoology	| Enderminy | The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph).	|
+| Eternal Starlight | Yeti | Its trivia entry references [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain).	|
 | L_Ender 's Cataclysm | Symbiocto | Its trivia entry references Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
-| Rotten Creatures	| Mummy | [S1E9 "The Empty Child"](https://en.wikipedia.org/wiki/The_Empty_Child) of Doctor Who (2005)  |
-| Rotten Creatures	| Undead Miner | [Undead Miners](https://terraria.wiki.gg/wiki/Undead_Miner) from Terraria  |
+| Rotten Creatures	| Mummy | [S1E9 "The Empty Child"](https://en.wikipedia.org/wiki/The_Empty_Child) of Doctor Who (2005).  |
+| Rotten Creatures	| Undead Miner | [Undead Miners](https://terraria.wiki.gg/wiki/Undead_Miner) from Terraria.  |
 | Cracker's Wither Storm | Wither Symbiont | The data values of 2015 and 2019 were the release and delist dates for [Minecraft: Story Mode](https://minecraft.wiki/w/Minecraft:_Story_Mode), which introduced the [Wither Storm](https://minecraft.wiki/w/Story_Mode:Wither_Storm) as the final boss.	|
 
 <br />
 
-| MOD	| MOB		| REFERENCE |
+| MOD	|	MOB	|	 REFERENCE	|
 
 # Entries that are used across multiple mods
 
 |	Mob	|	Reference	|
 |----------|------------------|
 | Catfish	| The [Dogfish](https://wikibound.info/wiki/Dogfish) from Mother 3 |
-| Deer	| [This clip](https://www.youtube.com/watch?v=2BxWKuntYFQ) from The Simpsons and the opening to [Bambi (1942)](https://en.wikipedia.org/wiki/Bambi) |
+| Deer	| [This clip](https://www.youtube.com/watch?v=2BxWKuntYFQ) from The Simpsons, and the opening to [Bambi (1942)](https://en.wikipedia.org/wiki/Bambi) |
 | Snail	| Adventure Time [S2E6 "Slow Love"](https://adventuretime.fandom.com/wiki/Slow_Love) |
-| Troll	| The concept of [internet trolls](https://en.wikipedia.org/wiki/Trolling), and the [well-known bug](https://gamefaqs.gamespot.com/boards/615805-the-elder-scrolls-v-skyrim/61104174) from The Elder Scrolls V: Skyrim (even though I don't play the game lol). |
+| Rat	| Pixar's [Ratatouille](https://en.wikipedia.org/wiki/Ratatouille_(film)) movie, and [Master Splinter](https://en.wikipedia.org/wiki/Splinter_(Teenage_Mutant_Ninja_Turtles)) from [Teenage Mutant Ninja Turtles](https://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles). |
+| Troll	| The concept of [internet trolls](https://en.wikipedia.org/wiki/Trolling), and the [well-known bug](https://gamefaqs.gamespot.com/boards/615805-the-elder-scrolls-v-skyrim/61104174) from [The Elder Scrolls V: Skyrim](https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim) (even though I don't play the game lol). |
 
 <br />
 
@@ -272,6 +273,35 @@ References the Aether Mod
 
 --------------------------------------------------
 
+# Dangerous Mobs
+
+<br />
+
+## Roll of Thunder
+
+Its trivia entry is references the [Franklin Badge](https://wikibound.info/wiki/Franklin_Badge) from the [Mother](https://en.wikipedia.org/wiki/Mother_(video_game_series)) (EarthBound) series, and the [Thunder & Storm](https://wikibound.info/wiki/Thunder_and_Storm) boss from [EarthBound](https://en.wikipedia.org/wiki/EarthBound).
+
+In addition, all of the data values are references to the bosses' stats:
+
+- 6 is its Your Sanctuary number in the game's progression
+- 2,065 is its health
+- 4,736 is the amount of money it gives upon death
+- 129,026 is the amount of XP it gives upon death (but i had to reduce it to 29,026 because the mod caps data values at )
+
+<br />
+
+## Soul Vessel
+
+Its trivia entry is a vague reference to [SOUL](https://hollowknight.wiki/w/Soul) from [Hollow Knight](https://en.wikipedia.org/wiki/Hollow_Knight).
+
+## Straw Golem
+
+Its trivia entry references the [straw man argument](https://en.wikipedia.org/wiki/Straw_man).
+
+<br />
+
+--------------------------------------------------
+
 <br />
 
 # Deep Dark: Regrowth
@@ -462,7 +492,20 @@ Homer's *[Odyssey](https://en.wikipedia.org/wiki/Odyssey)*
 <br />
 
 ## Hydra
+
 The [Lernaean Hydra](https://en.wikipedia.org/wiki/Lernaean_Hydra) from the myth of Heracles (Hercules).
+
+Original data references (swapped out these three since the numbers are too low):
+
+2 - Reference to its position in the [Twelve Labours of Hercules](https://en.wikipedia.org/wiki/Labours_of_Hercules)
+3 - Number of heads the [Hydra](https://twilightforest.fandom.com/wiki/Hydra) has in the Twilight Forest mod
+9 - Number of heads the Hydra had in later iterations (specifically the version [Alcaeus](https://en.wikipedia.org/wiki/Lernaean_Hydra#Development_of_the_myth) wrote)
+
+Tier data:
+12 - The [Twelve Labours of Hercules](https://en.wikipedia.org/wiki/Labours_of_Hercules), of which this was the second
+250 - Health of Ice & Fire's hydra
+360 - Health of Twilight Forest's hydra
+700 - Date of the [oldest hydra myth](https://en.wikipedia.org/wiki/Theogony)
 
 <br />
 
@@ -493,6 +536,10 @@ My original plan was to reference multiple rulers of varying countries, but I'm 
 
 # Naturalist
 
+## Ant
+
+The incredibly goofy line from the teaser for the [Ant-Man](https://en.wikipedia.org/wiki/Ant-Man_(film)) movie.
+
 ## Bass
 
 The fact that both "bass" and "bass" are pronounced differently despite being different things. You could also extend this to [Bass](https://megaman.fandom.com/wiki/Bass) from the Mega Man games (his name was mispronounced in the dub of one of the games iirc), but idc about that series and only thought of it whilst writing this sentence.
@@ -505,20 +552,63 @@ The [Asterix comics](https://en.wikipedia.org/wiki/Asterix).
 
 The old idiom of a "[canary in a coal mine](https://en.wikipedia.org/wiki/Sentinel_species#Canaries)", as well as the fact that the miners would take care of the birds and attempt to retrieve them if the mine collapsed or anything.
 
+## Elephant
+
+The "[addressing the elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room)" idiom.
+
+## Firefly
+
+Owl City's [Fireflies song](https://youtu.be/psuRGfAaju4).
+
+## Great White Shark
+
+[Shark Week](https://en.wikipedia.org/wiki/Shark_Week) and the movie [Jaws](https://en.wikipedia.org/wiki/Jaws_(film)).
+
+## Hedgehog
+
+[Sonic the Hedgehog](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(character)), with both the name colour and its trivia entry.
+
+## Lizard
+
+The [Lihzahrd](https://terraria.wiki.gg/wiki/Lihzahrd) species from [Terraria](https://en.wikipedia.org/wiki/Terraria).
+
+## Mammoth
+
+A line from [Ice Age](https://en.wikipedia.org/wiki/Ice_Age_(2002_film)).
+
+## Mole
+
+[Diggy Diggy Hole](https://www.youtube.com/watch?v=ytWz0qVvBZ0).
+
+## Piranha
+
+A line from [Finding Nemo](https://en.wikipedia.org/wiki/Finding_Nemo).
+
+## Ray
+
+The [song](https://disney.fandom.com/wiki/Let%27s_Name_the_Species) Mr. Ray sings in [Finding Nemo](https://en.wikipedia.org/wiki/Finding_Nemo).
+
 ## Rhino
 
-Rhino from Marvel's Spider-Man.
+[Rhino](https://en.wikipedia.org/wiki/Rhino_(character)) from the [Spider-Man](https://en.wikipedia.org/wiki/Spider-Man) franchise.
 
 ## Robin
 
 Refers to DC's Batman & Robin.
 
+## Snake
+
+[Solid Snake](https://en.wikipedia.org/wiki/Solid_Snake) from [Metal Gear Solid](https://en.wikipedia.org/wiki/Metal_Gear), and a couple of extra-secret things I won't list here.
+
+## Starfish
+
+A line from [SpongeBob Squarepants](https://en.wikipedia.org/wiki/SpongeBob_SquarePants).
+
 ## Zebra
 
-Its trivia entry references is an incredibly forced reference to [Zecora](https://equestripedia.org/wiki/Zecora_(Friendship_is_Magic)) from My Little Pony: Friendship is Magic. She lives in the Everfree Forest, brews potions, and always speaks in [rhyming couplets](https://en.wikipedia.org/wiki/Couplet).
+An incredibly forced reference to [Zecora](https://equestripedia.org/wiki/Zecora_(Friendship_is_Magic)) from My Little Pony: Friendship is Magic. She lives in the Everfree Forest, brews potions, and always speaks in [rhyming couplets](https://en.wikipedia.org/wiki/Couplet).
 
-
-
+<br />
 
 --------------------------------------------------
 
@@ -544,7 +634,7 @@ Tier data:
 1 - EMC value of Stone in the Equivalent Exchange mods (ProjectE is a fork of EE2)<br />
 10 - Hardness of diamonds on the mohs scale<br />
 110 - Rounded up the cleavage angle of diamonds (which is 109.5)<br />
-8192 - EMC value of Diamond in the Equivalent Exchange mods (ProjectE is a fork of EE2)
+8192 - EMC value of Diamond in the Equivalent Exchange mods
 
 <br />
 

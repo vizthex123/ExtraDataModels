@@ -1,0 +1,30 @@
+{
+	"entity": "minecraft:wither",
+	"variants": [
+		"draconicevolution:guardian_wither"
+	],
+	"name_color": "#343434",
+	"display": {
+		"y_offset": -0.33,
+		"scale": 0.5
+	},
+	"sim_cost": 2560,
+	"input": {
+		"item": "hostilenetworks:prediction_matrix"
+	},
+	"base_drop": {
+		"id": "hostilenetworks:end_prediction"
+	},
+	"trivia": "hostilenetworks.trivia.wither",
+	"fabricator_drops": [
+		{
+			"id": "minecraft:nether_star",
+			"count": 1
+		},
+		{
+			"optional": true,
+			"id": "draconicevolution:medium_chaos_frag",
+			"count": 4
+		}
+	]
+}

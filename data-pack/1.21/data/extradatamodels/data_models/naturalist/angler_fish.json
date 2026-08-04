@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:anglerfish",
+    "name": {
+        "translate": "entity.naturalist.anglerfish",
+        "color": "#562E1A"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.angler_fish",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:anglerfish",
+            "count": 16
+        },
+        {
+            "id": "minecraft:glowstone_dust",
+            "count": 8
+        }
+    ]
+}

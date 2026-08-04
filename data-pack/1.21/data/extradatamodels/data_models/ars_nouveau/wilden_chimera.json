@@ -27,16 +27,16 @@
             "count": 1
         },
 		{
-            "id": "ars_nouveau:wilden_horn",
-            "count": 32
+            "id": "ars_nouveau:wilden_spike",
+            "count": 16
         },
 		{
-            "id": "ars_nouveau:wilden_spike",
-            "count": 32
+            "id": "ars_nouveau:wilden_horn",
+            "count": 16
         },
 		{
             "id": "ars_nouveau:wilden_wing",
-            "count": 32
+            "count": 16
         },
         {
             "optional": true,

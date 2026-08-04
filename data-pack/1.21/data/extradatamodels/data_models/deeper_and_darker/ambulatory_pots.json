@@ -1,0 +1,66 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "deeperdarker"
+        }
+    ],
+    "entity": "deeperdarker:anger_pot",
+	"variants": [
+		"deeperdarker:fear_pot",
+		"deeperdarker:sorrow_pot"
+	],
+    "name": {
+        "translate": "entity.deeperdarker.anger_pot",
+        "color": "#302523"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ambulatory_pots",
+    "fabricator_drops": [
+        {
+            "id": "deeperdarker:gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:brittle_gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:dark_heart_gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:listener_gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:snapper_gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:temple_gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:transmission_gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:ward_gloomsherd",
+            "count": 8
+        },
+        {
+            "id": "deeperdarker:wayfinder_gloomsherd",
+            "count": 8
+        }
+    ]
+}

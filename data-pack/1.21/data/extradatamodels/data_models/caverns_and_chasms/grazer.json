@@ -1,0 +1,37 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "caverns_and_chasms"
+        }
+    ],
+    "entity": "caverns_and_chasms:grazer",
+    "variants": [
+		"caverns_and_chasms:saddled_grazer"
+	],
+    "name": {
+        "translate": "entity.caverns_and_chasms.grazer",
+        "color": "#665229"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.grazer",
+    "fabricator_drops": [
+        {
+            "id": "caverns_and_chasms:tin_ingot",
+            "count": 16
+        },
+        {
+            "id": "caverns_and_chasms:saddled_egg",
+            "count": 8
+        }
+    ]
+}

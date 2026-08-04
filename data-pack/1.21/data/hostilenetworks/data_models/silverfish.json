@@ -1,0 +1,31 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "caverns_and_chasms"
+        }
+    ],
+    "entity": "minecraft:silverfish",
+    "name": {
+        "translate": "entity.minecraft.silverfish",
+        "color": "#60645A"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction",
+        "count": 1
+    },
+    "trivia": "custom.trivia.silverfish",
+    "fabricator_drops": [
+        {
+            "id": "caverns_and_chasms:silver_nugget",
+            "count": 4
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "rottencreatures"
+        }
+    ],
+    "entity": "rottencreatures:burned",
+    "name": {
+        "translate": "entity.rottencreatures.burned",
+        "color": "#3D0D0C"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.burned",
+    "fabricator_drops": [
+        {
+            "id": "rottencreatures:magma_rotten_flesh",
+            "count": 64
+        },
+		{
+            "id": "minecraft:magma_cream",
+            "count": 24
+        },
+		{
+            "id": "minecraft:magma_block",
+            "count": 6
+        },
+        {
+            "id": "rottencreatures:burned_head",
+            "count": 4
+        }
+    ]
+}

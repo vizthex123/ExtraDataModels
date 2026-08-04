@@ -85,24 +85,24 @@ Defaults:
 - Data per kill: 1/4/10/18
 -- Kills per tier: 6/13.5/35.4/~69.6
 
-*Data rate overrides are unused for now (excluding Alex's Caves), but I might make a separate datapack or mod that uses them in the future.*
+*Data rate overrides are mostly unused for now (excluding Alex's Caves and a few mobs from various mods), but I might make a separate datapack or mod that uses them in the future.*
 
 There's 4 levellable tiers in total (Faulty, Basic, Advanced, and Superior), with Self-Aware being the maximum tier
-- Data rates follow factors of 8 or are references to various things related to the enemy
--- Gained amount is `tier requirement/kills`. If it can't evenly divide, it gets rounded up or down based on what I think fits better
-
---- Rare enemies need 1/2/4/6 kills
-
---- Minibosses need 2/4/6/12 kills
---- Bosses need 1/2/4/8 kills
---- Superbosses need 1/2/3/4 kills
+- Data rates follow factors of 8 or references to various things related to the enemy
+-- Gained amount is `tier requirement/kills`. If it can't evenly divide, it gets rounded up to the nearest 1 (but for more common enemies, it can be rounded down)
 
 --- Passives need 16/32/64/128 kills
 --- Neutrals need 6/12/24/48 kills
 --- Hostiles need 8/16/32/64 kills
 ---- Elites need 4/8/16/32 kills
 
+--- Rare enemies need 2/4/6/12 kills
 
+--- Minibosses need 1/2/3/6 kills
+--- Bosses need 1/2/4/8 kills
+--- Superbosses need 1/2/3/4 kills
+
+<br />
 
 passive data:
 ```
@@ -121,6 +121,24 @@ passive data:
 }
 ```
 
+1.21:
+```
+    "tier_data": {
+        "faulty": 64,
+        "basic": 256,
+        "advanced": 768,
+        "superior": 2048
+    },
+    "data_gained": {
+        "faulty": 4,
+        "basic": 8,
+        "advanced": 12,
+        "superior": 16
+    }
+}
+```
+
+<br />
 
 neutral data:
 ```
@@ -139,6 +157,24 @@ neutral data:
 }
 ```
 
+1.21:
+```
+    "tier_data": {
+        "faulty": 48,
+        "basic": 192,
+        "advanced": 768,
+        "superior": 2304
+    },
+    "data_gained": {
+        "faulty": 8,
+        "basic": 16,
+        "advanced": 32,
+        "superior": 48
+    }
+}
+```
+
+<br />
 
 hostile data:
 ```
@@ -160,12 +196,12 @@ hostile data:
 1.21:
 ```
     "tier_data": {
-        "basic": 64,
-        "advanced": 256,
-        "superior": 1024,
-        "self_aware": 4096
+        "faulty": 64,
+        "basic": 256,
+        "advanced": 1024,
+        "superior": 4096
     },
-    "data_per_kill": {
+    "data_gained": {
         "faulty": 8,
         "basic": 16,
         "advanced": 32,
@@ -174,6 +210,7 @@ hostile data:
 }
 ```
 
+<br />
 
 elite data:
 ```
@@ -195,12 +232,12 @@ elite data:
 1.21:
 ```
     "tier_data": {
-        "basic": 96,
-        "advanced": 384,
-        "superior": 1536,
-        "self_aware": 6144
+        "faulty": 96,
+        "basic": 384,
+        "advanced": 1536,
+        "superior": 6144
     },
-    "data_per_kill": {
+    "data_gained": {
         "faulty": 24,
         "basic": 48,
         "advanced": 96,
@@ -209,24 +246,79 @@ elite data:
 }
 ```
 
+<br />
 
-miniboss data:
+rare data:
 ```
     "tier_data": [
-		128,
-        512,
-        3072,
-        9216
+		160,
+        640,
+        3840,
+        15360
     ],
     "data_per_kill": [
-        64,
-        128,
-        512,
-        768
+        80,
+        160,
+        640,
+        1280
     ]
 }
 ```
 
+1.21:
+```
+    "tier_data": {
+        "faulty": 160,
+        "basic": 640,
+        "advanced": 3840,
+        "superior": 15360
+    },
+    "data_gained": {
+        "faulty": 80,
+        "basic": 160,
+        "advanced": 640,
+        "superior": 1280
+    }
+}
+```
+
+<br />
+
+miniboss data:
+```
+    "tier_data": [
+		512,
+        1920,
+        3072,
+        9216
+    ],
+    "data_per_kill": [
+        512,
+        960,
+        1024,
+        1536
+    ]
+}
+```
+
+1.21:
+```
+    "tier_data": {
+        "faulty": 128,
+        "basic": 1920,
+        "advanced": 3072,
+        "superior": 9216
+    },
+    "data_gained": {
+        "faulty": 128,
+        "basic": 960,
+        "advanced": 1024,
+        "superior": 1536
+    }
+}
+```
+
+<br />
 
 boss data:
 ```
@@ -245,16 +337,15 @@ boss data:
 }
 ```
 
-
 1.21:
 ```
     "tier_data": {
-        "basic": 128,
-        "advanced": 1024,
-        "superior": 4096,
-        "self_aware": 16384
+        "faulty": 128,
+        "basic": 1024,
+        "advanced": 4096,
+        "superior": 16384
     },
-    "data_per_kill": {
+    "data_gained": {
         "faulty": 128,
         "basic": 512,
         "advanced": 1024,
@@ -263,6 +354,7 @@ boss data:
 }
 ```
 
+<br />
 
 superboss data:
 ```
@@ -281,12 +373,29 @@ superboss data:
 }
 ```
 
-seems like 16384 is the limit for data values... very annoying, but whatever.
+1.21:
+```
+    "tier_data": {
+        "faulty": 128,
+        "basic": 1024,
+        "advanced": 4096,
+        "superior": 16384
+    },
+    "data_gained": {
+        "faulty": 128,
+        "basic": 512,
+        "advanced": 1366,
+        "superior": 16384
+    }
+}
+```
+
+seems like 16384 is the limit for data values... kind of annoying, but whatever.
 
 
 
 ## Alex's Caves
-Has different standards due to cave rarity and enemy sparsity
+Has different standards due to cave rarity & enemy sparsity
 
 - Passives need 4/8/16/32
 - Neutrals need 3/6/12/24

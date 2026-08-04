@@ -1,0 +1,33 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:desert_scorpion",
+    "variants": [
+		"environmental:jungle_scorpion"
+	],
+    "name": {
+        "translate": "custom.scorpions",
+        "color": "#706040"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 32,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.scorpion",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:scorpion_poison_gland",
+            "count": 8
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        },
+		{
+            "type": "neoforge:mod_loaded",
+			"modid": "outer_end"
+		}
+    ],
+    "entity": "alexsmobs:endergrade",
+    "name": {
+        "translate": "entity.alexsmobs.endergrade",
+        "color": "#7D9FDC"
+    },
+    "display": {
+        "scale": 0.75
+    },
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.endergrade",
+    "fabricator_drops": [
+        {
+			"optional": true,
+            "id": "outer_end:floral_paste",
+            "count": 16
+        },
+		{
+			"optional": true,
+            "id": "outer_end:spectragel",
+            "count": 8
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:froststalker",
+    "name": {
+        "translate": "entity.alexsmobs.froststalker",
+        "color": "#6381B8"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.froststalker",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:froststalker_horn",
+            "count": 2
+        },
+        {
+            "id": "minecraft:ice",
+            "count": 9
+        },
+        {
+            "id": "minecraft:packed_ice",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

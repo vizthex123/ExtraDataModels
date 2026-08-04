@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:necro_soldier",
+    "name": {
+        "translate": "entity.dangerous_mobs.necro_soldier",
+        "color": "#AAAEFF"
+    },
+    "display": {
+        "scale": 0.98
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.necro_soldier",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 8
+        },
+        {
+            "id": "dangerous_mobs:necro_dust",
+            "count": 16
+        }
+    ]
+}

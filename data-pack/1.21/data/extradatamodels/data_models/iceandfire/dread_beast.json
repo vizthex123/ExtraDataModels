@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "iceandfire"
+        }
+    ],
+    "entity": "iceandfire:dread_beast",
+    "name": {
+        "translate": "entity.iceandfire.dread_beast",
+        "color": "#383B3D"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 132,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.dread_beast",
+    "fabricator_drops": [
+		{
+			"id": "minecraft:bone",
+			"count": 32
+		},
+		{
+			"id": "minecraft:rotten_flesh",
+			"count": 32
+		},
+		{
+			"id": "iceandfire:dread_shard",
+			"count": 16
+		}
+    ]
+}

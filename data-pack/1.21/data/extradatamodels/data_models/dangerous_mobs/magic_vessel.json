@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:magic_vessel",
+    "name": {
+        "translate": "entity.dangerous_mobs.magic_vessel",
+        "color": "#2851FF"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.magic_vessel",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:residual_magic",
+            "count": 8
+        },
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 12
+        },
+        {
+            "id": "dangerous_mobs:necro_dust",
+            "count": 16
+        }
+    ]
+}

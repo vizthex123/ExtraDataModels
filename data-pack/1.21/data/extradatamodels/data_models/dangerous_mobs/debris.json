@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:debris",
+    "name": {
+        "translate": "entity.dangerous_mobs.debris",
+        "color": "#D57D43"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.debris",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 8
+        },
+        {
+            "id": "minecraft:coal",
+            "count": 16
+        },
+        {
+            "id": "minecraft:charcoal",
+            "count": 16
+        },
+        {
+            "id": "minecraft:blaze_powder",
+            "count": 4
+        }
+    ]
+}

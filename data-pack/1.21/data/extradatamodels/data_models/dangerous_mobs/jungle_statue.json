@@ -1,0 +1,50 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:jungle_statue",
+    "name": {
+        "translate": "entity.dangerous_mobs.jungle_statue",
+        "color": "#54623C"
+    },
+    "display": {
+        "scale": 0.52
+    },
+    "sim_cost": 384,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.jungle_statue",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:residual_magic",
+            "count": 32
+        },
+        {
+            "id": "minecraft:redstone",
+            "count": 32
+        },
+        {
+            "id": "minecraft:moss_carpet",
+            "count": 96
+        },
+        {
+            "id": "dangerous_mobs:magic_cobblestone",
+            "count": 64
+        },
+        {
+            "id": "minecraft:cobblestone",
+            "count": 128
+        },
+        {
+            "id": "minecraft:mossy_cobblestone",
+            "count": 128
+        }
+    ]
+}

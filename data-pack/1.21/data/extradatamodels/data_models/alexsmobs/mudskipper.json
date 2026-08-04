@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:mudskipper",
+    "name": {
+        "translate": "entity.alexsmobs.mudskipper",
+        "color": "#525B41"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 32,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.mudskipper",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:tropical_fish",
+            "count": 32
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "dangerous_mobs"
+        }
+    ],
+    "entity": "dangerous_mobs:necro_mage",
+    "name": {
+        "translate": "entity.dangerous_mobs.necro_mage",
+        "color": "#2851FF"
+    },
+    "display": {
+        "scale": 0.68
+    },
+    "sim_cost": 1024,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.necro_mage",
+    "fabricator_drops": [
+        {
+            "id": "dangerous_mobs:residual_magic",
+            "count": 64
+        },
+        {
+            "id": "dangerous_mobs:fossilized_bone",
+            "count": 16
+        },
+        {
+            "id": "dangerous_mobs:necro_dust",
+            "count": 32
+        },
+        {
+            "id": "dangerous_mobs:magic_mass",
+            "count": 8
+        },
+        {
+            "id": "dangerous_mobs:magic_upgrade_smithing_template",
+            "count": 2
+        },
+        {
+            "id": "minecraft:diamond",
+            "count": 4
+        }
+    ],
+    "tier_data": {
+        "faulty": 128,
+        "basic": 1920,
+        "advanced": 3072,
+        "superior": 9216
+    },
+    "data_gained": {
+        "faulty": 128,
+        "basic": 960,
+        "advanced": 1024,
+        "superior": 1536
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "forcecraft"
+        }
+    ],
+    "entity": "forcecraft:ender_tot",
+    "name": {
+        "translate": "entity.forcecraft.ender_tot",
+        "color": "#161616"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.ender_tot",
+    "fabricator_drops": [
+        {
+            "id": "minecraft:ender_pearl",
+            "count": 4
+        },
+        {
+            "optional": true,
+            "id": "tconstruct:enderman_head",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "id": "enderio:enderman_head",
+            "count": 1
+        },
+        {
+            "optional": true,
+            "id": "evilcraft:ender_tear",
+            "count": 2
+        },
+        {
+            "optional": true,
+            "id": "reliquary:nebulous_heart",
+            "count": 1
+        }
+    ]
+}

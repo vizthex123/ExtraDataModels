@@ -1,0 +1,49 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:gorilla",
+	"variants": [
+		"alexsmobs:gelada_monkey",
+		"alexsmobs:capuchin_monkey"
+	],
+    "name": {
+        "translate": "entity.alexsmobs.gorilla",
+        "color": "#293438"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.gorilla",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:banana",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "neapolitan:banana",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "neapolitan:banana_frond",
+            "count": 32
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 24
+        }
+    ]
+}

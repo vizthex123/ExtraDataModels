@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:lobster",
+    "name": {
+        "translate": "entity.alexsmobs.lobster",
+        "color": "#C13022"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.lobster",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:lobster_tail",
+            "count": 8
+        }
+    ]
+}

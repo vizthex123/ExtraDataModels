@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:hammerhead_shark",
+    "name": {
+        "translate": "entity.alexsmobs.hammerhead_shark",
+        "color": "#434554"
+    },
+    "display": {
+        "scale": 0.7
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.hammerhead_shark",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:shark_tooth",
+            "count": 2
+        }
+    ]
+}

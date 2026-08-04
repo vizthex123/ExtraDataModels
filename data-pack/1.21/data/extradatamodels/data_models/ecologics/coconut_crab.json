@@ -1,0 +1,38 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "ecologics"
+        }
+    ],
+    "entity": "ecologics:coconut_crab",
+    "name": {
+        "translate": "entity.ecologics.coconut_crab",
+        "color": "#D93422"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.coconut_crab",
+    "fabricator_drops": [
+		{
+            "id": "ecologics:crab_claw",
+            "count": 1
+        },
+		{
+            "id": "ecologics:crab_meat",
+            "count": 16
+        },
+		{
+            "id": "ecologics:coconut_slice",
+            "count": 8
+        }
+    ]
+}

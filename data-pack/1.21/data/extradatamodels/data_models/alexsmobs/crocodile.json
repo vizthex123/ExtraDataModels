@@ -1,0 +1,34 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "alexsmobs"
+        }
+    ],
+    "entity": "alexsmobs:crocodile",
+    "name": {
+        "translate": "entity.alexsmobs.crocodile",
+        "color": "#545943"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:end_prediction"
+    },
+    "trivia": "custom.trivia.crocodile",
+    "fabricator_drops": [
+        {
+            "id": "alexsmobs:crocodile_scute",
+            "count": 8
+        },
+        {
+            "id": "alexsmobs:crocodile_egg",
+            "count": 4
+        }
+    ]
+}

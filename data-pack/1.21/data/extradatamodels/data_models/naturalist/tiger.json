@@ -1,0 +1,42 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "naturalist"
+        }
+    ],
+    "entity": "naturalist:tiger",
+    "variants": [
+		"alexsmobs:tiger"
+	],
+    "name": {
+        "translate": "entity.naturalist.tiger",
+        "color": "#09080A"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.tiger",
+    "fabricator_drops": [
+        {
+            "id": "naturalist:tooth",
+            "count": 16
+        },
+        {
+            "id": "naturalist:fur",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 24
+        }
+    ]
+}

@@ -32,17 +32,12 @@
         },
         {
             "optional": true,
-            "id": "hexerei:animal_fat",
+            "id": "naturalist:antler",
             "count": 16
         },
         {
-            "id": "naturalist:venison",
             "optional": true,
-            "count": 32
-        },
-        {
-            "id": "naturalist:antler",
-            "optional": true,
+            "id": "hexerei:animal_fat",
             "count": 16
         }
     ]

@@ -1,0 +1,46 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "quark"
+        }
+    ],
+    "entity": "quark:toretoise",
+    "name": {
+        "translate": "entity.quark.toretoise",
+        "color": "#838383"
+    },
+    "display": {
+        "scale": 0.7
+    },
+    "sim_cost": 72,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.toretoise",
+    "fabricator_drops": [
+		{
+            "id": "minecraft:coal",
+            "count": 16
+        },
+		{
+            "id": "minecraft:lapis_lazuli",
+            "count": 12
+        },
+		{
+            "id": "minecraft:redstone",
+            "count": 12
+        },
+		{
+            "id": "minecraft:raw_copper",
+            "count": 8
+        },
+		{
+            "id": "minecraft:raw_iron",
+            "count": 6
+        }
+    ]
+}

@@ -2,7 +2,8 @@
     "entity": "minecraft:cow",
     "variants": [
 		"buzzier_bees:moobloom",
-		"friendsandfoes:moobloom"
+		"friendsandfoes:moobloom",
+		"forcecraft:cold_cow"
 	],
     "name": {
 		"translate": "entity.minecraft.cow",

@@ -1,7 +1,9 @@
 {
     "entity": "minecraft:drowned",
     "variants": [
-		"occultism:wild_horde_drowned"
+		"occultism:wild_horde_drowned",
+		"rottencreatures:zombie_lackey",
+		"rottencreatures:zap"
 	],
     "name": {
         "translate": "entity.minecraft.drowned",
@@ -33,6 +35,11 @@
         {
             "id": "minecraft:copper_ingot",
             "count": 8
+        },
+        {
+            "optional": true,
+            "id": "rottencreatures:zap_head",
+            "count": 2
         }
     ]
 }

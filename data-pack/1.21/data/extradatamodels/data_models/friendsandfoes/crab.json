@@ -10,7 +10,10 @@
         "translate": "entity.friendsandfoes.crab",
         "color": "#8A4F42"
     },
-    "sim_cost": 256,
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 48,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
