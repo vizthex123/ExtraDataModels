@@ -9,6 +9,8 @@
 
 	"_comment": "Minecraft",
 	"custom.trivia.bee": "Floating about the forest,\nBees work tirelessly to produce Honeycombs\nyou can centrifuge into a variety of items.\nWait a minute, that's not quite right...",
+	"custom.trivia.endermite": "A simple Silverfish, corrupted by Enderic magic.\nVery rarely appears when interacting with the enderic realm.",
+	"custom.trivia.horse": "A sturdy workhorse\ncan be a loyal companion.",
 	"custom.trivia.salmon": "Regularly migrates upstream to lay its eggs.",
 	"custom.trivia.llama": "Often found in Savanna‌s,\nLlamas are known for their hostility to all who dare touch them.",
 	"custom.trivia.pufferfish": "An annoying inhabitant of the Ocean.\nDispatch before it becomes bothersome.",
@@ -120,6 +122,7 @@
 	"custom.trivia.crow": "Quoth the raven, \"nevermore\".\n\nWait, that's not quite right...",
 	"custom.trivia.emu": "Don't declare war on them.",
 	"custom.trivia.endergrade": "An impossibly large Tardigrade,\nthe Endergrade's home is a strange dimension.",
+	"custom.trivia.enderiophage": "The natural predator of endericus bacterium.",
 	"custom.trivia.farseer": "Guardians of the oft-forgotten \"Farlands\",\nthese automatons are designed to repel\nall interlopers they encounter.",
 	"custom.trivia.fly": "An annoying insect,\nflies can be found in every radii of the globe.",
 	"custom.trivia.flying_fish": "Not to be confused with the Cosmic Cod.\nOddly, these ones do not appear during rainstorms.",
@@ -127,6 +130,7 @@
 	"custom.trivia.froststalker": "These strange creatures resemble deer,\nbut act the opposite of them.\nExercise caution when near one.",
 	"custom.trivia.gazelle": "Incredibly agile, Gazelles can outpace almost everything.\nEnsure you have great speed when dealing with them.",
 	"custom.trivia.giant_squid": "Mistaken for the Kraken in times long gone,\nGiant Squids are a tricky beast to fight.\nMake sure you can breath underwater before provoking it.",
+	"custom.trivia.gorilla": "The natural nemesis of Claytons everywhere.",
 	"custom.trivia.grizzly_bear": "When fighting a Grizzly Bear,\ndo not do so.",
 	"custom.trivia.guster": "A strange, sentient tornado.\n\nDon't let it throw you across the desert!",
 	"custom.trivia.hammerhead_shark": "A curious species,\nwhose oddly-shaped head is its namesake.",
@@ -141,6 +145,7 @@
 	"custom.trivia.potoo": "It's a bird, alright.",
 	"custom.trivia.raccoon": "You should name this one Cooper, for racoons are quite Sly.",
 	"custom.trivia.rattlesnake": "If you hear rattling, leave the area.",
+	"custom.trivia.roadrunner": "Often chased by wily coyotes.\n\nMeep Meep!",
 	"custom.trivia.rocky_roller": "A strange creature, almost like an Armadillo.",
 	"custom.trivia.seagull": "\"Mine! Mine! Mine! Mine!\"",
 	"custom.trivia.shoebill": "A type of sea bird.\nYou could extract some feathers from its simulations.",
@@ -157,12 +162,15 @@
 
 
 	"_comment": "Aquamirae",
+	"custom.trivia.abyssal_scyphoid": "An extremely toxic jellyfish.\nTake care not to touch it.",
 	"custom.trivia.angler_fish": "\"Yeah, I see a light. Am I dead?\"",
 	"custom.trivia.captain_cornelia": "Lost at sea long ago,\nthe Captain's spirit still lingers in her ship -\nwaiting to be freed from her stint in purgatory.",
 	"custom.trivia.eel": "This specimen has been mutated\nby the Ice Maze's curse,\nand is hyper-aggressive because of it.",
 	"custom.trivia.golden_moth": "A gold-encrusted Moth,\nfound only within the confines of the Ice Maze.",
 	"custom.trivia.maw": "Comparison cannot convey\nthe true nature of this creature.",
 	"custom.trivia.maze_mother": "The guardian of the Ice Maze,\nwho protects it no matter what.\n\nNo cost too great.",
+	"custom.trivia.scuttler": "A small, stringy insect.",
+	"custom.trivia.shellback": "A large, stringy insect.",
 	"custom.trivia.spinefish": "Commonly spotted within the Ice Maze,\nthis fish swims aimlessly in search of its next meal.\n\nAlso found within the Lost River and Blood Kelp Zone.",
 	"custom.trivia.tortured_soul": "One of the innumerable sailor spirits\nthat can be found within the Ice Maze,\ndoomed to wander for eternity.",
 
@@ -194,13 +202,13 @@
 
 
 	"_comment": "Autumnity",
-	"custom.trivia.snail": "Is this just a slug with an identity crises?\n\nSince it doesn't have a treehouse for a shell,\nit's probably a snail.",
+	"custom.trivia.snail": "Is this just a slug with an identity crises?\nSince it doesn't have a treehouse for a shell,\nit's probably a snail.",
 	"custom.trivia.turkey": "Quite dry.\n\nNot a very good food source due to that,\nbut if you're desperate enough...",
 
 
 
 	"_comment": "Biome Makeover",
-	"custom.trivia.blightbat": "Bats infected by an unknown pathogen\nget converted into this.",
+	"custom.trivia.blightbat": "Bats infected by an unknown pathogen\nare converted into this.",
 	"custom.trivia.decayed": "Zombies remaining undead for too long\nbegin falling apart, rotting into Decayed\nafter the process is complete.",
 	"custom.trivia.ghost_makeover": "Villagers left to die (or slain in raids)\nwill become wandering spirits,\ndoomed to purgatory until freed from it.",
 	"custom.trivia.glowfish": "A bioluminescent variant of Fish.\n\nWhat do you mean it's not called \"Fish\" anymore?",
@@ -239,7 +247,10 @@
 
 
 	"_comment": "Caverns & Chasms",
-	"custom.trivia.mime": "A mysterious amalgamation of\nGemstones and Rocks.",
+	"custom.trivia.cavefish": "A fish from a cave.",
+	"custom.trivia.grazer": "A most curious creature,\nnative to the underground.\nCharges at high speeds - even up walls.\nYou could ride it, though...",
+	"custom.trivia.mime": "A mysterious amalgamation of\nGemstones and Rocks.\nSadly not willing to share with you.",
+	"custom.trivia.rat": "Does not know how to cook,\ndespite what you've been told.\n\nMight know some martial arts, though.",
 
 
 
@@ -251,6 +262,18 @@
 
 	"_comment": "The Conjurer",
 	"custom.trivia.conjurer": "A magical fellow who loves to impress -\neven building his own theatre!\nBut eventually, everyone grew weary of his same tired tricks.\nThis drove him mad with grief, rendering him an Illager.",
+
+
+
+	"_comment": "Deeper & Darker",
+	"custom.trivia.ambulatory_pots": "A most curious species,\nseemingly unrelated to the Sculk - \nyet still located near it.",
+	"custom.trivia.sculk_centipede": "A humble insect,\ncorrupted by the Sculk's dark influence.",
+	"custom.trivia.sculk_leech": "Corrupted by the Sculk,\ndoomed to consume soul energy forever.",
+	"custom.trivia.sculk_snapper":  "An ever-hungry Maw on legs,\nthe dark forces of the Sculk have twisted it -\ninstead of eating random objects, it only seeks fresh flesh.",
+	"custom.trivia.shattered": "A horrid, oozing,\ntwisted amalgamation of flesh, bone, and Sculk tendrils.\nDo not trifle with it lightly.",
+	"custom.trivia.shriek_worm": "A giant worm,\novertaken by the Sculk to such a degree\nthat its normal processes no longer function.\nIt only exists to defend its master, now.",
+	"custom.trivia.sludge": "Slimes that absorb too much Sculk\ntransform into these ambulatory aberrations.",
+	"custom.trivia.stalker": "Th3re's n0th1ng f0ll0w1ng you.\nD0n't turn ar0und.",
 
 
 
@@ -267,6 +290,43 @@
 	
 	"_comment": "Only used in Capitalia: Inward Expansion (and it's from Sculky Bits) [1.19]",
 	"custom.trivia.sculk_saprophyte": "Serving as scouts for the Sculk,\nthese small nodules are best dispatched as quickly as possible.\n5c0u75? wh47 f02?",
+
+
+
+	"_comment": "Dangerous Mobs",
+	"entity.dangerous_mobs.magic_vessel": "Magic Vessel",
+	"entity.dangerous_mobs.rollofthunder": "Roll of Thunder",
+	"entity.dangerous_mobs.elite_rollofthunder": "Elite Roll of Thunder",
+
+	"custom.trivia.amethyst_sorcerer": "A mage who specialised in light magic.\nSeems to have fallen victim to dark forces.",
+	"custom.trivia.bapho": "A strange, goat-like man.",
+	"custom.trivia.buzzle": "A lightning-infused cousin of the Blaze.",
+	"custom.trivia.cavellager": "An Illager who formed\nan obsessive attachment to cave networks.",
+	"custom.trivia.chity": "A strange hybrid of animal and insect.",
+	"custom.trivia.debris": "Remnants of Skeletons,\ninfused with strange magic.\nShambles towards its target in a fugue state.",
+	"custom.trivia.deranged_creature": "A aberration with unknown origins,\ncomposition, and goals.",
+	"custom.trivia.diffuser": "A matured Blaze,\nwho attacks about as hard as you'd expect.",
+	"custom.trivia.endermite_imago": "A mutated Endermite.\nOnly a few rare typs of magic can influence the Enderic Realm.",
+	"custom.trivia.exsuidae": "A twisted, mutated abomination.\nPut it out of its misery before it's too late.",
+	"custom.trivia.flesh_golem": "A Golem made of flesh, sinew, and bones.\nIts loyalty can fluctuate on a whim,\nso it's best to stick with its metallic friend for protection.",
+	"custom.trivia.fossil": "A literal living fossil.",
+	"custom.trivia.ignited": "Neither berserk nor a revenant,\nthis variant of the Ignited is a mystery.",
+	"custom.trivia.jungle_statue": "A stationary guardian,\nbut that doesn't mean it's incapable of ambulation.",
+	"custom.trivia.magic_vessel": "A Vessel infused with unknown magic.",
+	"custom.trivia.merged_burned": "When enough Burned\ngather in one location,\nthey will merge into this form -\ngaining substantial strength in the process.",
+	"custom.trivia.necro_knight": "A Knight,\nreanimated by powerful necromancy magic.",
+	"custom.trivia.necro_mage": "Wields powerful necromancy magic.",
+	"custom.trivia.necro_magician": "An apprentice of the Necro Mage,\nlearning how to harness necrotic forces.",
+	"custom.trivia.necro_soldier": "A Soldier,\nreanimated by powerful necromancy magic.",
+	"custom.trivia.persuer": "Always watching you.\n\n\n*Always*",
+	"custom.trivia.puppeteer": "A puppet loosley strung\nis a source of so much fun.\nWeaving, bobbing, in and out\nin a round-about pout.",
+	"custom.trivia.resentment_assembled": "All of the anguish within the Nether\nhas coalesced into this abominable abyssmal aberration.",
+	"custom.trivia.roll_of_thunder": "Thunder & storm in one.\nAsk Franklin to loan you his badge -\nit'll probably help quite a bit.",
+	"custom.trivia.rotten": "Zombies who live(?) for long enough\nwill eventually decay into this.\nBarely held together by loose sinew, twisted tendons,\nand sheer willpower.",
+	"custom.trivia.sizzle": "A rainy relative of the Blaze,\nthe Sizzle packs some thunderous force.",
+	"custom.trivia.soul_vessel": "A Vessel infused with soul.\n\nThat would explain all of the bug husks nearby...",
+	"custom.trivia.straw_golem": "Makes a great argument.\n\nIt'll be 100% fool-proof, trust me.",
+	"custom.trivia.twisted": "Nobody knows how to describe this.",
 
 
 
@@ -301,17 +361,30 @@
 
 	"_comment": "Enemy Expansion",
 	"custom.trivia.crawler": "Creepers with stunted growth\nbecome these malevolent interlopers.\n\nNot as destructive, but still quite sneaky.",
-	"custom.trivia.equestrian": "Unlike the Knights of Harmony,\nthis one is unwilling to learn from his mistakes.\n\nBest to fire your laser and dispatch it.",
+	"custom.trivia.direwolf": "A larger and more aggressive\nvariant of the standard wolf.\nBest to avoid it.",
+	"custom.trivia.equestrian": "Unlike the Knights of Harmony,\nthis one is unwilling to learn from his mistakes.\n\nStill best to fire your friendship laser & kill it.",
+	"custom.trivia.eyestalker": "A most curious creature,\nseeming to hail from the Enderic Realm.\nDrops its eyes upon death,\nwhich may be more useful than they appear.",
 	"custom.trivia.faller": "An ambushing variant of the Creeper,\nthis tricky devil will fall upon the unsuspecting\nthat pass below them.",
+	"custom.trivia.ghoul": "Often teams up with ghosts & goblins.",
+	"custom.trivia.gladilad": "An overgrown, semi-sentient squid.\nThis strange specimen should be studied\nin addition to running simulations.",
+	"custom.trivia.goblin": "A standardised annoyance for\nall manner of adventurer,\nGoblins will ambush you in large groups\nin an effort to steal your items.",
+	"custom.trivia.goblin_baker": "The nutritional officer\nof the Goblin Army.\nKeeps the invaders fed, but isn't defenceless.",
+	"custom.trivia.goblin_errant": "A knightly goblin,\nthough it is devoid of honour.",
+	"custom.trivia.goblin_rancher": "Assists the baker\nby supplying raw materials.",
+	"custom.trivia.guardsman": "A shifty skeleton,\nbound to guard an unknown locale.",
 	"custom.trivia.intruder": "A Creeper engorged with TNT,\nwhose destructive force is\nimproved by their durability.",
 	"custom.trivia.ladybug": "Not part of a circus,\nas far as we know.",
 	"custom.trivia.meature": "A most strange creature,\ncomposed entirely of meat.",
+	"custom.trivia.petriman": "A petrified man.",
+	"custom.trivia.reaver": "A mutated abomination,\nreduced to a mere battlemount.\nAnimated by the unholy experimentation on Pillagers.",
 	"custom.trivia.scorpion": "Similar to those \"Stingtails\"\nyou might've seen before.",
+	"custom.trivia.senior": "A ancient zombie,\nbarely held together by stringy flesh and magic.",
 	"custom.trivia.slugger": "A strong Zombie,\nthe Slugger will beat you into pulp\nif given the opportunity.",
-	"custom.trivia.sprinter": "A fast Zombie,\nbut it lacks the crab head and piercing wail.",
+	"custom.trivia.sprinter": "A very fast Zombie,\nbut it lacks the crab head and piercing wail.",
 	"custom.trivia.starved": "A flattened mass of flesh,\nthe Starved will seek out anything edible\nthat enters its teritory.",
-	"custom.trivia.vampire":  "Seeks out your blood (or plasma)\nand won't rest until it's recovered.",
-	"custom.trivia.wasp": "An evil relative of bees,\nWasps are very territorial and must be purged post-haste.",
+	"custom.trivia.vampire":  "Seeks out your blood (or plasma)\nand won't rest until it has won.",
+	"custom.trivia.wasp": "An evil relative of bees,\nWasps are very territorial\nand must be purged post-haste.",
+	"custom.trivia.zobgoblin": "A goblin that's fallen to the\nmagical zombification virus.",
 
 
 
@@ -338,6 +411,7 @@
 
 	"_comment": "Eternal Starlight",
 	"custom.trivia.aurora_deer": "Native to Permafrost Starlight Forests,\nthese Deer don't taste quite like you'd expect.",
+	"custom.trivia.crystallised_moth": "A multi-coloured moth,\npartially composed of magical crystals.",
 	"custom.trivia.crystallized_moth": "A multi-coloured moth,\npartially composed of magical crystals.",
 	"custom.trivia.ent": "A diminutive forest dweller,\nunique to the Starlight Realm.\nSmaller than its Overworldian counterparts\ndue to the lack of sunlight.",
 	"custom.trivia.freeze": "A distant relative of the Breeze, this\nfloating construct employs ice to slay its foes.",
@@ -357,6 +431,13 @@
 	"custom.trivia.tangled_hatred": "Extensions of a Lunar Monstrosity's will,\nthese vines will flail about the place\nin an attempt to stop trespassers.\nAttack their roots to dispatch them.",
 	"custom.trivia.thirst_walker": "Eternally damned\nto wander the Crystallised Desert,\nthese mere husks of men\ncan never sate their dehydration.",
 	"custom.trivia.yeti": "Rolling around Permafrost Starlight Forests,\nthese small Yetis are quite playful.\nDo they guard a Snowy Hill, a Mansion, or a Needle?\nIf it's the latter, do they snowboard at all?",
+
+
+
+	"_comment": "ForceCraft",
+	"custom.trivia.chu_chu": "A special variety of Slime\nthat's merged with native Force energy\nEach one takes on a different colour\nbased on the energy in the area.",
+	"custom.trivia.creeper_tot": "A baby creeper.\nNot to be confused with the Baby Creeper.",
+	"custom.trivia.ender_tot": "A baby enderman.\nNot to be confused with the Baby Enderman.",
 
 
 
@@ -482,20 +563,44 @@
 
 
 	"_comment": "Naturalist",
+	"custom.scorpions": "Scorpions",
+
+	"custom.trivia.alligator": "In a while, crocodile.",
+	"custom.trivia.ant": "Ants!\nAnts!\nANT-MAN!",
 	"custom.trivia.bass": "*fish*.\n\nNot to be confused with a Bass.",
+	"custom.trivia.bird": "*birb.*",
 	"custom.trivia.boar": "After taking out a platoon of crazy Romans,\nwhy not celebrate with a fresh-roasted boar?",
+	"custom.trivia.black_bear": "Technically a different type of bear,\nso it gets its own model.",
 	"custom.trivia.brown_bear": "Can you bare to care\nabout a big brown bear?\nWill you dare to swear\nto find a pear for the big brown bear?",
+	"custom.trivia.butterfly": "Flutter by, butterfly.",
+	"custom.trivia.caterpillar": "Will morph into a butterfly in the future.",
+	"custom.trivia.capybara": "Just a chill guy.",
 	"custom.trivia.canary": "Take it to the coal mine,\nbut don't forget to retrieve it before leaving.",
-	"custom.trivia.cardinal": "*birb.*",
+	"custom.trivia.cardinal": "Killing one may be considered\na cardinal sin.",
+	"custom.trivia.crab_natural": "Loves to use any stray shells it can find.",
 	"custom.trivia.elephant": "Address me.",
-	"custom.trivia.firefly": "You would not believe your eyes\nif ten million fireflies\nlit up the world as I fell asleep!",
+	"custom.trivia.firefly": "You would not believe your eyes\nif ten million fireflies\nlit up the world as you fell asleep!",
+	"custom.trivia.giant_isopod": "See, bug!\nSea bug.",
 	"custom.trivia.giraffe": "You can't hear what\nit's saying all the way up there.",
+	"custom.trivia.great_white_shark": "You could spend a whole week looking for this.\nName it Bruce when you find one.",
 	"custom.trivia.hippo": "Nature's cruelty given form.",
+	"custom.trivia.komodo_dragon": "Not really a dragon.\nQuite disappointing...",
 	"custom.trivia.lion": "Might betray you\nto become the new king.",
+	"custom.trivia.lizard": "Does not guard any temples in the jungle.\n(that we know of, at least).",
+	"custom.trivia.mammoth": "He's not fat, he just has thick fur.",
+	"custom.trivia.mole": "Diggy diggy hole!",
+	"custom.trivia.ostrich": "Buries its head in the ground when startled.",
+	"custom.trivia.piranha": "\"I'm a Piranha\nThey live in the Amazon!\"",
+	"custom.trivia.ray": "Keeps singing about \"zones\" and \"species\". Strange...",
 	"custom.trivia.rhino": "Often fights spiders,\nthough nobody's entirely sure why.",
+	"custom.trivia.snake": "Might be a secret agent,\nmight be Austrialian,\nmight be something else entirely.\nYou never really know, you know?",
+	"custom.trivia.starfish": "No, this is Patrick.",
 	"custom.trivia.robin": "Can often be spotted\nhanging around bats.",
+	"custom.trivia.tiger": "Seeks out the Red Flower,\nbut only he knows why.",
+	"custom.trivia.tortoise": "Not a turtle, but it is old & slow.",
 	"custom.trivia.vulture": "Often found scavenging for food.",
-	"custom.trivia.zebra": "Lives in the forest,\nbrewing many potions\nand even some lotions.",
+	"custom.trivia.whale": "I'm sure it's got a whale of a tale to tell you.",
+	"custom.trivia.zebra": "Lives deep in the forest,\nbrewing many potions\nand even making lotions.",
 
 
 
@@ -563,7 +668,7 @@
 	"custom.trivia.dungeon_sentry": "Protects the dungeon\nwith Midas' blessing.",
 	"custom.trivia.duskrok": "An imposing warrior,\nsworn to protect the dungeon with its life.",
 	"custom.trivia.echo_bug": "An insect who bugs you to death.\nAn insect who bugs you to death.",
-	"custom.trivia.elite_skeleton": "Some Skeletons forego bows\nin favor of more deadly weaponry.\n\nUnlike others, these won't relinquish their scopes.",
+	"custom.trivia.elite_skeleton": "Some Skeletons forego bows\nin favour of more deadly weaponry.\n\nUnlike others, these won't relinquish their scopes.",
 	"custom.trivia.fairies": "\"Hey, listen!\"\n\nThose are the words fairies tend to utter\nbefore assisting in your quest.",
 	"custom.trivia.gatmancer": "A wizard, with a gun.\n\nNot to be confused for Wizard with a Gun.",
 	"custom.trivia.gob": "The King of all Gnomes, who manages\nhis heliophobia far better than his subjects.",
@@ -590,8 +695,8 @@
 	"_comment": "Upgrade Aquatic",
 	"custom.jellyfish": "Jellyfish",
 
-	"custom.trivia.goose": "Geese are some of the most hostile\nand unpleasent members of the animal kingdom.\n\nTrapping them in a simulation is about what they deserve.",
-	"custom.trivia.jellyfish": "Jellyfish are a curious species.\nComposed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, forever meandering through the ocean...",
+	"custom.trivia.goose": "Geese are some of the most hostile\nand unpleasent members of the animal kingdom.\nTrapping them in a simulation is about what they deserve.",
+	"custom.trivia.jellyfish": "Composed of a multitude of smaller organisms,\nthey drift aimlessly without\nso much as internal organs.\n- yet they continue to persist, forever meandering through the ocean...",
 	"custom.trivia.lionfish": "Be careful near these venomous fish.\nThey look nice, but might not act so if provoked.",
 	"custom.trivia.nautilus": "Doomed to always swim backwards,\nthese strange creatures never leave their tough shell.",
 	"custom.trivia.perch": "A small, common, uninteresting fish.",

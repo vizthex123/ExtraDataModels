@@ -8,6 +8,26 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## 1.12
+
+Tweaked some grammar in a few entries<br />
+Added an entry for new mobs from a few mods
+
+Added an entry for the Horse<br />
+Added an entry for the Alligator *[Naturalist]*<br />
+Added an entry for the Apparition *[Jaden's Nether Expansion]*<br />
+Added entries for Enemy Expansion's 1.18-exclusive mobs
+
+Added entries for the following mods:
+- Dangerous Mobs
+- Deeper & Darker
+- ForceCraft
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.11
 
 Added entries for Enemy Expansion, Naturalist, and Rotten Creatures.
