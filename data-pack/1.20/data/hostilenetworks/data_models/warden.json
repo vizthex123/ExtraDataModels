@@ -37,19 +37,11 @@
         },
         {
             "item": "minecraft:echo_shard",
+            "count": 4
+        },
+        {
+            "item": "minecraft:sculk_catalyst",
             "count": 2
         }
-    ],
-    "tier_data": [
-        6,
-        54,
-        354,
-        1254
-    ],
-    "data_per_kill": [
-        1,
-        4,
-        10,
-        18
     ]
 }

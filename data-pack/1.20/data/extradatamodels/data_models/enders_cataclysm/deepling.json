@@ -27,6 +27,10 @@
     },
 	"trivia": "custom.trivia.deepling",
     "fabricator_drops": [
+        {
+            "item": "cataclysm:athame",
+            "count": 1
+        },
 		{
             "item": "minecraft:nautilus_shell",
             "count": 4

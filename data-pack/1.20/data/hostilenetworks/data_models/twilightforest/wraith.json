@@ -1,0 +1,44 @@
+{
+    "conditions": [
+        {
+            "type": "forge:mod_loaded",
+            "modid": "twilightforest"
+        }
+    ],
+    "entity": "twilightforest:wraith",
+    "name": "entity.twilightforest.wraith",
+    "name_color": "#111010",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:twilight_prediction"
+    },
+    "trivia": "hostilenetworks.trivia.twilight_wraith",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:glowstone_dust",
+            "count": 32
+        },
+		{
+			"optional": true,
+			"item": "biomemakeover:ectoplasm",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:ectoplasm",
+			"count": 8
+		},
+		{
+			"optional": true,
+			"item": "nourished_nether:ectoplasm",
+			"count": 8
+		}
+    ]
+}

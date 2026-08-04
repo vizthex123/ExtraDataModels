@@ -23,11 +23,11 @@
     "fabricator_drops": [
 		{
 			"item": "minecraft:string",
-			"count": 8
+			"count": 4
 		},
 		{
 			"item": "deeperdarker:soul_dust",
-			"count": 4
+			"count": 2
 		}
     ]
 }

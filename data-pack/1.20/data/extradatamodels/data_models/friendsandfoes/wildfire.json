@@ -22,12 +22,12 @@
 	"trivia": "custom.trivia.wildfire",
     "fabricator_drops": [
         {
-            "item": "minecraft:blaze_rod",
-            "count": 32
-        },
-        {
             "item": "friendsandfoes:wildfire_crown_fragment",
             "count": 1
+        },
+        {
+            "item": "minecraft:blaze_rod",
+            "count": 32
         },
         {
             "optional": true,

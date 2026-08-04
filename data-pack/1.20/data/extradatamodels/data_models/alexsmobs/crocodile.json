@@ -7,9 +7,6 @@
 	],
     "entity": "alexsmobs:crocodile",
     "name": "entity.alexsmobs.crocodile",
-	"variants": [
-		"alexsmobs:caiman"
-	],
     "name_color": "#545943",
     "gui_scale": 1,
     "gui_x_offset": 0,
@@ -31,10 +28,6 @@
         {
             "item": "alexsmobs:crocodile_egg",
             "count": 4
-        },
-        {
-            "item": "alexsmobs:caiman_egg",
-            "count": 2
         }
     ]
 }

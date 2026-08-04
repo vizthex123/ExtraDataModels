@@ -34,6 +34,10 @@
 			"optional": true,
 			"item": "nourished_nether:ectoplasm",
 			"count": 8
+		},
+		{
+			"item": "iceandfire:phantasmal_ingot",
+			"count": 2
 		}
 	]
 }

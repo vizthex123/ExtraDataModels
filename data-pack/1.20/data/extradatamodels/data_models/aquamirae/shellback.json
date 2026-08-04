@@ -8,7 +8,7 @@
     "entity": "aquamirae:shellback",
     "name": "entity.aquamirae.shellback",
     "name_color": "#425461",
-    "gui_scale": 1,
+    "gui_scale": 0.5,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

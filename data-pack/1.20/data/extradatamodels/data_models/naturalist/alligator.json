@@ -2,31 +2,36 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "alexsmobs"
+			"modid": "naturalist"
 		}
 	],
-    "entity": "alexsmobs:rattlesnake",
+    "entity": "naturalist:alligator",
 	"variants": [
-		"naturalist:rattlesnake"
+		"alexsmobs:caiman"
 	],
-    "name": "entity.alexsmobs.rattlesnake",
-    "name_color": "#91785A",
+    "name": "entity.naturalist.alligator",
+    "name_color": "#958646",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 96,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.rattlesnake",
+    "trivia": "custom.trivia.alligator",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:rattlesnake_rattle",
+            "item": "naturalist:alligator_egg",
             "count": 8
+        },
+        {
+			"optional": true,
+            "item": "alexsmobs:caiman_egg",
+            "count": 4
         }
     ]
 }

@@ -12,7 +12,7 @@
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 128,
+    "sim_cost": 192,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "minecraft:porkchop",
-            "count": 48
+            "count": 32
         },
         {
             "item": "minecraft:snowball",

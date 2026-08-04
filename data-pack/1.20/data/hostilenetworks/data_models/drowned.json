@@ -1,7 +1,8 @@
 {
     "entity": "minecraft:drowned",
     "variants": [
-		"rottencreatures:zombie_lackey"
+		"rottencreatures:zombie_lackey",
+		"rottencreatures:zap"
 	],
     "name": "entity.minecraft.drowned",
     "name_color": "#3B6269",
@@ -38,6 +39,11 @@
             "optional": true,
             "item": "tconstruct:drowned_head",
             "count": 4
+        },
+        {
+            "optional": true,
+            "item": "rottencreatures:zap_head",
+            "count": 2
         }
     ]
 }

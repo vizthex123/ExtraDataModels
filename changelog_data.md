@@ -14,7 +14,7 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 Fixed the Lunar Monstrosity model not loading in (and tweaked its loot a bit) *[Eternal Starlight]*<br />
 Added EnderIO's Enderman Heads as a drop (requested by SrNadien on the HNN discord)<br />
-Added Ender Fragments as a drop from the Possesed Endermite *[Occultism]*<br />
+Added Ender Fragments as a drop from the Possessed Endermite *[Occultism]*<br />
 Made the Wild Afrit the main mob on its model *[Occultism]*<br />
 Doubled the RF cost for the Berserker *[Galosphere]*
 
@@ -139,6 +139,19 @@ The Bogged is now a Skeleton variant
 --------------------------------------------------
 # Minecraft 1.20 - v3.0
 
+## 3.12.1
+
+Backported several minor changes from v4.4
+- Adjusted the RF rates of several models
+- Tweaked the drops of a few models
+- Added a model for the Endermite and Goose
+- Added modded Ectoplasm drops to Twilight Forest's Wraith
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.12
 
 Fixed the Bat model not loading in<br />
@@ -155,6 +168,7 @@ Added a model for the Sour Sludge *[End's Phantasm]*<br />
 Added a model for the Abyssal Scyphoid *[Aquamirae]*<br />
 Added models for the new Caverns & Chasms mobs<br />
 Added models for the new Aquamirae mobs<br />
+
 Updated Ice & Fire support to work with some Community Edition content (requested by Zafkiel in the comments section)
 - Since both mods use the same ID, all of the models already loaded in - but since I've never used this mod, it's possible I missed something. If so, please let me know & I'll fix it.
 

@@ -1,7 +1,8 @@
 {
     "entity": "minecraft:skeleton_horse",
     "variants": [
-		"bygonenether:wither_skeleton_horse"
+		"bygonenether:wither_skeleton_horse",
+		"iceandfire:dread_horse"
 	],
     "name": "entity.minecraft.skeleton_horse",
     "name_color": "#BABABA",

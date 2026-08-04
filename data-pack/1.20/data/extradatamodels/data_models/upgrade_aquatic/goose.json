@@ -2,32 +2,33 @@
 	"conditions": [
 		{
 			"type": "forge:mod_loaded",
-			"modid": "alexsmobs"
+			"modid": "upgrade_aquatic"
 		}
 	],
-    "entity": "alexsmobs:crimson_mosquito",
-    "name": "entity.alexsmobs.crimson_mosquito",
-    "name_color": "#900429",
+    "entity": "upgrade_aquatic:goose",
+    "name": "entity.upgrade_aquatic.goose",
+    "name_color": "#9A96A0",
     "gui_scale": 1,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,
-    "sim_cost": 24,
+    "sim_cost": 64,
     "input": {
         "item": "hostilenetworks:prediction_matrix"
     },
     "base_drop": {
         "item": "hostilenetworks:overworld_prediction"
     },
-    "trivia": "custom.trivia.crimson_mosquito",
+    "trivia": "custom.trivia.goose",
     "fabricator_drops": [
         {
-            "item": "alexsmobs:mosquito_proboscis",
-            "count": 2
+            "item": "minecraft:feather",
+            "count": 32
         },
         {
-            "item": "alexsmobs:blood_sac",
-            "count": 1
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 12
         }
     ]
 }

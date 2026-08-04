@@ -23,7 +23,7 @@
     "fabricator_drops": [
         {
             "item": "naturalist:fur",
-            "count": 16
+            "count": 24
         },
         {
             "optional": true,

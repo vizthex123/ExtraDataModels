@@ -1,3 +1,4 @@
+
 {
 	"conditions": [
 		{
@@ -23,7 +24,7 @@
 	"fabricator_drops": [
 		{
 			"item": "iceandfire:shiny_scales",
-			"count": 12
+			"count": 16
 		}
 	]
 }

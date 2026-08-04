@@ -8,7 +8,7 @@
     "entity": "cataclysm:maledictus",
     "name": "entity.cataclysm.maledictus",
     "name_color": "#2A7664",
-    "gui_scale": 0.7,
+    "gui_scale": 0.62,
     "gui_x_offset": 0,
     "gui_y_offset": 0,
     "gui_z_offset": 0,

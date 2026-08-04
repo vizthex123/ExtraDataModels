@@ -60,11 +60,6 @@
             "count": 1
         },
         {
-			"optional": true,
-            "item": "upgrade_aquatic:elder_eye",
-            "count": 1
-        },
-        {
             "item": "minecraft:prismarine_crystals",
             "count": 8
         },
@@ -75,6 +70,11 @@
         {
             "item": "minecraft:wet_sponge",
             "count": 8
+        },
+        {
+			"optional": true,
+            "item": "upgrade_aquatic:elder_eye",
+            "count": 1
         }
     ],
     "tier_data": [

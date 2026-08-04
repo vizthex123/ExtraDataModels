@@ -1,13 +1,7 @@
 {
-	"conditions": [
-		{
-			"type": "forge:mod_loaded",
-			"modid": "occultism"
-		}
-	],
-    "entity": "occultism:possessed_endermite",
+    "entity": "minecraft:endermite",
     "variants": [
-        "minecraft:endermite"
+        "occultism:possessed_endermite"
     ],
     "name": "entity.occultism.possessed_endermite",
     "name_color": "#3B2B57",
@@ -22,16 +16,21 @@
     "base_drop": {
         "item": "hostilenetworks:end_prediction"
     },
-    "trivia": "custom.trivia.possessed_endermite",
+    "trivia": "custom.trivia.endermite",
     "fabricator_drops": [
         {
             "item": "minecraft:end_stone",
-            "count": 4
+            "count": 1
         },
         {
             "optional": true,
             "item": "enderzoology:ender_fragment",
-            "count": 2
-        }
+            "count": 4
+        },
+		{
+			"optional": true,
+			"item": "evilcraft:ender_tear",
+			"count": 1
+		}
     ]
 }

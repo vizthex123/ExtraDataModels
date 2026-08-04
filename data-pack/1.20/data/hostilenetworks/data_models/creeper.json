@@ -20,7 +20,6 @@
 		"creeperoverhaul:snowy_creeper",
 		"creeperoverhaul:spruce_creeper",
 		"creeperoverhaul:swamp_creeper",
-        "forcecraft:creeper_tot",
 		"mekanismadditions:baby_creeper"
     ],
     "name": "entity.minecraft.creeper",

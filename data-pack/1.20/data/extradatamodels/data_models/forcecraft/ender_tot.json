@@ -28,12 +28,12 @@
         {
             "optional": true,
             "item": "tconstruct:enderman_head",
-            "count": 2
+            "count": 1
         },
         {
             "optional": true,
             "item": "enderio:enderman_head",
-            "count": 2
+            "count": 1
         },
         {
             "optional": true,
