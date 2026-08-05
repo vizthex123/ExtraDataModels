@@ -8,7 +8,8 @@
     "entity": "alexsmobs:gorilla",
 	"variants": [
 		"alexsmobs:gelada_monkey",
-		"alexsmobs:capuchin_monkey"
+		"alexsmobs:capuchin_monkey",
+		"neapolitan:chimpanzee"
 	],
     "name": {
         "translate": "entity.alexsmobs.gorilla",
@@ -44,6 +45,11 @@
             "optional": true,
             "id": "hexerei:animal_fat",
             "count": 24
+        },
+        {
+            "optional": true,
+            "id": "neapolitan:chimpanzee_head",
+            "count": 4
         }
     ]
 }

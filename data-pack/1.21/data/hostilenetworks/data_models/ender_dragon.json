@@ -18,12 +18,16 @@
 	"trivia": "hostilenetworks.trivia.ender_dragon",
 	"fabricator_drops": [
 		{
+			"id": "minecraft:dragon_breath",
+			"count": 16
+		},
+		{
 			"id": "minecraft:dragon_egg",
 			"count": 1
 		},
 		{
-			"id": "minecraft:dragon_breath",
-			"count": 16
+			"id": "minecraft:dragon_head",
+			"count": 1
 		},
 		{
 			"optional": true,

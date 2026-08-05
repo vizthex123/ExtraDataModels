@@ -10,6 +10,21 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## 4.4.1
+
+Fixed the pack format being wrong<br />
+Fixed the Enderman model not loading in ([#13](https://github.com/vizthex123/ExtraDataModels/issues/13))
+
+Added a model for the Phantom Knight *[The Twilight Forest]*<br />
+Added the Dragon Head as a drop for the Ender Dragon<br />
+Added Ice & Fire's Hydra Skull to Twilight Forest's Hydra<br />
+Added Ice & Fire's Troll Skull to Twilight Forest's Troll
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 4.4
 
 Added a model for the Goose *[Upgrade Aquatic]*<br />

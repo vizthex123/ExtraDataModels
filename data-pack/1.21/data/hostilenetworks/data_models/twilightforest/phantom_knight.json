@@ -1,0 +1,35 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "twilightforest"
+        }
+    ],
+    "entity": "twilightforest:knight_phantom",
+    "name": {
+        "translate": "entity.twilightforest.knight_phantom",
+        "color": "#1D2910"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:twilight_prediction",
+        "count": 1
+    },
+    "trivia": "custom.trivia.phantom_knight",
+    "fabricator_drops": [
+        {
+            "id": "twilightforest:knightmetal_ingot",
+            "count": 4
+        },
+        {
+            "id": "twilightforest:knight_phantom_trophy",
+            "count": 4
+        }
+    ]
+}
