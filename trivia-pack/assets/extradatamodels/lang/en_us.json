@@ -452,7 +452,7 @@
 	"entity.friendsandfoes.iceologer": "Iceologer",
 
 	"custom.trivia.copper_golem": "This diminutive cousin of the Iron Golem\nwill accomplish whatever menial task you assign to it.",
-	"custom.trivia.crab_friend": "Found on Beaches, the humble Crab\nyields claws with reach-altering properties when slain.",
+	"custom.trivia.crab_friend": "Found on Beaches, the humble Crab\nyields claws with reach-altering properties.",
 	"custom.trivia.glare": "These floating clumps of moss and leaves seek out well-lit areas.\nGlow Berries are their favorite foods.",
 	"custom.trivia.iceologer": "A distant relative of the Evoker,\nthe Iceologer deploys its frosty force\nagainst all who encroach upon its domain.",
 	"custom.trivia.illusioner": "A relative of the Evoker,\nthis master of illusionary magic\nis sure to confused and befuddle everyone.",
@@ -560,7 +560,7 @@
 
 	"_comment": "Mob Compack",
 	"custom.trivia.crystalline_slime": "Sometimes, Slimes will absorb Crystals\nand be converted into these.\nThey tend to be more hostile as a result.",
-	"custom.trivia.jawbreaker": "Unlike its name implies,\nthis is alive and wants to break your jaw.\nI suppose that's still mostly accurate, though...",
+	"custom.trivia.jawbreaker": "Unlike its name implies,\nthis is alive and wants to break your jaw.\n\nI suppose that's still mostly accurate, though...",
 
 
 
@@ -689,6 +689,26 @@
 	"custom.trivia.ultra_sniffer": "The Sniffer's final form,\nBearing a power level well over 9,000.\nI don't think you'll be able to fight this.",
 	"custom.trivia.uvogre": "It's like an Ogre, but different.",
 	"custom.trivia.virtue": "Patience is a virtue,\nbut reckless abandon is fairly close.",
+
+
+	"_comment": "Mortality",
+	"custom.trivia.adult_lobster": "Immortal,\nbut not really.",
+	"custom.trivia.blast_golem": "This strange golem\nSeems to be a sentient Blast Furnace.",
+	"custom.trivia.corroded_lobster": "Plague has corrupted this specimen.\n\nPurify it.",
+	"custom.trivia.daemon_brute": "Prefers raw strength to alloyed equipment.",
+	"custom.trivia.daemon_templar": "Outfitted with the best alloys,\nTemplars will hunt you to extinction.",
+	"custom.trivia.elbram_champion": "Frozen in time,\nthe Champion can only be awakened\nby one who truly wishes to fight it.",
+	"custom.trivia.elbram_elemental": "I'll granite this:\nIt's less annoying to fight\n\n(and it doesn't have night vision).",
+	"custom.trivia.elbram_golem": "Won't block your attacks.\nGranite, it's nice - but still.",
+	"custom.trivia.fire_spirit": "Pure fire, given form.",
+	"custom.trivia.flowersnatcher": "A most curious hybrid of plant and insect,\nthis intriguing specimen must be studied closely.",
+	"custom.trivia.furnace_core": "An evolved Blast Furnace.",
+	"custom.trivia.nether_daemon_knight": "An offshoot of demons,\nthe Daemon Faction uses their\nstrong alloying technology to gain the upper hand.",
+	"custom.trivia.plague_doctor": "Seeks to cure the Plague\n...unless he's the one spreading it?",
+	"custom.trivia.plague_mother": "A Plague source, or victim of it.\nIt's hard to tell anymore.",
+	"custom.trivia.skeeter": "An unholy amalgamation\nof legs, teeth, sinew, and meat.\nHow it gained sentience is a mystery.",
+	"custom.trivia.stunprod_skeleton": "A Skeleton who has learned\nhow to wield nature magic.\nMuch deadlier than its name implies.",
+	"custom.trivia.venoshopod": "Ancient insect protector.\nBe vary of its powerful fists -\nthey will destroy all that is nearby.",
 
 
 
