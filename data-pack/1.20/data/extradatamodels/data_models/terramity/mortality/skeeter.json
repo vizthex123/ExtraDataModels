@@ -1,0 +1,37 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:skeeter",
+    "name": "entity.mortality.skeeter",
+    "name_color": "#48211C",
+    "gui_scale": 0.55,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 160,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.skeeter",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:netherrack",
+            "count": 16
+        },
+        {
+            "item": "minecraft:bone",
+            "count": 64
+        },
+        {
+            "item": "mortality:skeeter_thigh",
+            "count": 8
+        }
+    ]
+}

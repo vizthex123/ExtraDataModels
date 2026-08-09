@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:daemon_templar",
+    "name": "entity.mortality.daemon_templar",
+    "name_color": "#40354F",
+    "gui_scale": 0.46,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 384,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.daemon_templar",
+    "fabricator_drops": [
+        {
+            "item": "mortality:daemonium_alloy",
+            "count": 12
+        },
+        {
+            "item": "minecraft:diamond",
+            "count": 16
+        },
+        {
+            "item": "minecraft:experience_bottle",
+            "count": 16
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 64
+        },
+        {
+            "item": "minecraft:bone_block",
+            "count": 8
+        }
+    ]
+}

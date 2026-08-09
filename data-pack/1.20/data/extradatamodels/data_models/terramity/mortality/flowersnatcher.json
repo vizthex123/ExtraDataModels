@@ -1,0 +1,53 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:flowersnatcher",
+    "name": "entity.mortality.flowersnatcher",
+    "name_color": "#33644B",
+    "gui_scale": 0.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.flowersnatcher",
+    "fabricator_drops": [
+        {
+            "item": "mortality:plague_injector",
+            "count": 1
+        },
+        {
+            "item": "mortality:plague_shell",
+            "count": 10
+        },
+        {
+            "item": "mortality:infected_amalgam",
+            "count": 2
+        },
+        {
+            "item": "minecraft:fermented_spider_eye",
+            "count": 16
+        },
+        {
+            "item": "minecraft:bone",
+            "count": 32
+        },
+        {
+            "item": "minecraft:string",
+            "count": 36
+        },
+        {
+            "item": "minecraft:moss_block",
+            "count": 16
+        }
+    ]
+}

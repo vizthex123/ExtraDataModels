@@ -1,3 +1,4 @@
+
 {
 	"conditions": [
 		{
@@ -36,7 +37,7 @@
 			"count": 8
 		},
 		{
-			"item": "iceandfire:phantasmal_ingot",
+			"item": "iceandfire:ghost_ingot",
 			"count": 2
 		}
 	]

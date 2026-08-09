@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:elbram_golem",
+    "name": "entity.mortality.elbram_golem",
+    "name_color": "#1E2C6F",
+    "gui_scale": 0.77,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.elbram_golem",
+    "fabricator_drops": [
+        {
+            "item": "terramity:onyx",
+            "count": 10
+        },
+        {
+            "item": "minecraft:diamond",
+            "count": 4
+        },
+        {
+            "item": "minecraft:lapis_lazuli",
+            "count": 16
+        },
+        {
+            "item": "mortality:elbram_block",
+            "count": 24
+        }
+    ]
+}

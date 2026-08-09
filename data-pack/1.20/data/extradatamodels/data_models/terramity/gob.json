@@ -52,6 +52,19 @@
         {
             "item": "terramity:topaz",
             "count": 12
+        },
+        {
+			"optional": true,
+            "item": "astrality:gobs_fabric",
+            "count": 16
+        },
+        {
+            "item": "terramity:dimlite_upgrade_smithing_template",
+            "count": 2
+        },
+        {
+            "item": "terramity:virentium_upgrade_smithing_template",
+            "count": 2
         }
     ]
 }

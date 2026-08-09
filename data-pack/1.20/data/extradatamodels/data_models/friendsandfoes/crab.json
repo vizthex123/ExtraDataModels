@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "friendsandfoes"
+		}
+	],
+    "entity": "friendsandfoes:crab",
+    "name": "entity.friendsandfoes.crab",
+    "name_color": "#8A4F42",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 48,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+	"trivia": "custom.trivia.crab_friend",
+    "fabricator_drops": [
+        {
+            "item": "friendsandfoes:crab_claw",
+            "count": 4
+        },
+        {
+            "item": "friendsandfoes:crab_egg",
+            "count": 12
+        }
+    ]
+}

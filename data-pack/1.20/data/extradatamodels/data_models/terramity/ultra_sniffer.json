@@ -43,7 +43,19 @@
         },
         {
             "item": "terramity:hermit_bean",
-            "count": 128
+            "count": 64
+        },
+        {
+            "item": "terramity:hellspec_upgrade_smithing_template",
+            "count": 4
+        },
+        {
+            "item": "terramity:conductite_upgrade_smithing_template",
+            "count": 4
+        },
+        {
+            "item": "terramity:void_upgrade_smithing_template",
+            "count": 4
         }
     ],
 	"tier_data": [

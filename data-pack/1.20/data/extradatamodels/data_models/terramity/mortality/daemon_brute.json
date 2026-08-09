@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:daemon_brute",
+    "name": "entity.mortality.daemon_brute",
+    "name_color": "#3D3041",
+    "gui_scale": 0.63,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.daemon_brute",
+    "fabricator_drops": [
+        {
+            "item": "mortality:daemon_brute_horn",
+            "count": 1
+        },
+        {
+            "item": "terramity:daemonium",
+            "count": 20
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 32
+        },
+        {
+            "item": "minecraft:gold_ingot",
+            "count": 32
+        },
+        {
+            "item": "minecraft:netherite_scrap",
+            "count": 8
+        }
+    ]
+}

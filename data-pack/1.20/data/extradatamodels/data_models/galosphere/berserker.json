@@ -23,7 +23,15 @@
     "fabricator_drops": [
         {
             "item": "galosphere:pink_salt_shard",
-            "count": 64
+            "count": 32
+        },
+        {
+            "item": "galosphere:preserved_flesh",
+            "count": 4
+        },
+        {
+            "item": "galosphere:preserved_template",
+            "count": 2
         }
     ],
     "tier_data": [

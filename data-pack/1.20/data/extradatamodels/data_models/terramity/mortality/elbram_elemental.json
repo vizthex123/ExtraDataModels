@@ -1,0 +1,33 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:elbram_elemental",
+    "name": "entity.mortality.elbram_elemental",
+    "name_color": "#283A91",
+    "gui_scale": 1,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 96,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.elbram_elemental",
+    "fabricator_drops": [
+        {
+            "item": "terramity:fairy_dust",
+            "count": 4
+        },
+        {
+            "item": "mortality:elbram_block",
+            "count": 8
+        }
+    ]
+}

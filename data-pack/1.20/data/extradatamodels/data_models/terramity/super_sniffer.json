@@ -23,11 +23,11 @@
     "fabricator_drops": [
         {
             "item": "terramity:accursed_soul",
-            "count": 24
+            "count": 20
         },
         {
             "item": "minecraft:diamond",
-            "count": 16
+            "count": 24
         },
         {
             "item": "terramity:iridescent_shard",
@@ -56,6 +56,14 @@
         {
             "item": "terramity:hermit_bean",
             "count": 32
+        },
+        {
+            "item": "terramity:cosmilite_upgrade_smithing_template",
+            "count": 2
+        },
+        {
+            "item": "terramity:virentium_upgrade_smithing_template",
+            "count": 4
         }
     ],
 	"tier_data": [

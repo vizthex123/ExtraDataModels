@@ -1,0 +1,57 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:champion_of_elbram",
+    "name": "entity.mortality.champion_of_elbram",
+    "name_color": "#150930",
+    "gui_scale": 0.8,
+    "gui_x_offset": 0,
+    "gui_y_offset": -0.7,
+    "gui_z_offset": 0,
+    "sim_cost": 384,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.elbram_champion",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:feather",
+            "count": 20
+        },
+        {
+            "item": "minecraft:gunpowder",
+            "count": 24
+        },
+        {
+            "item": "minecraft:echo_shard",
+            "count": 8
+        },
+        {
+            "item": "minecraft:copper_ingot",
+            "count": 28
+        },
+        {
+            "item": "minecraft:diamond",
+            "count": 12
+        },
+        {
+            "item": "minecraft:emerald",
+            "count": 24
+        },
+        {
+            "item": "minecraft:black_candle",
+            "count": 16
+        },
+        {
+            "item": "mortality:elbram_block",
+            "count": 64
+        }
+    ]
+}

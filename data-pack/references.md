@@ -39,7 +39,8 @@ Only changed in [Capitalia: Inward Expansion](https://www.curseforge.com/minecra
 | Ender Zoology	| Enderminy | The [Morph mod](https://www.curseforge.com/minecraft/mc-mods/morph).	|
 | Eternal Starlight | Yeti | Its trivia entry references [The Twilight Forest](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest), [The Legend of Zelda: Twilight Princess](https://zeldawiki.wiki/wiki/Snowpeak_Ruins), and [Mother 3](https://wikibound.info/wiki/Snowcap_Mountain).	|
 | L_Ender 's Cataclysm | Symbiocto | Its trivia entry references Half-Life's [head crabs](https://combineoverwiki.net/wiki/Headcrab).	|
-| Rotten Creatures	| Mummy | [S1E9 "The Empty Child"](https://en.wikipedia.org/wiki/The_Empty_Child) of Doctor Who (2005).  |
+| Mortality | Elbram Elemental & Golem | Its trivia entry references Terraria's [Granite Elemental](https://terraria.wiki.gg/wiki/Granite_Elemental) and [Granite Golem](https://terraria.wiki.gg/wiki/Granite_Golem).	|
+| Rotten Creatures	| Mummy | [S1E9 "The Empty Child"](https://en.wikipedia.org/wiki/The_Empty_Child) of [Doctor Who](https://en.wikipedia.org/wiki/Doctor_Who_(2005)) (2005).	|
 | Rotten Creatures	| Undead Miner | [Undead Miners](https://terraria.wiki.gg/wiki/Undead_Miner) from Terraria.  |
 | Cracker's Wither Storm | Wither Symbiont | The data values of 2015 and 2019 were the release and delist dates for [Minecraft: Story Mode](https://minecraft.wiki/w/Minecraft:_Story_Mode), which introduced the [Wither Storm](https://minecraft.wiki/w/Story_Mode:Wither_Storm) as the final boss.	|
 

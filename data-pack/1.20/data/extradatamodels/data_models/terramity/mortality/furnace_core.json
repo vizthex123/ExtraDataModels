@@ -1,0 +1,57 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:furnace_core",
+    "name": "entity.mortality.furnace_core",
+    "name_color": "#1D1C23",
+    "gui_scale": 0.3,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:nether_prediction"
+    },
+    "trivia": "custom.trivia.furnace_core",
+    "fabricator_drops": [
+        {
+            "item": "mortality:core_of_the_inferno",
+            "count": 2
+        },
+        {
+            "item": "minecraft:blast_furnace",
+            "count": 4
+        },
+        {
+            "item": "minecraft:blackstone",
+            "count": 20
+        },
+        {
+            "item": "minecraft:polished_blackstone",
+            "count": 20
+        },
+        {
+            "item": "minecraft:magma_block",
+            "count": 16
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 40
+        },
+        {
+            "item": "minecraft:experience_bottle",
+            "count": 32
+        },
+        {
+            "item": "minecraft:netherite_scrap",
+            "count": 16
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:corroded_lobster",
+    "name": "entity.mortality.corroded_lobster",
+    "name_color": "#284229",
+    "gui_scale": 0.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.corroded_lobster",
+    "fabricator_drops": [
+        {
+            "item": "mortality:plague_injector",
+            "count": 1
+        },
+        {
+            "item": "mortality:plague_shell",
+            "count": 4
+        },
+        {
+            "item": "mortality:infected_amalgam",
+            "count": 1
+        },
+        {
+            "item": "mortality:claw_fossil",
+            "count": 1
+        },
+        {
+            "item": "mortality:shell_fossil",
+            "count": 1
+        },
+        {
+            "item": "minecraft:kelp",
+            "count": 48
+        },
+        {
+            "item": "minecraft:bone",
+            "count": 16
+        }
+    ]
+}

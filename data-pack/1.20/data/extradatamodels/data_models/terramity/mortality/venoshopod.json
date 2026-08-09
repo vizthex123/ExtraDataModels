@@ -1,0 +1,41 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:venoshopod",
+    "name": "entity.mortality.venoshopod",
+    "name_color": "#8B928D",
+    "gui_scale": 0.65,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.venoshopod",
+    "fabricator_drops": [
+        {
+            "item": "mortality:plague_injector",
+            "count": 2
+        },
+        {
+            "item": "mortality:plague_shell",
+            "count": 20
+        },
+        {
+            "item": "mortality:infected_amalgam",
+            "count": 5
+        },
+        {
+            "item": "mortality:claw_fossil",
+            "count": 1
+        }
+    ]
+}

@@ -53,6 +53,8 @@
 | [Rotten Creatures](https://www.curseforge.com/minecraft/mc-mods/rotten-creatures)														|				|✔			|✔			|✔			  |✔		    |3.11											     |
 | [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage)													|				|				|✔			|✔		      |			    |1.3											     |
 | [Terramity](https://www.curseforge.com/minecraft/mc-mods/terramity)																					|				|				|				|✔		      |			    |3.2											     |
+| [Astrality](https://www.curseforge.com/minecraft/mc-mods/astrality)																						|				|				|				|✔		      |			    |3.12.2											 |
+| [Mortality](https://www.curseforge.com/minecraft/mc-mods/mortality-a-terramity-addon)												|				|				|				|✔		      |			    |3.12.2											 |
 | [Tinkers' Construct](https://www.curseforge.com/minecraft/mc-mods/tinkers-construct)														|				|✔			|✔			|✔		      |			    |1.2											     |
 | [Upgrade Aquatic](https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic)														|				|✔			|✔			|✔			  |✔		    |											    		 |
 | [Variants & Ventures](https://www.curseforge.com/minecraft/mc-mods/variants-and-ventures)										|				|				|✔			|✔			  |✔		    |3.11											     |

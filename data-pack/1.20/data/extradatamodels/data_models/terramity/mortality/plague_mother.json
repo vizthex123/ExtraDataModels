@@ -1,0 +1,57 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:plaguemother",
+    "name": "entity.mortality.plaguemother",
+    "name_color": "#2C5848",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": -0.5,
+    "gui_z_offset": 0,
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.plague_mother",
+    "fabricator_drops": [
+        {
+            "item": "mortality:plague_injector",
+            "count": 1
+        },
+        {
+            "item": "mortality:plague_shell",
+            "count": 8
+        },
+        {
+            "item": "mortality:infected_amalgam",
+            "count": 2
+        },
+        {
+            "item": "minecraft:copper_ingot",
+            "count": 60
+        },
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 24
+        },
+        {
+            "item": "minecraft:honeycomb",
+            "count": 32
+        },
+        {
+            "item": "minecraft:fermented_spider_eye",
+            "count": 16
+        },
+        {
+            "item": "minecraft:netherite_scrap",
+            "count": 2
+        }
+    ]
+}

@@ -32,6 +32,18 @@
         {
             "item": "terramity:dimlite_nugget",
             "count": 18
+        },
+        {
+            "item": "terramity:hellspec_upgrade_smithing_template",
+            "count": 2
+        },
+        {
+            "item": "terramity:conductite_upgrade_smithing_template",
+            "count": 2
+        },
+        {
+            "item": "terramity:void_upgrade_smithing_template",
+            "count": 2
         }
     ],
     "tier_data": [

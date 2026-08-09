@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:plaguedoctor",
+    "name": "entity.mortality.plaguedoctor",
+    "name_color": "#6DA039",
+    "gui_scale": 0.95,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.plague_doctor",
+    "fabricator_drops": [
+        {
+            "item": "mortality:plague_injector",
+            "count": 1
+        },
+        {
+            "item": "mortality:plague_shell",
+            "count": 4
+        },
+        {
+            "item": "minecraft:rotten_flesh",
+            "count": 20
+        },
+        {
+            "item": "minecraft:glass_bottle",
+            "count": 10
+        },
+        {
+            "item": "minecraft:bone_meal",
+            "count": 16
+        }
+    ]
+}

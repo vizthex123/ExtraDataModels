@@ -35,7 +35,13 @@
 			"count": 16
 		},
 		{
+			"optional": true,
 			"item": "iceandfire:dragonscales_amethyst",
+			"count": 32
+		},
+		{
+			"optional": true,
+			"item": "iceandfire:dragonscales_amythest",
 			"count": 32
 		},
 		{

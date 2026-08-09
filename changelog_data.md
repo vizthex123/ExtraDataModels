@@ -196,6 +196,22 @@ The Bogged is now a Skeleton variant
 --------------------------------------------------
 # Minecraft 1.20 - v3.0
 
+## 3.12.2
+
+Buffed the Pillager's Emerald count to 6 (was 4)<br />
+Added a few items I missed to Terramity's models (and tweaked a couple of drop amounts)<br />
+Fixed the Enderman model issue ([#13](https://github.com/vizthex123/ExtraDataModels/issues/13))<br />
+Fixed the Lightning Dragon model not loading in *[Ice & Fire (and CE)]*
+
+Mod support added:
+- Astrality
+- Mortality
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 3.12.1
 
 Backported several minor changes from v4.4

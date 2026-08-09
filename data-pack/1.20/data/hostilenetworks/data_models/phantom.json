@@ -23,6 +23,11 @@
         {
             "item": "minecraft:phantom_membrane",
             "count": 8
+        },
+        {
+			"optional": true,
+            "item": "enemyexpansion:phantom_eye",
+            "count": 2
         }
     ]
 }

@@ -1,0 +1,45 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:adult_lobster",
+    "name": "entity.mortality.adult_lobster",
+    "name_color": "#673188",
+    "gui_scale": 0.5,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 64,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.adult_lobster",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:nautilus_shell",
+            "count": 8
+        },
+        {
+            "item": "minecraft:bone",
+            "count": 16
+        },
+        {
+            "item": "minecraft:cod",
+            "count": 24
+        },
+        {
+            "item": "minecraft:kelp",
+            "count": 64
+        },
+        {
+            "item": "minecraft:sea_pickle",
+            "count": 8
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+	"conditions": [
+		{
+			"type": "forge:mod_loaded",
+			"modid": "mortality"
+		}
+	],
+    "entity": "mortality:stunprod_skeleton",
+    "name": "entity.mortality.stunprod_skeleton",
+    "name_color": "#B0B0B0",
+    "gui_scale": 0.9,
+    "gui_x_offset": 0,
+    "gui_y_offset": 0,
+    "gui_z_offset": 0,
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.stunprod_skeleton",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:copper_ingot",
+            "count": 6
+        },
+        {
+            "item": "minecraft:bone",
+            "count": 32
+        },
+        {
+            "item": "minecraft:emerald",
+            "count": 2
+        },
+        {
+            "item": "minecraft:skeleton_skull",
+            "count": 4
+        },
+        {
+            "item": "minecraft:spore_blossom",
+            "count": 2
+        },
+        {
+            "item": "minecraft:moss_block",
+            "count": 4
+        }
+    ]
+}
