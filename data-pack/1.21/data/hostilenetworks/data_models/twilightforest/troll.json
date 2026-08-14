@@ -26,6 +26,7 @@
             "count": 4
         },
         {
+			"optional": true,
             "id": "iceandfire:troll_skull",
             "count": 4
         }

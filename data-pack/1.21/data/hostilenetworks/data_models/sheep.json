@@ -2,6 +2,7 @@
     "entity": "minecraft:sheep",
     "variants": [
         "ad_astra:glacian_ram",
+        "theaurorian:aurorian_sheep",
         "twilightforest:bighorn_sheep"
     ],
     "name": {

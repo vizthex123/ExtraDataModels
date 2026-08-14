@@ -1,0 +1,35 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "theaurorian"
+        }
+    ],
+    "entity": "theaurorian:aurorian_pig",
+    "name": {
+        "translate": "entity.theaurorian.aurorian_pig",
+        "color": "#A0BCFC"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.aurorian_pig",
+    "fabricator_drops": [
+        {
+            "id": "theaurorian:aurorian_pork",
+            "count": 32
+        },
+        {
+            "optional": true,
+            "id": "hexerei:animal_fat",
+            "count": 16
+        }
+    ]
+}

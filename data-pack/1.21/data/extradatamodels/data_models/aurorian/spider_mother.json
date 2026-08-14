@@ -1,0 +1,50 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "theaurorian"
+        }
+    ],
+    "entity": "theaurorian:dungeon_spider",
+    "name": {
+        "translate": "entity.theaurorian.dungeon_spider",
+        "color": "#0B4E80"
+    },
+    "display": {
+        "scale": 0.6
+    },
+    "sim_cost": 1536,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.spider_mother",
+    "fabricator_drops": [
+        {
+            "id": "theaurorian:dark_amulet",
+            "count": 1
+        },
+        {
+            "id": "theaurorian:trophy_spider",
+            "count": 2
+        },
+        {
+            "id": "theaurorian:crystal",
+            "count": 16
+        }
+    ],
+	"tier_data": {
+        "faulty": 128,
+        "basic": 1024,
+        "advanced": 4096,
+        "superior": 16384
+    },
+    "data_gained": {
+        "faulty": 128,
+        "basic": 512,
+        "advanced": 1024,
+        "superior": 2048
+    }
+}

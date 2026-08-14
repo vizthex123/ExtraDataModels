@@ -1,0 +1,33 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "theaurorian"
+        }
+    ],
+    "entity": "theaurorian:hollow",
+    "variants": [
+        "theaurorian:disturbed_hollow"
+    ],
+    "name": {
+        "translate": "entity.theaurorian.hollow",
+        "color": "#3A434F"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.hollow",
+    "fabricator_drops": [
+        {
+            "id": "theaurorian:soulless_flesh",
+            "count": 32
+        }
+    ]
+}

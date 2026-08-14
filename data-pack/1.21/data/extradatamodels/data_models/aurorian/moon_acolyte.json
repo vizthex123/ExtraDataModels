@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "theaurorian"
+        }
+    ],
+    "entity": "theaurorian:moon_acolyte",
+    "name": {
+        "translate": "entity.theaurorian.moon_acolyte",
+        "color": "#687179"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.moon_acolyte",
+    "fabricator_drops": [
+        {
+            "id": "theaurorian:soulless_flesh",
+            "count": 48
+        }
+    ]
+}

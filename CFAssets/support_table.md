@@ -10,6 +10,7 @@
 | [Aquatic Frontiers](https://www.curseforge.com/minecraft/mc-mods/aquatic-frontiers)														|				|✔			|✔			|✔			  |✔		    |2.0											     |
 | [Ars Nouveau](https://www.curseforge.com/minecraft/mc-mods/ars-nouveau)																		|				|✔			|✔			|✔		      |✔		    |1.3											     |
 | [Atmospheric](https://www.curseforge.com/minecraft/mc-mods/atmospheric)																		|				|				|				|✔		      |✔		    |2.2											     |
+| [The Aurorian Unofficial Port](https://www.curseforge.com/minecraft/mc-mods/the-aurorian-unofficial-port)			|				|				|				|				  |✔		    |4.4.2											 |
 | [Autumnity](https://www.curseforge.com/minecraft/mc-mods/autumnity)																				|				|✔			|✔			|✔			  |✔		    |1.2											     |
 | [Biome Makeover](https://www.curseforge.com/minecraft/mc-mods/biome-makeover-forge)					 						|				|✔			|✔			|✔			  |      		    |1.2											     |
 | [Bosses of Mass Destruction](https://www.curseforge.com/minecraft/mc-mods/bosses-of-mass-destruction-forge)	|				|✔			|✔			|✔		      |✔		    |1.3											     |

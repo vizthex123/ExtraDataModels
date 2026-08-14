@@ -8,7 +8,8 @@
         "twilightforest:hedge_spider",
         "twilightforest:king_spider",
         "twilightforest:swarm_spider",
-        "twilightforest:carminite_broodling"
+        "twilightforest:carminite_broodling",
+        "theaurorian:spiderling"
     ],
     "name": {
         "translate": "entity.minecraft.spider",

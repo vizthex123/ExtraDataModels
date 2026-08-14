@@ -1,0 +1,30 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "theaurorian"
+        }
+    ],
+    "entity": "theaurorian:crystalline_sprite",
+    "name": {
+        "translate": "entity.theaurorian.crystalline_sprite",
+        "color": "#826D89"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 128,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.crystalline_sprite",
+    "fabricator_drops": [
+        {
+            "id": "theaurorian:crystal",
+            "count": 16
+        }
+    ]
+}

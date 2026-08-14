@@ -1,0 +1,54 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "theaurorian"
+        }
+    ],
+    "entity": "theaurorian:moon_queen",
+    "name": {
+        "translate": "entity.theaurorian.moon_queen",
+        "color": "#68495F"
+    },
+    "display": {
+        "scale": 1
+    },
+    "sim_cost": 2560,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.moon_queen",
+    "fabricator_drops": [
+        {
+            "id": "theaurorian:crystalline_scrap",
+            "count": 16
+        },
+        {
+            "id": "theaurorian:moonstone_ingot",
+            "count": 32
+        },
+        {
+            "id": "theaurorian:crystal",
+            "count": 32
+        },
+        {
+            "id": "theaurorian:trophy_moon_queen",
+            "count": 2
+        }
+    ],
+	"tier_data": {
+        "faulty": 128,
+        "basic": 1024,
+        "advanced": 4096,
+        "superior": 16384
+    },
+    "data_gained": {
+        "faulty": 128,
+        "basic": 512,
+        "advanced": 1024,
+        "superior": 2048
+    }
+}

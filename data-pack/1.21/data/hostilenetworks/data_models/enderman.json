@@ -1,6 +1,7 @@
 {
     "entity": "minecraft:enderman",
     "variants": [
+        "forcecraft:angry_enderman",
 		"occultism:possessed_enderman",
         "endermanoverhaul:badlands_enderman",
         "endermanoverhaul:cave_enderman",
@@ -21,7 +22,6 @@
         "endermanoverhaul:end_enderman",
         "endermanoverhaul:end_islands_enderman",
 		"dangerous_mobs:infected_enderman",
-        "forcecraft:angry_enderman",
 		"mekanismadditions:baby_enderman"
     ],
     "name": {

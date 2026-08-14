@@ -1,7 +1,7 @@
 {
     "entity": "minecraft:pig",
     "variants": [
-        "forcecraftew:cold_pig",
+        "forcecraft:cold_pig",
         "twilightforest:boar"
     ],
     "name_color": "#EEA5A4",

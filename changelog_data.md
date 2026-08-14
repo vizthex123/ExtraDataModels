@@ -10,6 +10,18 @@ Lines appended with a version in brackets (e.g. [1.20] Text Here) denote changes
 
 --------------------------------------------------
 
+## 4.4.2
+
+Fixed Twilight Forest's Hydra & Troll models not loading in ([FTB Stoneblock 4 #13104](https://github.com/FTBTeam/FTB-Modpack-Issues/issues/13104))<br />
+Buffed the Pillager's Emerald count to 6 (was 4)
+
+Added support for The Aurorian Unofficial Port
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 4.4.1
 
 Fixed the pack format being wrong<br />

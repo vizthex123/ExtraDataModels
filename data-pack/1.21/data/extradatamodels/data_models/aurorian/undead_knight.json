@@ -1,0 +1,46 @@
+{
+    "neoforge:conditions": [
+        {
+            "type": "neoforge:mod_loaded",
+            "modid": "theaurorian"
+        }
+    ],
+    "entity": "theaurorian:undead_knight",
+    "name": {
+        "translate": "entity.theaurorian.undead_knight",
+        "color": "#161B22"
+    },
+    "display": {
+        "scale": 0.8
+    },
+    "sim_cost": 256,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix"
+    },
+    "base_drop": {
+        "id": "hostilenetworks:overworld_prediction"
+    },
+    "trivia": "custom.trivia.undead_knight",
+    "fabricator_drops": [
+        {
+            "id": "theaurorian:soulless_flesh",
+            "count": 64
+        },
+        {
+            "id": "theaurorian:knight_helmet",
+            "count": 1
+        },
+        {
+            "id": "theaurorian:knight_chestplate",
+            "count": 1
+        },
+        {
+            "id": "theaurorian:knight_leggings",
+            "count": 1
+        },
+        {
+            "id": "theaurorian:knight_boots",
+            "count": 1
+        }
+    ]
+}
