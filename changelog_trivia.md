@@ -8,6 +8,15 @@ I increment the version by X.1 whenever I add more mod support, and X.X.1 for mi
 
 --------------------------------------------------
 
+## 1.12.3
+
+Added entries for The Aurorian Unofficial Port
+
+
+<br /> <br />
+
+--------------------------------------------------
+
 ## 1.12.2
 
 Tweaked a couple of entries<br />
